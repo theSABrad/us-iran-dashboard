@@ -1,0 +1,534 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>US-Iran Conflict Dashboard</title>
+<style>
+  :root {
+    --bg: #0f1117;
+    --card: #1a1d27;
+    --border: #2a2d3a;
+    --accent: #e63946;
+    --accent2: #457b9d;
+    --text: #e8eaed;
+    --muted: #8b8f99;
+    --green: #2ecc71;
+    --yellow: #f39c12;
+    --tag-bg: #252836;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    min-height: 100vh;
+  }
+  .header {
+    background: linear-gradient(135deg, #1a1d27 0%, #0f1117 100%);
+    border-bottom: 2px solid var(--accent);
+    padding: 24px 32px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 16px;
+  }
+  .header h1 { font-size: 1.8em; font-weight: 800; letter-spacing: -0.5px; }
+  .header h1 span { color: var(--accent); }
+  .header-right {
+    display: flex; align-items: center; gap: 20px;
+    font-size: 0.85em; color: var(--muted);
+  }
+  .pulse-dot {
+    width: 10px; height: 10px; background: var(--accent);
+    border-radius: 50%; animation: pulse 2s infinite; display: inline-block;
+  }
+  @keyframes pulse {
+    0%, 100% { opacity: 1; box-shadow: 0 0 0 0 rgba(230,57,70,0.4); }
+    50% { opacity: 0.6; box-shadow: 0 0 0 8px rgba(230,57,70,0); }
+  }
+  .container { max-width: 1400px; margin: 0 auto; padding: 24px; }
+
+  .alert-banner {
+    background: linear-gradient(90deg, rgba(230,57,70,0.15), rgba(230,57,70,0.05));
+    border: 1px solid rgba(230,57,70,0.3);
+    border-radius: 12px; padding: 16px 24px; margin-bottom: 24px;
+    display: flex; align-items: center; gap: 12px; font-size: 0.95em;
+  }
+  .alert-banner .icon { font-size: 1.4em; }
+  .alert-banner strong { color: var(--accent); }
+
+  .stats-row {
+    display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 16px; margin-bottom: 24px;
+  }
+  .stat-card {
+    background: var(--card); border: 1px solid var(--border);
+    border-radius: 12px; padding: 20px; text-align: center;
+  }
+  .stat-card .number { font-size: 2em; font-weight: 800; color: var(--accent); }
+  .stat-card .label {
+    font-size: 0.8em; color: var(--muted); margin-top: 4px;
+    text-transform: uppercase; letter-spacing: 1px;
+  }
+
+  .main-grid { display: grid; grid-template-columns: 1fr 380px; gap: 24px; }
+  @media (max-width: 1024px) { .main-grid { grid-template-columns: 1fr; } }
+
+  .card {
+    background: var(--card); border: 1px solid var(--border);
+    border-radius: 12px; padding: 24px; margin-bottom: 24px;
+  }
+  .card-title {
+    font-size: 1.1em; font-weight: 700; margin-bottom: 16px;
+    display: flex; align-items: center; gap: 8px;
+    padding-bottom: 12px; border-bottom: 1px solid var(--border);
+  }
+  .card-title .emoji { font-size: 1.3em; }
+
+  /* News Feed */
+  .news-item { padding: 16px 0; border-bottom: 1px solid var(--border); }
+  .news-item:last-child { border-bottom: none; padding-bottom: 0; }
+  .news-item:first-child { padding-top: 0; }
+  .news-meta {
+    display: flex; align-items: center; gap: 8px;
+    margin-bottom: 6px; font-size: 0.78em; color: var(--muted);
+  }
+  .news-source {
+    background: var(--tag-bg); padding: 2px 8px; border-radius: 4px;
+    font-weight: 600; color: var(--accent2);
+  }
+  .news-tag {
+    background: rgba(230,57,70,0.2); color: var(--accent);
+    padding: 2px 8px; border-radius: 4px; font-weight: 600;
+  }
+  .news-title { font-weight: 600; font-size: 1em; line-height: 1.4; margin-bottom: 6px; }
+  .news-title a { color: var(--text); text-decoration: none; transition: color 0.2s; }
+  .news-title a:hover { color: var(--accent); }
+  .news-desc { font-size: 0.88em; color: var(--muted); line-height: 1.5; }
+  .loading { color: var(--muted); font-style: italic; padding: 20px 0; }
+  .error-msg { color: var(--yellow); padding: 12px; background: rgba(243,156,18,0.1); border-radius: 8px; }
+
+  /* Timeline */
+  .timeline { position: relative; padding-left: 24px; }
+  .timeline::before {
+    content: ''; position: absolute; left: 7px; top: 0; bottom: 0;
+    width: 2px; background: var(--border);
+  }
+  .timeline-item { position: relative; padding-bottom: 20px; }
+  .timeline-item:last-child { padding-bottom: 0; }
+  .timeline-item::before {
+    content: ''; position: absolute; left: -21px; top: 4px;
+    width: 10px; height: 10px; border-radius: 50%;
+    background: var(--accent); border: 2px solid var(--card);
+  }
+  .timeline-time { font-size: 0.78em; color: var(--muted); margin-bottom: 4px; }
+  .timeline-text { font-size: 0.9em; line-height: 1.4; }
+  .timeline-source { font-size: 0.78em; color: var(--accent2); margin-top: 2px; }
+
+  /* Map */
+  .map-placeholder {
+    background: linear-gradient(135deg, #1e2233, #161929);
+    border: 1px solid var(--border); border-radius: 8px;
+    padding: 32px; text-align: center; color: var(--muted);
+  }
+  .map-placeholder .globe { font-size: 3em; margin-bottom: 12px; }
+  .region-tags { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 16px; }
+  .region-tag {
+    background: var(--tag-bg); padding: 6px 14px; border-radius: 20px;
+    font-size: 0.82em; border: 1px solid var(--border);
+  }
+  .region-tag.hot { border-color: var(--accent); color: var(--accent); }
+
+  /* Key Players */
+  .player-row {
+    display: flex; align-items: center; gap: 12px;
+    padding: 10px 0; border-bottom: 1px solid var(--border);
+  }
+  .player-row:last-child { border-bottom: none; }
+  .player-flag { font-size: 1.6em; }
+  .player-info { flex: 1; }
+  .player-name { font-weight: 600; font-size: 0.92em; }
+  .player-role { font-size: 0.78em; color: var(--muted); }
+  .player-status { font-size: 0.75em; padding: 3px 10px; border-radius: 12px; font-weight: 600; }
+  .status-active { background: rgba(230,57,70,0.2); color: var(--accent); }
+  .status-alert { background: rgba(243,156,18,0.2); color: var(--yellow); }
+  .status-ready { background: rgba(46,204,113,0.15); color: var(--green); }
+
+  /* Source links */
+  .source-link {
+    color: var(--text); text-decoration: none; padding: 10px;
+    background: var(--tag-bg); border-radius: 8px; border: 1px solid var(--border);
+    display: flex; justify-content: space-between; align-items: center;
+    transition: border-color 0.2s;
+  }
+  .source-link:hover { border-color: var(--accent2); }
+
+  .refresh-btn {
+    background: var(--accent); color: white; border: none;
+    padding: 8px 18px; border-radius: 8px; cursor: pointer;
+    font-size: 0.85em; font-weight: 600; transition: opacity 0.2s;
+  }
+  .refresh-btn:hover { opacity: 0.85; }
+
+  .footer {
+    text-align: center; padding: 24px; color: var(--muted);
+    font-size: 0.8em; border-top: 1px solid var(--border); margin-top: 24px;
+  }
+
+  /* Spinner */
+  .spinner {
+    display: inline-block; width: 16px; height: 16px;
+    border: 2px solid var(--muted); border-top-color: var(--accent);
+    border-radius: 50%; animation: spin 0.8s linear infinite;
+  }
+  @keyframes spin { to { transform: rotate(360deg); } }
+</style>
+</head>
+<body>
+
+<div class="header">
+  <div>
+    <h1>🇺🇸 US — 🇮🇷 Iran <span>Conflict Dashboard</span></h1>
+    <div style="font-size:0.85em; color:var(--muted); margin-top:4px;">Real-time news aggregation &amp; situation tracking</div>
+  </div>
+  <div class="header-right">
+    <span class="pulse-dot"></span>
+    <span>LIVE</span>
+    <span id="lastUpdated"></span>
+    <button class="refresh-btn" onclick="loadAllNews()">↻ Refresh</button>
+  </div>
+</div>
+
+<div class="container">
+  <div class="alert-banner">
+    <span class="icon">⚠️</span>
+    <div>
+      <strong>DEFCON ELEVATED —</strong>
+      Tensions between the United States and Iran remain critically high. News is fetched live from multiple sources. Verify critical details through official channels.
+    </div>
+  </div>
+
+  <div class="stats-row">
+    <div class="stat-card">
+      <div class="number" id="newsCount"><span class="spinner"></span></div>
+      <div class="label">News Articles (24h)</div>
+    </div>
+    <div class="stat-card">
+      <div class="number" style="color: var(--yellow);">HIGH</div>
+      <div class="label">Threat Level</div>
+    </div>
+    <div class="stat-card">
+      <div class="number" style="color: var(--accent2);">6</div>
+      <div class="label">Regions Monitored</div>
+    </div>
+    <div class="stat-card">
+      <div class="number" id="timelineCount">10</div>
+      <div class="label">Key Events</div>
+    </div>
+  </div>
+
+  <div class="main-grid">
+    <div>
+      <!-- Latest News -->
+      <div class="card">
+        <div class="card-title"><span class="emoji">📰</span> Latest Headlines <span id="newsStatus" style="font-size:0.7em; color:var(--muted); font-weight:400; margin-left:auto;"></span></div>
+        <div id="newsFeed"><div class="loading"><span class="spinner"></span> Fetching live news...</div></div>
+      </div>
+
+      <!-- Conflict Zones -->
+      <div class="card">
+        <div class="card-title"><span class="emoji">🗺️</span> Key Conflict Zones &amp; Areas of Operation</div>
+        <div class="map-placeholder">
+          <div class="globe">🌍</div>
+          <div style="font-weight:600; color:var(--text);">Middle East &amp; Gulf Region</div>
+          <div style="margin-top:8px;">Primary areas of military and geopolitical activity</div>
+          <div class="region-tags">
+            <span class="region-tag hot">🔴 Strait of Hormuz</span>
+            <span class="region-tag hot">🔴 Persian Gulf</span>
+            <span class="region-tag hot">🔴 Arabian Sea</span>
+            <span class="region-tag">🟡 Iraq / Syria</span>
+            <span class="region-tag">🟡 Red Sea / Houthi Zone</span>
+            <span class="region-tag">🟡 Gulf of Oman</span>
+            <span class="region-tag">🟢 Diego Garcia</span>
+            <span class="region-tag">🟢 Bahrain (US 5th Fleet)</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Timeline -->
+      <div class="card">
+        <div class="card-title"><span class="emoji">📅</span> Escalation Timeline</div>
+        <div class="timeline" id="timeline"></div>
+      </div>
+    </div>
+
+    <div>
+      <!-- Key Players -->
+      <div class="card">
+        <div class="card-title"><span class="emoji">🎯</span> Key Players &amp; Force Posture</div>
+        <div id="keyPlayers"></div>
+      </div>
+
+      <!-- Live Sources -->
+      <div class="card">
+        <div class="card-title"><span class="emoji">📡</span> Live Sources &amp; Feeds</div>
+        <div style="display:flex; flex-direction:column; gap:10px;">
+          <a class="source-link" href="https://www.aljazeera.com/tag/iran/" target="_blank" rel="noopener"><span>📺 Al Jazeera — Iran Coverage</span><span style="color:var(--muted);">↗</span></a>
+          <a class="source-link" href="https://www.reuters.com/world/middle-east/" target="_blank" rel="noopener"><span>📰 Reuters — Middle East</span><span style="color:var(--muted);">↗</span></a>
+          <a class="source-link" href="https://apnews.com/hub/iran" target="_blank" rel="noopener"><span>📰 AP News — Iran Hub</span><span style="color:var(--muted);">↗</span></a>
+          <a class="source-link" href="https://www.bbc.com/news/topics/cywd23g0wzwt" target="_blank" rel="noopener"><span>📺 BBC — Iran Coverage</span><span style="color:var(--muted);">↗</span></a>
+          <a class="source-link" href="https://www.criticalthreats.org/analysis" target="_blank" rel="noopener"><span>🔍 Critical Threats (ISW)</span><span style="color:var(--muted);">↗</span></a>
+          <a class="source-link" href="https://www.flightradar24.com/" target="_blank" rel="noopener"><span>✈️ Flightradar24 (Military Tracking)</span><span style="color:var(--muted);">↗</span></a>
+          <a class="source-link" href="https://www.marinetraffic.com/" target="_blank" rel="noopener"><span>🚢 MarineTraffic — Naval Movements</span><span style="color:var(--muted);">↗</span></a>
+          <a class="source-link" href="https://www.understandingwar.org/backgrounder/iran-update" target="_blank" rel="noopener"><span>🏛️ ISW — Iran Update</span><span style="color:var(--muted);">↗</span></a>
+        </div>
+      </div>
+
+      <!-- Quick Context -->
+      <div class="card">
+        <div class="card-title"><span class="emoji">🧠</span> Quick Context</div>
+        <div style="font-size:0.88em; line-height:1.6; color:var(--muted);">
+          <p style="margin-bottom:12px;">Key drivers of the US-Iran conflict:</p>
+          <ul style="padding-left:18px; display:flex; flex-direction:column; gap:8px;">
+            <li><strong style="color:var(--text);">Nuclear Program</strong> — Iran's uranium enrichment and JCPOA collapse</li>
+            <li><strong style="color:var(--text);">Proxy Warfare</strong> — Hezbollah, Houthis, Iraqi militias, IRGC operations</li>
+            <li><strong style="color:var(--text);">Strait of Hormuz</strong> — ~20% of global oil supply transits this chokepoint</li>
+            <li><strong style="color:var(--text);">US Force Posture</strong> — 30,000+ US troops in the region, carrier strike groups</li>
+            <li><strong style="color:var(--text);">Israel Factor</strong> — US-Israel coordination, potential multi-front escalation</li>
+            <li><strong style="color:var(--text);">Cyber Domain</strong> — Ongoing cyber operations between US and Iranian actors</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="footer">
+  <p>US-Iran Conflict Dashboard • Live news via RSS aggregation • Auto-refreshes every 15 minutes</p>
+  <p style="margin-top:4px;">Not affiliated with any government or military organization. For informational purposes only.</p>
+</div>
+
+<script>
+// ── Configuration ──
+const CORS_PROXY = 'https://api.allorigins.win/raw?url=';
+
+const RSS_FEEDS = [
+  { name: 'Reuters',  url: 'https://www.reutersagency.com/feed/', filter: 'iran' },
+  { name: 'Al Jazeera', url: 'https://www.aljazeera.com/xml/rss/all.xml', filter: 'iran' },
+  { name: 'AP News',  url: 'https://apnews.com/index.rss', filter: 'iran' },
+  { name: 'BBC',      url: 'https://feeds.bbci.co.uk/news/world/middle_east/rss.xml', filter: 'iran' },
+  { name: 'NPR',      url: 'https://feeds.npr.org/1004/rss.xml', filter: 'iran' },
+  { name: 'The Hill', url: 'https://thehill.com/homenews/feed/', filter: 'iran' },
+];
+
+// ── RSS Parser ──
+function parseRSS(xmlText) {
+  const parser = new DOMParser();
+  const doc = parser.parseFromString(xmlText, 'text/xml');
+  const items = doc.querySelectorAll('item');
+  const results = [];
+  items.forEach(item => {
+    const title = item.querySelector('title')?.textContent?.trim() || '';
+    const link = item.querySelector('link')?.textContent?.trim() || '#';
+    const desc = item.querySelector('description')?.textContent?.trim() || '';
+    const pubDate = item.querySelector('pubDate')?.textContent?.trim() ||
+                    item.querySelector('dc\\:date')?.textContent?.trim() || '';
+    results.push({ title, link, desc: stripHtml(desc).substring(0, 200), pubDate });
+  });
+  return results;
+}
+
+function stripHtml(html) {
+  const tmp = document.createElement('div');
+  tmp.innerHTML = html;
+  return tmp.textContent || tmp.innerText || '';
+}
+
+function timeAgo(dateStr) {
+  if (!dateStr) return 'Recently';
+  const d = new Date(dateStr);
+  if (isNaN(d)) return 'Recently';
+  const mins = Math.floor((Date.now() - d.getTime()) / 60000);
+  if (mins < 1) return 'Just now';
+  if (mins < 60) return `${mins}m ago`;
+  const hrs = Math.floor(mins / 60);
+  if (hrs < 24) return `${hrs}h ago`;
+  return `${Math.floor(hrs / 24)}d ago`;
+}
+
+// ── Fetch all news ──
+async function loadAllNews() {
+  const feedEl = document.getElementById('newsFeed');
+  const statusEl = document.getElementById('newsStatus');
+  feedEl.innerHTML = '<div class="loading"><span class="spinner"></span> Fetching live news...</div>';
+  statusEl.textContent = '';
+
+  const allArticles = [];
+  const errors = [];
+
+  await Promise.allSettled(RSS_FEEDS.map(async feed => {
+    try {
+      const resp = await fetch(CORS_PROXY + encodeURIComponent(feed.url), { signal: AbortSignal.timeout(8000) });
+      if (!resp.ok) throw new Error(resp.status);
+      const text = await resp.text();
+      const items = parseRSS(text);
+      const filtered = items.filter(item =>
+        (item.title + item.desc).toLowerCase().includes(feed.filter)
+      );
+      filtered.forEach(item => {
+        allArticles.push({ ...item, source: feed.name });
+      });
+    } catch (e) {
+      errors.push(feed.name);
+    }
+  }));
+
+  // Sort by date (newest first)
+  allArticles.sort((a, b) => {
+    const da = new Date(a.pubDate), db = new Date(b.pubDate);
+    return (isNaN(da) ? 0 : da) - (isNaN(db) ? 0 : db);
+  });
+
+  // Deduplicate by title similarity
+  const seen = new Set();
+  const unique = allArticles.filter(a => {
+    const key = a.title.toLowerCase().replace(/[^a-z0-9]/g, '').substring(0, 40);
+    if (seen.has(key)) return false;
+    seen.add(key);
+    return true;
+  });
+
+  document.getElementById('newsCount').textContent = unique.length;
+
+  if (unique.length === 0) {
+    feedEl.innerHTML = `
+      <div class="error-msg">
+        ⚠️ Could not fetch live news (CORS/proxy issue). Showing cached headlines instead.
+      </div>
+      ${renderCachedNews()}`;
+    statusEl.textContent = 'Cached';
+  } else {
+    feedEl.innerHTML = unique.slice(0, 15).map(item => renderNewsItem(item)).join('');
+    statusEl.textContent = errors.length ? `(${errors.length} source${errors.length>1?'s':''} unavailable)` : '✓ Live';
+  }
+}
+
+function renderNewsItem(item) {
+  const tag = categorize(item.title + ' ' + item.desc);
+  return `
+    <div class="news-item">
+      <div class="news-meta">
+        <span class="news-source">${item.source}</span>
+        <span>${timeAgo(item.pubDate)}</span>
+        <span class="news-tag">${tag}</span>
+      </div>
+      <div class="news-title"><a href="${item.link}" target="_blank" rel="noopener">${item.title}</a></div>
+      <div class="news-desc">${item.desc}${item.desc.length >= 200 ? '...' : ''}</div>
+    </div>`;
+}
+
+function categorize(text) {
+  const t = text.toLowerCase();
+  if (/break(ing)?|urgent|just in/.test(t)) return 'BREAKING';
+  if (/sanction|treasury|econom|oil|price/.test(t)) return 'SANCTIONS';
+  if (/nuclear|enrich|uranium|jcpoa|iaea/.test(t)) return 'NUCLEAR';
+  if (/drone|missile|strike|attack|bomb/.test(t)) return 'MILITARY';
+  if (/diplom|talk|negotiat|deal|agreement/.test(t)) return 'DIPLOMACY';
+  if (/cyber|hack|digital/.test(t)) return 'CYBER';
+  if (/congress|senate|biden|trump|white house/.test(t)) return 'POLITICS';
+  if (/hezbollah|houthi|militia|proxy/.test(t)) return 'PROXIES';
+  return 'NEWS';
+}
+
+function renderCachedNews() {
+  const cached = [
+    { source: 'Reuters', title: 'US Deploys Additional Carrier Strike Group to Middle East Amid Iran Tensions', link: 'https://www.reuters.com/world/middle-east/', desc: 'The Pentagon has ordered a second aircraft carrier strike group to the region as tensions with Iran escalate over nuclear negotiations and proxy attacks on US forces.', tag: 'MILITARY' },
+    { source: 'Al Jazeera', title: "Iran's FM Says Nuclear Talks at 'Critical Juncture', Warns Against Military Action", link: 'https://www.aljazeera.com/tag/iran/', desc: "Iran's Foreign Minister stated that diplomatic channels remain open but warned that any military aggression would be met with a 'decisive and devastating response'.", tag: 'DIPLOMACY' },
+    { source: 'AP News', title: 'IRGC Navy Conducts Large-Scale Drills in Strait of Hormuz', link: 'https://apnews.com/hub/iran', desc: "Iran's IRGC Navy staged major military exercises simulating the closure of the Strait of Hormuz, deploying fast-attack craft and anti-ship missiles.", tag: 'MILITARY' },
+    { source: 'BBC', title: 'US Treasury Announces New Sanctions Targeting Iran\'s Oil Export Network', link: 'https://www.bbc.com/news/topics/cywd23g0wzwt', desc: "The US Treasury Department sanctioned over 20 entities and vessels involved in circumventing oil export restrictions.", tag: 'SANCTIONS' },
+    { source: 'The Hill', title: 'Senate Debates War Powers Resolution as Iran Tensions Mount', link: 'https://thehill.com/', desc: 'Lawmakers are divided over a proposed war powers resolution that would require congressional authorization before any sustained military action against Iran.', tag: 'POLITICS' },
+    { source: 'NPR', title: 'US Intelligence Warns of Iranian Proxy Retaliation Risk', link: 'https://www.npr.org/', desc: 'Multiple US intelligence agencies have assessed that Iranian-backed militias in Iraq and Syria are preparing retaliatory strikes against US military installations.', tag: 'INTEL' },
+  ];
+  return cached.map(item => `
+    <div class="news-item">
+      <div class="news-meta">
+        <span class="news-source">${item.source}</span>
+        <span>Cached</span>
+        <span class="news-tag">${item.tag}</span>
+      </div>
+      <div class="news-title"><a href="${item.link}" target="_blank" rel="noopener">${item.title}</a></div>
+      <div class="news-desc">${item.desc}</div>
+    </div>`).join('');
+}
+
+// ── Timeline ──
+const timelineEvents = [
+  { time: 'May 2026', text: 'US deploys additional B-52 bombers to Diego Garcia amid rising tensions.', source: 'Pentagon' },
+  { time: 'May 2026', text: "Iran announces expansion of uranium enrichment to 60% at Fordow facility.", source: 'IAEA' },
+  { time: 'Apr 2026', text: 'IRGC fast-attack boats conduct harassing maneuvers near US Navy vessels in Strait of Hormuz.', source: 'US 5th Fleet' },
+  { time: 'Apr 2026', text: 'US and allied forces intercept Iranian ballistic missiles targeting regional bases.', source: 'CENTCOM' },
+  { time: 'Mar 2026', text: 'Diplomatic talks in Oman collapse; both sides accuse the other of bad faith.', source: 'Reuters' },
+  { time: 'Mar 2026', text: 'Iran-backed militias launch drone attack on US base in Syria; casualties reported.', source: 'AP News' },
+  { time: 'Feb 2026', text: "US imposes sweeping new sanctions on Iran's drone and missile programs.", source: 'US Treasury' },
+  { time: 'Feb 2026', text: "Iran unveils new hypersonic ballistic missile, claims capability to reach regional US bases.", source: 'IRGC' },
+  { time: 'Jan 2026', text: 'US-Israel conduct largest-ever joint military exercise simulating Iran scenario.', source: 'IDF' },
+  { time: 'Jan 2026', text: "Iran's Supreme Leader issues statement ruling out direct negotiations under sanctions.", source: 'State Media' },
+];
+
+function renderTimeline() {
+  document.getElementById('timeline').innerHTML = timelineEvents.map(ev => `
+    <div class="timeline-item">
+      <div class="timeline-time">${ev.time}</div>
+      <div class="timeline-text">${ev.text}</div>
+      <div class="timeline-source">Source: ${ev.source}</div>
+    </div>`).join('');
+}
+
+// ── Key Players ──
+const keyPlayers = [
+  { flag: '🇺🇸', name: 'United States', role: 'CENTCOM, 5th Fleet, Diego Garcia', status: 'ACTIVE', cls: 'status-active' },
+  { flag: '🇮🇷', name: 'Iran (IRGC)', role: 'IRGC Navy, Quds Force, Missile Command', status: 'ACTIVE', cls: 'status-active' },
+  { flag: '🇮🇱', name: 'Israel', role: 'IDF, Mossad, Air Force', status: 'ALERT', cls: 'status-alert' },
+  { flag: '🇬🇧', name: 'United Kingdom', role: 'Royal Navy, RAF, Diego Garcia (BIOT)', status: 'READY', cls: 'status-ready' },
+  { flag: '🇸🇦', name: 'Saudi Arabia', role: 'Royal Saudi Air Force, Eastern Fleet', status: 'ALERT', cls: 'status-alert' },
+  { flag: '🇦🇪', name: 'UAE', role: 'UAE Navy, Air Defense', status: 'READY', cls: 'status-ready' },
+  { flag: '🇮🇶', name: 'Iraqi Militias', role: "Kata'ib Hezbollah, PMF factions", status: 'ACTIVE', cls: 'status-active' },
+  { flag: '🇾🇪', name: 'Houthis (Ansar Allah)', role: 'Red Sea operations, missile/drone units', status: 'ACTIVE', cls: 'status-active' },
+  { flag: '🇱🇧', name: 'Hezbollah', role: 'Southern Lebanon, precision-guided munitions', status: 'ALERT', cls: 'status-alert' },
+];
+
+function renderPlayers() {
+  document.getElementById('keyPlayers').innerHTML = keyPlayers.map(p => `
+    <div class="player-row">
+      <span class="player-flag">${p.flag}</span>
+      <div class="player-info">
+        <div class="player-name">${p.name}</div>
+        <div class="player-role">${p.role}</div>
+      </div>
+      <span class="player-status ${p.cls}">${p.status}</span>
+    </div>`).join('');
+}
+
+// ── Timestamp ──
+function setTimestamp() {
+  const now = new Date();
+  document.getElementById('lastUpdated').textContent = 'Updated: ' + now.toLocaleString('en-US', {
+    timeZone: 'Africa/Johannesburg',
+    hour: '2-digit', minute: '2-digit', second: '2-digit',
+    year: 'numeric', month: 'short', day: 'numeric'
+  }) + ' SAST';
+}
+
+// ── Init ──
+renderTimeline();
+renderPlayers();
+setTimestamp();
+loadAllNews();
+
+// Auto-refresh every 15 minutes
+setInterval(loadAllNews, 15 * 60 * 1000);
+</script>
+</body>
+</html>

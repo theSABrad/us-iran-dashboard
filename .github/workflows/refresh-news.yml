@@ -1,0 +1,95 @@
+name: Refresh News Data
+
+on:
+  schedule:
+    # Every 3 hours
+    - cron: '0 */3 * * *'
+  workflow_dispatch:
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch news data
+        run: |
+          python3 - <<'PYEOF'
+          import urllib.request, json, re, html, os
+          from datetime import datetime
+
+          feeds = [
+              ("Reuters", "https://www.reutersagency.com/feed/", "iran"),
+              ("Al Jazeera", "https://www.aljazeera.com/xml/rss/all.xml", "iran"),
+              ("AP News", "https://apnews.com/index.rss", "iran"),
+              ("BBC", "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml", "iran"),
+              ("NPR", "https://feeds.npr.org/1004/rss.xml", "iran"),
+              ("The Hill", "https://thehill.com/homenews/feed/", "iran"),
+          ]
+
+          all_articles = []
+
+          for name, url, keyword in feeds:
+              try:
+                  req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+                  with urllib.request.urlopen(req, timeout=10) as resp:
+                      data = resp.read().decode("utf-8", errors="replace")
+                  # Parse items
+                  items = re.findall(r"<item>(.*?)</item>", data, re.DOTALL)
+                  for item in items:
+                      title_m = re.search(r"<title>(.*?)</title>", item, re.DOTALL)
+                      link_m = re.search(r"<link>(.*?)</link>", item, re.DOTALL)
+                      desc_m = re.search(r"<description>(.*?)</description>", item, re.DOTALL)
+                      date_m = re.search(r"<pubDate>(.*?)</pubDate>", item, re.DOTALL)
+                      if not title_m:
+                          continue
+                      title = html.unescape(title_m.group(1).strip())
+                      link = html.unescape(link_m.group(1).strip()) if link_m else "#"
+                      desc = html.unescape(desc_m.group(1).strip()) if desc_m else ""
+                      # Strip HTML tags from desc
+                      desc = re.sub(r"<[^>]+>", "", desc).strip()[:200]
+                      pub_date = date_m.group(1).strip() if date_m else ""
+
+                      combined = (title + " " + desc).lower()
+                      if keyword.lower() in combined:
+                          all_articles.append({
+                              "source": name,
+                              "title": title,
+                              "link": link,
+                              "desc": desc,
+                              "pubDate": pub_date
+                          })
+              except Exception as e:
+                  print(f"Failed {name}: {e}")
+
+          # Deduplicate
+          seen = set()
+          unique = []
+          for a in all_articles:
+              key = re.sub(r'[^a-z0-9]', '', a["title"].lower())[:40]
+              if key not in seen:
+                  seen.add(key)
+                  unique.append(a)
+
+          output = {
+              "lastUpdated": datetime.utcnow().isoformat() + "Z",
+              "count": len(unique),
+              "articles": unique[:20]
+          }
+
+          os.makedirs("data", exist_ok=True)
+          with open("data/news.json", "w") as f:
+              json.dump(output, f, indent=2)
+
+          print(f"Saved {len(unique)} articles to data/news.json")
+          PYEOF
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/news.json
+          git diff --staged --quiet || git commit -m "🤖 Auto-refresh news data [$(date -u +%Y-%m-%d-%H:%M)]"
+          git push
