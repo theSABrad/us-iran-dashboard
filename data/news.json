@@ -1,41 +1,20 @@
 {
-  "lastUpdated": "2026-05-27T08:54:11.727897Z",
-  "count": 23,
+  "lastUpdated": "2026-05-27T18:14:48.991893Z",
+  "count": 22,
   "articles": [
     {
       "source": "Al Jazeera",
-      "title": "How badly is Europe affected by fertiliser shortages due to the Iran war?",
-      "link": "https://www.aljazeera.com/news/2026/5/27/how-badly-is-europe-affected-by-fertiliser-shortages-due-to-the-iran-war?traffic_source=rss",
+      "title": "Bangladesh seeks IMF aid: How badly has Iran war hit its economy?",
+      "link": "https://www.aljazeera.com/economy/2026/5/27/bangladesh-seeks-imf-aid-how-badly-has-iran-war-hit-its-economy?traffic_source=rss",
       "desc": "",
-      "pubDate": "Wed, 27 May 2026 06:52:44 +0000"
+      "pubDate": "Wed, 27 May 2026 13:53:13 +0000"
     },
     {
-      "source": "Al Jazeera",
-      "title": "Iran war day 89: Lebanon strikes kill 31 as ceasefire tensions rise",
-      "link": "https://www.aljazeera.com/news/2026/5/27/iran-war-day-89-lebanon-strikes-kill-31-as-ceasefire-tensions-rise?traffic_source=rss",
+      "source": "BBC",
+      "title": "<![CDATA['Like a prisoner being released' - Relief for Iranians as internet shutdown ends]]>",
+      "link": "https://www.bbc.com/news/articles/cx21x812w1lo?at_medium=RSS&at_campaign=rss",
       "desc": "",
-      "pubDate": "Wed, 27 May 2026 06:48:51 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "\u2018Deep suspicion\u2019 of US lingers as Iran ponders agreement to end war",
-      "link": "https://www.aljazeera.com/news/2026/5/27/deep-suspicion-of-us-lingers-as-iran-ponders-agreement-to-end-war?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Wed, 27 May 2026 06:03:41 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "How decision-making happens in Iran",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/27/aje-onl-nf_draft-3-dnrexp-260526-hashema-iran_decision_making-260526?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Wed, 27 May 2026 00:28:03 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Iran war live: Israel kills 31 in Lebanon; Tehran blasts US truce violation",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/5/27/iran-war-live-israel-kills-31-in-lebanon-tehran-blasts-us-truce-violation?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Wed, 27 May 2026 00:00:00 +0000"
+      "pubDate": "Wed, 27 May 2026 12:27:12 GMT"
     },
     {
       "source": "BBC",
@@ -137,10 +116,31 @@
     },
     {
       "source": "NPR",
-      "title": "Former State department official discusses Trump's negotiating tactics with Iran",
-      "link": "https://www.npr.org/2026/05/27/nx-s1-5835223/former-state-department-official-discusses-trumps-negotiating-tactics-with-iran",
-      "desc": "NPR's Steve Inskeep tal Jennifer Gavito, who served as deputy assistant secretary of state for Iran and Iraq during the Biden administration, about President Trump's negotiating tactics.",
-      "pubDate": "Wed, 27 May 2026 04:39:28 -0400"
+      "title": "Trump gathers Cabinet as he looks to seal deal to end war",
+      "link": "https://www.npr.org/2026/05/27/nx-s1-5836202/trump-cabinet-meeting",
+      "desc": "President Trump will meet with his Cabinet on Wednesday at a precarious moment for talks aimed at ending the war with Iran. The emerging deal has already exposed the president to fierce criticism.",
+      "pubDate": "Wed, 27 May 2026 01:37:20 -0400"
+    },
+    {
+      "source": "NPR",
+      "title": "Prospects fade for imminent end to Iran war as attacks restart",
+      "link": "https://www.npr.org/2026/05/26/nx-s1-5834840/iran-lebanon-updates",
+      "desc": "Israel says it will intensify attacks against Hezbollah in Lebanon and U.S. military struck Iranian boats and missile launch sites as envoys continued negotiations for a deal that would end the three-",
+      "pubDate": "Tue, 26 May 2026 09:32:50 -0400"
+    },
+    {
+      "source": "NPR",
+      "title": "U.S. strikes Iran. And, immigration courts use new tactic to speed up deportations",
+      "link": "https://www.npr.org/2026/05/26/g-s1-124277/up-first-newsletter-iran-war-russia-ukraine-immigration-courts-trump-health",
+      "desc": "The U.S. military has launched new attacks on Iran while talks to end the conflict are ongoing. And, the Department of Justice is using a new tactic in immigration courts to accelerate deportations.",
+      "pubDate": "Tue, 26 May 2026 07:20:21 -0400"
+    },
+    {
+      "source": "The Hill",
+      "title": "Replenishing advanced weapons stockpiles used in Iran war will take years: Analysis",
+      "link": "https://thehill.com/policy/defense/5897710-iran-war-weapons-replenishment/",
+      "desc": "",
+      "pubDate": "Wed, 27 May 2026 18:09:08 +0000"
     }
   ]
 }
