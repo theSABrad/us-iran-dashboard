@@ -370,16 +370,36 @@ async function loadAllNews() {
 
   await Promise.allSettled(RSS_FEEDS.map(async feed => {
     try {
-      const resp = await fetch(CORS_PROXY + encodeURIComponent(feed.url), { signal: AbortSignal.timeout(8000) });
-      if (!resp.ok) throw new Error(resp.status);
-      const text = await resp.text();
-      const items = parseRSS(text);
-      const filtered = items.filter(item =>
-        (item.title + item.desc).toLowerCase().includes(feed.filter)
-      );
-      filtered.forEach(item => {
-        allArticles.push({ ...item, source: feed.name });
-      });
+      try {
+        // Try primary proxy first
+        let resp = await fetch(CORS_PROXY + encodeURIComponent(feed.url), { signal: AbortSignal.timeout(8000) });
+        if (!resp.ok) throw new Error('primary failed');
+        var text = await resp.text();
+        const items = parseRSS(text);
+        const filtered = items.filter(item =>
+          (item.title + item.desc).toLowerCase().includes(feed.filter)
+        );
+        filtered.forEach(item => {
+          allArticles.push({ ...item, source: feed.name });
+        });
+      } catch (e) {
+        // Fallback to secondary proxy
+        const SECONDARY_PROXY = 'https://thingproxy.freeboard.io/fetch/';
+        try {
+          let resp2 = await fetch(SECONDARY_PROXY + encodeURIComponent(feed.url), { signal: AbortSignal.timeout(8000) });
+          if (!resp2.ok) throw new Error('secondary failed');
+          var text2 = await resp2.text();
+          const items2 = parseRSS(text2);
+          const filtered2 = items2.filter(item =>
+            (item.title + item.desc).toLowerCase().includes(feed.filter)
+          );
+          filtered2.forEach(item => {
+            allArticles.push({ ...item, source: feed.name });
+          });
+        } catch (e2) {
+          errors.push(feed.name);
+        }
+      }
     } catch (e) {
       errors.push(feed.name);
     }
