@@ -1,13 +1,41 @@
 {
-  "lastUpdated": "2026-05-27T18:14:48.991893Z",
-  "count": 22,
+  "lastUpdated": "2026-05-28T00:17:13.005347Z",
+  "count": 25,
   "articles": [
     {
       "source": "Al Jazeera",
-      "title": "Bangladesh seeks IMF aid: How badly has Iran war hit its economy?",
-      "link": "https://www.aljazeera.com/economy/2026/5/27/bangladesh-seeks-imf-aid-how-badly-has-iran-war-hit-its-economy?traffic_source=rss",
+      "title": "Iran war live: Israel orders mass forced displacement for all south Lebanon",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/5/28/iran-war-live-israel-orders-mass-forced-displacement-for-all-south-lebanon?traffic_source=rss",
       "desc": "",
-      "pubDate": "Wed, 27 May 2026 13:53:13 +0000"
+      "pubDate": "Thu, 28 May 2026 00:00:00 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Markets rally amid hopes of US-Iran deal",
+      "link": "https://www.aljazeera.com/news/2026/5/27/markets-rally-amid-hopes-of-us-iran-deal?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Wed, 27 May 2026 21:14:12 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Iran government sells subsidised meat for Eid al-Adha under blockade",
+      "link": "https://www.aljazeera.com/economy/2026/5/27/iran-government-sells-subsidised-meat-for-eid-al-adha-under-blockade?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Wed, 27 May 2026 19:04:05 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "US, Iran issue conflicting reports on deal as Trump says no sanction relief",
+      "link": "https://www.aljazeera.com/news/2026/5/27/us-iran-issue-conflicting-reports-on-deal-as-trump-says-no-sanction-relief?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Wed, 27 May 2026 18:19:33 +0000"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[Trump says US 'not satisfied' with Iran deal yet]]>",
+      "link": "https://www.bbc.com/news/articles/c74dy9jw1q9o?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Wed, 27 May 2026 17:37:33 GMT"
     },
     {
       "source": "BBC",
@@ -113,34 +141,6 @@
       "link": "https://www.bbc.com/news/videos/clyppw9gqzwo?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Mon, 25 May 2026 07:13:16 GMT"
-    },
-    {
-      "source": "NPR",
-      "title": "Trump gathers Cabinet as he looks to seal deal to end war",
-      "link": "https://www.npr.org/2026/05/27/nx-s1-5836202/trump-cabinet-meeting",
-      "desc": "President Trump will meet with his Cabinet on Wednesday at a precarious moment for talks aimed at ending the war with Iran. The emerging deal has already exposed the president to fierce criticism.",
-      "pubDate": "Wed, 27 May 2026 01:37:20 -0400"
-    },
-    {
-      "source": "NPR",
-      "title": "Prospects fade for imminent end to Iran war as attacks restart",
-      "link": "https://www.npr.org/2026/05/26/nx-s1-5834840/iran-lebanon-updates",
-      "desc": "Israel says it will intensify attacks against Hezbollah in Lebanon and U.S. military struck Iranian boats and missile launch sites as envoys continued negotiations for a deal that would end the three-",
-      "pubDate": "Tue, 26 May 2026 09:32:50 -0400"
-    },
-    {
-      "source": "NPR",
-      "title": "U.S. strikes Iran. And, immigration courts use new tactic to speed up deportations",
-      "link": "https://www.npr.org/2026/05/26/g-s1-124277/up-first-newsletter-iran-war-russia-ukraine-immigration-courts-trump-health",
-      "desc": "The U.S. military has launched new attacks on Iran while talks to end the conflict are ongoing. And, the Department of Justice is using a new tactic in immigration courts to accelerate deportations.",
-      "pubDate": "Tue, 26 May 2026 07:20:21 -0400"
-    },
-    {
-      "source": "The Hill",
-      "title": "Replenishing advanced weapons stockpiles used in Iran war will take years: Analysis",
-      "link": "https://thehill.com/policy/defense/5897710-iran-war-weapons-replenishment/",
-      "desc": "",
-      "pubDate": "Wed, 27 May 2026 18:09:08 +0000"
     }
   ]
 }
