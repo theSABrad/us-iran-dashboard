@@ -1,41 +1,27 @@
 {
-  "lastUpdated": "2026-05-30T07:32:52.096301Z",
-  "count": 25,
+  "lastUpdated": "2026-05-30T12:49:47.059792Z",
+  "count": 23,
   "articles": [
     {
       "source": "Al Jazeera",
-      "title": "Iran war live: Trump due to make \u2018final determination\u2019 on deal with Tehran",
+      "title": "Iran war: What is happening on day 92 as Trump weighs Iran deal",
+      "link": "https://www.aljazeera.com/news/2026/5/30/iran-war-what-is-happening-on-day-92-as-trump-weighs-iran-deal?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sat, 30 May 2026 07:30:15 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Iran war live: Supreme leader\u2019s adviser blames US blockade for stalled deal",
       "link": "https://www.aljazeera.com/news/liveblog/2026/5/30/iran-war-live-trump-due-to-make-final-determination-on-deal-with-tehran?traffic_source=rss",
       "desc": "",
       "pubDate": "Sat, 30 May 2026 00:00:00 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Iran denies ceasefire deal with US is \u201cfinalised\u201d",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/29/iran-denies-ceasefire-deal-with-us-is?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Fri, 29 May 2026 21:10:54 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "How realistic is Trump\u2019s Iran framework?",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/29/how-realistic-is-trumps-iran-framework?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Fri, 29 May 2026 21:10:34 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Trump heads into Situation Room to potentially finalise Iran deal",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/29/trump-heads-into-situation-room-to-potentially-finalise-iran-deal?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Fri, 29 May 2026 19:01:17 +0000"
     },
     {
       "source": "BBC",
       "title": "<![CDATA[No deal announced after Trump meeting to make 'final determination' on Iran]]>",
       "link": "https://www.bbc.com/news/articles/c0r2d40r91qo?at_medium=RSS&at_campaign=rss",
       "desc": "",
-      "pubDate": "Sat, 30 May 2026 04:19:32 GMT"
+      "pubDate": "Sat, 30 May 2026 11:39:32 GMT"
     },
     {
       "source": "BBC",
@@ -141,6 +127,20 @@
       "link": "https://www.bbc.com/news/articles/cvgzk91leweo?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Sat, 02 May 2026 23:17:17 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[British couple jailed in Iran: 'We're likely to be here for a long time']]>",
+      "link": "https://www.bbc.com/news/articles/c202pl60kv9o?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Fri, 01 May 2026 05:04:08 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[Are the US and Iran close to reaching a peace deal\u2026 again?]]>",
+      "link": "https://www.bbc.com/news/videos/crep48831p8o?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Fri, 29 May 2026 00:10:53 GMT"
     }
   ]
 }
