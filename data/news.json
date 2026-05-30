@@ -1,20 +1,13 @@
 {
-  "lastUpdated": "2026-05-30T12:49:47.059792Z",
-  "count": 23,
+  "lastUpdated": "2026-05-30T18:16:45.032597Z",
+  "count": 24,
   "articles": [
     {
       "source": "Al Jazeera",
-      "title": "Iran war: What is happening on day 92 as Trump weighs Iran deal",
-      "link": "https://www.aljazeera.com/news/2026/5/30/iran-war-what-is-happening-on-day-92-as-trump-weighs-iran-deal?traffic_source=rss",
+      "title": "The Iran war is dividing Muslims in the Philippines",
+      "link": "https://www.aljazeera.com/opinions/2026/5/30/how-the-iran-war-is-dividing-muslims-in-the-philippines?traffic_source=rss",
       "desc": "",
-      "pubDate": "Sat, 30 May 2026 07:30:15 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Iran war live: Supreme leader\u2019s adviser blames US blockade for stalled deal",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/5/30/iran-war-live-trump-due-to-make-final-determination-on-deal-with-tehran?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Sat, 30 May 2026 00:00:00 +0000"
+      "pubDate": "Sat, 30 May 2026 12:49:20 +0000"
     },
     {
       "source": "BBC",
@@ -141,6 +134,13 @@
       "link": "https://www.bbc.com/news/videos/crep48831p8o?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Fri, 29 May 2026 00:10:53 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA['Hopefully we can pull it off' - Rubio on Iran deal]]>",
+      "link": "https://www.bbc.com/news/videos/clyppw9gqzwo?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Mon, 25 May 2026 07:13:16 GMT"
     }
   ]
 }
