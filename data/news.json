@@ -1,13 +1,20 @@
 {
-  "lastUpdated": "2026-05-30T18:16:45.032597Z",
+  "lastUpdated": "2026-05-31T08:25:14.969430Z",
   "count": 24,
   "articles": [
     {
       "source": "Al Jazeera",
-      "title": "The Iran war is dividing Muslims in the Philippines",
-      "link": "https://www.aljazeera.com/opinions/2026/5/30/how-the-iran-war-is-dividing-muslims-in-the-philippines?traffic_source=rss",
+      "title": "Iran war live: Lebanon slams Israel\u2019s invasion; US-Tehran deal in limbo",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/5/31/iran-war-live-lebanon-accuses-israel-of-scorched-earth-policy?traffic_source=rss",
       "desc": "",
-      "pubDate": "Sat, 30 May 2026 12:49:20 +0000"
+      "pubDate": "Sun, 31 May 2026 00:00:50 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Iran reasserts control over Hormuz Strait as deal with US remains elusive",
+      "link": "https://www.aljazeera.com/news/2026/5/30/iran-reasserts-control-over-hormuz-strait-as-deal-with-us-remains-elusive?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sat, 30 May 2026 19:48:13 +0000"
     },
     {
       "source": "BBC",
@@ -134,13 +141,6 @@
       "link": "https://www.bbc.com/news/videos/crep48831p8o?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Fri, 29 May 2026 00:10:53 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA['Hopefully we can pull it off' - Rubio on Iran deal]]>",
-      "link": "https://www.bbc.com/news/videos/clyppw9gqzwo?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Mon, 25 May 2026 07:13:16 GMT"
     }
   ]
 }
