@@ -1,27 +1,27 @@
 {
-  "lastUpdated": "2026-06-02T22:37:43.095433Z",
-  "count": 24,
+  "lastUpdated": "2026-06-03T18:08:07.136471Z",
+  "count": 18,
   "articles": [
     {
       "source": "Al Jazeera",
-      "title": "US says Iran\u2019s new supreme leader alive and \u2018increasingly engaging\u2019",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/2/us-says-irans-new-supreme-leader-alive-and-increasingly-engaging?traffic_source=rss",
+      "title": "Iran\u2019s World Cup squad to depart for Mexico on June 6 despite US visa delay",
+      "link": "https://www.aljazeera.com/sports/2026/6/3/irans-world-cup-squad-to-depart-for-mexico-on-june-6-despite-us-visa-delay?traffic_source=rss",
       "desc": "",
-      "pubDate": "Tue, 02 Jun 2026 19:05:13 +0000"
+      "pubDate": "Wed, 03 Jun 2026 13:35:06 +0000"
     },
     {
       "source": "Al Jazeera",
-      "title": "Iran\u2019s supreme leader appears more active as talks continue: US\u2019s Rubio",
-      "link": "https://www.aljazeera.com/news/2026/6/2/irans-supreme-leader-appears-more-active-as-talks-continue-uss-rubio?traffic_source=rss",
+      "title": "Kuwait and Bahrain attacked as Iran launches missile and drone barrage",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/3/kuwait-and-bahrain-attacked-as-iran-launches-missile-and-drone-barrage?traffic_source=rss",
       "desc": "",
-      "pubDate": "Tue, 02 Jun 2026 17:53:14 +0000"
+      "pubDate": "Wed, 03 Jun 2026 12:56:11 +0000"
     },
     {
       "source": "BBC",
-      "title": "<![CDATA[Bowen: Trump needs this war to end but Iran is not backing down]]>",
-      "link": "https://www.bbc.com/news/articles/cedp3lee059o?at_medium=RSS&at_campaign=rss",
+      "title": "<![CDATA[One killed and dozens injured in Iranian drone strikes on Kuwait airport]]>",
+      "link": "https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&at_campaign=rss",
       "desc": "",
-      "pubDate": "Mon, 01 Jun 2026 21:50:52 GMT"
+      "pubDate": "Wed, 03 Jun 2026 14:02:25 GMT"
     },
     {
       "source": "BBC",
@@ -29,6 +29,13 @@
       "link": "https://www.bbc.com/news/articles/cjrpwxe82ypo?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Tue, 02 Jun 2026 16:04:18 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[Bowen: Trump needs this war to end but Iran is not backing down]]>",
+      "link": "https://www.bbc.com/news/articles/cedp3lee059o?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Mon, 01 Jun 2026 21:50:52 GMT"
     },
     {
       "source": "BBC",
@@ -67,13 +74,6 @@
     },
     {
       "source": "BBC",
-      "title": "<![CDATA[Iran says it targeted American base after fresh US strikes]]>",
-      "link": "https://www.bbc.com/news/articles/c98r2qy5809o?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Thu, 28 May 2026 15:53:05 GMT"
-    },
-    {
-      "source": "BBC",
       "title": "<![CDATA[Are US and Iran close to peace or sliding back to war?]]>",
       "link": "https://www.bbc.com/news/articles/cze29764067o?at_medium=RSS&at_campaign=rss",
       "desc": "",
@@ -102,31 +102,10 @@
     },
     {
       "source": "BBC",
-      "title": "<![CDATA[Trump's hopes for an Iran peace deal come with caveats]]>",
-      "link": "https://www.bbc.com/news/articles/cvgzp74rvj5o?at_medium=RSS&at_campaign=rss",
+      "title": "<![CDATA[How much damage have Iranian strikes caused the US?]]>",
+      "link": "https://www.bbc.com/news/videos/c8xwzq2lq25o?at_medium=RSS&at_campaign=rss",
       "desc": "",
-      "pubDate": "Wed, 06 May 2026 17:32:04 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[Some Iranians fear the regime is now more entrenched - and ready for revenge]]>",
-      "link": "https://www.bbc.com/news/articles/clyp6xxyvzyo?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Sun, 03 May 2026 23:19:57 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[The clandestine network smuggling Starlink tech into Iran to beat internet blackout]]>",
-      "link": "https://www.bbc.com/news/articles/cvgzk91leweo?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Sat, 02 May 2026 23:17:17 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[British couple jailed in Iran: 'We're likely to be here for a long time']]>",
-      "link": "https://www.bbc.com/news/articles/c202pl60kv9o?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Fri, 01 May 2026 05:04:08 GMT"
+      "pubDate": "Mon, 01 Jun 2026 12:03:30 GMT"
     },
     {
       "source": "BBC",
@@ -136,11 +115,18 @@
       "pubDate": "Fri, 29 May 2026 00:10:53 GMT"
     },
     {
-      "source": "BBC",
-      "title": "<![CDATA['Hopefully we can pull it off' - Rubio on Iran deal]]>",
-      "link": "https://www.bbc.com/news/videos/clyppw9gqzwo?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Mon, 25 May 2026 07:13:16 GMT"
+      "source": "NPR",
+      "title": "Iran strikes Kuwait's main airport and kills 1 as ceasefire is tested again",
+      "link": "https://www.npr.org/2026/06/03/g-s1-125566/iran-war-updates",
+      "desc": "Kuwait briefly shut its main airport after Iranian drones struck a passenger terminal, the latest in back-and-forth attacks by Iran and the U.S. that test a fragile ceasefire.",
+      "pubDate": "Wed, 03 Jun 2026 02:45:30 -0400"
+    },
+    {
+      "source": "NPR",
+      "title": "Iran halts talks with U.S. over Israeli actions in Lebanon, Gaza",
+      "link": "https://www.npr.org/2026/06/01/g-s1-125285/iran-israel-us-lebanon-gaza",
+      "desc": "Trumps says Israel and Hezbollah will stop fighting after Iran stops talks with U.S. over Israeli operations in southern Lebanon, Gaza",
+      "pubDate": "Mon, 01 Jun 2026 17:28:48 -0400"
     }
   ]
 }
