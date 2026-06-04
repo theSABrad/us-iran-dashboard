@@ -1,27 +1,48 @@
 {
-  "lastUpdated": "2026-06-03T18:08:07.136471Z",
-  "count": 18,
+  "lastUpdated": "2026-06-04T10:44:21.573376Z",
+  "count": 22,
   "articles": [
     {
       "source": "Al Jazeera",
-      "title": "Iran\u2019s World Cup squad to depart for Mexico on June 6 despite US visa delay",
-      "link": "https://www.aljazeera.com/sports/2026/6/3/irans-world-cup-squad-to-depart-for-mexico-on-june-6-despite-us-visa-delay?traffic_source=rss",
+      "title": "US House votes to end Trump\u2019s Iran war: Does it matter?",
+      "link": "https://www.aljazeera.com/news/2026/6/4/us-house-votes-to-end-trumps-iran-war-does-it-matter?traffic_source=rss",
       "desc": "",
-      "pubDate": "Wed, 03 Jun 2026 13:35:06 +0000"
+      "pubDate": "Thu, 04 Jun 2026 09:49:24 +0000"
     },
     {
       "source": "Al Jazeera",
-      "title": "Kuwait and Bahrain attacked as Iran launches missile and drone barrage",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/3/kuwait-and-bahrain-attacked-as-iran-launches-missile-and-drone-barrage?traffic_source=rss",
+      "title": "Video: US House of Representatives votes to block further war on Iran",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/4/video-us-house-of-representatives-votes-to-block-further-war-on-iran?traffic_source=rss",
       "desc": "",
-      "pubDate": "Wed, 03 Jun 2026 12:56:11 +0000"
+      "pubDate": "Thu, 04 Jun 2026 08:38:42 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Iran war day 97: Tehran says no progress in talks; Israel attacks Lebanon",
+      "link": "https://www.aljazeera.com/news/2026/6/4/iran-war-day-97-tehran-says-no-progress-in-talks-israel-attacks-lebanon?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Thu, 04 Jun 2026 07:01:19 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "What the US-Israel war on Iran will not change in the Middle East",
+      "link": "https://www.aljazeera.com/opinions/2026/6/4/what-the-us-israel-war-on-iran-will-not-change-in-the-middle-east?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Thu, 04 Jun 2026 06:55:11 +0000"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA['Crazy' phone call between Trump and Netanyahu complicates Iran talks]]>",
+      "link": "https://www.bbc.com/news/articles/cvgz21pq3g6o?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Wed, 03 Jun 2026 20:28:01 GMT"
     },
     {
       "source": "BBC",
       "title": "<![CDATA[One killed and dozens injured in Iranian drone strikes on Kuwait airport]]>",
       "link": "https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&at_campaign=rss",
       "desc": "",
-      "pubDate": "Wed, 03 Jun 2026 14:02:25 GMT"
+      "pubDate": "Wed, 03 Jun 2026 20:05:58 GMT"
     },
     {
       "source": "BBC",
@@ -102,6 +123,13 @@
     },
     {
       "source": "BBC",
+      "title": "<![CDATA[Watch: New footage shows moment Iranian drone struck Kuwait airport]]>",
+      "link": "https://www.bbc.com/news/videos/c1j2640ln88o?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Thu, 04 Jun 2026 05:30:28 GMT"
+    },
+    {
+      "source": "BBC",
       "title": "<![CDATA[How much damage have Iranian strikes caused the US?]]>",
       "link": "https://www.bbc.com/news/videos/c8xwzq2lq25o?at_medium=RSS&at_campaign=rss",
       "desc": "",
@@ -113,20 +141,6 @@
       "link": "https://www.bbc.com/news/videos/crep48831p8o?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Fri, 29 May 2026 00:10:53 GMT"
-    },
-    {
-      "source": "NPR",
-      "title": "Iran strikes Kuwait's main airport and kills 1 as ceasefire is tested again",
-      "link": "https://www.npr.org/2026/06/03/g-s1-125566/iran-war-updates",
-      "desc": "Kuwait briefly shut its main airport after Iranian drones struck a passenger terminal, the latest in back-and-forth attacks by Iran and the U.S. that test a fragile ceasefire.",
-      "pubDate": "Wed, 03 Jun 2026 02:45:30 -0400"
-    },
-    {
-      "source": "NPR",
-      "title": "Iran halts talks with U.S. over Israeli actions in Lebanon, Gaza",
-      "link": "https://www.npr.org/2026/06/01/g-s1-125285/iran-israel-us-lebanon-gaza",
-      "desc": "Trumps says Israel and Hezbollah will stop fighting after Iran stops talks with U.S. over Israeli operations in southern Lebanon, Gaza",
-      "pubDate": "Mon, 01 Jun 2026 17:28:48 -0400"
     }
   ]
 }
