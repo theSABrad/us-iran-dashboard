@@ -1,34 +1,20 @@
 {
-  "lastUpdated": "2026-06-04T10:44:21.573376Z",
-  "count": 22,
+  "lastUpdated": "2026-06-04T19:48:16.077959Z",
+  "count": 20,
   "articles": [
     {
       "source": "Al Jazeera",
-      "title": "US House votes to end Trump\u2019s Iran war: Does it matter?",
-      "link": "https://www.aljazeera.com/news/2026/6/4/us-house-votes-to-end-trumps-iran-war-does-it-matter?traffic_source=rss",
+      "title": "\u2018Unpatriotic\u2019: Trump decries Republicans who voted to constrain Iran war",
+      "link": "https://www.aljazeera.com/news/2026/6/4/unpatriotic-trump-decries-republicans-who-voted-to-constrain-iran-war?traffic_source=rss",
       "desc": "",
-      "pubDate": "Thu, 04 Jun 2026 09:49:24 +0000"
+      "pubDate": "Thu, 04 Jun 2026 15:41:15 +0000"
     },
     {
       "source": "Al Jazeera",
-      "title": "Video: US House of Representatives votes to block further war on Iran",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/4/video-us-house-of-representatives-votes-to-block-further-war-on-iran?traffic_source=rss",
+      "title": "Iran footballers describe how war with US-Israel affects their World Cup",
+      "link": "https://www.aljazeera.com/sports/2026/6/4/iran-footballers-describe-how-war-with-us-israel-affects-their-world-cup?traffic_source=rss",
       "desc": "",
-      "pubDate": "Thu, 04 Jun 2026 08:38:42 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Iran war day 97: Tehran says no progress in talks; Israel attacks Lebanon",
-      "link": "https://www.aljazeera.com/news/2026/6/4/iran-war-day-97-tehran-says-no-progress-in-talks-israel-attacks-lebanon?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Thu, 04 Jun 2026 07:01:19 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "What the US-Israel war on Iran will not change in the Middle East",
-      "link": "https://www.aljazeera.com/opinions/2026/6/4/what-the-us-israel-war-on-iran-will-not-change-in-the-middle-east?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Thu, 04 Jun 2026 06:55:11 +0000"
+      "pubDate": "Thu, 04 Jun 2026 14:13:24 +0000"
     },
     {
       "source": "BBC",
@@ -67,13 +53,6 @@
     },
     {
       "source": "BBC",
-      "title": "<![CDATA[Iran attacks damage 20 US military sites since start of war, satellite images show]]>",
-      "link": "https://www.bbc.com/news/articles/c2l2yl7r8r2o?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Mon, 01 Jun 2026 05:33:18 GMT"
-    },
-    {
-      "source": "BBC",
       "title": "<![CDATA[Trump seeking edits to US-Iran deal, US media report]]>",
       "link": "https://www.bbc.com/news/articles/c1w2xve315do?at_medium=RSS&at_campaign=rss",
       "desc": "",
@@ -92,6 +71,13 @@
       "link": "https://www.bbc.com/news/articles/clypv9420l2o?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Thu, 28 May 2026 19:21:20 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[Iran attacks damage 20 US military sites since start of war, satellite images show]]>",
+      "link": "https://www.bbc.com/news/articles/c2l2yl7r8r2o?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Mon, 01 Jun 2026 05:33:18 GMT"
     },
     {
       "source": "BBC",
@@ -141,6 +127,20 @@
       "link": "https://www.bbc.com/news/videos/crep48831p8o?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Fri, 29 May 2026 00:10:53 GMT"
+    },
+    {
+      "source": "NPR",
+      "title": "Kuwait says Iranian drones hit airport and killed 1 as ceasefire is tested again",
+      "link": "https://www.npr.org/2026/06/03/g-s1-125566/iran-war-updates",
+      "desc": "Kuwait says Iranian drones have heavily damaged a passenger terminal at its main airport, killing one person, wounding dozens and briefly closing the airfield. Iran denies damaging the airport.",
+      "pubDate": "Wed, 03 Jun 2026 02:45:30 -0400"
+    },
+    {
+      "source": "The Hill",
+      "title": "Iran nuclear program relatively unchanged since start of war: IAEA",
+      "link": "https://thehill.com/homenews/5910409-iaea-report-iran-nuclear/",
+      "desc": "",
+      "pubDate": "Thu, 04 Jun 2026 19:18:11 +0000"
     }
   ]
 }
