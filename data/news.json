@@ -1,27 +1,48 @@
 {
-  "lastUpdated": "2026-06-05T08:58:33.181566Z",
-  "count": 20,
+  "lastUpdated": "2026-06-05T17:23:56.590221Z",
+  "count": 22,
   "articles": [
     {
       "source": "Al Jazeera",
-      "title": "French-Iranian Persepolis author Marjane Satrapi dies of \u2018sadness\u2019",
-      "link": "https://www.aljazeera.com/news/2026/6/5/french-iranian-persepolis-author-marjane-satrapi-dies-of-sadness?traffic_source=rss",
+      "title": "\u2018Red meat is a dream\u2019: Iran inflation hits highest level since World War II",
+      "link": "https://www.aljazeera.com/news/2026/6/5/red-meat-is-a-dream-iran-inflation-hits-highest-level-since-world-war-ii?traffic_source=rss",
       "desc": "",
-      "pubDate": "Fri, 05 Jun 2026 08:28:09 +0000"
+      "pubDate": "Fri, 05 Jun 2026 15:28:49 +0000"
     },
     {
       "source": "Al Jazeera",
-      "title": "Iran war day 98: Tehran raises doubts on deal as Lebanon fighting continues",
-      "link": "https://www.aljazeera.com/news/2026/6/5/iran-war-day-98-tehran-raises-doubts-on-deal-as-lebanon-fighting-continues?traffic_source=rss",
+      "title": "WFP: War on Iran pushing millions towards hunger",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/5/wfp-war-on-iran-pushing-millions-towards-hunger?traffic_source=rss",
       "desc": "",
-      "pubDate": "Fri, 05 Jun 2026 06:01:07 +0000"
+      "pubDate": "Fri, 05 Jun 2026 14:41:54 +0000"
     },
     {
       "source": "Al Jazeera",
-      "title": "Iran war live: Hezbollah rejects truce as Israel continues Lebanon strikes",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/6/5/iran-war-live-hezbollah-rejects-truce-as-israel-continues-lebanon-strikes?traffic_source=rss",
+      "title": "Are the US and Iran closer to war or to a deal?",
+      "link": "https://www.aljazeera.com/news/2026/6/5/are-us-and-iran-closer-to-war-or-to-a-deal?traffic_source=rss",
       "desc": "",
-      "pubDate": "Fri, 05 Jun 2026 00:00:00 +0000"
+      "pubDate": "Fri, 05 Jun 2026 14:33:19 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Gaza, Iran, Lebanon: If ceasefires are in place, why do strikes continue?",
+      "link": "https://www.aljazeera.com/news/2026/6/5/gaza-iran-lebanon-if-ceasefires-are-in-place-why-do-strikes-continue?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Fri, 05 Jun 2026 14:12:50 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Iran footballers hand passports to US embassy for World Cup visa approval",
+      "link": "https://www.aljazeera.com/sports/2026/6/5/iran-footballers-hand-passports-to-us-embassy-for-world-cup-visa-approval?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Fri, 05 Jun 2026 13:27:46 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "How the US naval blockade has bled Iran of nearly $6bn in oil revenues",
+      "link": "https://www.aljazeera.com/news/2026/6/5/how-the-us-naval-blockade-has-bled-iran-of-nearly-6bn-in-oil-revenues?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Fri, 05 Jun 2026 13:18:18 +0000"
     },
     {
       "source": "BBC",
@@ -120,27 +141,6 @@
       "link": "https://www.bbc.com/news/videos/c1j2640ln88o?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Thu, 04 Jun 2026 05:30:28 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[How much damage have Iranian strikes caused the US?]]>",
-      "link": "https://www.bbc.com/news/videos/c8xwzq2lq25o?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Mon, 01 Jun 2026 12:03:30 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[Are the US and Iran close to reaching a peace deal\u2026 again?]]>",
-      "link": "https://www.bbc.com/news/videos/crep48831p8o?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Fri, 29 May 2026 00:10:53 GMT"
-    },
-    {
-      "source": "The Hill",
-      "title": "Zelensky asks Putin to meet face-to-face, with US 'fully focused' on Iran",
-      "link": "https://thehill.com/policy/international/5911287-zelensky-seeks-meeting-with-putin/",
-      "desc": "",
-      "pubDate": "Fri, 05 Jun 2026 03:11:59 +0000"
     }
   ]
 }
