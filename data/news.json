@@ -1,20 +1,27 @@
 {
-  "lastUpdated": "2026-06-04T19:48:16.077959Z",
+  "lastUpdated": "2026-06-05T08:58:33.181566Z",
   "count": 20,
   "articles": [
     {
       "source": "Al Jazeera",
-      "title": "\u2018Unpatriotic\u2019: Trump decries Republicans who voted to constrain Iran war",
-      "link": "https://www.aljazeera.com/news/2026/6/4/unpatriotic-trump-decries-republicans-who-voted-to-constrain-iran-war?traffic_source=rss",
+      "title": "French-Iranian Persepolis author Marjane Satrapi dies of \u2018sadness\u2019",
+      "link": "https://www.aljazeera.com/news/2026/6/5/french-iranian-persepolis-author-marjane-satrapi-dies-of-sadness?traffic_source=rss",
       "desc": "",
-      "pubDate": "Thu, 04 Jun 2026 15:41:15 +0000"
+      "pubDate": "Fri, 05 Jun 2026 08:28:09 +0000"
     },
     {
       "source": "Al Jazeera",
-      "title": "Iran footballers describe how war with US-Israel affects their World Cup",
-      "link": "https://www.aljazeera.com/sports/2026/6/4/iran-footballers-describe-how-war-with-us-israel-affects-their-world-cup?traffic_source=rss",
+      "title": "Iran war day 98: Tehran raises doubts on deal as Lebanon fighting continues",
+      "link": "https://www.aljazeera.com/news/2026/6/5/iran-war-day-98-tehran-raises-doubts-on-deal-as-lebanon-fighting-continues?traffic_source=rss",
       "desc": "",
-      "pubDate": "Thu, 04 Jun 2026 14:13:24 +0000"
+      "pubDate": "Fri, 05 Jun 2026 06:01:07 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Iran war live: Hezbollah rejects truce as Israel continues Lebanon strikes",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/6/5/iran-war-live-hezbollah-rejects-truce-as-israel-continues-lebanon-strikes?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Fri, 05 Jun 2026 00:00:00 +0000"
     },
     {
       "source": "BBC",
@@ -129,18 +136,11 @@
       "pubDate": "Fri, 29 May 2026 00:10:53 GMT"
     },
     {
-      "source": "NPR",
-      "title": "Kuwait says Iranian drones hit airport and killed 1 as ceasefire is tested again",
-      "link": "https://www.npr.org/2026/06/03/g-s1-125566/iran-war-updates",
-      "desc": "Kuwait says Iranian drones have heavily damaged a passenger terminal at its main airport, killing one person, wounding dozens and briefly closing the airfield. Iran denies damaging the airport.",
-      "pubDate": "Wed, 03 Jun 2026 02:45:30 -0400"
-    },
-    {
       "source": "The Hill",
-      "title": "Iran nuclear program relatively unchanged since start of war: IAEA",
-      "link": "https://thehill.com/homenews/5910409-iaea-report-iran-nuclear/",
+      "title": "Zelensky asks Putin to meet face-to-face, with US 'fully focused' on Iran",
+      "link": "https://thehill.com/policy/international/5911287-zelensky-seeks-meeting-with-putin/",
       "desc": "",
-      "pubDate": "Thu, 04 Jun 2026 19:18:11 +0000"
+      "pubDate": "Fri, 05 Jun 2026 03:11:59 +0000"
     }
   ]
 }
