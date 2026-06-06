@@ -1,41 +1,34 @@
 {
-  "lastUpdated": "2026-06-06T09:13:37.791279Z",
-  "count": 23,
+  "lastUpdated": "2026-06-06T15:59:05.738802Z",
+  "count": 19,
   "articles": [
     {
       "source": "Al Jazeera",
-      "title": "US intercepts Iranian attacks as Israel continues to bomb Lebanon",
-      "link": "https://www.aljazeera.com/news/2026/6/6/us-intercepts-iranian-attacks-as-israel-continues-to-bomb-lebanon?traffic_source=rss",
+      "title": "Videos show Kuwait intercepting ballistic missiles from Iran",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/6/videos-show-kuwait-intercepting-ballistic-missiles-from-iran?traffic_source=rss",
       "desc": "",
-      "pubDate": "Sat, 06 Jun 2026 07:51:28 +0000"
+      "pubDate": "Sat, 06 Jun 2026 15:09:56 +0000"
     },
     {
       "source": "Al Jazeera",
-      "title": "US says Iranian radar sites hit in Goruk and Qeshm Island",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/6/us-says-iranian-radar-sites-hit-in-goruk-and-qeshm-island?traffic_source=rss",
+      "title": "Iran 2026 World Cup squad heads to Mexico as US visa dispute erupts",
+      "link": "https://www.aljazeera.com/sports/2026/6/6/iran-2026-world-cup-squad-heads-to-mexico-as-us-visa-dispute-erupts?traffic_source=rss",
       "desc": "",
-      "pubDate": "Sat, 06 Jun 2026 07:03:14 +0000"
+      "pubDate": "Sat, 06 Jun 2026 12:01:32 +0000"
     },
     {
-      "source": "Al Jazeera",
-      "title": "Iran war live: Iranian missiles target Kuwait, Bahrain after US-Iran clash",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/6/6/iran-war-live-us-says-iranian-drones-shot-down-radar-sites-attacked?traffic_source=rss",
+      "source": "BBC",
+      "title": "<![CDATA[US and Iran exchange strikes in Gulf in latest test of ceasefire]]>",
+      "link": "https://www.bbc.com/news/articles/cvgzgyjk2weo?at_medium=RSS&at_campaign=rss",
       "desc": "",
-      "pubDate": "Sat, 06 Jun 2026 00:00:00 +0000"
+      "pubDate": "Sat, 06 Jun 2026 14:46:20 GMT"
     },
     {
-      "source": "Al Jazeera",
-      "title": "Iran footballers issued US visas for World Cup, says White House",
-      "link": "https://www.aljazeera.com/sports/2026/6/5/iran-footballers-issued-us-visas-for-world-cup-says-white-house?traffic_source=rss",
+      "source": "BBC",
+      "title": "<![CDATA[Iran says staff blocked from entering US after players given World Cup visas]]>",
+      "link": "https://www.bbc.com/news/articles/cy8286nqz87o?at_medium=RSS&at_campaign=rss",
       "desc": "",
-      "pubDate": "Fri, 05 Jun 2026 20:49:40 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Trump hails jobs surge, says Iran talks \u2018going well\u2019",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/5/trump-hails-jobs-surge-says-iran-talks-going?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Fri, 05 Jun 2026 20:36:28 +0000"
+      "pubDate": "Sat, 06 Jun 2026 11:56:25 GMT"
     },
     {
       "source": "BBC",
@@ -78,20 +71,6 @@
       "link": "https://www.bbc.com/news/articles/c1w2xve315do?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Sun, 31 May 2026 22:54:20 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[US and Iran 'very close' to deal but 'not there yet', Vance says]]>",
-      "link": "https://www.bbc.com/news/articles/c87qng40wz9o?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Fri, 29 May 2026 09:17:35 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[US citizen sentenced in Iranian murder-for-hire plot targeting dissident in New York]]>",
-      "link": "https://www.bbc.com/news/articles/clypv9420l2o?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Thu, 28 May 2026 19:21:20 GMT"
     },
     {
       "source": "BBC",
@@ -141,6 +120,20 @@
       "link": "https://www.bbc.com/news/videos/c8xwzq2lq25o?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Mon, 01 Jun 2026 12:03:30 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[Are the US and Iran close to reaching a peace deal\u2026 again?]]>",
+      "link": "https://www.bbc.com/news/videos/crep48831p8o?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Fri, 29 May 2026 00:10:53 GMT"
+    },
+    {
+      "source": "NPR",
+      "title": "U.S. military says it shot down Iranian drones launched toward Gulf allies",
+      "link": "https://www.npr.org/2026/06/06/nx-s1-5848184/u-s-military-shot-down-iranian-drones",
+      "desc": "The exchange of strikes comes as the Trump administration ramps up pressure on Iran to make a deal to end the conflict.",
+      "pubDate": "Sat, 06 Jun 2026 00:15:26 -0400"
     }
   ]
 }
