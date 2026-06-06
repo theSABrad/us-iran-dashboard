@@ -1,7 +1,28 @@
 {
-  "lastUpdated": "2026-06-05T22:22:24.690176Z",
-  "count": 18,
+  "lastUpdated": "2026-06-06T09:13:37.791279Z",
+  "count": 23,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "US intercepts Iranian attacks as Israel continues to bomb Lebanon",
+      "link": "https://www.aljazeera.com/news/2026/6/6/us-intercepts-iranian-attacks-as-israel-continues-to-bomb-lebanon?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sat, 06 Jun 2026 07:51:28 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "US says Iranian radar sites hit in Goruk and Qeshm Island",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/6/us-says-iranian-radar-sites-hit-in-goruk-and-qeshm-island?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sat, 06 Jun 2026 07:03:14 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Iran war live: Iranian missiles target Kuwait, Bahrain after US-Iran clash",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/6/6/iran-war-live-us-says-iranian-drones-shot-down-radar-sites-attacked?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sat, 06 Jun 2026 00:00:00 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "Iran footballers issued US visas for World Cup, says White House",
@@ -120,13 +141,6 @@
       "link": "https://www.bbc.com/news/videos/c8xwzq2lq25o?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Mon, 01 Jun 2026 12:03:30 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[Are the US and Iran close to reaching a peace deal\u2026 again?]]>",
-      "link": "https://www.bbc.com/news/videos/crep48831p8o?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Fri, 29 May 2026 00:10:53 GMT"
     }
   ]
 }
