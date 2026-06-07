@@ -1,7 +1,49 @@
 {
-  "lastUpdated": "2026-06-07T16:53:56.009229Z",
-  "count": 21,
+  "lastUpdated": "2026-06-07T21:52:07.259749Z",
+  "count": 29,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Videos show missiles launched from Iran into Israel",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/7/videos-show-missiles-launched-from-iran-into-israel?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sun, 07 Jun 2026 21:14:51 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Iran fires missiles at Israel after Beirut attack \u2018crossed all red lines\u2019",
+      "link": "https://www.aljazeera.com/news/2026/6/7/iran-fires-missiles-at-israel-after-beirut-attack-crossed-all-red-lines?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sun, 07 Jun 2026 21:08:59 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Iran fires missiles at Israel after it attacked Beirut",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/7/iran-fires-missiles-at-israel-after-it-attacked-beirut?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sun, 07 Jun 2026 20:12:55 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Iran losing patience with Israel and US over ceasefire violations",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/7/iran-losing-patience-with-israel-and-us-over-ceasefire-violations?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sun, 07 Jun 2026 20:01:46 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Iranian World Cup excitement dulled by war and economic crisis",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/7/iranian-world-cup-excitement-dulled-by-war-and-economic-crisis?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sun, 07 Jun 2026 19:43:42 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Trump says will not unfreeze Iranian assets before ceasefire deal reached",
+      "link": "https://www.aljazeera.com/news/2026/6/7/trump-says-will-not-unfreeze-iranian-assets-before-ceasefire-deal-reached?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sun, 07 Jun 2026 16:49:44 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "Iran\u2019s World Cup squad lands in Mexico amid US visa row",
@@ -15,20 +57,6 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/6/7/irans-world-cup-team-arrives-in-mexico-as-us-visa-row-continues?traffic_source=rss",
       "desc": "",
       "pubDate": "Sun, 07 Jun 2026 15:16:16 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Missiles and negotiations: Iran 100 days into the war with US and Israel",
-      "link": "https://www.aljazeera.com/features/2026/6/7/missiles-and-negotiations-iran-100-days-into-the-war-with-us-and-israel?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Sun, 07 Jun 2026 14:14:29 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "100 days into Iran war, Americans face higher prices",
-      "link": "https://www.aljazeera.com/economy/2026/6/7/100-days-into-iran-war-americans-face-higher-prices?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Sun, 07 Jun 2026 13:25:04 +0000"
     },
     {
       "source": "BBC",
@@ -113,34 +141,6 @@
       "link": "https://www.bbc.com/news/articles/cn8p392nl7yo?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Sun, 17 May 2026 23:02:56 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[Iranian activist tells BBC how fear of war restarting intensifies trauma of repression]]>",
-      "link": "https://www.bbc.com/news/articles/c1m2ee3jxvro?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Sun, 10 May 2026 21:01:17 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[Watch: New footage shows moment Iranian drone struck Kuwait airport]]>",
-      "link": "https://www.bbc.com/news/videos/c1j2640ln88o?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Thu, 04 Jun 2026 05:30:28 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[How much damage have Iranian strikes caused the US?]]>",
-      "link": "https://www.bbc.com/news/videos/c8xwzq2lq25o?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Mon, 01 Jun 2026 12:03:30 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[Are the US and Iran close to reaching a peace deal\u2026 again?]]>",
-      "link": "https://www.bbc.com/news/videos/crep48831p8o?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Fri, 29 May 2026 00:10:53 GMT"
     }
   ]
 }
