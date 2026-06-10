@@ -1,41 +1,41 @@
 {
-  "lastUpdated": "2026-06-10T11:09:15.602201Z",
-  "count": 25,
+  "lastUpdated": "2026-06-10T21:19:29.986879Z",
+  "count": 23,
   "articles": [
     {
       "source": "Al Jazeera",
-      "title": "Iran fires missiles at US bases carrying images of killed commanders",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/10/iran-fires-missiles-at-us-bases-carrying-images-of-killed-commanders?traffic_source=rss",
+      "title": "Why Lebanon remains caught up in the Israel-Iran conflict",
+      "link": "https://www.aljazeera.com/video/the-take-2/2026/6/10/aje-onl-aj_tt_irn_next100day-100626?traffic_source=rss",
       "desc": "",
-      "pubDate": "Wed, 10 Jun 2026 09:45:33 +0000"
+      "pubDate": "Wed, 10 Jun 2026 18:54:40 +0000"
     },
     {
       "source": "Al Jazeera",
-      "title": "Explosion in Bahrain as Iran attacks US bases",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/10/explosion-in-bahrain-as-iran-attacks-us-bases?traffic_source=rss",
+      "title": "Iran says it will \u2018not hesitate\u2019 to defend itself after latest clashes",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/10/iran-says-it-will-not-hesitate-to-defend-itself-after-latest-clashes?traffic_source=rss",
       "desc": "",
-      "pubDate": "Wed, 10 Jun 2026 07:40:53 +0000"
+      "pubDate": "Wed, 10 Jun 2026 18:38:23 +0000"
     },
     {
       "source": "Al Jazeera",
-      "title": "Iran war day 103: US strikes after helicopter shot down, Tehran hits back",
-      "link": "https://www.aljazeera.com/news/2026/6/10/iran-war-day-103-us-strikes-after-helicopter-shot-down-tehran-hits-back?traffic_source=rss",
+      "title": "Trump warns of more attacks on Iran after US Apache helicopter downing",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/10/trump-warns-of-more-attacks-on-iran-after-us-apache-helicopter-downing?traffic_source=rss",
       "desc": "",
-      "pubDate": "Wed, 10 Jun 2026 07:16:39 +0000"
+      "pubDate": "Wed, 10 Jun 2026 18:22:13 +0000"
     },
     {
       "source": "Al Jazeera",
-      "title": "Trita Parsi: Iran is pursuing a doctrine of swift retaliation",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/10/aje-onl-nf_trita-parsi_iran-doctrine-of-swift-retaliation-100626?traffic_source=rss",
+      "title": "Trump hardens tone against Iran, says \u2018may keep going\u2019 with strikes",
+      "link": "https://www.aljazeera.com/news/2026/6/10/trump-hardens-tone-against-iran-says-may-keep-going-with-strikes?traffic_source=rss",
       "desc": "",
-      "pubDate": "Wed, 10 Jun 2026 05:38:16 +0000"
+      "pubDate": "Wed, 10 Jun 2026 15:53:21 +0000"
     },
     {
-      "source": "Al Jazeera",
-      "title": "Jordan intercepts Iranian missiles over its airspace",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/10/jordan-intercepts-iranian-missiles-over-its-airspace?traffic_source=rss",
+      "source": "BBC",
+      "title": "<![CDATA[Trump says US will hit Iran 'hard' again today]]>",
+      "link": "https://www.bbc.com/news/articles/ce371kw2ex2o?at_medium=RSS&at_campaign=rss",
       "desc": "",
-      "pubDate": "Wed, 10 Jun 2026 04:19:07 +0000"
+      "pubDate": "Wed, 10 Jun 2026 17:33:22 GMT"
     },
     {
       "source": "BBC",
@@ -78,20 +78,6 @@
       "link": "https://www.bbc.com/news/articles/cvgzgyjk2weo?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Sat, 06 Jun 2026 14:46:20 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA['Crazy' phone call between Trump and Netanyahu complicates Iran talks]]>",
-      "link": "https://www.bbc.com/news/articles/cvgz21pq3g6o?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Wed, 03 Jun 2026 20:28:01 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[One killed and dozens injured in Iranian drone strikes on Kuwait airport]]>",
-      "link": "https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Wed, 03 Jun 2026 20:05:58 GMT"
     },
     {
       "source": "BBC",
@@ -141,6 +127,20 @@
       "link": "https://www.bbc.com/news/videos/c1j2640ln88o?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Thu, 04 Jun 2026 05:30:28 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[How much damage have Iranian strikes caused the US?]]>",
+      "link": "https://www.bbc.com/news/videos/c8xwzq2lq25o?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Mon, 01 Jun 2026 12:03:30 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[Are the US and Iran close to reaching a peace deal\u2026 again?]]>",
+      "link": "https://www.bbc.com/news/videos/crep48831p8o?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Fri, 29 May 2026 00:10:53 GMT"
     }
   ]
 }
