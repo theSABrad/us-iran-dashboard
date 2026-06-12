@@ -1,20 +1,55 @@
 {
-  "lastUpdated": "2026-06-12T12:35:51.906413Z",
-  "count": 22,
+  "lastUpdated": "2026-06-12T21:18:40.737386Z",
+  "count": 30,
   "articles": [
     {
       "source": "Al Jazeera",
-      "title": "Video: What Iran\u2019s football fans think about the World Cup",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/12/video-what-irans-football-fans-think-about-the-world-cup?traffic_source=rss",
+      "title": "UAE to unlock frozen Iranian funds amid US ceasefire push",
+      "link": "https://www.aljazeera.com/news/2026/6/12/uae-to-unlock-frozen-iranian-funds-amid-us-ceasefire-push?traffic_source=rss",
       "desc": "",
-      "pubDate": "Fri, 12 Jun 2026 09:34:33 +0000"
+      "pubDate": "Fri, 12 Jun 2026 20:58:41 +0000"
     },
     {
       "source": "Al Jazeera",
-      "title": "US-Iran ceasefire? Not for Indian sailors being killed in Hormuz",
-      "link": "https://www.aljazeera.com/news/2026/6/12/us-iran-ceasefire-not-for-indian-sailors-being-killed-in-hormuz?traffic_source=rss",
+      "title": "Will there be a deal to end the Iran war this time?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/6/12/will-there-be-a-deal-to-end-the-iran-war-this-time?traffic_source=rss",
       "desc": "",
-      "pubDate": "Fri, 12 Jun 2026 07:49:29 +0000"
+      "pubDate": "Fri, 12 Jun 2026 20:44:04 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "US Congressman says Trump won\u2019t send loads of money to Iran",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/12/us-congressman-says-trump-wont-send-loads-of-money-to-iran?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Fri, 12 Jun 2026 19:53:19 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Can Pakistan push the US-Iran deal over the finish line?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/12/can-pakistan-push-the-us-iran-deal-over-the-finish-line?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Fri, 12 Jun 2026 19:20:15 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "How the Gulf will manage collective security after the Iran war ends",
+      "link": "https://www.aljazeera.com/news/2026/6/12/how-the-gulf-will-manage-collective-security-after-the-iran-war-ends?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Fri, 12 Jun 2026 18:48:41 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Iran: No timeline yet for signing US deal",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/12/iran-no-timeline-yet-for-signing-us-deal?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Fri, 12 Jun 2026 17:39:03 +0000"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[Deal to end fighting would lead to Hormuz reopening, Iran says]]>",
+      "link": "https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Fri, 12 Jun 2026 21:04:05 GMT"
     },
     {
       "source": "BBC",
@@ -106,41 +141,6 @@
       "link": "https://www.bbc.com/news/articles/cn8p392nl7yo?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Sun, 17 May 2026 23:02:56 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[Watch: New footage shows moment Iranian drone struck Kuwait airport]]>",
-      "link": "https://www.bbc.com/news/videos/c1j2640ln88o?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Thu, 04 Jun 2026 05:30:28 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[How much damage have Iranian strikes caused the US?]]>",
-      "link": "https://www.bbc.com/news/videos/c8xwzq2lq25o?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Mon, 01 Jun 2026 12:03:30 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[Are the US and Iran close to reaching a peace deal\u2026 again?]]>",
-      "link": "https://www.bbc.com/news/videos/crep48831p8o?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Fri, 29 May 2026 00:10:53 GMT"
-    },
-    {
-      "source": "NPR",
-      "title": "Trump cancels further Iran strikes. And, U.S. men's soccer takes on Paraguay",
-      "link": "https://www.npr.org/2026/06/12/g-s1-127711/up-first-newsletter-iran-peace-national-intelligence-director-world-cup",
-      "desc": "Trump canceled new Iran strikes and signaled that a peace deal could come soon, but Iran says it hasn't been finalized. And, the U.S. men's soccer team plays its first 2026 World Cup match today.",
-      "pubDate": "Fri, 12 Jun 2026 06:42:59 -0400"
-    },
-    {
-      "source": "NPR",
-      "title": "Trump now says a peace deal will be announced 'soon,' cancels further strikes",
-      "link": "https://www.npr.org/2026/06/11/nx-s1-5854970/trump-iran-peace-deal-cancel-strikes",
-      "desc": "President Trump had previously been amping up his rhetoric against Iran.",
-      "pubDate": "Thu, 11 Jun 2026 16:04:52 -0400"
     }
   ]
 }
