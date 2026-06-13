@@ -1,7 +1,35 @@
 {
-  "lastUpdated": "2026-06-13T10:12:55.091400Z",
-  "count": 24,
+  "lastUpdated": "2026-06-13T17:01:30.431016Z",
+  "count": 26,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "As Iran and US near a deal, Tehran remembers another recent bloody conflict",
+      "link": "https://www.aljazeera.com/news/2026/6/13/as-iran-and-us-near-a-peace-deal-tehran-remembers-another-bloody-conflict?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sat, 13 Jun 2026 15:43:27 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Iranians divided on peace prospects after US-Iran say a deal is near",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/13/iranians-divided-on-peace-prospects-after-us-iran-say-a-deal-is-near?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sat, 13 Jun 2026 15:19:16 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "\u2018Lots of things can still go wrong\u2019 with US-Iran deal to end the war",
+      "link": "https://www.aljazeera.com/video/quotable/2026/6/13/lots-of-things-can-still-go-wrong-with-us-iran-deal-to-end-the-war?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sat, 13 Jun 2026 12:43:08 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Iran announces funeral, burial dates for late Supreme Leader Khamenei",
+      "link": "https://www.aljazeera.com/news/2026/6/13/iran-announces-funeral-burial-dates-for-late-supreme-leader-khamenei?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sat, 13 Jun 2026 12:11:25 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "Iran war day 106: US and Iran say deal close but Lebanon fighting continues",
@@ -10,18 +38,11 @@
       "pubDate": "Sat, 13 Jun 2026 09:12:30 +0000"
     },
     {
-      "source": "Al Jazeera",
-      "title": "Trump seeks \u2018off-ramp\u2019 from war in \u2018Iran deal\u2019",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/13/trump-seeks-off-ramp-from-war-in-iran?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Sat, 13 Jun 2026 07:23:26 +0000"
-    },
-    {
       "source": "BBC",
-      "title": "<![CDATA[Deal to end fighting would lead to Hormuz reopening, Iran says]]>",
+      "title": "<![CDATA[Israel carries out air strikes on Lebanon, state media says, as Iran claims deal with US near]]>",
       "link": "https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&at_campaign=rss",
       "desc": "",
-      "pubDate": "Sat, 13 Jun 2026 00:51:20 GMT"
+      "pubDate": "Sat, 13 Jun 2026 11:15:18 GMT"
     },
     {
       "source": "BBC",
@@ -120,27 +141,6 @@
       "link": "https://www.bbc.com/news/videos/c1j2640ln88o?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Thu, 04 Jun 2026 05:30:28 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[How much damage have Iranian strikes caused the US?]]>",
-      "link": "https://www.bbc.com/news/videos/c8xwzq2lq25o?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Mon, 01 Jun 2026 12:03:30 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[Are the US and Iran close to reaching a peace deal\u2026 again?]]>",
-      "link": "https://www.bbc.com/news/videos/crep48831p8o?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Fri, 29 May 2026 00:10:53 GMT"
-    },
-    {
-      "source": "NPR",
-      "title": "Trump cancels further Iran strikes. And, U.S. men's soccer takes on Paraguay",
-      "link": "https://www.npr.org/2026/06/12/g-s1-127711/up-first-newsletter-iran-peace-national-intelligence-director-world-cup",
-      "desc": "Trump canceled new Iran strikes and signaled that a peace deal could come soon, but Iran says it hasn't been finalized. And, the U.S. men's soccer team plays its first 2026 World Cup match today.",
-      "pubDate": "Fri, 12 Jun 2026 06:42:59 -0400"
     }
   ]
 }
