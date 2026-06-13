@@ -1,7 +1,28 @@
 {
-  "lastUpdated": "2026-06-13T17:01:30.431016Z",
-  "count": 26,
+  "lastUpdated": "2026-06-13T21:52:32.354394Z",
+  "count": 28,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Israel attacks Lebanon as US says Iran deal to be signed on Sunday",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/13/israel-attacks-lebanon-as-us-says-iran-deal-to-be-signed-on-sunday?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sat, 13 Jun 2026 20:40:06 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Trump says Iran deal to be signed tomorrow, contradicting Iranian official",
+      "link": "https://www.aljazeera.com/news/2026/6/13/trump-says-iran-deal-to-be-signed-tomorrow-contradicting-iranian-official?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sat, 13 Jun 2026 18:17:43 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "US President Trump says US-Iran deal to be signed tomorrow",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/13/us-president-trump-says-us-iran-deal-to-be-signed-tomorrow?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sat, 13 Jun 2026 18:02:31 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "As Iran and US near a deal, Tehran remembers another recent bloody conflict",
@@ -15,27 +36,6 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/6/13/iranians-divided-on-peace-prospects-after-us-iran-say-a-deal-is-near?traffic_source=rss",
       "desc": "",
       "pubDate": "Sat, 13 Jun 2026 15:19:16 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "\u2018Lots of things can still go wrong\u2019 with US-Iran deal to end the war",
-      "link": "https://www.aljazeera.com/video/quotable/2026/6/13/lots-of-things-can-still-go-wrong-with-us-iran-deal-to-end-the-war?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Sat, 13 Jun 2026 12:43:08 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Iran announces funeral, burial dates for late Supreme Leader Khamenei",
-      "link": "https://www.aljazeera.com/news/2026/6/13/iran-announces-funeral-burial-dates-for-late-supreme-leader-khamenei?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Sat, 13 Jun 2026 12:11:25 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Iran war day 106: US and Iran say deal close but Lebanon fighting continues",
-      "link": "https://www.aljazeera.com/news/2026/6/13/iran-war-day-106-us-and-iran-say-deal-close-but-lebanon-fighting-continues?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Sat, 13 Jun 2026 09:12:30 +0000"
     },
     {
       "source": "BBC",
