@@ -1,41 +1,20 @@
 {
-  "lastUpdated": "2026-06-14T17:01:00.047609Z",
-  "count": 30,
+  "lastUpdated": "2026-06-14T21:59:40.134033Z",
+  "count": 25,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Trump says Israeli attacks on Beirut unjustified, puts Iran deal at risk",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/14/trump-says-israeli-attacks-on-beirut-unjustified-puts-iran-deal-at-risk?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sun, 14 Jun 2026 18:51:49 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "Analyst says what attacks on Lebanon could mean for potential US-Iran deal",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/6/14/analyst-says-what-attacks-on-lebanon-could-mean-for-potential-us-iran-deal?traffic_source=rss",
       "desc": "",
       "pubDate": "Sun, 14 Jun 2026 16:32:09 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Trump condemns Israel\u2019s attack on Beirut, says Iran deal still close",
-      "link": "https://www.aljazeera.com/news/2026/6/14/trump-condemns-israel-attack-on-beirut-says-iran-deal-still-close?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Sun, 14 Jun 2026 15:22:36 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Anticipation, pushback in Iran as mediators work to finalise deal with US",
-      "link": "https://www.aljazeera.com/news/2026/6/14/anticipation-pushback-in-iran-as-mediators-work-to-finalise-deal-with-us?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Sun, 14 Jun 2026 12:58:08 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Israel attacks Beirut on same day Trump says Iran deal to be signed",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/14/israel-attacks-beirut-on-same-day-trump-says-iran-deal-to-be-signed?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Sun, 14 Jun 2026 11:15:23 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Will the US-Iran deal be signed on Sunday? What we know so far",
-      "link": "https://www.aljazeera.com/news/2026/6/14/will-the-us-iran-deal-be-signed-on-sunday-what-we-know-so-far?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Sun, 14 Jun 2026 09:18:22 +0000"
     },
     {
       "source": "BBC",
@@ -141,6 +120,27 @@
       "link": "https://www.bbc.com/news/videos/c1j2640ln88o?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Thu, 04 Jun 2026 05:30:28 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[How much damage have Iranian strikes caused the US?]]>",
+      "link": "https://www.bbc.com/news/videos/c8xwzq2lq25o?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Mon, 01 Jun 2026 12:03:30 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[Are the US and Iran close to reaching a peace deal\u2026 again?]]>",
+      "link": "https://www.bbc.com/news/videos/crep48831p8o?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Fri, 29 May 2026 00:10:53 GMT"
+    },
+    {
+      "source": "NPR",
+      "title": "As Iranians wait for a peace agreement, their economy is fraying",
+      "link": "https://www.npr.org/2026/06/14/nx-s1-5854607/as-iranians-wait-for-a-peace-agreement-their-economy-is-fraying",
+      "desc": "Many Iranians say they can no longer afford the lives they once had. Writer and historian Arash Azizi talks with NPR's Adrian Florido about the economic pressures reshaping daily life.",
+      "pubDate": "Sun, 14 Jun 2026 17:23:24 -0400"
     }
   ]
 }
