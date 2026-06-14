@@ -1,7 +1,35 @@
 {
-  "lastUpdated": "2026-06-14T10:40:23.092834Z",
-  "count": 27,
+  "lastUpdated": "2026-06-14T17:01:00.047609Z",
+  "count": 30,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Analyst says what attacks on Lebanon could mean for potential US-Iran deal",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/14/analyst-says-what-attacks-on-lebanon-could-mean-for-potential-us-iran-deal?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sun, 14 Jun 2026 16:32:09 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Trump condemns Israel\u2019s attack on Beirut, says Iran deal still close",
+      "link": "https://www.aljazeera.com/news/2026/6/14/trump-condemns-israel-attack-on-beirut-says-iran-deal-still-close?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sun, 14 Jun 2026 15:22:36 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Anticipation, pushback in Iran as mediators work to finalise deal with US",
+      "link": "https://www.aljazeera.com/news/2026/6/14/anticipation-pushback-in-iran-as-mediators-work-to-finalise-deal-with-us?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sun, 14 Jun 2026 12:58:08 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Israel attacks Beirut on same day Trump says Iran deal to be signed",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/14/israel-attacks-beirut-on-same-day-trump-says-iran-deal-to-be-signed?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sun, 14 Jun 2026 11:15:23 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "Will the US-Iran deal be signed on Sunday? What we know so far",
@@ -10,32 +38,11 @@
       "pubDate": "Sun, 14 Jun 2026 09:18:22 +0000"
     },
     {
-      "source": "Al Jazeera",
-      "title": "Signing of US-Iran deal not on Trump\u2019s public schedule",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/14/signing-of-us-iran-deal-not-on-trumps-public-schedule?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Sun, 14 Jun 2026 07:56:10 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Iran war day 107: Washington, Tehran close to signing first stage of deal",
-      "link": "https://www.aljazeera.com/news/2026/6/14/iran-war-day-107-washington-tehran-close-to-signing-first-stage-of-deal?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Sun, 14 Jun 2026 07:24:02 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Iran war live: Trump says deal to be signed today; Tehran disputes timing",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/6/14/iran-war-live-trump-says-deal-to-be-signed-today-as-tehran-urges-caution?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Sun, 14 Jun 2026 00:00:00 +0000"
-    },
-    {
       "source": "BBC",
       "title": "<![CDATA[Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing]]>",
       "link": "https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&at_campaign=rss",
       "desc": "",
-      "pubDate": "Sun, 14 Jun 2026 07:55:16 GMT"
+      "pubDate": "Sun, 14 Jun 2026 11:23:36 GMT"
     },
     {
       "source": "BBC",
@@ -134,13 +141,6 @@
       "link": "https://www.bbc.com/news/videos/c1j2640ln88o?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Thu, 04 Jun 2026 05:30:28 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[How much damage have Iranian strikes caused the US?]]>",
-      "link": "https://www.bbc.com/news/videos/c8xwzq2lq25o?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Mon, 01 Jun 2026 12:03:30 GMT"
     }
   ]
 }
