@@ -1,41 +1,27 @@
 {
-  "lastUpdated": "2026-06-16T23:11:56.825832Z",
-  "count": 35,
+  "lastUpdated": "2026-06-17T13:01:32.419013Z",
+  "count": 34,
   "articles": [
     {
       "source": "Al Jazeera",
-      "title": "Iran, Ukraine dominate G7 summit",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/16/iran-ukraine-dominate-g7-summit?traffic_source=rss",
+      "title": "China pledges new humanitarian aid packages for Lebanon and Iran",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/17/china-pledges-new-humanitarian-aid-packages-for-lebanon-and-iran?traffic_source=rss",
       "desc": "",
-      "pubDate": "Tue, 16 Jun 2026 20:36:36 +0000"
+      "pubDate": "Wed, 17 Jun 2026 12:26:57 +0000"
     },
     {
       "source": "Al Jazeera",
-      "title": "Iranian fans honour Minab victims at World Cup match",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/16/iranian-fans-honour-minab-victims-at-world-cup-match?traffic_source=rss",
+      "title": "Iranian tankers exit US blockade zone before talks to end war",
+      "link": "https://www.aljazeera.com/news/2026/6/17/first-iranian-tankers-exit-us-blockade-zone-ahead-of-peace-talks?traffic_source=rss",
       "desc": "",
-      "pubDate": "Tue, 16 Jun 2026 20:29:23 +0000"
+      "pubDate": "Wed, 17 Jun 2026 08:57:25 +0000"
     },
     {
       "source": "Al Jazeera",
-      "title": "What has Iran won and lost from this war?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/6/16/what-has-iran-won-and-lost-from-this-war?traffic_source=rss",
+      "title": "Iran war day 110: Tehran says Israeli attacks on Lebanon threaten US deal",
+      "link": "https://www.aljazeera.com/news/2026/6/17/iran-war-day-110-tehran-says-israeli-attacks-on-lebanon-threaten-us-deal?traffic_source=rss",
       "desc": "",
-      "pubDate": "Tue, 16 Jun 2026 19:16:42 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "\u2018I know what you\u2019ve been through\u2019: FIFA president visits Iran team",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/16/i-know-what-youve-been-through-fifa-president-visits-iran-team?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Tue, 16 Jun 2026 18:46:52 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Qatar renews mediation efforts for regional stability after US-Iran deal",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/16/aje-onl-nf_qatar-renews-mediation-efforts-after-us-iran-deal-160626?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Tue, 16 Jun 2026 16:51:19 +0000"
+      "pubDate": "Wed, 17 Jun 2026 07:24:12 +0000"
     },
     {
       "source": "BBC",
@@ -116,6 +102,13 @@
     },
     {
       "source": "BBC",
+      "title": "<![CDATA[The bikers battling extreme heat and armed conflict to smuggle Iranian fuel to Pakistan]]>",
+      "link": "https://www.bbc.com/news/articles/c621jr3yy09o?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Tue, 16 Jun 2026 23:52:37 GMT"
+    },
+    {
+      "source": "BBC",
       "title": "<![CDATA[Trump aims to end Iran war but nuclear issue remains unresolved]]>",
       "link": "https://www.bbc.com/news/articles/cqj1zxv1jyeo?at_medium=RSS&at_campaign=rss",
       "desc": "",
@@ -141,6 +134,13 @@
       "link": "https://www.bbc.com/news/articles/cedp3lee059o?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Mon, 01 Jun 2026 21:50:52 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[Iran attacks damage 20 US military sites since start of war, satellite images show]]>",
+      "link": "https://www.bbc.com/news/articles/c2l2yl7r8r2o?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Mon, 01 Jun 2026 05:33:18 GMT"
     }
   ]
 }
