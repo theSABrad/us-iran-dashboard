@@ -1,7 +1,21 @@
 {
-  "lastUpdated": "2026-06-18T22:30:35.384066Z",
-  "count": 36,
+  "lastUpdated": "2026-06-19T02:51:36.494381Z",
+  "count": 35,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "EU won\u2019t lift key Iran sanctions until formal nuclear deal reached",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/19/eu-wont-lift-key-iran-sanctions-until-formal-nuclear-deal-reached?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Fri, 19 Jun 2026 00:41:33 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Iran war live: JD Vance delays trip to Switzerland for talks with Tehran",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/6/19/iran-war-live-jd-vance-defends-iran-deal-as-us-says-naval-blockade-lifted?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Fri, 19 Jun 2026 00:00:09 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "Pro-Israel hawks in US criticise Iran MoU but avoid clashing with Trump",
@@ -22,27 +36,6 @@
       "link": "https://www.aljazeera.com/news/2026/6/18/mous-300bn-iran-reconstruction-fund-becomes-us-political-flashpoint?traffic_source=rss",
       "desc": "",
       "pubDate": "Thu, 18 Jun 2026 19:52:17 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "US military says it has lifted naval blockade of Iranian ports",
-      "link": "https://www.aljazeera.com/news/2026/6/18/us-military-says-it-has-lifted-naval-blockade-of-iranian-ports?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Thu, 18 Jun 2026 19:43:20 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Pakistan signs US-Iran MoU",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/18/pakistan-signs-us-iran-mou?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Thu, 18 Jun 2026 18:14:55 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "US vice president slams Israel over criticism of Trump\u2019s Iran deal",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/18/us-vice-president-slams-israel-over-criticism-of-trumps-iran-deal?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Thu, 18 Jun 2026 17:35:48 +0000"
     },
     {
       "source": "BBC",
@@ -141,6 +134,13 @@
       "link": "https://www.bbc.com/news/articles/cqj1zxv1jyeo?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Mon, 15 Jun 2026 13:54:18 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[Trump heralds Iran deal but questions - and risks - remain]]>",
+      "link": "https://www.bbc.com/news/articles/c9824e0rz75o?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Mon, 15 Jun 2026 02:41:25 GMT"
     }
   ]
 }
