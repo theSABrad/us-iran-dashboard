@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-06-20T06:53:56.220146Z",
-  "count": 35,
+  "lastUpdated": "2026-06-20T11:06:56.290279Z",
+  "count": 36,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Trump\u2019s Iran deal, Israel\u2019s meltdown",
+      "link": "https://www.aljazeera.com/video/the-listening-post/2026/6/20/trumps-iran-deal-israels-meltdown?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sat, 20 Jun 2026 09:45:56 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "Iran war day 113: Tehran presses US over Lebanon ceasefire",
@@ -11,24 +18,10 @@
     },
     {
       "source": "Al Jazeera",
-      "title": "Iran war live: Tehran says US must ensure Israel ends attacks on Lebanon",
+      "title": "Iran war live: Diplomacy \u2018back in motion\u2019 in Switzerland, Iran, Egypt",
       "link": "https://www.aljazeera.com/news/liveblog/2026/6/20/iran-war-live-tehran-says-us-must-ensure-israel-ends-attacks-on-lebanon?traffic_source=rss",
       "desc": "",
       "pubDate": "Sat, 20 Jun 2026 00:00:11 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Does Trump have to submit the Iran memorandum of understanding to Congress?",
-      "link": "https://www.aljazeera.com/news/2026/6/19/does-trump-have-to-submit-the-iran-memorandum-of-understanding-to-congress?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Fri, 19 Jun 2026 21:10:56 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Iran deputy FM says \u2018ready to move forward\u2019 in deal with US",
-      "link": "https://www.aljazeera.com/news/2026/6/19/iran-deputy-fm-says-ready-to-move-forward-in-deal-with-us?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Fri, 19 Jun 2026 20:03:18 +0000"
     },
     {
       "source": "BBC",
@@ -141,6 +134,13 @@
       "link": "https://www.bbc.com/news/articles/cqj1zxv1jyeo?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Mon, 15 Jun 2026 13:54:18 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[Trump heralds Iran deal but questions - and risks - remain]]>",
+      "link": "https://www.bbc.com/news/articles/c9824e0rz75o?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Mon, 15 Jun 2026 02:41:25 GMT"
     }
   ]
 }
