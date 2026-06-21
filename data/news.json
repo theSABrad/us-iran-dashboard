@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-06-21T11:38:39.124238Z",
-  "count": 43,
+  "lastUpdated": "2026-06-21T13:45:31.289653Z",
+  "count": 44,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Why Lebanon may make or break the Iran-US deal",
+      "link": "https://www.aljazeera.com/news/2026/6/21/why-lebanon-may-make-or-break-the-iran-us-deal?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sun, 21 Jun 2026 13:11:50 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "US-Iran delegations arrive as talks begin in Switzerland",
@@ -60,7 +67,7 @@
     },
     {
       "source": "BBC",
-      "title": "<![CDATA[US-Iran talks to begin in Switzerland as Tehran says it closed Strait of Hormuz]]>",
+      "title": "<![CDATA[US-Iran talks begin in Switzerland as Tehran says it closed Strait of Hormuz]]>",
       "link": "https://www.bbc.com/news/articles/cwyekkwm1mmo?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Sun, 21 Jun 2026 04:34:00 GMT"
@@ -134,13 +141,6 @@
       "link": "https://www.bbc.com/news/articles/cy735xlv50ko?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Fri, 19 Jun 2026 05:33:59 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[What Iran and US get from deal and why both could struggle to keep it]]>",
-      "link": "https://www.bbc.com/news/articles/c932yqz8lggo?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Thu, 18 Jun 2026 20:04:40 GMT"
     }
   ]
 }
