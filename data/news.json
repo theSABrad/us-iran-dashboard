@@ -1,7 +1,28 @@
 {
-  "lastUpdated": "2026-06-20T21:58:37.822207Z",
-  "count": 44,
+  "lastUpdated": "2026-06-21T02:36:57.078188Z",
+  "count": 46,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Iran war live: Vance heads to Switzerland; Israel kills 16 in Lebanon",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/6/21/iran-war-live-vance-heads-to-switzerland-israel-kills-16-in-lebanon?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sun, 21 Jun 2026 00:00:00 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "US refuses to ease Iran World Cup travel restrictions for Belgium match",
+      "link": "https://www.aljazeera.com/sports/2026/6/20/us-refuses-to-ease-iran-world-cup-travel-restrictions-for-belgium-match?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sat, 20 Jun 2026 23:45:36 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Iranian delegation arrives in Switzerland for US peace talks",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/20/iranian-delegation-arrives-in-switzerland-for-us-peace-talks?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sat, 20 Jun 2026 23:39:45 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "Trump vows Iran will not charge Strait of Hormuz tolls, but says US might",
@@ -45,18 +66,11 @@
       "pubDate": "Sat, 20 Jun 2026 15:10:37 +0000"
     },
     {
-      "source": "Al Jazeera",
-      "title": "Where do Iran\u2019s political factions stand on the US peace deal?",
-      "link": "https://www.aljazeera.com/news/2026/6/20/where-do-irans-political-factions-stand-on-the-us-peace-deal?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Sat, 20 Jun 2026 13:05:19 +0000"
-    },
-    {
       "source": "BBC",
-      "title": "<![CDATA[Iran says it has closed Strait of Hormuz over Israel attacks on Lebanon]]>",
+      "title": "<![CDATA[US-Iran talks to begin in Switzerland as Tehran says it closed Strait of Hormuz]]>",
       "link": "https://www.bbc.com/news/articles/cwyekkwm1mmo?at_medium=RSS&at_campaign=rss",
       "desc": "",
-      "pubDate": "Sat, 20 Jun 2026 21:11:57 GMT"
+      "pubDate": "Sun, 21 Jun 2026 01:46:31 GMT"
     },
     {
       "source": "BBC",
@@ -127,20 +141,6 @@
       "link": "https://www.bbc.com/news/articles/cy735xlv50ko?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Fri, 19 Jun 2026 05:33:59 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[What Iran and US get from deal and why both could struggle to keep it]]>",
-      "link": "https://www.bbc.com/news/articles/c932yqz8lggo?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Thu, 18 Jun 2026 20:04:40 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[What's in the US-Iran agreement?]]>",
-      "link": "https://www.bbc.com/news/articles/cvgmqzr6p9mo?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Thu, 18 Jun 2026 01:28:02 GMT"
     }
   ]
 }
