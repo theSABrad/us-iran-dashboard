@@ -1,7 +1,35 @@
 {
-  "lastUpdated": "2026-06-21T22:07:27.045088Z",
-  "count": 42,
+  "lastUpdated": "2026-06-22T02:40:22.803798Z",
+  "count": 46,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Shipping stalls in Strait of Hormuz after Iran declares key waterway shut",
+      "link": "https://www.aljazeera.com/economy/2026/6/22/shipping-stalls-in-strait-of-hormuz-after-iran-declares-key-waterway-shut?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Mon, 22 Jun 2026 02:03:52 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "US and Iran meet for \u2018tense\u2019 but \u2018constructive\u2019 ceasefire talks",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/22/us-and-iran-meet-for-tense-but-constructive-ceasefire-talks?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Mon, 22 Jun 2026 01:19:05 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Iranians gather in Tehran to support team in critical draw against Belgium",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/22/iranians-gather-in-tehran-to-support-team-in-critical-draw-against-belgium?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Mon, 22 Jun 2026 00:14:24 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Iran war live: Mediators hail \u2018encouraging progress\u2019 in US-Tehran talks",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/6/22/iran-war-live-first-day-of-us-talks-covers-lebanon-hormuz-frozen-assets?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Mon, 22 Jun 2026 00:00:00 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "Belgium see red in goalless World Cup draw with Iran in Los Angeles",
@@ -31,25 +59,11 @@
       "pubDate": "Sun, 21 Jun 2026 16:49:31 +0000"
     },
     {
-      "source": "Al Jazeera",
-      "title": "US-Iran negotiations in Switzerland kick off",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/21/us-iran-negotiations-in-switzerland-kick-off?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Sun, 21 Jun 2026 15:16:44 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Iran-US launch historic peace talks with 60-day roadmap",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/21/iran-u-s-launch-historic-peace-talks-with-60-day-roadmap?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Sun, 21 Jun 2026 14:54:56 +0000"
-    },
-    {
       "source": "BBC",
-      "title": "<![CDATA[Trump and Iran's negotiator trade warnings as talks held in Switzerland]]>",
+      "title": "<![CDATA[First round of US-Iran talks end with 'encouraging progress', mediators say]]>",
       "link": "https://www.bbc.com/news/articles/cwy0q41v1lzo?at_medium=RSS&at_campaign=rss",
       "desc": "",
-      "pubDate": "Sun, 21 Jun 2026 19:33:09 GMT"
+      "pubDate": "Mon, 22 Jun 2026 02:34:01 GMT"
     },
     {
       "source": "BBC",
@@ -127,20 +141,6 @@
       "link": "https://www.bbc.com/news/articles/c932yqz8lggo?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Thu, 18 Jun 2026 20:04:40 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[What's in the US-Iran agreement?]]>",
-      "link": "https://www.bbc.com/news/articles/cvgmqzr6p9mo?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Thu, 18 Jun 2026 01:28:02 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[The bikers battling extreme heat and armed conflict to smuggle Iranian fuel to Pakistan]]>",
-      "link": "https://www.bbc.com/news/articles/c621jr3yy09o?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Tue, 16 Jun 2026 23:52:37 GMT"
     }
   ]
 }
