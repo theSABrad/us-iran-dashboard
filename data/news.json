@@ -1,7 +1,35 @@
 {
-  "lastUpdated": "2026-06-22T14:24:56.842818Z",
-  "count": 30,
+  "lastUpdated": "2026-06-22T18:39:18.962985Z",
+  "count": 34,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Qatar\u2019s PM tells Al Jazeera progress made in US-Iran talks",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/22/qatars-pm-tells-al-jazeera-progress-made-in-us-iran-talks?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Mon, 22 Jun 2026 17:34:56 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Will a US-Iran deal transform the Iranian economy?",
+      "link": "https://www.aljazeera.com/video/counting-the-cost/2026/6/22/will-a-us-iran-deal-transform-the-iranian-economy?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Mon, 22 Jun 2026 17:06:53 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Marco Rubio heads to Middle East to address Iran MoU, Hormuz",
+      "link": "https://www.aljazeera.com/news/2026/6/22/marco-rubio-heads-to-middle-east-to-address-iran-mou-hormuz?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Mon, 22 Jun 2026 17:04:35 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "US partially lifts Iran oil sanctions amid \u2018encouraging\u2019 talks",
+      "link": "https://www.aljazeera.com/news/2026/6/22/us-partially-lifts-iran-oil-sanctions-amid-encouraging-talks?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Mon, 22 Jun 2026 15:38:23 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "JD Vance touts progress on key issues in US-Iran negotiations",
@@ -113,34 +141,6 @@
       "link": "https://www.bbc.com/news/articles/cj4gnqw8j52o?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Tue, 16 Jun 2026 03:40:36 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[Bowen: Iran deal ends Trump's war that revealed limit of US dominance]]>",
-      "link": "https://www.bbc.com/news/articles/cdr4x3vg347o?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Mon, 15 Jun 2026 14:26:28 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[Trump aims to end Iran war but nuclear issue remains unresolved]]>",
-      "link": "https://www.bbc.com/news/articles/cqj1zxv1jyeo?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Mon, 15 Jun 2026 13:54:18 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[Trump heralds Iran deal but questions - and risks - remain]]>",
-      "link": "https://www.bbc.com/news/articles/c9824e0rz75o?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Mon, 15 Jun 2026 02:41:25 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[Iran's strike on Israel suggests the regime's sense of resilience is growing]]>",
-      "link": "https://www.bbc.com/news/articles/cly72ryrd1jo?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Mon, 08 Jun 2026 14:11:22 GMT"
     }
   ]
 }
