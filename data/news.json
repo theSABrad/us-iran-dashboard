@@ -1,7 +1,42 @@
 {
-  "lastUpdated": "2026-06-22T02:40:22.803798Z",
-  "count": 46,
+  "lastUpdated": "2026-06-22T08:47:43.063331Z",
+  "count": 43,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "What are the key outcomes of the Iran-US talks in Switzerland, what next?",
+      "link": "https://www.aljazeera.com/news/2026/6/22/what-are-the-key-outcomes-of-the-iran-us-talks-in-switzerland-what-next?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Mon, 22 Jun 2026 08:17:46 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "US, Iran agree on \u2018roadmap\u2019 towards final deal in Switzerland talks",
+      "link": "https://www.aljazeera.com/news/2026/6/22/us-iran-agree-on-roadmap-towards-final-deal-in-switzerland-talks?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Mon, 22 Jun 2026 08:01:00 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "60-day US-Iran talks will be \u2018really hard\u2019",
+      "link": "https://www.aljazeera.com/video/quotable/2026/6/22/60-day-us-iran-talks-will-be-really?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Mon, 22 Jun 2026 07:27:52 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Iran war day 115: Lebanon truce appears to hold as Switzerland talks end",
+      "link": "https://www.aljazeera.com/news/2026/6/22/iran-war-day-115-lebanon-truce-appears-to-hold-as-switzerland-talks-end?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Mon, 22 Jun 2026 07:21:10 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "\u2018Encouraging progress\u2019 made as first round US-Iran talks end",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/22/encouraging-progress-made-as-first-round-us-iran-talks-end?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Mon, 22 Jun 2026 04:56:44 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "Shipping stalls in Strait of Hormuz after Iran declares key waterway shut",
@@ -25,45 +60,17 @@
     },
     {
       "source": "Al Jazeera",
-      "title": "Iran war live: Mediators hail \u2018encouraging progress\u2019 in US-Tehran talks",
+      "title": "Iran war live: US-Tehran agree roadmap to reach final deal in 60 days",
       "link": "https://www.aljazeera.com/news/liveblog/2026/6/22/iran-war-live-first-day-of-us-talks-covers-lebanon-hormuz-frozen-assets?traffic_source=rss",
       "desc": "",
       "pubDate": "Mon, 22 Jun 2026 00:00:00 +0000"
     },
     {
-      "source": "Al Jazeera",
-      "title": "Belgium see red in goalless World Cup draw with Iran in Los Angeles",
-      "link": "https://www.aljazeera.com/sports/2026/6/21/iran-belgium-wc-mehdi-taremi-score-los-angeles-draw?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Sun, 21 Jun 2026 21:45:02 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "What are the end goals of Iran-US negotiations?",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/21/what-are-the-end-goals-of-iran-us-negotiations?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Sun, 21 Jun 2026 20:59:22 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Khamenei\u2019s MoU stance stirs debate as Iran and US meet in Switzerland",
-      "link": "https://www.aljazeera.com/news/2026/6/21/khameneis-mou-stance-stirs-debate-as-iran-and-us-meet-in-switzerland?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Sun, 21 Jun 2026 17:01:50 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Iran, US, Israel: Memorandum of misunderstanding?",
-      "link": "https://www.aljazeera.com/video/the-bottom-line/2026/6/21/iran-us-israel-memorandum-of-misunderstanding?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Sun, 21 Jun 2026 16:49:31 +0000"
-    },
-    {
       "source": "BBC",
-      "title": "<![CDATA[First round of US-Iran talks end with 'encouraging progress', mediators say]]>",
+      "title": "<![CDATA[First round of US-Iran talks ends with encouraging progress, mediators say]]>",
       "link": "https://www.bbc.com/news/articles/cwy0q41v1lzo?at_medium=RSS&at_campaign=rss",
       "desc": "",
-      "pubDate": "Mon, 22 Jun 2026 02:34:01 GMT"
+      "pubDate": "Mon, 22 Jun 2026 08:27:33 GMT"
     },
     {
       "source": "BBC",
@@ -134,13 +141,6 @@
       "link": "https://www.bbc.com/news/articles/cy735xlv50ko?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Fri, 19 Jun 2026 05:33:59 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[What Iran and US get from deal and why both could struggle to keep it]]>",
-      "link": "https://www.bbc.com/news/articles/c932yqz8lggo?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Thu, 18 Jun 2026 20:04:40 GMT"
     }
   ]
 }
