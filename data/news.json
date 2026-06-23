@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-23T02:06:38.002653Z",
-  "count": 30,
+  "lastUpdated": "2026-06-23T06:38:40.691108Z",
+  "count": 29,
   "articles": [
     {
       "source": "Al Jazeera",
@@ -11,17 +11,10 @@
     },
     {
       "source": "Al Jazeera",
-      "title": "Iran war live: US waives oil sanctions, to release $12bn in frozen funds",
+      "title": "Iran war live: Ghalibaf says US to release $12bn in frozen Iranian funds",
       "link": "https://www.aljazeera.com/news/liveblog/2026/6/23/iran-war-live-tehran-to-access-billions-in-frozen-funds?traffic_source=rss",
       "desc": "",
       "pubDate": "Tue, 23 Jun 2026 00:00:00 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Qatar PM on preventing US-Iran talks from escalation",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/22/qatar-pm-on-preventing-us-iran-talks-from-escalation?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Mon, 22 Jun 2026 20:04:43 +0000"
     },
     {
       "source": "BBC",
@@ -141,6 +134,13 @@
       "link": "https://www.bbc.com/news/articles/cqj1zxv1jyeo?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Mon, 15 Jun 2026 13:54:18 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[Trump heralds Iran deal but questions - and risks - remain]]>",
+      "link": "https://www.bbc.com/news/articles/c9824e0rz75o?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Mon, 15 Jun 2026 02:41:25 GMT"
     }
   ]
 }
