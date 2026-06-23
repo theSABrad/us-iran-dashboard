@@ -1,34 +1,27 @@
 {
-  "lastUpdated": "2026-06-22T22:40:43.626139Z",
-  "count": 32,
+  "lastUpdated": "2026-06-23T02:06:38.002653Z",
+  "count": 30,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Ghalibaf: US and Iran can work together to reopen Strait of Hormuz",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/23/ghalibaf-us-and-iran-can-work-together-to-reopen-strait-of-hormuz?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Tue, 23 Jun 2026 01:45:42 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Iran war live: US waives oil sanctions, to release $12bn in frozen funds",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/6/23/iran-war-live-tehran-to-access-billions-in-frozen-funds?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Tue, 23 Jun 2026 00:00:00 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "Qatar PM on preventing US-Iran talks from escalation",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/6/22/qatar-pm-on-preventing-us-iran-talks-from-escalation?traffic_source=rss",
       "desc": "",
       "pubDate": "Mon, 22 Jun 2026 20:04:43 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Qatar\u2019s PM tells Al Jazeera progress made in US-Iran talks",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/22/qatars-pm-tells-al-jazeera-progress-made-in-us-iran-talks?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Mon, 22 Jun 2026 17:34:56 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Will a US-Iran deal transform the Iranian economy?",
-      "link": "https://www.aljazeera.com/video/counting-the-cost/2026/6/22/will-a-us-iran-deal-transform-the-iranian-economy?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Mon, 22 Jun 2026 17:06:53 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Marco Rubio heads to Middle East to address Iran MoU, Hormuz",
-      "link": "https://www.aljazeera.com/news/2026/6/22/marco-rubio-heads-to-middle-east-to-address-iran-mou-hormuz?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Mon, 22 Jun 2026 17:04:35 +0000"
     },
     {
       "source": "BBC",
@@ -141,6 +134,13 @@
       "link": "https://www.bbc.com/news/articles/cdr4x3vg347o?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Mon, 15 Jun 2026 14:26:28 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[Trump aims to end Iran war but nuclear issue remains unresolved]]>",
+      "link": "https://www.bbc.com/news/articles/cqj1zxv1jyeo?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Mon, 15 Jun 2026 13:54:18 GMT"
     }
   ]
 }
