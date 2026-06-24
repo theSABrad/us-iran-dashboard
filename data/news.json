@@ -1,13 +1,41 @@
 {
-  "lastUpdated": "2026-06-24T11:37:18.562670Z",
-  "count": 23,
+  "lastUpdated": "2026-06-24T14:03:53.249608Z",
+  "count": 28,
   "articles": [
     {
       "source": "Al Jazeera",
-      "title": "Iran war day 117: Nuclear inspections dispute as US Senate curbs war powers",
-      "link": "https://www.aljazeera.com/news/2026/6/24/iran-war-day-117-nuclear-inspections-dispute-as-us-senate-curbs-war-powers?traffic_source=rss",
+      "title": "Rubio tries to reassure Gulf allies on US-Iran deal details",
+      "link": "https://www.aljazeera.com/news/2026/6/24/rubio-tries-to-reassure-gulf-allies-on-us-iran-deal-details?traffic_source=rss",
       "desc": "",
-      "pubDate": "Wed, 24 Jun 2026 07:04:05 +0000"
+      "pubDate": "Wed, 24 Jun 2026 13:40:22 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "What does Pakistan stand to gain from helping broker the US-Iran deal?",
+      "link": "https://www.aljazeera.com/news/2026/6/24/what-does-pakistan-stand-to-gain-from-helping-broker-the-us-iran-deal?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Wed, 24 Jun 2026 12:59:19 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Iranians cautiously optimistic about thorny deal with US",
+      "link": "https://www.aljazeera.com/news/2026/6/24/iranians-cautiously-optimistic-about-thorny-deal-with-us?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Wed, 24 Jun 2026 12:44:07 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "US Senate approves Iran war powers resolution: What that means for Trump",
+      "link": "https://www.aljazeera.com/news/2026/6/24/us-senate-approves-iran-war-powers-resolution-what-that-means-for-trump?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Wed, 24 Jun 2026 11:25:40 +0000"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[UN nuclear chief says inspectors will visit Iran sites as part of war deal]]>",
+      "link": "https://www.bbc.co.uk/news/articles/cpd395zv81vo?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Wed, 24 Jun 2026 12:32:00 GMT"
     },
     {
       "source": "BBC",
@@ -113,34 +141,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c9824e0rz75o?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Mon, 15 Jun 2026 02:41:25 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[Why was JD Vance in a luxury Swiss resort for talks with Iran?]]>",
-      "link": "https://www.bbc.co.uk/news/videos/c4gyenl6nz0o?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Tue, 23 Jun 2026 05:38:36 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[Moment Trump signs US-Iran agreement at Palace of Versailles]]>",
-      "link": "https://www.bbc.co.uk/news/videos/crm03y1xx2no?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Thu, 18 Jun 2026 01:59:38 GMT"
-    },
-    {
-      "source": "NPR",
-      "title": "IAEA chief says inspectors will visit Iran's nuclear sites under Iran-US interim deal",
-      "link": "https://www.npr.org/2026/06/24/g-s1-129770/iran-nuclear-inspection",
-      "desc": "The head of the U.N.'s nuclear agency has signaled that Iranian nuclear enrichment sites would be visited by his inspectors, a day after U.S. and Iran offered contradictory remarks about the issue.",
-      "pubDate": "Wed, 24 Jun 2026 07:10:17 -0400"
-    },
-    {
-      "source": "NPR",
-      "title": "U.S. lifts Iran oil sanctions. And, federal judge rules SAVE voter tool unlawful",
-      "link": "https://www.npr.org/2026/06/23/g-s1-129603/up-first-newsletter-iran-oil-sanctions-trump-economy-minnesota-subpoenas-save-voter-info",
-      "desc": "The U.S. has temporarily lifted oil sanctions on Iran as peace talks continue. And, a federal judge ruled that the Trump administration's data system, known as SAVE, is unlawful.",
-      "pubDate": "Tue, 23 Jun 2026 07:17:26 -0400"
     }
   ]
 }
