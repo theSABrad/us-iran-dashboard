@@ -1,20 +1,13 @@
 {
-  "lastUpdated": "2026-06-24T06:35:11.721119Z",
-  "count": 30,
+  "lastUpdated": "2026-06-24T11:37:18.562670Z",
+  "count": 23,
   "articles": [
     {
       "source": "Al Jazeera",
-      "title": "US Senate votes to pause Iran war in rare rebuke to Trump",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/24/us-senate-votes-to-pause-iran-war-in-rare-rebuke-to-trump?traffic_source=rss",
+      "title": "Iran war day 117: Nuclear inspections dispute as US Senate curbs war powers",
+      "link": "https://www.aljazeera.com/news/2026/6/24/iran-war-day-117-nuclear-inspections-dispute-as-us-senate-curbs-war-powers?traffic_source=rss",
       "desc": "",
-      "pubDate": "Wed, 24 Jun 2026 01:29:51 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Iran war live: Trump, Tehran disagree over nuclear inspections, Hormuz",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/6/24/iran-war-live-trump-tehran-at-odds-over-nuclear-inspections-hormuz?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Wed, 24 Jun 2026 00:00:00 +0000"
+      "pubDate": "Wed, 24 Jun 2026 07:04:05 +0000"
     },
     {
       "source": "BBC",
@@ -50,41 +43,6 @@
       "link": "https://www.bbc.co.uk/news/articles/crr8z4z2er9o?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Thu, 18 Jun 2026 03:03:29 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[Iran sends tankers loaded with oil past US military blockade]]>",
-      "link": "https://www.bbc.co.uk/news/articles/cpq37yxexd9o?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Wed, 17 Jun 2026 13:27:47 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[UN experts demand Iranians free Foremans]]>",
-      "link": "https://www.bbc.co.uk/news/articles/c9w28e2vn57o?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Wed, 17 Jun 2026 19:21:36 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[Tehran selling deal with US as victory \u2013 but for Iranians it was necessity]]>",
-      "link": "https://www.bbc.co.uk/news/articles/cn4rwzxvl8ko?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Tue, 16 Jun 2026 15:31:24 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[Fragile quiet in Lebanon as US-Iran truce leaves unanswered questions]]>",
-      "link": "https://www.bbc.co.uk/news/articles/cvgepl5gdp1o?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Tue, 16 Jun 2026 16:20:33 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[Trump may release US-Iran deal before Friday, Vance says]]>",
-      "link": "https://www.bbc.co.uk/news/articles/ce8mv6l6eezo?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Tue, 16 Jun 2026 08:07:32 GMT"
     },
     {
       "source": "BBC",
@@ -141,6 +99,48 @@
       "link": "https://www.bbc.co.uk/news/articles/cdr4x3vg347o?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Mon, 15 Jun 2026 14:26:28 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[Trump aims to end Iran war but nuclear issue remains unresolved]]>",
+      "link": "https://www.bbc.co.uk/news/articles/cqj1zxv1jyeo?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Mon, 15 Jun 2026 13:54:18 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[Trump heralds Iran deal but questions - and risks - remain]]>",
+      "link": "https://www.bbc.co.uk/news/articles/c9824e0rz75o?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Mon, 15 Jun 2026 02:41:25 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[Why was JD Vance in a luxury Swiss resort for talks with Iran?]]>",
+      "link": "https://www.bbc.co.uk/news/videos/c4gyenl6nz0o?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Tue, 23 Jun 2026 05:38:36 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[Moment Trump signs US-Iran agreement at Palace of Versailles]]>",
+      "link": "https://www.bbc.co.uk/news/videos/crm03y1xx2no?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Thu, 18 Jun 2026 01:59:38 GMT"
+    },
+    {
+      "source": "NPR",
+      "title": "IAEA chief says inspectors will visit Iran's nuclear sites under Iran-US interim deal",
+      "link": "https://www.npr.org/2026/06/24/g-s1-129770/iran-nuclear-inspection",
+      "desc": "The head of the U.N.'s nuclear agency has signaled that Iranian nuclear enrichment sites would be visited by his inspectors, a day after U.S. and Iran offered contradictory remarks about the issue.",
+      "pubDate": "Wed, 24 Jun 2026 07:10:17 -0400"
+    },
+    {
+      "source": "NPR",
+      "title": "U.S. lifts Iran oil sanctions. And, federal judge rules SAVE voter tool unlawful",
+      "link": "https://www.npr.org/2026/06/23/g-s1-129603/up-first-newsletter-iran-oil-sanctions-trump-economy-minnesota-subpoenas-save-voter-info",
+      "desc": "The U.S. has temporarily lifted oil sanctions on Iran as peace talks continue. And, a federal judge ruled that the Trump administration's data system, known as SAVE, is unlawful.",
+      "pubDate": "Tue, 23 Jun 2026 07:17:26 -0400"
     }
   ]
 }
