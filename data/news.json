@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-24T02:08:36.616495Z",
-  "count": 36,
+  "lastUpdated": "2026-06-24T06:35:11.721119Z",
+  "count": 30,
   "articles": [
     {
       "source": "Al Jazeera",
@@ -11,52 +11,10 @@
     },
     {
       "source": "Al Jazeera",
-      "title": "Iran war live: Trump, Tehran at odds over nuclear inspections, Hormuz",
+      "title": "Iran war live: Trump, Tehran disagree over nuclear inspections, Hormuz",
       "link": "https://www.aljazeera.com/news/liveblog/2026/6/24/iran-war-live-trump-tehran-at-odds-over-nuclear-inspections-hormuz?traffic_source=rss",
       "desc": "",
       "pubDate": "Wed, 24 Jun 2026 00:00:00 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Trump allies reassure Israelis amid tensions on US-Iran deal",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/23/trump-allies-reassure-israelis-amid-tensions-on-us-iran-deal?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Tue, 23 Jun 2026 21:19:35 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Trump disputes Iran\u2019s rejection of nuclear inspectors",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/23/trump-disputes-irans-rejection-of-nuclear-inspectors?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Tue, 23 Jun 2026 20:11:28 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Rubio begins Gulf visit in the UAE to advance US-Iran peace deal",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/23/rubio-begins-gulf-visit-in-the-uae-to-advance-us-iran-peace-deal?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Tue, 23 Jun 2026 20:06:02 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Iran\u2019s president arrives in Pakistan for peace talks",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/23/irans-president-arrives-in-pakistan-for-peace-talks?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Tue, 23 Jun 2026 19:57:01 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "US Senate votes to pass Iran war powers resolution in blow to Trump",
-      "link": "https://www.aljazeera.com/news/2026/6/23/us-senate-votes-to-halt-iran-war-bucking-trump?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Tue, 23 Jun 2026 19:50:29 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "US says Iran can stay for two days before Egypt World Cup game",
-      "link": "https://www.aljazeera.com/sports/2026/6/23/us-says-iran-can-stay-for-two-days-before-egypt-world-cup-game?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Tue, 23 Jun 2026 19:45:31 +0000"
     },
     {
       "source": "BBC",
@@ -141,6 +99,48 @@
       "link": "https://www.bbc.co.uk/news/articles/c932yqz8lggo?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Thu, 18 Jun 2026 20:04:40 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[Bowen: US-Iran deal raises inescapable question of what the war was for]]>",
+      "link": "https://www.bbc.co.uk/news/articles/clyegr2mp8jo?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Thu, 18 Jun 2026 15:53:55 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[US-Iran deal leaves core sticking points unresolved - and a $300bn question]]>",
+      "link": "https://www.bbc.co.uk/news/articles/cgmd8dgklzzo?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Thu, 18 Jun 2026 01:29:32 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[What's in the US-Iran agreement?]]>",
+      "link": "https://www.bbc.co.uk/news/articles/cvgmqzr6p9mo?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Thu, 18 Jun 2026 01:28:02 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[The bikers battling extreme heat and armed conflict to smuggle Iranian fuel to Pakistan]]>",
+      "link": "https://www.bbc.co.uk/news/articles/c621jr3yy09o?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Tue, 16 Jun 2026 23:52:37 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[Iran deal presents political nightmare for Netanyahu]]>",
+      "link": "https://www.bbc.co.uk/news/articles/cj4gnqw8j52o?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Tue, 16 Jun 2026 03:40:36 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[Bowen: Iran deal ends Trump's war that revealed limit of US dominance]]>",
+      "link": "https://www.bbc.co.uk/news/articles/cdr4x3vg347o?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Mon, 15 Jun 2026 14:26:28 GMT"
     }
   ]
 }
