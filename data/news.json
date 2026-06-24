@@ -1,7 +1,21 @@
 {
-  "lastUpdated": "2026-06-23T22:07:11.533569Z",
+  "lastUpdated": "2026-06-24T02:08:36.616495Z",
   "count": 36,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "US Senate votes to pause Iran war in rare rebuke to Trump",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/24/us-senate-votes-to-pause-iran-war-in-rare-rebuke-to-trump?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Wed, 24 Jun 2026 01:29:51 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Iran war live: Trump, Tehran at odds over nuclear inspections, Hormuz",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/6/24/iran-war-live-trump-tehran-at-odds-over-nuclear-inspections-hormuz?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Wed, 24 Jun 2026 00:00:00 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "Trump allies reassure Israelis amid tensions on US-Iran deal",
@@ -32,7 +46,7 @@
     },
     {
       "source": "Al Jazeera",
-      "title": "US Senate votes to pass Iran war powers resolution, in blow to Trump",
+      "title": "US Senate votes to pass Iran war powers resolution in blow to Trump",
       "link": "https://www.aljazeera.com/news/2026/6/23/us-senate-votes-to-halt-iran-war-bucking-trump?traffic_source=rss",
       "desc": "",
       "pubDate": "Tue, 23 Jun 2026 19:50:29 +0000"
@@ -127,20 +141,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c932yqz8lggo?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Thu, 18 Jun 2026 20:04:40 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[Bowen: US-Iran deal raises inescapable question of what the war was for]]>",
-      "link": "https://www.bbc.co.uk/news/articles/clyegr2mp8jo?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Thu, 18 Jun 2026 15:53:55 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[US-Iran deal leaves core sticking points unresolved - and a $300bn question]]>",
-      "link": "https://www.bbc.co.uk/news/articles/cgmd8dgklzzo?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Thu, 18 Jun 2026 01:29:32 GMT"
     }
   ]
 }
