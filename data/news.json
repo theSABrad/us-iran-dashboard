@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-06-25T19:44:13.506052Z",
-  "count": 26,
+  "lastUpdated": "2026-06-25T22:14:35.298148Z",
+  "count": 25,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Ashura ceremonies intertwine faith and support for state in Iran",
+      "link": "https://www.aljazeera.com/news/2026/6/25/ashura-ceremonies-intertwine-faith-and-support-for-state-in-iran?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Thu, 25 Jun 2026 20:12:33 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "Krieg: For Iran control of the Strait of Hormuz is about the spoils of war",
@@ -15,20 +22,6 @@
       "link": "https://www.aljazeera.com/features/2026/6/25/hard-headed-pragmatism-israels-war-backfires-as-gulf-backs-us-iran-mou?traffic_source=rss",
       "desc": "",
       "pubDate": "Thu, 25 Jun 2026 17:11:34 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Iran accuses NATO of \u2018complicity\u2019 in US war: What role did EU nations play?",
-      "link": "https://www.aljazeera.com/news/2026/6/25/iran-accuses-nato-of-complicity-in-us-war-what-role-did-eu-nations-play?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Thu, 25 Jun 2026 14:43:48 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Iran negotiator Ghalibaf rejects claim unfrozen funds will buy US goods",
-      "link": "https://www.aljazeera.com/news/2026/6/25/iran-negotiator-ghalibaf-rejects-claim-unfrozen-funds-will-buy-us-goods?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Thu, 25 Jun 2026 14:19:43 +0000"
     },
     {
       "source": "BBC",
@@ -141,6 +134,13 @@
       "link": "https://www.bbc.co.uk/news/articles/c9824e0rz75o?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Mon, 15 Jun 2026 02:41:25 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[Here's how Rubio's Mideast trip could affect the Iran deal]]>",
+      "link": "https://www.bbc.co.uk/news/videos/cy8w513859eo?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Wed, 24 Jun 2026 13:15:14 GMT"
     }
   ]
 }
