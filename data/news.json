@@ -1,41 +1,34 @@
 {
-  "lastUpdated": "2026-06-25T06:39:22.637982Z",
-  "count": 32,
+  "lastUpdated": "2026-06-25T11:31:33.204638Z",
+  "count": 28,
   "articles": [
     {
       "source": "Al Jazeera",
-      "title": "Iranians mark first Ashura since Khamenei\u2019s killing in the US-Iran war",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/25/iranians-mark-first-ashura-since-khameneis-killing-in-the-us-iran-war?traffic_source=rss",
+      "title": "Rubio tells Gulf allies that Iran deal will ensure their security",
+      "link": "https://www.aljazeera.com/news/2026/6/25/rubio-tells-gulf-allies-that-iran-deal-will-ensure-their-security?traffic_source=rss",
       "desc": "",
-      "pubDate": "Thu, 25 Jun 2026 03:55:07 +0000"
+      "pubDate": "Thu, 25 Jun 2026 10:59:44 +0000"
     },
     {
       "source": "Al Jazeera",
-      "title": "Rutte attempts to ease Trump-NATO rift over Iran ahead of annual summit",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/25/rutte-attempts-to-ease-trump-nato-rift-over-iran-ahead-of-annual-summit?traffic_source=rss",
+      "title": "US says Iran will buy its goods: What could US-Iran trade look like?",
+      "link": "https://www.aljazeera.com/features/2026/6/25/us-says-iran-will-buy-its-goods-what-could-us-iran-trade-look-like?traffic_source=rss",
       "desc": "",
-      "pubDate": "Thu, 25 Jun 2026 02:22:08 +0000"
+      "pubDate": "Thu, 25 Jun 2026 09:43:12 +0000"
     },
     {
       "source": "Al Jazeera",
-      "title": "Iran war live: US vows to defend Gulf interests; Israel kills 2 in Lebanon",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/6/25/iran-war-live-us-vows-to-defend-gulf-interests-israel-kills-2-in-lebanon?traffic_source=rss",
+      "title": "Iran warns against Hormuz crossings without authorisation",
+      "link": "https://www.aljazeera.com/news/2026/6/25/iran-warns-against-hormuz-crossings-without-authorisation?traffic_source=rss",
       "desc": "",
-      "pubDate": "Thu, 25 Jun 2026 00:00:00 +0000"
+      "pubDate": "Thu, 25 Jun 2026 08:49:36 +0000"
     },
     {
       "source": "Al Jazeera",
-      "title": "Trump slams NATO over lax participation in Iran war in talk with Mark Rutte",
-      "link": "https://www.aljazeera.com/news/2026/6/24/trump-slams-nato-over-lax-participation-in-iran-war-in-talk-with-mark-rutte?traffic_source=rss",
+      "title": "Iran war day 118: IRGC rejects new Hormuz route; Rubio to meet GCC leaders",
+      "link": "https://www.aljazeera.com/news/2026/6/25/iran-war-day-118-irgc-rejects-new-hormuz-route-rubio-to-meet-gcc-leaders?traffic_source=rss",
       "desc": "",
-      "pubDate": "Wed, 24 Jun 2026 23:47:48 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Trump White House requests $87.6bn in spending, including for Iran war",
-      "link": "https://www.aljazeera.com/news/2026/6/24/trump-white-house-requests-87-6bn-in-spending-including-for-iran-war?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Wed, 24 Jun 2026 23:25:01 +0000"
+      "pubDate": "Thu, 25 Jun 2026 08:28:35 +0000"
     },
     {
       "source": "BBC",
@@ -141,6 +134,13 @@
       "link": "https://www.bbc.co.uk/news/articles/cqj1zxv1jyeo?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Mon, 15 Jun 2026 13:54:18 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[Trump heralds Iran deal but questions - and risks - remain]]>",
+      "link": "https://www.bbc.co.uk/news/articles/c9824e0rz75o?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Mon, 15 Jun 2026 02:41:25 GMT"
     }
   ]
 }
