@@ -1,27 +1,20 @@
 {
-  "lastUpdated": "2026-06-25T22:14:35.298148Z",
-  "count": 25,
+  "lastUpdated": "2026-06-26T02:10:16.308130Z",
+  "count": 24,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Iran war live: Israel attacks Lebanon as Netanyahu says troops to stay",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/6/26/iran-war-live-israel-attacks-lebanon-as-netanyahu-says-troops-to-stay?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Fri, 26 Jun 2026 00:00:09 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "Ashura ceremonies intertwine faith and support for state in Iran",
       "link": "https://www.aljazeera.com/news/2026/6/25/ashura-ceremonies-intertwine-faith-and-support-for-state-in-iran?traffic_source=rss",
       "desc": "",
       "pubDate": "Thu, 25 Jun 2026 20:12:33 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Krieg: For Iran control of the Strait of Hormuz is about the spoils of war",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/25/aje-onl-nf_krieg_control-of-the-strait-of-hormuz-spoils-of-war-250626w?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Thu, 25 Jun 2026 18:24:58 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Pragmatic choice: Israel\u2019s war backfires as Gulf backs US-Iran deal",
-      "link": "https://www.aljazeera.com/features/2026/6/25/hard-headed-pragmatism-israels-war-backfires-as-gulf-backs-us-iran-mou?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Thu, 25 Jun 2026 17:11:34 +0000"
     },
     {
       "source": "BBC",
@@ -141,6 +134,13 @@
       "link": "https://www.bbc.co.uk/news/videos/cy8w513859eo?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Wed, 24 Jun 2026 13:15:14 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[Why was JD Vance in a luxury Swiss resort for talks with Iran?]]>",
+      "link": "https://www.bbc.co.uk/news/videos/c4gyenl6nz0o?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Tue, 23 Jun 2026 05:38:36 GMT"
     }
   ]
 }
