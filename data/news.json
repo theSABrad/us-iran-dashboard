@@ -1,27 +1,13 @@
 {
-  "lastUpdated": "2026-06-27T15:58:14.976924Z",
-  "count": 28,
+  "lastUpdated": "2026-06-27T19:02:27.429688Z",
+  "count": 26,
   "articles": [
     {
       "source": "Al Jazeera",
-      "title": "US, Iran trade strikes: What to know, will it unravel the MoU?",
-      "link": "https://www.aljazeera.com/news/2026/6/27/us-iran-trade-strikes-what-to-know-will-it-unravel-the-mou?traffic_source=rss",
+      "title": "Iran urge FIFA to stand up to \u2018really terrible\u2019 World Cup treatment by US",
+      "link": "https://www.aljazeera.com/sports/2026/6/27/iran-urge-fifa-to-stand-up-to-really-terrible-world-cup-treatment-by-us?traffic_source=rss",
       "desc": "",
-      "pubDate": "Sat, 27 Jun 2026 10:32:24 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Joy, disappointment, protests: A view from Egypt-Iran World Cup tie",
-      "link": "https://www.aljazeera.com/sports/2026/6/27/joy-disappointment-protests-a-view-from-egypt-iran-world-cup-tie?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Sat, 27 Jun 2026 10:02:35 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Iran war day 120: Tehran condemns US strikes, says it violates MoU",
-      "link": "https://www.aljazeera.com/news/2026/6/27/iran-war-day-120-tehran-condemns-us-strikes-says-its-violation-of-mou?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Sat, 27 Jun 2026 07:20:15 +0000"
+      "pubDate": "Sat, 27 Jun 2026 18:30:26 +0000"
     },
     {
       "source": "BBC",
@@ -141,6 +127,20 @@
       "link": "https://www.bbc.co.uk/news/articles/cdr4x3vg347o?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Mon, 15 Jun 2026 14:26:28 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[Trump aims to end Iran war but nuclear issue remains unresolved]]>",
+      "link": "https://www.bbc.co.uk/news/articles/cqj1zxv1jyeo?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Mon, 15 Jun 2026 13:54:18 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[Trump heralds Iran deal but questions - and risks - remain]]>",
+      "link": "https://www.bbc.co.uk/news/articles/c9824e0rz75o?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Mon, 15 Jun 2026 02:41:25 GMT"
     }
   ]
 }
