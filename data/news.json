@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-06-27T10:52:23.289419Z",
-  "count": 33,
+  "lastUpdated": "2026-06-27T13:06:26.229983Z",
+  "count": 32,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "US, Iran trade strikes: What to know, will it unravel the MoU?",
+      "link": "https://www.aljazeera.com/news/2026/6/27/us-iran-trade-strikes-what-to-know-will-it-unravel-the-mou?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sat, 27 Jun 2026 10:32:24 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "Joy, disappointment, protests: A view from Egypt-Iran World Cup tie",
@@ -36,20 +43,6 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/6/27/us-strikes-on-iran-test-fragile-ceasefire?traffic_source=rss",
       "desc": "",
       "pubDate": "Sat, 27 Jun 2026 04:13:53 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Trump justifies strikes on Iran amid ceasefire",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/27/trump-justifies-strikes-on-iran-amid-ceasefire?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Sat, 27 Jun 2026 00:16:58 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Iran war live: IRGC \u2018targets\u2019 US military sites in region after attacks",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/6/27/iran-war-live-us-strikes-iran-after-fire-on-vessel-in-strait-of-hormuz?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Sat, 27 Jun 2026 00:00:04 +0000"
     },
     {
       "source": "BBC",
@@ -141,6 +134,13 @@
       "link": "https://www.bbc.co.uk/news/articles/cgmd8dgklzzo?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Thu, 18 Jun 2026 01:29:32 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[What's in the US-Iran agreement?]]>",
+      "link": "https://www.bbc.co.uk/news/articles/cvgmqzr6p9mo?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Thu, 18 Jun 2026 01:28:02 GMT"
     }
   ]
 }
