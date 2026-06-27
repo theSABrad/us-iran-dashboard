@@ -1,7 +1,21 @@
 {
-  "lastUpdated": "2026-06-27T02:05:20.332239Z",
-  "count": 32,
+  "lastUpdated": "2026-06-27T06:20:04.110963Z",
+  "count": 34,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Iran wait on World Cup progress after late goal disallowed in Egypt draw",
+      "link": "https://www.aljazeera.com/sports/2026/6/27/iran-wait-on-world-cup-progress-after-late-goal-disallowed-in-egypt-draw?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sat, 27 Jun 2026 05:46:41 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "US strikes on Iran test fragile ceasefire",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/27/us-strikes-on-iran-test-fragile-ceasefire?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sat, 27 Jun 2026 04:13:53 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "Trump justifies strikes on Iran amid ceasefire",
@@ -18,7 +32,7 @@
     },
     {
       "source": "Al Jazeera",
-      "title": "Egypt vs Iran LIVE: FIFA World Cup 2026",
+      "title": "Egypt 1-1 Iran: FIFA World Cup 2026 \u2013 as it happened",
       "link": "https://www.aljazeera.com/sports/liveblog/2026/6/26/live-egypt-vs-iran-world-cup-2026?traffic_source=rss",
       "desc": "",
       "pubDate": "Fri, 26 Jun 2026 22:57:35 +0000"
@@ -31,18 +45,11 @@
       "pubDate": "Fri, 26 Jun 2026 21:08:01 +0000"
     },
     {
-      "source": "Al Jazeera",
-      "title": "Trump blames Iran for \u2018foolish\u2019 strike on cargo ship in Strait of Hormuz",
-      "link": "https://www.aljazeera.com/news/2026/6/26/trump-blames-iran-for-foolish-strike-on-cargo-ship-in-strait-of-hormuz?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Fri, 26 Jun 2026 19:26:16 +0000"
-    },
-    {
       "source": "BBC",
-      "title": "<![CDATA[US conducts strikes on Iran after attack on cargo ship]]>",
+      "title": "<![CDATA[US strikes Iran after attack on cargo ship]]>",
       "link": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
       "desc": "",
-      "pubDate": "Sat, 27 Jun 2026 00:34:08 GMT"
+      "pubDate": "Sat, 27 Jun 2026 02:48:12 GMT"
     },
     {
       "source": "BBC",
@@ -134,13 +141,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cvgmqzr6p9mo?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Thu, 18 Jun 2026 01:28:02 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[The bikers battling extreme heat and armed conflict to smuggle Iranian fuel to Pakistan]]>",
-      "link": "https://www.bbc.co.uk/news/articles/c621jr3yy09o?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Tue, 16 Jun 2026 23:52:37 GMT"
     }
   ]
 }
