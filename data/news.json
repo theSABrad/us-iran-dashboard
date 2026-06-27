@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-27T13:06:26.229983Z",
-  "count": 32,
+  "lastUpdated": "2026-06-27T15:58:14.976924Z",
+  "count": 28,
   "articles": [
     {
       "source": "Al Jazeera",
@@ -22,27 +22,6 @@
       "link": "https://www.aljazeera.com/news/2026/6/27/iran-war-day-120-tehran-condemns-us-strikes-says-its-violation-of-mou?traffic_source=rss",
       "desc": "",
       "pubDate": "Sat, 27 Jun 2026 07:20:15 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Iran and US trade blame for attacks, threatening fragile ceasefire",
-      "link": "https://www.aljazeera.com/news/2026/6/27/iran-and-us-trade-blame-for-attacks-threatening-fragile-ceasefire?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Sat, 27 Jun 2026 07:00:13 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Iran wait on World Cup progress after late goal disallowed in Egypt draw",
-      "link": "https://www.aljazeera.com/sports/2026/6/27/iran-wait-on-world-cup-progress-after-late-goal-disallowed-in-egypt-draw?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Sat, 27 Jun 2026 05:46:41 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "US strikes on Iran test fragile ceasefire",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/27/us-strikes-on-iran-test-fragile-ceasefire?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Sat, 27 Jun 2026 04:13:53 +0000"
     },
     {
       "source": "BBC",
@@ -141,6 +120,27 @@
       "link": "https://www.bbc.co.uk/news/articles/cvgmqzr6p9mo?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Thu, 18 Jun 2026 01:28:02 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[The bikers battling extreme heat and armed conflict to smuggle Iranian fuel to Pakistan]]>",
+      "link": "https://www.bbc.co.uk/news/articles/c621jr3yy09o?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Tue, 16 Jun 2026 23:52:37 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[Iran deal presents political nightmare for Netanyahu]]>",
+      "link": "https://www.bbc.co.uk/news/articles/cj4gnqw8j52o?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Tue, 16 Jun 2026 03:40:36 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[Bowen: Iran deal ends Trump's war that revealed limit of US dominance]]>",
+      "link": "https://www.bbc.co.uk/news/articles/cdr4x3vg347o?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Mon, 15 Jun 2026 14:26:28 GMT"
     }
   ]
 }
