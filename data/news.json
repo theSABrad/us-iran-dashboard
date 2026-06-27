@@ -1,7 +1,28 @@
 {
-  "lastUpdated": "2026-06-27T06:20:04.110963Z",
-  "count": 34,
+  "lastUpdated": "2026-06-27T10:52:23.289419Z",
+  "count": 33,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Joy, disappointment, protests: A view from Egypt-Iran World Cup tie",
+      "link": "https://www.aljazeera.com/sports/2026/6/27/joy-disappointment-protests-a-view-from-egypt-iran-world-cup-tie?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sat, 27 Jun 2026 10:02:35 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Iran war day 120: Tehran condemns US strikes, says it violates MoU",
+      "link": "https://www.aljazeera.com/news/2026/6/27/iran-war-day-120-tehran-condemns-us-strikes-says-its-violation-of-mou?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sat, 27 Jun 2026 07:20:15 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Iran and US trade blame for attacks, threatening fragile ceasefire",
+      "link": "https://www.aljazeera.com/news/2026/6/27/iran-and-us-trade-blame-for-attacks-threatening-fragile-ceasefire?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sat, 27 Jun 2026 07:00:13 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "Iran wait on World Cup progress after late goal disallowed in Egypt draw",
@@ -25,31 +46,17 @@
     },
     {
       "source": "Al Jazeera",
-      "title": "Iran war live: US strikes Iran after attack on vessel in Strait of Hormuz",
+      "title": "Iran war live: IRGC \u2018targets\u2019 US military sites in region after attacks",
       "link": "https://www.aljazeera.com/news/liveblog/2026/6/27/iran-war-live-us-strikes-iran-after-fire-on-vessel-in-strait-of-hormuz?traffic_source=rss",
       "desc": "",
       "pubDate": "Sat, 27 Jun 2026 00:00:04 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Egypt 1-1 Iran: FIFA World Cup 2026 \u2013 as it happened",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/6/26/live-egypt-vs-iran-world-cup-2026?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Fri, 26 Jun 2026 22:57:35 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "US strikes Iran in response to drone strike on commercial ship",
-      "link": "https://www.aljazeera.com/news/2026/6/26/us-strikes-iran-in-response-to-drone-strike-on-commercial-ship?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Fri, 26 Jun 2026 21:08:01 +0000"
     },
     {
       "source": "BBC",
       "title": "<![CDATA[US strikes Iran after attack on cargo ship]]>",
       "link": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
       "desc": "",
-      "pubDate": "Sat, 27 Jun 2026 02:48:12 GMT"
+      "pubDate": "Sat, 27 Jun 2026 10:40:38 GMT"
     },
     {
       "source": "BBC",
@@ -134,13 +141,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cgmd8dgklzzo?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Thu, 18 Jun 2026 01:29:32 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[What's in the US-Iran agreement?]]>",
-      "link": "https://www.bbc.co.uk/news/articles/cvgmqzr6p9mo?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Thu, 18 Jun 2026 01:28:02 GMT"
     }
   ]
 }
