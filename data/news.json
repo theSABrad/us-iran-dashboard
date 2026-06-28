@@ -1,10 +1,31 @@
 {
-  "lastUpdated": "2026-06-28T02:26:54.952575Z",
-  "count": 29,
+  "lastUpdated": "2026-06-28T06:53:06.024230Z",
+  "count": 32,
   "articles": [
     {
       "source": "Al Jazeera",
-      "title": "Iran war live: Air raid sirens in Bahrain, Kuwait as US bombs Sirik, Qeshm",
+      "title": "Iran war day 121: Iran attacks Bahrain, Kuwait as US strikes near Hormuz",
+      "link": "https://www.aljazeera.com/news/2026/6/28/iran-war-day-121-iran-attacks-bahrain-kuwait-as-us-strikes-near-hormuz?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sun, 28 Jun 2026 06:14:45 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "World Cup: Messi sends Argentina to top, England to face DR Congo, Iran out",
+      "link": "https://www.aljazeera.com/sports/2026/6/28/messi-argentina-fifa-world-cup-2026-england-dr-congo-portugal-iran?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sun, 28 Jun 2026 05:09:04 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Gulf countries attacked after US launches second round of strikes on Iran",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/28/gulf-countries-attacked-after-us-launches-second-round-of-strikes-on-iran?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sun, 28 Jun 2026 03:40:58 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Iran war live: Tehran attacks Bahrain, Kuwait after US bombs Iranian coast",
       "link": "https://www.aljazeera.com/news/liveblog/2026/6/28/iran-war-live-trump-threatens-tehran-as-us-bombs-sirik-qeshm-for-2nd-day?traffic_source=rss",
       "desc": "",
       "pubDate": "Sun, 28 Jun 2026 00:00:00 +0000"
@@ -120,27 +141,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cvgmqzr6p9mo?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Thu, 18 Jun 2026 01:28:02 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[The bikers battling extreme heat and armed conflict to smuggle Iranian fuel to Pakistan]]>",
-      "link": "https://www.bbc.co.uk/news/articles/c621jr3yy09o?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Tue, 16 Jun 2026 23:52:37 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[Iran deal presents political nightmare for Netanyahu]]>",
-      "link": "https://www.bbc.co.uk/news/articles/cj4gnqw8j52o?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Tue, 16 Jun 2026 03:40:36 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[Bowen: Iran deal ends Trump's war that revealed limit of US dominance]]>",
-      "link": "https://www.bbc.co.uk/news/articles/cdr4x3vg347o?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Mon, 15 Jun 2026 14:26:28 GMT"
     }
   ]
 }
