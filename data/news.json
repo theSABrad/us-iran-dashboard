@@ -1,7 +1,21 @@
 {
-  "lastUpdated": "2026-06-28T10:58:17.323695Z",
-  "count": 34,
+  "lastUpdated": "2026-06-28T13:12:42.507543Z",
+  "count": 37,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "US strikes Iran for second day: Is it a violation of war powers resolution?",
+      "link": "https://www.aljazeera.com/news/2026/6/28/us-strikes-iran-for-second-day-is-it-a-violation-of-war-powers-resolution?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sun, 28 Jun 2026 12:13:18 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "\u2018US trying to find its way out of MoU with Iran\u2019",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/28/us-trying-to-find-its-way-out-of-mou-with?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sun, 28 Jun 2026 10:30:45 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "FIFA World Cup: Round of 32 bracket, schedule, predictions, Iran\u2019s exit",
@@ -43,20 +57,6 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/6/28/gulf-countries-attacked-after-us-launches-second-round-of-strikes-on-iran?traffic_source=rss",
       "desc": "",
       "pubDate": "Sun, 28 Jun 2026 03:40:58 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Iran war live: Tehran attacks Bahrain, Kuwait after US bombs Iranian coast",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/6/28/iran-war-live-trump-threatens-tehran-as-us-bombs-sirik-qeshm-for-2nd-day?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Sun, 28 Jun 2026 00:00:00 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "US launches second night of strikes on Iran after ship hit by drone",
-      "link": "https://www.aljazeera.com/news/2026/6/27/us-launches-second-night-of-strikes-against-iran-after-ship-struck-by-drone?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Sat, 27 Jun 2026 22:07:03 +0000"
     },
     {
       "source": "BBC",
