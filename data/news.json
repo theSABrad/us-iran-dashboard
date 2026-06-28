@@ -1,41 +1,13 @@
 {
-  "lastUpdated": "2026-06-28T19:00:39.578263Z",
-  "count": 30,
+  "lastUpdated": "2026-06-28T21:52:41.415137Z",
+  "count": 26,
   "articles": [
     {
       "source": "Al Jazeera",
-      "title": "Pape: US trying to \u2018squeak out of strategic defeat\u2019 after Iran",
-      "link": "https://www.aljazeera.com/video/the-bottom-line/2026/6/28/pape-us-trying-to-squeak-out-of-strategic-defeat-after-iran?traffic_source=rss",
+      "title": "US and Iran trade strikes days after peace agreement",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/28/us-and-iran-trade-strikes-days-after-peace-agreement?traffic_source=rss",
       "desc": "",
-      "pubDate": "Sun, 28 Jun 2026 14:46:32 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "IRGC doubles down as Iran-US MoU jeopardised by Hormuz strikes",
-      "link": "https://www.aljazeera.com/news/2026/6/28/irgc-doubles-down-as-iran-us-mou-jeopardised-by-hormuz-strikes?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Sun, 28 Jun 2026 14:01:29 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "The US-Iran MoU: A mirage of an agreement",
-      "link": "https://www.aljazeera.com/opinions/2026/6/28/the-us-iran-mou-a-mirage-of-an-agreement?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Sun, 28 Jun 2026 13:59:38 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "What is Article 5 of Iran-US MoU, and why is it blamed for Hormuz strikes?",
-      "link": "https://www.aljazeera.com/news/2026/6/28/why-is-article-5-of-mou-causing-confrontations-in-the-strait-of-hormuz?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Sun, 28 Jun 2026 13:17:40 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Araghchi: Strait of Hormuz remains under Iranian control for 30 days",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/28/araghchi-strait-of-hormuz-remains-under-iranian-control-for-30-days?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Sun, 28 Jun 2026 12:38:33 +0000"
+      "pubDate": "Sun, 28 Jun 2026 18:55:53 +0000"
     },
     {
       "source": "BBC",
@@ -141,6 +113,34 @@
       "link": "https://www.bbc.co.uk/news/articles/c621jr3yy09o?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Tue, 16 Jun 2026 23:52:37 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[Iran deal presents political nightmare for Netanyahu]]>",
+      "link": "https://www.bbc.co.uk/news/articles/cj4gnqw8j52o?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Tue, 16 Jun 2026 03:40:36 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[Bowen: Iran deal ends Trump's war that revealed limit of US dominance]]>",
+      "link": "https://www.bbc.co.uk/news/articles/cdr4x3vg347o?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Mon, 15 Jun 2026 14:26:28 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[Trump aims to end Iran war but nuclear issue remains unresolved]]>",
+      "link": "https://www.bbc.co.uk/news/articles/cqj1zxv1jyeo?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Mon, 15 Jun 2026 13:54:18 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[Trump heralds Iran deal but questions - and risks - remain]]>",
+      "link": "https://www.bbc.co.uk/news/articles/c9824e0rz75o?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Mon, 15 Jun 2026 02:41:25 GMT"
     }
   ]
 }
