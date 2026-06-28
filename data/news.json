@@ -1,7 +1,28 @@
 {
-  "lastUpdated": "2026-06-28T06:53:06.024230Z",
-  "count": 32,
+  "lastUpdated": "2026-06-28T10:58:17.323695Z",
+  "count": 34,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "FIFA World Cup: Round of 32 bracket, schedule, predictions, Iran\u2019s exit",
+      "link": "https://www.aljazeera.com/sports/2026/6/28/fifa-world-cup-2026-sunday-schedule-round-of-32-fixtures-predictions?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sun, 28 Jun 2026 09:33:43 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Iran attacks Kuwait and Bahrain in response to US strikes",
+      "link": "https://www.aljazeera.com/news/2026/6/28/iran-attacks-kuwait-and-bahrain-in-response-to-us-strikes?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sun, 28 Jun 2026 08:39:48 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Iran bow out of World Cup: Late drama ends Team Melli\u2019s knockout dream",
+      "link": "https://www.aljazeera.com/sports/2026/6/28/late-drama-ends-irans-hopes-of-reaching-world-cup-knockouts-for-first-time?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sun, 28 Jun 2026 07:23:46 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "Iran war day 121: Iran attacks Bahrain, Kuwait as US strikes near Hormuz",
@@ -11,7 +32,7 @@
     },
     {
       "source": "Al Jazeera",
-      "title": "World Cup: Messi sends Argentina to top, England to face DR Congo, Iran out",
+      "title": "World Cup: Messi sends Argentina top, England to face DR Congo, Iran out",
       "link": "https://www.aljazeera.com/sports/2026/6/28/messi-argentina-fifa-world-cup-2026-england-dr-congo-portugal-iran?traffic_source=rss",
       "desc": "",
       "pubDate": "Sun, 28 Jun 2026 05:09:04 +0000"
@@ -36,13 +57,6 @@
       "link": "https://www.aljazeera.com/news/2026/6/27/us-launches-second-night-of-strikes-against-iran-after-ship-struck-by-drone?traffic_source=rss",
       "desc": "",
       "pubDate": "Sat, 27 Jun 2026 22:07:03 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Iran urge FIFA to stand up to \u2018really terrible\u2019 World Cup treatment by US",
-      "link": "https://www.aljazeera.com/sports/2026/6/27/iran-urge-fifa-to-stand-up-to-really-terrible-world-cup-treatment-by-us?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Sat, 27 Jun 2026 18:30:26 +0000"
     },
     {
       "source": "BBC",
@@ -127,20 +141,6 @@
       "link": "https://www.bbc.co.uk/news/articles/clyegr2mp8jo?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Thu, 18 Jun 2026 15:53:55 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[US-Iran deal leaves core sticking points unresolved - and a $300bn question]]>",
-      "link": "https://www.bbc.co.uk/news/articles/cgmd8dgklzzo?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Thu, 18 Jun 2026 01:29:32 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[What's in the US-Iran agreement?]]>",
-      "link": "https://www.bbc.co.uk/news/articles/cvgmqzr6p9mo?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Thu, 18 Jun 2026 01:28:02 GMT"
     }
   ]
 }
