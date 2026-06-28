@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-28T16:01:46.551146Z",
-  "count": 31,
+  "lastUpdated": "2026-06-28T19:00:39.578263Z",
+  "count": 30,
   "articles": [
     {
       "source": "Al Jazeera",
@@ -36,27 +36,6 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/6/28/araghchi-strait-of-hormuz-remains-under-iranian-control-for-30-days?traffic_source=rss",
       "desc": "",
       "pubDate": "Sun, 28 Jun 2026 12:38:33 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "US strikes Iran for second day: Is it a violation of war powers resolution?",
-      "link": "https://www.aljazeera.com/news/2026/6/28/us-strikes-iran-for-second-day-is-it-a-violation-of-war-powers-resolution?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Sun, 28 Jun 2026 12:13:18 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "\u2018US trying to find its way out of MoU with Iran\u2019",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/28/us-trying-to-find-its-way-out-of-mou-with?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Sun, 28 Jun 2026 10:30:45 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "FIFA World Cup: Round of 32 bracket, schedule, predictions, Iran\u2019s exit",
-      "link": "https://www.aljazeera.com/sports/2026/6/28/fifa-world-cup-2026-sunday-schedule-round-of-32-fixtures-predictions?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Sun, 28 Jun 2026 09:33:43 +0000"
     },
     {
       "source": "BBC",
@@ -141,6 +120,27 @@
       "link": "https://www.bbc.co.uk/news/articles/clyegr2mp8jo?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Thu, 18 Jun 2026 15:53:55 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[US-Iran deal leaves core sticking points unresolved - and a $300bn question]]>",
+      "link": "https://www.bbc.co.uk/news/articles/cgmd8dgklzzo?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Thu, 18 Jun 2026 01:29:32 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[What's in the US-Iran agreement?]]>",
+      "link": "https://www.bbc.co.uk/news/articles/cvgmqzr6p9mo?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Thu, 18 Jun 2026 01:28:02 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[The bikers battling extreme heat and armed conflict to smuggle Iranian fuel to Pakistan]]>",
+      "link": "https://www.bbc.co.uk/news/articles/c621jr3yy09o?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Tue, 16 Jun 2026 23:52:37 GMT"
     }
   ]
 }
