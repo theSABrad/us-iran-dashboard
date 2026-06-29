@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-29T19:41:11.137968Z",
-  "count": 26,
+  "lastUpdated": "2026-06-29T22:03:06.084949Z",
+  "count": 25,
   "articles": [
     {
       "source": "Al Jazeera",
@@ -8,13 +8,6 @@
       "link": "https://www.aljazeera.com/economy/2026/6/29/us-petrol-prices-ease-despite-ongoing-uncertainties-with-iran?traffic_source=rss",
       "desc": "",
       "pubDate": "Mon, 29 Jun 2026 16:01:07 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "The US-Iran MoU looks at managing the pain rather than ending the war",
-      "link": "https://www.aljazeera.com/news/2026/6/29/the-us-iran-mou-looks-at-managing-the-pain-rather-than-ending-the-war?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Mon, 29 Jun 2026 15:51:07 +0000"
     },
     {
       "source": "BBC",
@@ -141,6 +134,13 @@
       "link": "https://www.bbc.co.uk/news/videos/cy8w513859eo?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Wed, 24 Jun 2026 13:15:14 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[Why was JD Vance in a luxury Swiss resort for talks with Iran?]]>",
+      "link": "https://www.bbc.co.uk/news/videos/c4gyenl6nz0o?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Tue, 23 Jun 2026 05:38:36 GMT"
     }
   ]
 }
