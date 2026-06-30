@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-06-30T06:44:33.416019Z",
-  "count": 28,
+  "lastUpdated": "2026-06-30T11:37:58.973539Z",
+  "count": 26,
   "articles": [
     {
       "source": "Al Jazeera",
@@ -8,27 +8,6 @@
       "link": "https://www.aljazeera.com/news/2026/6/30/what-is-iran-looking-for-in-any-upcoming-talks-with-the-us?traffic_source=rss",
       "desc": "",
       "pubDate": "Tue, 30 Jun 2026 06:33:28 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Heartbroken Iran exit World Cup amid silver lining of Mexican hospitality",
-      "link": "https://www.aljazeera.com/sports/2026/6/30/heartbroken-iran-exit-world-cup-amid-silver-lining-of-mexican-hospitality?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Tue, 30 Jun 2026 04:41:32 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Trump: US envoys enroute to Doha for \u2018perhaps important\u2019 Iran meeting",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/30/trump-us-envoys-enroute-to-doha-for-perhaps-important-iran-meeting?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Tue, 30 Jun 2026 02:41:18 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Iran war live: Tehran denies Trump\u2019s claim of meeting in Doha",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/6/30/iran-war-live-tehran-denies-trumps-claims-of-meeting-in-doha?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Tue, 30 Jun 2026 00:00:00 +0000"
     },
     {
       "source": "BBC",
@@ -141,6 +120,27 @@
       "link": "https://www.bbc.co.uk/news/articles/cqj1zxv1jyeo?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Mon, 15 Jun 2026 13:54:18 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[Trump heralds Iran deal but questions - and risks - remain]]>",
+      "link": "https://www.bbc.co.uk/news/articles/c9824e0rz75o?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Mon, 15 Jun 2026 02:41:25 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[Here's how Rubio's Mideast trip could affect the Iran deal]]>",
+      "link": "https://www.bbc.co.uk/news/videos/cy8w513859eo?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Wed, 24 Jun 2026 13:15:14 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[Why was JD Vance in a luxury Swiss resort for talks with Iran?]]>",
+      "link": "https://www.bbc.co.uk/news/videos/c4gyenl6nz0o?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Tue, 23 Jun 2026 05:38:36 GMT"
     }
   ]
 }
