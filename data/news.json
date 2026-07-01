@@ -1,7 +1,21 @@
 {
-  "lastUpdated": "2026-07-01T17:04:48.985231Z",
-  "count": 24,
+  "lastUpdated": "2026-07-01T19:28:20.349110Z",
+  "count": 26,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "What military capabilities does Iran possess as it negotiates with US?",
+      "link": "https://www.aljazeera.com/news/2026/7/1/what-military-capabilities-does-iran-possess-as-it-negotiates-with-us?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Wed, 01 Jul 2026 17:19:55 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "The Iran talks expose the collapse of US diplomacy",
+      "link": "https://www.aljazeera.com/opinions/2026/7/1/the-iran-talks-expose-the-collapse-of-us-diplomacy?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Wed, 01 Jul 2026 17:05:20 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "\u2018Will not leave\u2019: Is Israel killing the US-Iran MoU by staying in Lebanon?",
@@ -11,7 +25,7 @@
     },
     {
       "source": "Al Jazeera",
-      "title": "How war on Iran changed the global energy sector forever",
+      "title": "\u2018Never the same\u2019: How war on Iran changed the global energy sector",
       "link": "https://www.aljazeera.com/economy/2026/7/1/how-war-on-iran-changed-the-global-energy-sector-forever?traffic_source=rss",
       "desc": "",
       "pubDate": "Wed, 01 Jul 2026 14:45:04 +0000"
@@ -127,20 +141,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cdr4x3vg347o?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Mon, 15 Jun 2026 14:26:28 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[Trump aims to end Iran war but nuclear issue remains unresolved]]>",
-      "link": "https://www.bbc.co.uk/news/articles/cqj1zxv1jyeo?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Mon, 15 Jun 2026 13:54:18 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[Trump heralds Iran deal but questions - and risks - remain]]>",
-      "link": "https://www.bbc.co.uk/news/articles/c9824e0rz75o?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Mon, 15 Jun 2026 02:41:25 GMT"
     }
   ]
 }
