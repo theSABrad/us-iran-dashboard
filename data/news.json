@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-07-02T16:43:29.012845Z",
+  "lastUpdated": "2026-07-02T19:07:15.621463Z",
   "count": 23,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "How US-Iran war may push Gulf countries to \u2018diversify\u2019 security alliances",
+      "link": "https://www.aljazeera.com/news/2026/7/2/how-us-iran-war-may-push-gulf-countries-to-diversify-security-alliances?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Thu, 02 Jul 2026 17:34:42 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "Who is Iranian oil tycoon Shamkhani whose ship is stranded in Hormuz?",
@@ -50,20 +57,6 @@
       "link": "https://www.bbc.co.uk/sport/football/articles/ckg4k0ddg5go?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Fri, 26 Jun 2026 11:20:11 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[UN nuclear chief says inspectors will visit Iran sites as part of war deal]]>",
-      "link": "https://www.bbc.co.uk/news/articles/cpd395zv81vo?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Wed, 24 Jun 2026 17:31:48 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[Dozens of ships head through Strait of Hormuz after US-Iran deal]]>",
-      "link": "https://www.bbc.co.uk/news/articles/cx23rnzdgl8o?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Tue, 23 Jun 2026 14:55:31 GMT"
     },
     {
       "source": "BBC",
@@ -141,6 +134,13 @@
       "link": "https://www.bbc.co.uk/news/videos/cy8w513859eo?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Wed, 24 Jun 2026 13:15:14 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[Why was JD Vance in a luxury Swiss resort for talks with Iran?]]>",
+      "link": "https://www.bbc.co.uk/news/videos/c4gyenl6nz0o?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Tue, 23 Jun 2026 05:38:36 GMT"
     }
   ]
 }
