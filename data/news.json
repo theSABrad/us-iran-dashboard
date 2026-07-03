@@ -1,7 +1,28 @@
 {
-  "lastUpdated": "2026-07-03T01:51:16.745037Z",
-  "count": 24,
+  "lastUpdated": "2026-07-03T06:20:08.618443Z",
+  "count": 27,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Khamenei\u2019s coffin readied as Iran prepares for seven-day funeral",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/3/khameneis-coffin-readied-as-iran-prepares-for-seven-day-funeral?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Fri, 03 Jul 2026 04:25:48 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Mapping Iran\u2019s Ali Khamenei funeral: Where mourners will gather each day",
+      "link": "https://www.aljazeera.com/news/2026/7/3/mapping-irans-ali-khamenei-funeral-where-mourners-will-gather-each-day?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Fri, 03 Jul 2026 04:18:04 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Iran warns ships against using unapproved routes in Strait of Hormuz",
+      "link": "https://www.aljazeera.com/economy/2026/7/3/iran-warns-ships-against-using-unapproved-routes-in-strait-of-hormuz?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Fri, 03 Jul 2026 03:01:11 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "Iran war live: Tehran slams US before huge funeral for Ali Khamenei",
@@ -10,11 +31,11 @@
       "pubDate": "Fri, 03 Jul 2026 00:00:00 +0000"
     },
     {
-      "source": "Al Jazeera",
-      "title": "The last time Iran held a funeral for the Supreme Leader",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/2/the-last-time-iran-held-a-funeral-for-the-supreme-leader?traffic_source=rss",
+      "source": "BBC",
+      "title": "<![CDATA[Iran begins public mourning for Ayatollah killed in February]]>",
+      "link": "https://www.bbc.co.uk/news/articles/cx2k4k7jqeno?at_medium=RSS&at_campaign=rss",
       "desc": "",
-      "pubDate": "Thu, 02 Jul 2026 19:11:16 +0000"
+      "pubDate": "Fri, 03 Jul 2026 05:53:56 GMT"
     },
     {
       "source": "BBC",
@@ -120,27 +141,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cqj1zxv1jyeo?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Mon, 15 Jun 2026 13:54:18 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[Trump heralds Iran deal but questions - and risks - remain]]>",
-      "link": "https://www.bbc.co.uk/news/articles/c9824e0rz75o?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Mon, 15 Jun 2026 02:41:25 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[Here's how Rubio's Mideast trip could affect the Iran deal]]>",
-      "link": "https://www.bbc.co.uk/news/videos/cy8w513859eo?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Wed, 24 Jun 2026 13:15:14 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[Why was JD Vance in a luxury Swiss resort for talks with Iran?]]>",
-      "link": "https://www.bbc.co.uk/news/videos/c4gyenl6nz0o?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Tue, 23 Jun 2026 05:38:36 GMT"
     }
   ]
 }
