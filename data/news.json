@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-07-05T01:56:59.189459Z",
-  "count": 28,
+  "lastUpdated": "2026-07-05T06:28:58.007355Z",
+  "count": 27,
   "articles": [
     {
       "source": "Al Jazeera",
-      "title": "Iran war live: Huge crowds mourn Khamenei, Trump vows to hold fire",
+      "title": "Iran war live: Huge crowds mourn Khamenei, Trump hints at Netanyahu meeting",
       "link": "https://www.aljazeera.com/news/liveblog/2026/7/5/iran-war-live-huge-crowds-mourn-khamenei-trump-vows-calm-during-funeral?traffic_source=rss",
       "desc": "",
       "pubDate": "Sun, 05 Jul 2026 00:00:00 +0000"
@@ -29,13 +29,6 @@
       "link": "https://www.aljazeera.com/news/2026/7/4/turkiyes-erdogan-says-israel-must-not-be-able-to-dynamite-us-iran-deal?traffic_source=rss",
       "desc": "",
       "pubDate": "Sat, 04 Jul 2026 18:09:20 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Iran promotes message of continuity and revenge at Khamenei commemoration",
-      "link": "https://www.aljazeera.com/news/2026/7/4/iran-promotes-message-of-continuity-and-revenge-at-khamenei-commemoration?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Sat, 04 Jul 2026 15:49:39 +0000"
     },
     {
       "source": "BBC",
@@ -141,6 +134,13 @@
       "link": "https://www.bbc.co.uk/news/articles/cqj1zxv1jyeo?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Mon, 15 Jun 2026 13:54:18 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[Trump heralds Iran deal but questions - and risks - remain]]>",
+      "link": "https://www.bbc.co.uk/news/articles/c9824e0rz75o?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Mon, 15 Jun 2026 02:41:25 GMT"
     }
   ]
 }
