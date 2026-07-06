@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-07-06T19:39:21.651046Z",
-  "count": 21,
+  "lastUpdated": "2026-07-06T22:05:10.996932Z",
+  "count": 23,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Body of Iran\u2019s slain Supreme Leader Ali Khamenei arrives in Qom",
+      "link": "https://www.aljazeera.com/news/2026/7/6/body-of-irans-slain-supreme-leader-ali-khamenei-arrives-in-qom?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Mon, 06 Jul 2026 19:56:09 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "Iran reappoints a familiar face to powerful post during Khamenei funeral",
@@ -134,13 +141,6 @@
       "link": "https://www.bbc.co.uk/news/videos/c4gyenl6nz0o?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Tue, 23 Jun 2026 05:38:36 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[Moment Trump signs US-Iran agreement at Palace of Versailles]]>",
-      "link": "https://www.bbc.co.uk/news/videos/crm03y1xx2no?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Thu, 18 Jun 2026 01:59:38 GMT"
     }
   ]
 }
