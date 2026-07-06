@@ -1,21 +1,7 @@
 {
-  "lastUpdated": "2026-07-06T12:34:56.633508Z",
-  "count": 22,
+  "lastUpdated": "2026-07-06T17:34:10.551202Z",
+  "count": 21,
   "articles": [
-    {
-      "source": "Al Jazeera",
-      "title": "Huge crowd joins funeral procession for Iran\u2019s Supreme Leader Khamenei",
-      "link": "https://www.aljazeera.com/news/2026/7/6/huge-crowd-joins-funeral-procession-for-irans-supreme-leader-khamenei?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Mon, 06 Jul 2026 10:52:55 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Funeral procession for Iran\u2019s slain Supreme Leader Ali Khamenei under way",
-      "link": "https://www.aljazeera.com/gallery/2026/7/6/funeral-procession-for-irans-slain-supreme-leader-ali-khamenei-under-way?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Mon, 06 Jul 2026 07:11:33 +0000"
-    },
     {
       "source": "BBC",
       "title": "<![CDATA[Iran's supreme leader absent as senior officials attend ayatollah's funeral]]>",
@@ -141,6 +127,20 @@
       "link": "https://www.bbc.co.uk/news/videos/cy8w513859eo?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Wed, 24 Jun 2026 13:15:14 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[Why was JD Vance in a luxury Swiss resort for talks with Iran?]]>",
+      "link": "https://www.bbc.co.uk/news/videos/c4gyenl6nz0o?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Tue, 23 Jun 2026 05:38:36 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[Moment Trump signs US-Iran agreement at Palace of Versailles]]>",
+      "link": "https://www.bbc.co.uk/news/videos/crm03y1xx2no?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Thu, 18 Jun 2026 01:59:38 GMT"
     }
   ]
 }
