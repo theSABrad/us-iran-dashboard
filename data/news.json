@@ -1,20 +1,13 @@
 {
-  "lastUpdated": "2026-07-06T02:03:53.318638Z",
-  "count": 24,
+  "lastUpdated": "2026-07-06T07:00:18.688403Z",
+  "count": 23,
   "articles": [
     {
       "source": "Al Jazeera",
-      "title": "Iran war live: Tehran prepares for Ali Khamenei\u2019s funeral procession",
+      "title": "Iran war live: Khamenei\u2019s funeral procession under way in Tehran",
       "link": "https://www.aljazeera.com/news/liveblog/2026/7/6/iran-war-live-tehran-set-for-khameneis-procession-israel-bombs-lebanon?traffic_source=rss",
       "desc": "",
       "pubDate": "Mon, 06 Jul 2026 00:00:00 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Sons of Iran\u2019s leader Ali Khamenei attend funeral, but Mojtaba is absent",
-      "link": "https://www.aljazeera.com/news/2026/7/5/sons-of-irans-leader-ali-khamenei-attend-funeral-but-mojtaba-is-absent?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Sun, 05 Jul 2026 18:55:37 +0000"
     },
     {
       "source": "BBC",
@@ -141,6 +134,13 @@
       "link": "https://www.bbc.co.uk/news/videos/cy8w513859eo?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Wed, 24 Jun 2026 13:15:14 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[Why was JD Vance in a luxury Swiss resort for talks with Iran?]]>",
+      "link": "https://www.bbc.co.uk/news/videos/c4gyenl6nz0o?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Tue, 23 Jun 2026 05:38:36 GMT"
     }
   ]
 }
