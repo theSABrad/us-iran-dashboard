@@ -1,13 +1,20 @@
 {
-  "lastUpdated": "2026-07-06T07:00:18.688403Z",
-  "count": 23,
+  "lastUpdated": "2026-07-06T12:34:56.633508Z",
+  "count": 22,
   "articles": [
     {
       "source": "Al Jazeera",
-      "title": "Iran war live: Khamenei\u2019s funeral procession under way in Tehran",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/7/6/iran-war-live-tehran-set-for-khameneis-procession-israel-bombs-lebanon?traffic_source=rss",
+      "title": "Huge crowd joins funeral procession for Iran\u2019s Supreme Leader Khamenei",
+      "link": "https://www.aljazeera.com/news/2026/7/6/huge-crowd-joins-funeral-procession-for-irans-supreme-leader-khamenei?traffic_source=rss",
       "desc": "",
-      "pubDate": "Mon, 06 Jul 2026 00:00:00 +0000"
+      "pubDate": "Mon, 06 Jul 2026 10:52:55 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Funeral procession for Iran\u2019s slain Supreme Leader Ali Khamenei under way",
+      "link": "https://www.aljazeera.com/gallery/2026/7/6/funeral-procession-for-irans-slain-supreme-leader-ali-khamenei-under-way?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Mon, 06 Jul 2026 07:11:33 +0000"
     },
     {
       "source": "BBC",
@@ -53,17 +60,10 @@
     },
     {
       "source": "BBC",
-      "title": "<![CDATA[Rainbow flags await Egypt and Iran at awkward Pride Match]]>",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ckg4k0ddg5go?at_medium=RSS&at_campaign=rss",
+      "title": "<![CDATA[Iran nuclear and military damage revealed after restricted satellite images released ]]>",
+      "link": "https://www.bbc.co.uk/news/articles/cr5j1qn6deno?at_medium=RSS&at_campaign=rss",
       "desc": "",
-      "pubDate": "Fri, 26 Jun 2026 11:20:11 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[Thousands killed in US-Israeli war on Iran - but experts say true total may never be known]]>",
-      "link": "https://www.bbc.co.uk/news/articles/cy735xlv50ko?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Fri, 19 Jun 2026 05:33:59 GMT"
+      "pubDate": "Fri, 03 Jul 2026 11:02:55 GMT"
     },
     {
       "source": "BBC",
@@ -130,17 +130,17 @@
     },
     {
       "source": "BBC",
+      "title": "<![CDATA[Funeral of Iran's former supreme leader 'intensely political moment']]>",
+      "link": "https://www.bbc.co.uk/news/videos/c23y22z4ppxo?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Sat, 04 Jul 2026 21:46:43 GMT"
+    },
+    {
+      "source": "BBC",
       "title": "<![CDATA[Here's how Rubio's Mideast trip could affect the Iran deal]]>",
       "link": "https://www.bbc.co.uk/news/videos/cy8w513859eo?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Wed, 24 Jun 2026 13:15:14 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[Why was JD Vance in a luxury Swiss resort for talks with Iran?]]>",
-      "link": "https://www.bbc.co.uk/news/videos/c4gyenl6nz0o?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Tue, 23 Jun 2026 05:38:36 GMT"
     }
   ]
 }
