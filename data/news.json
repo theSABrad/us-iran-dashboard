@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-07-07T17:03:51.415991Z",
-  "count": 21,
+  "lastUpdated": "2026-07-07T19:38:34.304149Z",
+  "count": 22,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Trump criticises NATO allies over Iran conflict support",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/7/trump-criticises-nato-allies-over-iran-conflict-support?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Tue, 07 Jul 2026 19:16:05 +0000"
+    },
     {
       "source": "BBC",
       "title": "<![CDATA[Resistance and revenge - Iran wanted to send a message with its farewell to Khamenei]]>",
@@ -134,13 +141,6 @@
       "link": "https://www.bbc.co.uk/news/videos/c4gyenl6nz0o?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Tue, 23 Jun 2026 05:38:36 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[Moment Trump signs US-Iran agreement at Palace of Versailles]]>",
-      "link": "https://www.bbc.co.uk/news/videos/crm03y1xx2no?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Thu, 18 Jun 2026 01:59:38 GMT"
     }
   ]
 }
