@@ -1,7 +1,42 @@
 {
-  "lastUpdated": "2026-07-08T13:28:07.033105Z",
-  "count": 34,
+  "lastUpdated": "2026-07-08T16:24:15.960977Z",
+  "count": 29,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Germany urges US-Iran negotiations, offers to minesweep Hormuz",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/8/germany-urges-us-iran-negotiations-offers-to-minesweep-hormuz?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Wed, 08 Jul 2026 15:57:41 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Trump\u2019s Iran strike comments shake markets, Brent crude hits two-week high",
+      "link": "https://www.aljazeera.com/economy/2026/7/8/trumps-iran-strike-comments-shake-markets-brent-crude-hits-two-week-high?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Wed, 08 Jul 2026 15:53:23 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Trump on Iran: \u2018We\u2019ll probably hit them hard again tonight\u2019",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/8/trump-on-iran-well-probably-hit-them-hard-again?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Wed, 08 Jul 2026 14:20:03 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Iran\u2019s supreme leader\u2019s coffin arrives in Najaf",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/8/irans-supreme-leaders-coffin-arrives-in-najaf?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Wed, 08 Jul 2026 13:11:57 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Iran signals defiance as Trump fumes over Strait of Hormuz strikes",
+      "link": "https://www.aljazeera.com/news/2026/7/8/iran-signals-defiance-as-trump-fumes-over-strait-of-hormuz-strikes?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Wed, 08 Jul 2026 13:09:22 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "Trump says MoU \u2018over\u2019 after latest US and Iranian attacks",
@@ -10,46 +45,11 @@
       "pubDate": "Wed, 08 Jul 2026 12:48:57 +0000"
     },
     {
-      "source": "Al Jazeera",
-      "title": "Trump says ceasefire \u2018over\u2019 after US, Iran trade attacks",
-      "link": "https://www.aljazeera.com/news/2026/7/8/trump-says-ceasefire-over-after-us-iran-trade-attacks?traffic_source=rss",
+      "source": "BBC",
+      "title": "<![CDATA[Bowen: For all his bluster, Trump has no better option than talks with Iran]]>",
+      "link": "https://www.bbc.co.uk/news/articles/cy8we3j14ndo?at_medium=RSS&at_campaign=rss",
       "desc": "",
-      "pubDate": "Wed, 08 Jul 2026 10:06:29 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Why have US-Iran strikes resumed and what does it mean for peace?",
-      "link": "https://www.aljazeera.com/news/2026/7/8/why-have-us-iran-strikes-resumed-and-what-does-it-mean-for-peace-talks?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Wed, 08 Jul 2026 09:42:40 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Trump says MoU with \u2018vicious, violent\u2019 Iran is over",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/8/trump-says-mou-with-vicious-violent-iran-is-over?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Wed, 08 Jul 2026 09:14:50 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "The Iranian Striker: The journey of Mehdi Taremi | Al Jazeera Originals",
-      "link": "https://www.aljazeera.com/video/al-jazeera-documentaries/2026/7/8/aje-onl-aj_or_irn_football-080726?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Wed, 08 Jul 2026 08:54:58 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Funeral events for Iran\u2019s slain Supreme Leader Khamenei under way in Iraq",
-      "link": "https://www.aljazeera.com/news/2026/7/8/funeral-events-for-irans-slain-supreme-leader-khamenei-under-way-in-iraq?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Wed, 08 Jul 2026 08:27:43 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Iran\u2019s economy faces long road to recovery as fragile truce tested",
-      "link": "https://www.aljazeera.com/news/2026/7/8/irans-economy-faces-long-road-to-recovery-as-fragile-truce-tested?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Wed, 08 Jul 2026 06:03:14 +0000"
+      "pubDate": "Wed, 08 Jul 2026 15:30:00 GMT"
     },
     {
       "source": "BBC",
@@ -71,13 +71,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cevllyj9vv3o?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Sun, 05 Jul 2026 17:58:01 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[How Iran's new regime is very different to what came before]]>",
-      "link": "https://www.bbc.co.uk/news/articles/cg534ryp660o?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Sun, 05 Jul 2026 05:40:07 GMT"
     },
     {
       "source": "BBC",
@@ -106,6 +99,13 @@
       "link": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Sat, 27 Jun 2026 10:40:38 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[How Iran's new regime is very different to what came before]]>",
+      "link": "https://www.bbc.co.uk/news/articles/cg534ryp660o?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Sun, 05 Jul 2026 05:40:07 GMT"
     },
     {
       "source": "BBC",
