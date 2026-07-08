@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-07-08T19:04:50.875168Z",
-  "count": 33,
+  "lastUpdated": "2026-07-08T21:57:46.821250Z",
+  "count": 30,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "US says conducting new wave of strikes on Iran as ceasefire falters",
+      "link": "https://www.aljazeera.com/news/2026/7/8/us-says-conducting-new-wave-of-strikes-on-iran-as-ceasefire-falters-2?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Wed, 08 Jul 2026 20:40:14 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "Trump says he \u2018may be gone\u2019 as he declares himself Iran\u2019s No. 1 target",
@@ -15,34 +22,6 @@
       "link": "https://www.aljazeera.com/opinions/2026/7/8/the-strait-of-hormuz-is-now-at-the-centre-of-iranian-and-us-calculus?traffic_source=rss",
       "desc": "",
       "pubDate": "Wed, 08 Jul 2026 16:48:31 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Germany urges US-Iran negotiations, offers to minesweep Hormuz",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/8/germany-urges-us-iran-negotiations-offers-to-minesweep-hormuz?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Wed, 08 Jul 2026 15:57:41 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Trump\u2019s Iran strike comments shake markets, Brent crude hits two-week high",
-      "link": "https://www.aljazeera.com/economy/2026/7/8/trumps-iran-strike-comments-shake-markets-brent-crude-hits-two-week-high?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Wed, 08 Jul 2026 15:53:23 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Trump on Iran: \u2018We\u2019ll probably hit them hard again tonight\u2019",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/8/trump-on-iran-well-probably-hit-them-hard-again?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Wed, 08 Jul 2026 14:20:03 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Iran\u2019s supreme leader\u2019s coffin arrives in Najaf",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/8/irans-supreme-leaders-coffin-arrives-in-najaf?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Wed, 08 Jul 2026 13:11:57 +0000"
     },
     {
       "source": "BBC",
@@ -141,6 +120,27 @@
       "link": "https://www.bbc.co.uk/news/articles/c621jr3yy09o?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Tue, 16 Jun 2026 23:52:37 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[Iran deal presents political nightmare for Netanyahu]]>",
+      "link": "https://www.bbc.co.uk/news/articles/cj4gnqw8j52o?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Tue, 16 Jun 2026 03:40:36 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[Bowen: Iran deal ends Trump's war that revealed limit of US dominance]]>",
+      "link": "https://www.bbc.co.uk/news/articles/cdr4x3vg347o?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Mon, 15 Jun 2026 14:26:28 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[Trump aims to end Iran war but nuclear issue remains unresolved]]>",
+      "link": "https://www.bbc.co.uk/news/articles/cqj1zxv1jyeo?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Mon, 15 Jun 2026 13:54:18 GMT"
     }
   ]
 }
