@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-07-09T14:27:58.312908Z",
-  "count": 31,
+  "lastUpdated": "2026-07-09T17:11:23.285874Z",
+  "count": 28,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Strait of Hormuz: What has happened since the US-Iran MoU on June 17?",
+      "link": "https://www.aljazeera.com/news/2026/7/9/strait-of-hormuz-what-has-happened-since-the-us-iran-mou-on-june-17?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Thu, 09 Jul 2026 15:34:54 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "Photos: Iran to bury slain supreme leader in culmination of mass funeral",
@@ -24,46 +31,11 @@
       "pubDate": "Thu, 09 Jul 2026 11:47:46 +0000"
     },
     {
-      "source": "Al Jazeera",
-      "title": "Deadly US strikes trigger Iranian attacks on Gulf states",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/9/deadly-us-strikes-trigger-iranian-attacks-on-gulf-states?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Thu, 09 Jul 2026 11:23:34 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Iran prepares to bury slain leader Khamenei after mass funeral processions",
-      "link": "https://www.aljazeera.com/news/2026/7/9/iran-prepares-to-bury-slain-leader-khamenei-after-mass-funeral-ceremonies?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Thu, 09 Jul 2026 10:52:38 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "US strikes Iran for second night \u2013 is the peace process all over now?",
-      "link": "https://www.aljazeera.com/news/2026/7/9/us-strikes-iran-for-second-night-is-the-peace-process-all-over-now?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Thu, 09 Jul 2026 10:49:40 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Air raid sirens in Bahrain after uneasy night of US-Iran strikes",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/9/air-raid-sirens-in-bahrain-after-uneasy-night-of-us-iran-strikes?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Thu, 09 Jul 2026 10:06:58 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "US, Iran launch more attacks as mediators urge both sides to uphold MoU",
-      "link": "https://www.aljazeera.com/news/2026/7/9/us-iran-launch-more-attacks-as-mediators-urge-warring-sides-to-uphold-mou?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Thu, 09 Jul 2026 09:04:50 +0000"
-    },
-    {
       "source": "BBC",
-      "title": "<![CDATA[Huge crowds gather in Mashhad for burial of Iran's supreme leader]]>",
+      "title": "<![CDATA[Huge crowds in Mashhad for burial of Iran's late supreme leader]]>",
       "link": "https://www.bbc.co.uk/news/articles/c5yzm8m4peeo?at_medium=RSS&at_campaign=rss",
       "desc": "",
-      "pubDate": "Thu, 09 Jul 2026 12:48:15 GMT"
+      "pubDate": "Thu, 09 Jul 2026 16:28:03 GMT"
     },
     {
       "source": "BBC",
@@ -141,6 +113,34 @@
       "link": "https://www.bbc.co.uk/news/articles/cvgmqzr6p9mo?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Thu, 18 Jun 2026 01:28:02 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[The bikers battling extreme heat and armed conflict to smuggle Iranian fuel to Pakistan]]>",
+      "link": "https://www.bbc.co.uk/news/articles/c621jr3yy09o?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Tue, 16 Jun 2026 23:52:37 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[Iran deal presents political nightmare for Netanyahu]]>",
+      "link": "https://www.bbc.co.uk/news/articles/cj4gnqw8j52o?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Tue, 16 Jun 2026 03:40:36 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[Bowen: Iran deal ends Trump's war that revealed limit of US dominance]]>",
+      "link": "https://www.bbc.co.uk/news/articles/cdr4x3vg347o?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Mon, 15 Jun 2026 14:26:28 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[Trump aims to end Iran war but nuclear issue remains unresolved]]>",
+      "link": "https://www.bbc.co.uk/news/articles/cqj1zxv1jyeo?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Mon, 15 Jun 2026 13:54:18 GMT"
     }
   ]
 }
