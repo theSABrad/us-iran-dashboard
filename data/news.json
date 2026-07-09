@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-07-09T01:50:46.649146Z",
-  "count": 32,
+  "lastUpdated": "2026-07-09T06:43:37.145767Z",
+  "count": 33,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "IMF cuts 2026 world growth forecast, citing Iran war fallout",
+      "link": "https://www.aljazeera.com/economy/2026/7/9/imf-cuts-2026-world-growth-forecast-citing-iran-war-fallout?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Thu, 09 Jul 2026 02:58:20 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "Tehran releases footage showing ruins of late Iranian leader\u2019s compound",
@@ -11,7 +18,7 @@
     },
     {
       "source": "Al Jazeera",
-      "title": "Iran war live: Sirens in Bahrain, Kuwait after deadly US attacks on Iran",
+      "title": "Iran war live: Tehran attacks Bahrain, Kuwait again after deadly US raids",
       "link": "https://www.aljazeera.com/news/liveblog/2026/7/9/iran-war-live-one-killed-as-us-bombs-bushehr-chabahar-bandar-abbas-jask?traffic_source=rss",
       "desc": "",
       "pubDate": "Thu, 09 Jul 2026 00:00:06 +0000"
@@ -22,13 +29,6 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/7/8/aje-onl-nf_us-expands-military-strike-on-iran-080726?traffic_source=rss",
       "desc": "",
       "pubDate": "Wed, 08 Jul 2026 22:52:48 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "US says conducting new wave of strikes on Iran as ceasefire falters",
-      "link": "https://www.aljazeera.com/news/2026/7/8/us-says-conducting-new-wave-of-strikes-on-iran-as-ceasefire-falters-2?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Wed, 08 Jul 2026 20:40:14 +0000"
     },
     {
       "source": "BBC",
