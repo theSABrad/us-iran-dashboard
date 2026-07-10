@@ -1,13 +1,20 @@
 {
-  "lastUpdated": "2026-07-10T11:41:58.111742Z",
-  "count": 20,
+  "lastUpdated": "2026-07-10T13:55:15.209520Z",
+  "count": 23,
   "articles": [
     {
       "source": "Al Jazeera",
-      "title": "The US is building a new pressure architecture against Iran",
-      "link": "https://www.aljazeera.com/opinions/2026/7/10/the-us-is-building-a-new-pressure-architecture-against-iran?traffic_source=rss",
+      "title": "US-Iran escalation threatens oil supply recovery, warns IEA",
+      "link": "https://www.aljazeera.com/news/2026/7/10/us-iran-escalation-threatens-oil-supply-recovery-warns-iea?traffic_source=rss",
       "desc": "",
-      "pubDate": "Fri, 10 Jul 2026 07:29:09 +0000"
+      "pubDate": "Fri, 10 Jul 2026 11:51:06 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "US-Iran war: Will peace talks resume, and when?",
+      "link": "https://www.aljazeera.com/news/2026/7/10/us-iran-war-will-peace-talks-ever-resume-and-when?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Fri, 10 Jul 2026 11:43:28 +0000"
     },
     {
       "source": "BBC",
@@ -116,6 +123,13 @@
     },
     {
       "source": "NPR",
+      "title": "U.S.-Iran fighting appears to pause. And, life inside Israel's military zones in Gaza",
+      "link": "https://www.npr.org/2026/07/10/g-s1-132943/up-first-newsletter-iran-us-tps-haitians-syrians-eac-gaza-israel-hamas",
+      "desc": "Fighting between the U.S. and Iran appears to have paused after two days of clashing amid a shaky ceasefire. And, a look at what life is like inside Israel's expanding zone of control in Gaza.",
+      "pubDate": "Fri, 10 Jul 2026 07:43:38 -0400"
+    },
+    {
+      "source": "NPR",
       "title": "U.S. and Iran exchange intensifying fire across Mideast, threatening ceasefire deal",
       "link": "https://www.npr.org/2026/07/10/g-s1-132927/us-iran-war",
       "desc": "Back-and-forth attacks have repeatedly threatened the ceasefire, but Thursday's appeared bigger all around.",
@@ -127,20 +141,6 @@
       "link": "https://www.npr.org/2026/07/09/nx-s1-5886129/former-u-s-envoy-reacts-to-iran-strikes-and-nato-summit",
       "desc": "NPR's Scott Detrow speaks with former U.S. Ambassador to NATO Nicholas Burns regarding this week's developments in the U.S.-Iran conflict -- and the NATO summit this week.",
       "pubDate": "Thu, 09 Jul 2026 16:02:31 -0400"
-    },
-    {
-      "source": "NPR",
-      "title": "Where are Iran and Ukraine wars headed after NATO summit?",
-      "link": "https://www.npr.org/2026/07/09/nx-s1-5886200/where-are-iran-and-ukraine-wars-headed-after-nato-summit",
-      "desc": "Fresh strikes between Iran and the United States and a tense ceasefire scrapped \u2014 Is the war with Iran back on?",
-      "pubDate": "Thu, 09 Jul 2026 16:01:45 -0400"
-    },
-    {
-      "source": "The Hill",
-      "title": "Iran recently plotted to kill Trump, per Israel",
-      "link": "https://thehill.com/homenews/administration/5962032-israel-iran-trump-security-threat/",
-      "desc": "",
-      "pubDate": "Fri, 10 Jul 2026 01:48:39 +0000"
     }
   ]
 }
