@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-07-10T19:13:55.473685Z",
-  "count": 21,
+  "lastUpdated": "2026-07-10T21:50:24.075137Z",
+  "count": 22,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Can the agreement between Iran and the US be rescued?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/7/10/can-the-agreement-between-iran-and-the-us-be-rescued?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Fri, 10 Jul 2026 19:02:01 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "Trump hints at further Iran negotiations after exchange of fire over Hormuz",
@@ -134,13 +141,6 @@
       "link": "https://www.npr.org/2026/07/09/nx-s1-5886129/former-u-s-envoy-reacts-to-iran-strikes-and-nato-summit",
       "desc": "NPR's Scott Detrow speaks with former U.S. Ambassador to NATO Nicholas Burns regarding this week's developments in the U.S.-Iran conflict -- and the NATO summit this week.",
       "pubDate": "Thu, 09 Jul 2026 16:02:31 -0400"
-    },
-    {
-      "source": "NPR",
-      "title": "Where are Iran and Ukraine wars headed after NATO summit?",
-      "link": "https://www.npr.org/2026/07/09/nx-s1-5886200/where-are-iran-and-ukraine-wars-headed-after-nato-summit",
-      "desc": "Fresh strikes between Iran and the United States and a tense ceasefire scrapped \u2014 Is the war with Iran back on?",
-      "pubDate": "Thu, 09 Jul 2026 16:01:45 -0400"
     }
   ]
 }
