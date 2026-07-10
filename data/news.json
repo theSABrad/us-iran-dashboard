@@ -1,41 +1,13 @@
 {
-  "lastUpdated": "2026-07-10T06:32:05.296448Z",
-  "count": 26,
+  "lastUpdated": "2026-07-10T11:41:58.111742Z",
+  "count": 20,
   "articles": [
     {
       "source": "Al Jazeera",
-      "title": "Iran says strikes hit southern areas, but US denies it carried attacks",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/10/iran-says-strikes-hit-southern-areas-but-us-denies-it-carried-attacks?traffic_source=rss",
+      "title": "The US is building a new pressure architecture against Iran",
+      "link": "https://www.aljazeera.com/opinions/2026/7/10/the-us-is-building-a-new-pressure-architecture-against-iran?traffic_source=rss",
       "desc": "",
-      "pubDate": "Fri, 10 Jul 2026 03:05:55 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Strait of Hormuz traffic plunges as US, Iran resume fighting",
-      "link": "https://www.aljazeera.com/economy/2026/7/10/strait-of-hormuz-shipping-grinds-to-halt-as-us-iran-resume-fighting?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Fri, 10 Jul 2026 02:55:59 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Iran war live: Uneasy calm in the Middle East after deadly attacks",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/7/10/iran-war-live-fresh-attacks-on-iran-as-us-says-talks-still-on?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Fri, 10 Jul 2026 00:00:00 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "How Strait of Hormuz dispute led to latest US-Iran cycle of fighting",
-      "link": "https://www.aljazeera.com/news/2026/7/9/how-strait-of-hormuz-dispute-led-to-latest-us-iran-cycle-of-fighting?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Thu, 09 Jul 2026 21:38:48 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "US military denies involvement after explosions heard in Iran",
-      "link": "https://www.aljazeera.com/news/2026/7/9/explosions-heard-in-iran-as-us-military-denies-involvement?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Thu, 09 Jul 2026 21:14:30 +0000"
+      "pubDate": "Fri, 10 Jul 2026 07:29:09 +0000"
     },
     {
       "source": "BBC",
@@ -141,6 +113,34 @@
       "link": "https://www.bbc.co.uk/news/videos/c23y22z4ppxo?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Sat, 04 Jul 2026 21:46:43 GMT"
+    },
+    {
+      "source": "NPR",
+      "title": "U.S. and Iran exchange intensifying fire across Mideast, threatening ceasefire deal",
+      "link": "https://www.npr.org/2026/07/10/g-s1-132927/us-iran-war",
+      "desc": "Back-and-forth attacks have repeatedly threatened the ceasefire, but Thursday's appeared bigger all around.",
+      "pubDate": "Fri, 10 Jul 2026 02:12:36 -0400"
+    },
+    {
+      "source": "NPR",
+      "title": "Former U.S. envoy reacts to Iran strikes and NATO summit",
+      "link": "https://www.npr.org/2026/07/09/nx-s1-5886129/former-u-s-envoy-reacts-to-iran-strikes-and-nato-summit",
+      "desc": "NPR's Scott Detrow speaks with former U.S. Ambassador to NATO Nicholas Burns regarding this week's developments in the U.S.-Iran conflict -- and the NATO summit this week.",
+      "pubDate": "Thu, 09 Jul 2026 16:02:31 -0400"
+    },
+    {
+      "source": "NPR",
+      "title": "Where are Iran and Ukraine wars headed after NATO summit?",
+      "link": "https://www.npr.org/2026/07/09/nx-s1-5886200/where-are-iran-and-ukraine-wars-headed-after-nato-summit",
+      "desc": "Fresh strikes between Iran and the United States and a tense ceasefire scrapped \u2014 Is the war with Iran back on?",
+      "pubDate": "Thu, 09 Jul 2026 16:01:45 -0400"
+    },
+    {
+      "source": "The Hill",
+      "title": "Iran recently plotted to kill Trump, per Israel",
+      "link": "https://thehill.com/homenews/administration/5962032-israel-iran-trump-security-threat/",
+      "desc": "",
+      "pubDate": "Fri, 10 Jul 2026 01:48:39 +0000"
     }
   ]
 }
