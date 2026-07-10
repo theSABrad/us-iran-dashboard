@@ -1,10 +1,24 @@
 {
-  "lastUpdated": "2026-07-10T01:49:37.896053Z",
-  "count": 24,
+  "lastUpdated": "2026-07-10T06:32:05.296448Z",
+  "count": 26,
   "articles": [
     {
       "source": "Al Jazeera",
-      "title": "Iran war live: New attacks on Iran as US says talks still on",
+      "title": "Iran says strikes hit southern areas, but US denies it carried attacks",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/10/iran-says-strikes-hit-southern-areas-but-us-denies-it-carried-attacks?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Fri, 10 Jul 2026 03:05:55 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Strait of Hormuz traffic plunges as US, Iran resume fighting",
+      "link": "https://www.aljazeera.com/economy/2026/7/10/strait-of-hormuz-shipping-grinds-to-halt-as-us-iran-resume-fighting?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Fri, 10 Jul 2026 02:55:59 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Iran war live: Uneasy calm in the Middle East after deadly attacks",
       "link": "https://www.aljazeera.com/news/liveblog/2026/7/10/iran-war-live-fresh-attacks-on-iran-as-us-says-talks-still-on?traffic_source=rss",
       "desc": "",
       "pubDate": "Fri, 10 Jul 2026 00:00:00 +0000"
@@ -22,20 +36,6 @@
       "link": "https://www.aljazeera.com/news/2026/7/9/explosions-heard-in-iran-as-us-military-denies-involvement?traffic_source=rss",
       "desc": "",
       "pubDate": "Thu, 09 Jul 2026 21:14:30 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Why the US Strategic Petroleum Reserve matters amid US-Iran tensions",
-      "link": "https://www.aljazeera.com/economy/2026/7/9/why-the-us-strategic-petroleum-reserve-matters-amid-us-iran-tensions?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Thu, 09 Jul 2026 20:03:00 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "US expands Iran strikes Iran hitting  fishing piers near nuclear plant",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/9/us-expands-iran-strikes-iran-hitting-fishing-piers-near-nuclear-plant?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Thu, 09 Jul 2026 18:17:55 +0000"
     },
     {
       "source": "BBC",
