@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-11T12:52:10.960293Z",
-  "count": 25,
+  "lastUpdated": "2026-07-11T15:43:20.903703Z",
+  "count": 24,
   "articles": [
     {
       "source": "Al Jazeera",
@@ -15,6 +15,13 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/7/11/are-the-us-and-iran-at-war-again?traffic_source=rss",
       "desc": "",
       "pubDate": "Sat, 11 Jul 2026 04:51:20 +0000"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[US wants Iran to pledge to stop shooting at ships in Strait of Hormuz]]>",
+      "link": "https://www.bbc.co.uk/news/articles/crelyq79x71o?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Sat, 11 Jul 2026 14:08:07 GMT"
     },
     {
       "source": "BBC",
@@ -134,13 +141,6 @@
       "link": "https://www.npr.org/2026/07/10/g-s1-132943/up-first-newsletter-iran-us-tps-haitians-syrians-eac-gaza-israel-hamas",
       "desc": "Fighting between the U.S. and Iran appears to have paused after two days of clashing amid a shaky ceasefire. And, a look at what life is like inside Israel's expanding zone of control in Gaza.",
       "pubDate": "Fri, 10 Jul 2026 07:43:38 -0400"
-    },
-    {
-      "source": "NPR",
-      "title": "U.S. and Iran exchange intensifying fire across Mideast, threatening ceasefire deal",
-      "link": "https://www.npr.org/2026/07/10/g-s1-132927/us-iran-war",
-      "desc": "Back-and-forth attacks have repeatedly threatened the ceasefire, but Thursday's appeared bigger all around.",
-      "pubDate": "Fri, 10 Jul 2026 02:12:36 -0400"
     }
   ]
 }
