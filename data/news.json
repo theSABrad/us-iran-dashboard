@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-07-11T10:07:56.465283Z",
-  "count": 27,
+  "lastUpdated": "2026-07-11T12:52:10.960293Z",
+  "count": 25,
   "articles": [
     {
       "source": "Al Jazeera",
-      "title": "Trump threatens Iran after chants for his death erupted at Khamenei funeral",
+      "title": "Trump trades threats with Iran\u2019s leader as mediators struggle to save talks",
       "link": "https://www.aljazeera.com/news/2026/7/11/trump-threatens-iran-after-chants-for-his-death-erupted-at-khamenei-funeral?traffic_source=rss",
       "desc": "",
       "pubDate": "Sat, 11 Jul 2026 08:04:57 +0000"
@@ -15,13 +15,6 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/7/11/are-the-us-and-iran-at-war-again?traffic_source=rss",
       "desc": "",
       "pubDate": "Sat, 11 Jul 2026 04:51:20 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Iran war live: Trump threatens to \u2018decimate\u2019 Iran if it tries to kill him",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/7/11/iran-war-live-us-demands-iran-publicly-state-strait-of-hormuz-open-for-all?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Sat, 11 Jul 2026 00:00:00 +0000"
     },
     {
       "source": "BBC",
@@ -141,6 +134,13 @@
       "link": "https://www.npr.org/2026/07/10/g-s1-132943/up-first-newsletter-iran-us-tps-haitians-syrians-eac-gaza-israel-hamas",
       "desc": "Fighting between the U.S. and Iran appears to have paused after two days of clashing amid a shaky ceasefire. And, a look at what life is like inside Israel's expanding zone of control in Gaza.",
       "pubDate": "Fri, 10 Jul 2026 07:43:38 -0400"
+    },
+    {
+      "source": "NPR",
+      "title": "U.S. and Iran exchange intensifying fire across Mideast, threatening ceasefire deal",
+      "link": "https://www.npr.org/2026/07/10/g-s1-132927/us-iran-war",
+      "desc": "Back-and-forth attacks have repeatedly threatened the ceasefire, but Thursday's appeared bigger all around.",
+      "pubDate": "Fri, 10 Jul 2026 02:12:36 -0400"
     }
   ]
 }
