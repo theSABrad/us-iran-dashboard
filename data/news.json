@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-12T12:53:07.638081Z",
-  "count": 27,
+  "lastUpdated": "2026-07-12T15:48:44.680892Z",
+  "count": 25,
   "articles": [
     {
       "source": "Al Jazeera",
@@ -24,25 +24,11 @@
       "pubDate": "Sun, 12 Jul 2026 07:53:41 +0000"
     },
     {
-      "source": "Al Jazeera",
-      "title": "US forces launch new strikes on Iran; Tehran closes Strait of Hormuz",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/us-forces-launch-new-strikes-on-iran-tehran-closes-strait-of-hormuz?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Sun, 12 Jul 2026 05:07:10 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Iran launches attacks across the Gulf after more US strikes",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/iran-launches-attacks-across-the-gulf-after-more-us-strikes?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Sun, 12 Jul 2026 04:59:27 +0000"
-    },
-    {
       "source": "BBC",
-      "title": "<![CDATA[US launches fresh strikes as Iran closes Strait of Hormuz]]>",
+      "title": "<![CDATA[US insists Strait of Hormuz is open as it exchanges strikes with Iran]]>",
       "link": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
       "desc": "",
-      "pubDate": "Sun, 12 Jul 2026 06:49:46 GMT"
+      "pubDate": "Sun, 12 Jul 2026 15:35:38 GMT"
     },
     {
       "source": "BBC",
@@ -141,6 +127,20 @@
       "link": "https://www.bbc.co.uk/news/videos/cn94nqzwpxwo?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Wed, 08 Jul 2026 05:42:37 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[Funeral of Iran's former supreme leader 'intensely political moment']]>",
+      "link": "https://www.bbc.co.uk/news/videos/c23y22z4ppxo?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Sat, 04 Jul 2026 21:46:43 GMT"
+    },
+    {
+      "source": "NPR",
+      "title": "U.S. launches fresh strikes on Iran as Tehran says it has closed Strait of Hormuz",
+      "link": "https://www.npr.org/2026/07/11/g-s1-133212/us-iran-vessel-attack-strait-hormuz-gulf",
+      "desc": "The U.S. and Iran have been exchanging strikes, with the U.S. military saying it hit 140 targets in Iran overnight, while Iran said it responded with fire toward Jordan and other Gulf states.",
+      "pubDate": "Sat, 11 Jul 2026 21:32:36 -0400"
     }
   ]
 }
