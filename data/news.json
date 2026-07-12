@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-12T10:17:23.984305Z",
-  "count": 30,
+  "lastUpdated": "2026-07-12T12:53:07.638081Z",
+  "count": 27,
   "articles": [
     {
       "source": "Al Jazeera",
@@ -36,20 +36,6 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/iran-launches-attacks-across-the-gulf-after-more-us-strikes?traffic_source=rss",
       "desc": "",
       "pubDate": "Sun, 12 Jul 2026 04:59:27 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Mediators push US-Iran talks in Qatar and Oman to avert escalation",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/mediators-push-us-iran-talks-in-qatar-and-oman-to-avert-escalation?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Sun, 12 Jul 2026 00:22:21 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Iran war live: Tehran attacks Jordan, Gulf states after US bombardment",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/7/12/iran-war-live-irgc-declares-strait-of-hormuz-closed-over-us-interference?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Sun, 12 Jul 2026 00:00:00 +0000"
     },
     {
       "source": "BBC",
@@ -141,6 +127,20 @@
       "link": "https://www.bbc.co.uk/news/articles/cvgmqzr6p9mo?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Thu, 18 Jun 2026 01:28:02 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[The bikers battling extreme heat and armed conflict to smuggle Iranian fuel to Pakistan]]>",
+      "link": "https://www.bbc.co.uk/news/articles/c621jr3yy09o?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Tue, 16 Jun 2026 23:52:37 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[US strikes target Iranian military boats]]>",
+      "link": "https://www.bbc.co.uk/news/videos/cn94nqzwpxwo?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Wed, 08 Jul 2026 05:42:37 GMT"
     }
   ]
 }
