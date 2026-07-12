@@ -1,7 +1,21 @@
 {
-  "lastUpdated": "2026-07-12T18:48:02.288646Z",
-  "count": 23,
+  "lastUpdated": "2026-07-12T21:38:03.625837Z",
+  "count": 22,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Iran says almost a dozen \u2018enemy projectiles\u2019 targeted Qeshm Island",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/iran-says-almost-a-dozen-enemy-projectiles-targeted-qeshm-island?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sun, 12 Jul 2026 19:56:26 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Why the Iran-US ceasefire is falling apart",
+      "link": "https://www.aljazeera.com/video/the-bottom-line/2026/7/12/why-the-iran-us-ceasefire-is-falling-apart?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sun, 12 Jul 2026 19:27:34 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "Concern for renewed war in Iran as US attacks military, civilian targets",
@@ -127,20 +141,6 @@
       "link": "https://www.bbc.co.uk/news/videos/c23y22z4ppxo?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Sat, 04 Jul 2026 21:46:43 GMT"
-    },
-    {
-      "source": "NPR",
-      "title": "U.S. launches fresh strikes on Iran as Tehran says it has closed Strait of Hormuz",
-      "link": "https://www.npr.org/2026/07/11/g-s1-133212/us-iran-vessel-attack-strait-hormuz-gulf",
-      "desc": "The U.S. and Iran have been exchanging strikes, with the U.S. military saying it hit 140 targets in Iran overnight, while Iran said it responded with fire toward Jordan and other Gulf states.",
-      "pubDate": "Sat, 11 Jul 2026 21:32:36 -0400"
-    },
-    {
-      "source": "NPR",
-      "title": "Trump threatens Iran after Ayatollah Ali Khamenei's funeral saw calls for his killing",
-      "link": "https://www.npr.org/2026/07/11/nx-s1-5890029/trump-threatens-iran",
-      "desc": "Trump made the comments on his Truth Social after U.S. officials demanded that Iran make a public statement saying the Strait of Hormuz is open.",
-      "pubDate": "Sat, 11 Jul 2026 02:34:09 -0400"
     }
   ]
 }
