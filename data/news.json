@@ -1,7 +1,28 @@
 {
-  "lastUpdated": "2026-07-12T07:56:58.639743Z",
-  "count": 28,
+  "lastUpdated": "2026-07-12T10:17:23.984305Z",
+  "count": 30,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Iran attacks five Gulf nations, shuts Hormuz after US bombing: All to know",
+      "link": "https://www.aljazeera.com/news/2026/7/12/iran-attacks-five-gulf-nations-shuts-hormuz-after-us-bombing-all-to-know?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sun, 12 Jul 2026 09:13:26 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "US CENTCOM completes third round of strikes on Iran",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/us-centcom-completes-third-round-of-strikes-on-iran?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sun, 12 Jul 2026 07:58:48 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Missiles and drones fired at Gulf states after night of US strikes on Iran",
+      "link": "https://www.aljazeera.com/news/2026/7/12/missiles-and-drones-fired-at-gulf-states-after-night-of-us-strikes-on-iran?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sun, 12 Jul 2026 07:53:41 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "US forces launch new strikes on Iran; Tehran closes Strait of Hormuz",
@@ -120,27 +141,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cvgmqzr6p9mo?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Thu, 18 Jun 2026 01:28:02 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[The bikers battling extreme heat and armed conflict to smuggle Iranian fuel to Pakistan]]>",
-      "link": "https://www.bbc.co.uk/news/articles/c621jr3yy09o?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Tue, 16 Jun 2026 23:52:37 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[US strikes target Iranian military boats]]>",
-      "link": "https://www.bbc.co.uk/news/videos/cn94nqzwpxwo?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Wed, 08 Jul 2026 05:42:37 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[Funeral of Iran's former supreme leader 'intensely political moment']]>",
-      "link": "https://www.bbc.co.uk/news/videos/c23y22z4ppxo?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Sat, 04 Jul 2026 21:46:43 GMT"
     }
   ]
 }
