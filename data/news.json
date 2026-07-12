@@ -1,34 +1,27 @@
 {
-  "lastUpdated": "2026-07-12T15:48:44.680892Z",
-  "count": 25,
+  "lastUpdated": "2026-07-12T18:48:02.288646Z",
+  "count": 23,
   "articles": [
     {
       "source": "Al Jazeera",
-      "title": "Iran attacks five Gulf nations, shuts Hormuz after US bombing: All to know",
-      "link": "https://www.aljazeera.com/news/2026/7/12/iran-attacks-five-gulf-nations-shuts-hormuz-after-us-bombing-all-to-know?traffic_source=rss",
+      "title": "Concern for renewed war in Iran as US attacks military, civilian targets",
+      "link": "https://www.aljazeera.com/news/2026/7/12/concern-for-renewed-war-in-iran-as-us-attacks-military-civilian-targets?traffic_source=rss",
       "desc": "",
-      "pubDate": "Sun, 12 Jul 2026 09:13:26 +0000"
+      "pubDate": "Sun, 12 Jul 2026 17:50:27 +0000"
     },
     {
       "source": "Al Jazeera",
-      "title": "US CENTCOM completes third round of strikes on Iran",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/us-centcom-completes-third-round-of-strikes-on-iran?traffic_source=rss",
+      "title": "Iran war: US strategic success or diplomatic failure?",
+      "link": "https://www.aljazeera.com/video/upfront/2026/7/12/iran-war-us-strategic-success-or-diplomatic-failure?traffic_source=rss",
       "desc": "",
-      "pubDate": "Sun, 12 Jul 2026 07:58:48 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Missiles and drones fired at Gulf states after night of US strikes on Iran",
-      "link": "https://www.aljazeera.com/news/2026/7/12/missiles-and-drones-fired-at-gulf-states-after-night-of-us-strikes-on-iran?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Sun, 12 Jul 2026 07:53:41 +0000"
+      "pubDate": "Sun, 12 Jul 2026 16:34:17 +0000"
     },
     {
       "source": "BBC",
       "title": "<![CDATA[US insists Strait of Hormuz is open as it exchanges strikes with Iran]]>",
       "link": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
       "desc": "",
-      "pubDate": "Sun, 12 Jul 2026 15:35:38 GMT"
+      "pubDate": "Sun, 12 Jul 2026 16:46:24 GMT"
     },
     {
       "source": "BBC",
@@ -141,6 +134,13 @@
       "link": "https://www.npr.org/2026/07/11/g-s1-133212/us-iran-vessel-attack-strait-hormuz-gulf",
       "desc": "The U.S. and Iran have been exchanging strikes, with the U.S. military saying it hit 140 targets in Iran overnight, while Iran said it responded with fire toward Jordan and other Gulf states.",
       "pubDate": "Sat, 11 Jul 2026 21:32:36 -0400"
+    },
+    {
+      "source": "NPR",
+      "title": "Trump threatens Iran after Ayatollah Ali Khamenei's funeral saw calls for his killing",
+      "link": "https://www.npr.org/2026/07/11/nx-s1-5890029/trump-threatens-iran",
+      "desc": "Trump made the comments on his Truth Social after U.S. officials demanded that Iran make a public statement saying the Strait of Hormuz is open.",
+      "pubDate": "Sat, 11 Jul 2026 02:34:09 -0400"
     }
   ]
 }
