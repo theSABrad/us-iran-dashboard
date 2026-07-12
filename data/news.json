@@ -1,7 +1,21 @@
 {
-  "lastUpdated": "2026-07-11T21:38:24.308983Z",
-  "count": 23,
+  "lastUpdated": "2026-07-12T01:29:57.695984Z",
+  "count": 26,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Mediators push US-Iran talks in Qatar and Oman to avert escalation",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/mediators-push-us-iran-talks-in-qatar-and-oman-to-avert-escalation?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sun, 12 Jul 2026 00:22:21 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Iran war live: US bombs Iranian port cities as IRGC closes Strait of Hormuz",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/7/12/iran-war-live-irgc-declares-strait-of-hormuz-closed-over-us-interference?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sun, 12 Jul 2026 00:00:00 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "Hormuz shipping in focus as Iran-US rhetoric heats up",
@@ -11,10 +25,10 @@
     },
     {
       "source": "BBC",
-      "title": "<![CDATA[Iran supreme leader calls for revenge for father's killing]]>",
+      "title": "<![CDATA[US launches fresh strikes as Iran closes Strait of Hormuz]]>",
       "link": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
       "desc": "",
-      "pubDate": "Sat, 11 Jul 2026 19:30:36 GMT"
+      "pubDate": "Sun, 12 Jul 2026 00:15:22 GMT"
     },
     {
       "source": "BBC",
@@ -127,20 +141,6 @@
       "link": "https://www.npr.org/2026/07/11/nx-s1-5890029/trump-threatens-iran",
       "desc": "Trump made the comments on his Truth Social after U.S. officials demanded that Iran make a public statement saying the Strait of Hormuz is open.",
       "pubDate": "Sat, 11 Jul 2026 02:34:09 -0400"
-    },
-    {
-      "source": "NPR",
-      "title": "U.S.-Iran fighting appears to pause. And, life inside Israel's military zones in Gaza",
-      "link": "https://www.npr.org/2026/07/10/g-s1-132943/up-first-newsletter-iran-us-tps-haitians-syrians-eac-gaza-israel-hamas",
-      "desc": "Fighting between the U.S. and Iran appears to have paused after two days of clashing amid a shaky ceasefire. And, a look at what life is like inside Israel's expanding zone of control in Gaza.",
-      "pubDate": "Fri, 10 Jul 2026 07:43:38 -0400"
-    },
-    {
-      "source": "The Hill",
-      "title": "Sunday shows preview: US-Iran tensions flare; Democrats grapple with Platner fallout",
-      "link": "https://thehill.com/homenews/sunday-talk-shows/5964166-trump-air-force-one-iran/",
-      "desc": "",
-      "pubDate": "Sat, 11 Jul 2026 20:40:00 +0000"
     }
   ]
 }
