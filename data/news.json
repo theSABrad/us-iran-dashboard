@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-13T14:01:44.761495Z",
-  "count": 29,
+  "lastUpdated": "2026-07-13T17:04:40.911706Z",
+  "count": 25,
   "articles": [
     {
       "source": "Al Jazeera",
@@ -10,32 +10,11 @@
       "pubDate": "Mon, 13 Jul 2026 12:12:46 +0000"
     },
     {
-      "source": "Al Jazeera",
-      "title": "New Iran strikes on Gulf as US attacks escalate: What we know",
-      "link": "https://www.aljazeera.com/news/2026/7/13/new-iran-strikes-on-gulf-as-us-attacks-escalate-what-we-know?traffic_source=rss",
+      "source": "BBC",
+      "title": "<![CDATA[US and Iran trade fire as tensions rise over Strait of Hormuz]]>",
+      "link": "https://www.bbc.co.uk/news/articles/cevlr112pmgo?at_medium=RSS&at_campaign=rss",
       "desc": "",
-      "pubDate": "Mon, 13 Jul 2026 09:16:08 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "US and Iran trade strikes as ceasefire comes under growing strain",
-      "link": "https://www.aljazeera.com/news/2026/7/13/us-and-iran-trade-strikes-as-ceasefire-comes-under-growing-strain?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Mon, 13 Jul 2026 09:01:48 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Kimmit: Renewed US-Iran fighting could reignite wider regional conflict",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/13/kimmit-renewed-us-iran-fighting-could-reignite-wider-regional-conflict-2?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Mon, 13 Jul 2026 07:41:59 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "In Iran, Pezeshkian will be the scapegoat for the failed MoU",
-      "link": "https://www.aljazeera.com/opinions/2026/7/13/in-iran-pezeshkian-will-be-the-scapegoat-for-the-failed-mou?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Mon, 13 Jul 2026 07:24:57 +0000"
+      "pubDate": "Mon, 13 Jul 2026 15:16:09 GMT"
     },
     {
       "source": "BBC",
@@ -141,6 +120,27 @@
       "link": "https://www.bbc.co.uk/news/articles/cvgmqzr6p9mo?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Thu, 18 Jun 2026 01:28:02 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[The bikers battling extreme heat and armed conflict to smuggle Iranian fuel to Pakistan]]>",
+      "link": "https://www.bbc.co.uk/news/articles/c621jr3yy09o?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Tue, 16 Jun 2026 23:52:37 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[US releases footage of strikes on Iran]]>",
+      "link": "https://www.bbc.co.uk/news/videos/c8628y50508o?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Mon, 13 Jul 2026 07:07:50 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[Iran faces uncertainty with its new political order]]>",
+      "link": "https://www.bbc.co.uk/news/videos/cd0m837z1mdo?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Thu, 09 Jul 2026 21:11:56 GMT"
     }
   ]
 }
