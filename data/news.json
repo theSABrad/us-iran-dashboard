@@ -1,7 +1,28 @@
 {
-  "lastUpdated": "2026-07-12T21:38:03.625837Z",
-  "count": 22,
+  "lastUpdated": "2026-07-13T01:44:07.453562Z",
+  "count": 23,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "US launches more strikes on Iran as Strait of Hormuz standoff deepens",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/13/aje-onl-nf_us-launches-more-strikes-on-iran-120726?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Mon, 13 Jul 2026 00:22:10 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Iran war live: US bombs Iranian cities again as Hormuz standoff intensifies",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/7/13/iran-war-live-us-bombs-iranian-cities-again-as-hormuz-standoff-intensifies?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Mon, 13 Jul 2026 00:00:00 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "US launches new wave of strikes against Iran, aimed at \u2018degrading\u2019 military",
+      "link": "https://www.aljazeera.com/news/2026/7/12/us-launches-new-wave-of-strikes-against-iran-aimed-at-degrading-military?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sun, 12 Jul 2026 23:03:32 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "Iran says almost a dozen \u2018enemy projectiles\u2019 targeted Qeshm Island",
@@ -17,25 +38,11 @@
       "pubDate": "Sun, 12 Jul 2026 19:27:34 +0000"
     },
     {
-      "source": "Al Jazeera",
-      "title": "Concern for renewed war in Iran as US attacks military, civilian targets",
-      "link": "https://www.aljazeera.com/news/2026/7/12/concern-for-renewed-war-in-iran-as-us-attacks-military-civilian-targets?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Sun, 12 Jul 2026 17:50:27 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Iran war: US strategic success or diplomatic failure?",
-      "link": "https://www.aljazeera.com/video/upfront/2026/7/12/iran-war-us-strategic-success-or-diplomatic-failure?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Sun, 12 Jul 2026 16:34:17 +0000"
-    },
-    {
       "source": "BBC",
       "title": "<![CDATA[US insists Strait of Hormuz is open as it exchanges strikes with Iran]]>",
       "link": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
       "desc": "",
-      "pubDate": "Sun, 12 Jul 2026 16:46:24 GMT"
+      "pubDate": "Sun, 12 Jul 2026 22:17:40 GMT"
     },
     {
       "source": "BBC",
@@ -134,13 +141,6 @@
       "link": "https://www.bbc.co.uk/news/videos/cn94nqzwpxwo?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Wed, 08 Jul 2026 05:42:37 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[Funeral of Iran's former supreme leader 'intensely political moment']]>",
-      "link": "https://www.bbc.co.uk/news/videos/c23y22z4ppxo?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Sat, 04 Jul 2026 21:46:43 GMT"
     }
   ]
 }
