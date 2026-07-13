@@ -1,7 +1,21 @@
 {
-  "lastUpdated": "2026-07-13T01:44:07.453562Z",
-  "count": 23,
+  "lastUpdated": "2026-07-13T05:57:26.252543Z",
+  "count": 24,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Iran attacks US military bases in Bahrain, Kuwait, and Jordan",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/13/iran-attacks-us-military-bases-in-bahrain-kuwait-and-jordan?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Mon, 13 Jul 2026 05:15:54 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Oil prices jump as US and Iran trade attacks over Strait of Hormuz",
+      "link": "https://www.aljazeera.com/economy/2026/7/13/oil-prices-jump-as-us-and-iran-trade-attacks-over-strait-of-hormuz?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Mon, 13 Jul 2026 02:58:05 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "US launches more strikes on Iran as Strait of Hormuz standoff deepens",
@@ -11,7 +25,7 @@
     },
     {
       "source": "Al Jazeera",
-      "title": "Iran war live: US bombs Iranian cities again as Hormuz standoff intensifies",
+      "title": "Iran war live: Tehran attacks Bahrain, Kuwait, Jordan after US bombings",
       "link": "https://www.aljazeera.com/news/liveblog/2026/7/13/iran-war-live-us-bombs-iranian-cities-again-as-hormuz-standoff-intensifies?traffic_source=rss",
       "desc": "",
       "pubDate": "Mon, 13 Jul 2026 00:00:00 +0000"
@@ -22,20 +36,6 @@
       "link": "https://www.aljazeera.com/news/2026/7/12/us-launches-new-wave-of-strikes-against-iran-aimed-at-degrading-military?traffic_source=rss",
       "desc": "",
       "pubDate": "Sun, 12 Jul 2026 23:03:32 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Iran says almost a dozen \u2018enemy projectiles\u2019 targeted Qeshm Island",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/12/iran-says-almost-a-dozen-enemy-projectiles-targeted-qeshm-island?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Sun, 12 Jul 2026 19:56:26 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Why the Iran-US ceasefire is falling apart",
-      "link": "https://www.aljazeera.com/video/the-bottom-line/2026/7/12/why-the-iran-us-ceasefire-is-falling-apart?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Sun, 12 Jul 2026 19:27:34 +0000"
     },
     {
       "source": "BBC",
