@@ -1,13 +1,41 @@
 {
-  "lastUpdated": "2026-07-13T19:09:33.139522Z",
-  "count": 27,
+  "lastUpdated": "2026-07-13T21:43:22.363073Z",
+  "count": 32,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Lindsey Graham\u2019s legacy: Israel advocate, Trump ally, Iran war supporter",
+      "link": "https://www.aljazeera.com/news/2026/7/13/lindsey-grahams-legacy-israel-advocate-trump-ally-iran-war-supporter?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Mon, 13 Jul 2026 21:04:56 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "US strikes Iranian ship with drone boats in first-of-its-kind attack",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/13/us-strikes-iranian-ship-with-drone-boats-in-first-of-its-kind-attack?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Mon, 13 Jul 2026 20:48:18 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Iran military warns US against Strait of Hormuz \u2018interference\u2019",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/13/iran-military-warns-us-against-strait-of-hormuz?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Mon, 13 Jul 2026 20:40:07 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "UK to list Iran\u2019s IRGC as \u2018terror\u2019 threat",
       "link": "https://www.aljazeera.com/news/2026/7/13/uk-to-list-irans-irgc-as-terror-threat?traffic_source=rss",
       "desc": "",
       "pubDate": "Mon, 13 Jul 2026 18:08:26 +0000"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[Trump reinstates Iran port blockade and vows 20% charge on cargo passing through Hormuz]]>",
+      "link": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Mon, 13 Jul 2026 21:38:38 GMT"
     },
     {
       "source": "BBC",
@@ -113,34 +141,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cgmd8dgklzzo?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Thu, 18 Jun 2026 01:29:32 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[What's in the US-Iran agreement?]]>",
-      "link": "https://www.bbc.co.uk/news/articles/cvgmqzr6p9mo?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Thu, 18 Jun 2026 01:28:02 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[The bikers battling extreme heat and armed conflict to smuggle Iranian fuel to Pakistan]]>",
-      "link": "https://www.bbc.co.uk/news/articles/c621jr3yy09o?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Tue, 16 Jun 2026 23:52:37 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[US releases footage of strikes on Iran]]>",
-      "link": "https://www.bbc.co.uk/news/videos/c8628y50508o?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Mon, 13 Jul 2026 07:07:50 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[Iran faces uncertainty with its new political order]]>",
-      "link": "https://www.bbc.co.uk/news/videos/cd0m837z1mdo?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Thu, 09 Jul 2026 21:11:56 GMT"
     }
   ]
 }
