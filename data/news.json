@@ -1,7 +1,21 @@
 {
-  "lastUpdated": "2026-07-13T21:43:22.363073Z",
-  "count": 32,
+  "lastUpdated": "2026-07-14T01:20:18.058610Z",
+  "count": 35,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Iran war live: US launches more attacks; UAE says 1 killed in tanker strike",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/7/14/iran-war-live-us-launches-more-attacks-trump-orders-blockade-in-hormuz?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Tue, 14 Jul 2026 00:00:00 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "US, Iran exchange attacks around Strait of Hormuz",
+      "link": "https://www.aljazeera.com/news/2026/7/13/missile-strikes-and-attacks-on-ships-reported-around-strait-of-hormuz?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Mon, 13 Jul 2026 21:19:28 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "Lindsey Graham\u2019s legacy: Israel advocate, Trump ally, Iran war supporter",
@@ -24,18 +38,11 @@
       "pubDate": "Mon, 13 Jul 2026 20:40:07 +0000"
     },
     {
-      "source": "Al Jazeera",
-      "title": "UK to list Iran\u2019s IRGC as \u2018terror\u2019 threat",
-      "link": "https://www.aljazeera.com/news/2026/7/13/uk-to-list-irans-irgc-as-terror-threat?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Mon, 13 Jul 2026 18:08:26 +0000"
-    },
-    {
       "source": "BBC",
-      "title": "<![CDATA[Trump reinstates Iran port blockade and vows 20% charge on cargo passing through Hormuz]]>",
+      "title": "<![CDATA[UAE condemns Iran's 'brazen' attack on tankers as US launches fresh strikes]]>",
       "link": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss",
       "desc": "",
-      "pubDate": "Mon, 13 Jul 2026 21:38:38 GMT"
+      "pubDate": "Mon, 13 Jul 2026 23:42:24 GMT"
     },
     {
       "source": "BBC",
@@ -134,13 +141,6 @@
       "link": "https://www.bbc.co.uk/news/articles/clyegr2mp8jo?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Thu, 18 Jun 2026 15:53:55 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[US-Iran deal leaves core sticking points unresolved - and a $300bn question]]>",
-      "link": "https://www.bbc.co.uk/news/articles/cgmd8dgklzzo?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Thu, 18 Jun 2026 01:29:32 GMT"
     }
   ]
 }
