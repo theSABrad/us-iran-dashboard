@@ -1,7 +1,21 @@
 {
-  "lastUpdated": "2026-07-14T16:07:19.584924Z",
-  "count": 31,
+  "lastUpdated": "2026-07-14T18:59:56.367638Z",
+  "count": 32,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "US risks falling into \u2018escalation trap\u2019 if it deploys troops in Iran",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/14/us-risks-falling-into-escalation-trap-if-it-deploys-troops-in-iran?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Tue, 14 Jul 2026 18:32:40 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Trump pivots from 20 percent Strait of Hormuz fee amid Iran war escalation",
+      "link": "https://www.aljazeera.com/news/2026/7/14/trump-pivots-from-20-percent-strait-of-hormuz-fee-amid-iran-war-escalation?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Tue, 14 Jul 2026 18:26:10 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "Even if the Iran war ends, the next fossil fuel shock is already on its way",
@@ -15,13 +29,6 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/7/14/india-summons-iranian-diplomat-over-missile-killing-of-seafarer?traffic_source=rss",
       "desc": "",
       "pubDate": "Tue, 14 Jul 2026 14:32:19 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Iran lawmakers present Hormuz management bill as US war heats up",
-      "link": "https://www.aljazeera.com/news/2026/7/14/iran-lawmakers-present-hormuz-management-bill-as-us-war-heats-up?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Tue, 14 Jul 2026 13:30:00 +0000"
     },
     {
       "source": "BBC",
@@ -134,13 +141,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cgmd8dgklzzo?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Thu, 18 Jun 2026 01:29:32 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[What's in the US-Iran agreement?]]>",
-      "link": "https://www.bbc.co.uk/news/articles/cvgmqzr6p9mo?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Thu, 18 Jun 2026 01:28:02 GMT"
     }
   ]
 }
