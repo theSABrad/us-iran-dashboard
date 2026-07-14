@@ -1,7 +1,35 @@
 {
-  "lastUpdated": "2026-07-14T18:59:56.367638Z",
-  "count": 32,
+  "lastUpdated": "2026-07-14T21:45:03.450882Z",
+  "count": 31,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Sirens blare in Bahrain as Iran launches barrage of missiles, drones",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/14/sirens-blare-in-bahrain-as-iran-launches-barrage-of-missiles-drones?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Tue, 14 Jul 2026 21:05:12 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "What is Iran\u2019s Pickaxe Mountain?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/14/what-is-irans-pickaxe-mountain-2?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Tue, 14 Jul 2026 20:27:40 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "US Senate Democrats block defence bill over Iran war, Israel integration",
+      "link": "https://www.aljazeera.com/news/2026/7/14/senate-democrats-block-defence-bill-over-iran-war-israel-provisions?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Tue, 14 Jul 2026 20:12:06 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "US reimposes blockade on Iranian ports, launches more strikes",
+      "link": "https://www.aljazeera.com/news/2026/7/14/us-strikes-new-targets-in-iran-as-tehran-hits-gulf-states-hormuz?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Tue, 14 Jul 2026 19:47:33 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "US risks falling into \u2018escalation trap\u2019 if it deploys troops in Iran",
@@ -15,20 +43,6 @@
       "link": "https://www.aljazeera.com/news/2026/7/14/trump-pivots-from-20-percent-strait-of-hormuz-fee-amid-iran-war-escalation?traffic_source=rss",
       "desc": "",
       "pubDate": "Tue, 14 Jul 2026 18:26:10 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Even if the Iran war ends, the next fossil fuel shock is already on its way",
-      "link": "https://www.aljazeera.com/opinions/2026/7/14/even-if-the-iran-war-ends-the-next-fossil-fuel-shock-is-already-on-its-way?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Tue, 14 Jul 2026 14:56:21 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "India summons Iranian diplomat over missile killing of seafarer",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/14/india-summons-iranian-diplomat-over-missile-killing-of-seafarer?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Tue, 14 Jul 2026 14:32:19 +0000"
     },
     {
       "source": "BBC",
@@ -127,20 +141,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c932yqz8lggo?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Thu, 18 Jun 2026 20:04:40 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[Bowen: US-Iran deal raises inescapable question of what the war was for]]>",
-      "link": "https://www.bbc.co.uk/news/articles/clyegr2mp8jo?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Thu, 18 Jun 2026 15:53:55 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[US-Iran deal leaves core sticking points unresolved - and a $300bn question]]>",
-      "link": "https://www.bbc.co.uk/news/articles/cgmd8dgklzzo?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Thu, 18 Jun 2026 01:29:32 GMT"
     }
   ]
 }
