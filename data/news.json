@@ -1,7 +1,28 @@
 {
-  "lastUpdated": "2026-07-15T07:48:30.044594Z",
-  "count": 29,
+  "lastUpdated": "2026-07-15T10:41:02.050130Z",
+  "count": 32,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Iran launches attacks across region as US strikes continue",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/15/iran-launches-attacks-across-region-as-us-strikes-continue?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Wed, 15 Jul 2026 09:15:56 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "US resumes Iran ports blockade as Gulf attacks continue: What\u2019s the latest?",
+      "link": "https://www.aljazeera.com/news/2026/7/15/us-resumes-iran-ports-blockade-as-gulf-attacks-continue-whats-the-latest?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Wed, 15 Jul 2026 08:44:38 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "US attacks Iran as IRGC claims strikes on US military sites in Gulf",
+      "link": "https://www.aljazeera.com/news/2026/7/15/us-attacks-iran-as-irgc-claims-strikes-on-us-military-sites-in-gulf?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Wed, 15 Jul 2026 07:58:36 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "How Iran\u2019s southern coast is bearing the brunt of US attacks",
@@ -10,18 +31,11 @@
       "pubDate": "Wed, 15 Jul 2026 05:34:12 +0000"
     },
     {
-      "source": "Al Jazeera",
-      "title": "Iran war live: Iran says more than 30 civilians killed in recent US strikes",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/7/15/live-trump-says-strikes-on-iran-will-continue-until-i-say?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Wed, 15 Jul 2026 00:00:15 +0000"
-    },
-    {
       "source": "BBC",
       "title": "<![CDATA[Trump threatens to bomb bridges and power plants unless Iran resumes talks]]>",
       "link": "https://www.bbc.co.uk/news/articles/cy0608wy8pro?at_medium=RSS&at_campaign=rss",
       "desc": "",
-      "pubDate": "Wed, 15 Jul 2026 06:47:25 GMT"
+      "pubDate": "Wed, 15 Jul 2026 09:06:52 GMT"
     },
     {
       "source": "BBC",
@@ -42,7 +56,7 @@
       "title": "<![CDATA[Briton's Iran jail sentence extended by two years, family says]]>",
       "link": "https://www.bbc.co.uk/news/articles/c4gygp4pk31o?at_medium=RSS&at_campaign=rss",
       "desc": "",
-      "pubDate": "Wed, 15 Jul 2026 05:02:33 GMT"
+      "pubDate": "Wed, 15 Jul 2026 08:33:27 GMT"
     },
     {
       "source": "BBC",
@@ -127,20 +141,6 @@
       "link": "https://www.bbc.co.uk/news/articles/clyegr2mp8jo?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Thu, 18 Jun 2026 15:53:55 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[US-Iran deal leaves core sticking points unresolved - and a $300bn question]]>",
-      "link": "https://www.bbc.co.uk/news/articles/cgmd8dgklzzo?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Thu, 18 Jun 2026 01:29:32 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[What's in the US-Iran agreement?]]>",
-      "link": "https://www.bbc.co.uk/news/articles/cvgmqzr6p9mo?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Thu, 18 Jun 2026 01:28:02 GMT"
     }
   ]
 }
