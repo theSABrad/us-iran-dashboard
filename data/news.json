@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-07-14T21:45:03.450882Z",
-  "count": 31,
+  "lastUpdated": "2026-07-15T01:16:59.120528Z",
+  "count": 32,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "LIVE: Trump says \u2018strikes on Iran will continue until I say enough\u2019",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/7/15/live-trump-says-strikes-on-iran-will-continue-until-i-say?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Wed, 15 Jul 2026 00:00:15 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "Sirens blare in Bahrain as Iran launches barrage of missiles, drones",
@@ -134,13 +141,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cr5j1qn6deno?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Fri, 03 Jul 2026 11:02:55 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[What Iran and US get from deal and why both could struggle to keep it]]>",
-      "link": "https://www.bbc.co.uk/news/articles/c932yqz8lggo?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Thu, 18 Jun 2026 20:04:40 GMT"
     }
   ]
 }
