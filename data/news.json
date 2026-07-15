@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-07-15T18:53:02.358911Z",
+  "lastUpdated": "2026-07-15T21:45:43.042818Z",
   "count": 28,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Pezeshkian vows Iran will defend \u2018every inch\u2019 of its territory",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/15/pezeshkian-vows-iran-will-defend-every-inch-of-its-territory?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Wed, 15 Jul 2026 20:34:39 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "Iran unveils huge billboard showing Trump in coffin",
@@ -15,20 +22,6 @@
       "link": "https://www.aljazeera.com/news/2026/7/15/mapping-the-latest-us-strikes-across-iran?traffic_source=rss",
       "desc": "",
       "pubDate": "Wed, 15 Jul 2026 17:38:54 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Who is calling the shots in Iran amid the deadly war with the US?",
-      "link": "https://www.aljazeera.com/features/2026/7/15/who-is-calling-the-shots-in-iran-amid-the-deadly-war-with-the-us?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Wed, 15 Jul 2026 15:35:57 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "How US-Iran escalation will test Iraq\u2019s balancing act",
-      "link": "https://www.aljazeera.com/economy/2026/7/15/how-us-iran-escalation-will-test-iraqs-balancing-act?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Wed, 15 Jul 2026 15:03:29 +0000"
     },
     {
       "source": "BBC",
@@ -141,6 +134,13 @@
       "link": "https://www.bbc.co.uk/news/articles/c932yqz8lggo?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Thu, 18 Jun 2026 20:04:40 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[Bowen: US-Iran deal raises inescapable question of what the war was for]]>",
+      "link": "https://www.bbc.co.uk/news/articles/clyegr2mp8jo?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Thu, 18 Jun 2026 15:53:55 GMT"
     }
   ]
 }
