@@ -1,41 +1,48 @@
 {
-  "lastUpdated": "2026-07-15T05:21:09.423508Z",
-  "count": 31,
+  "lastUpdated": "2026-07-15T07:48:30.044594Z",
+  "count": 29,
   "articles": [
     {
       "source": "Al Jazeera",
-      "title": "Iran war live: US carries out strikes, IRGC claims damage on US Gulf bases",
+      "title": "How Iran\u2019s southern coast is bearing the brunt of US attacks",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/15/how-irans-southern-coast-is-bearing-the-brunt-of-us-attacks?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Wed, 15 Jul 2026 05:34:12 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Iran war live: Iran says more than 30 civilians killed in recent US strikes",
       "link": "https://www.aljazeera.com/news/liveblog/2026/7/15/live-trump-says-strikes-on-iran-will-continue-until-i-say?traffic_source=rss",
       "desc": "",
       "pubDate": "Wed, 15 Jul 2026 00:00:15 +0000"
     },
     {
-      "source": "Al Jazeera",
-      "title": "Sirens blare in Bahrain as Iran launches barrage of missiles, drones",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/14/sirens-blare-in-bahrain-as-iran-launches-barrage-of-missiles-drones?traffic_source=rss",
+      "source": "BBC",
+      "title": "<![CDATA[Trump threatens to bomb bridges and power plants unless Iran resumes talks]]>",
+      "link": "https://www.bbc.co.uk/news/articles/cy0608wy8pro?at_medium=RSS&at_campaign=rss",
       "desc": "",
-      "pubDate": "Tue, 14 Jul 2026 21:05:12 +0000"
+      "pubDate": "Wed, 15 Jul 2026 06:47:25 GMT"
     },
     {
-      "source": "Al Jazeera",
-      "title": "What is Iran\u2019s Pickaxe Mountain?",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/14/what-is-irans-pickaxe-mountain-2?traffic_source=rss",
+      "source": "BBC",
+      "title": "<![CDATA[Trump retreat over Hormuz tolls suggests he is struggling to end Iran war]]>",
+      "link": "https://www.bbc.co.uk/news/articles/crele3r8j19o?at_medium=RSS&at_campaign=rss",
       "desc": "",
-      "pubDate": "Tue, 14 Jul 2026 20:27:40 +0000"
+      "pubDate": "Tue, 14 Jul 2026 23:17:27 GMT"
     },
     {
-      "source": "Al Jazeera",
-      "title": "US Senate Democrats block defence bill over Iran war, Israel integration",
-      "link": "https://www.aljazeera.com/news/2026/7/14/senate-democrats-block-defence-bill-over-iran-war-israel-provisions?traffic_source=rss",
+      "source": "BBC",
+      "title": "<![CDATA[Strait of Hormuz 'faultline' exposes weakness of the US-Iran deal]]>",
+      "link": "https://www.bbc.co.uk/news/articles/cwy0ydn033yo?at_medium=RSS&at_campaign=rss",
       "desc": "",
-      "pubDate": "Tue, 14 Jul 2026 20:12:06 +0000"
+      "pubDate": "Tue, 14 Jul 2026 19:13:49 GMT"
     },
     {
-      "source": "Al Jazeera",
-      "title": "US reimposes blockade on Iranian ports, launches more strikes",
-      "link": "https://www.aljazeera.com/news/2026/7/14/us-strikes-new-targets-in-iran-as-tehran-hits-gulf-states-hormuz?traffic_source=rss",
+      "source": "BBC",
+      "title": "<![CDATA[Briton's Iran jail sentence extended by two years, family says]]>",
+      "link": "https://www.bbc.co.uk/news/articles/c4gygp4pk31o?at_medium=RSS&at_campaign=rss",
       "desc": "",
-      "pubDate": "Tue, 14 Jul 2026 19:47:33 +0000"
+      "pubDate": "Wed, 15 Jul 2026 05:02:33 GMT"
     },
     {
       "source": "BBC",
@@ -81,27 +88,6 @@
     },
     {
       "source": "BBC",
-      "title": "<![CDATA[Huge crowds in Mashhad as Iran's late supreme leader is buried]]>",
-      "link": "https://www.bbc.co.uk/news/articles/c5yzm8m4peeo?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Thu, 09 Jul 2026 23:18:18 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[Trump threatens more strikes on Iran as Tehran warns of 'fearless' response]]>",
-      "link": "https://www.bbc.co.uk/news/articles/clyw8w1g409o?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Wed, 08 Jul 2026 18:05:31 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[US and Iran trade strikes after tankers hit in Strait of Hormuz]]>",
-      "link": "https://www.bbc.co.uk/news/articles/cwykq59jwpvo?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Wed, 08 Jul 2026 08:11:50 GMT"
-    },
-    {
-      "source": "BBC",
       "title": "<![CDATA[Bowen: For all his bluster, Trump has no better option than talks with Iran]]>",
       "link": "https://www.bbc.co.uk/news/articles/cy8we3j14ndo?at_medium=RSS&at_campaign=rss",
       "desc": "",
@@ -141,6 +127,20 @@
       "link": "https://www.bbc.co.uk/news/articles/clyegr2mp8jo?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Thu, 18 Jun 2026 15:53:55 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[US-Iran deal leaves core sticking points unresolved - and a $300bn question]]>",
+      "link": "https://www.bbc.co.uk/news/articles/cgmd8dgklzzo?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Thu, 18 Jun 2026 01:29:32 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[What's in the US-Iran agreement?]]>",
+      "link": "https://www.bbc.co.uk/news/articles/cvgmqzr6p9mo?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Thu, 18 Jun 2026 01:28:02 GMT"
     }
   ]
 }
