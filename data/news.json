@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-07-15T01:16:59.120528Z",
-  "count": 32,
+  "lastUpdated": "2026-07-15T05:21:09.423508Z",
+  "count": 31,
   "articles": [
     {
       "source": "Al Jazeera",
-      "title": "LIVE: Trump says \u2018strikes on Iran will continue until I say enough\u2019",
+      "title": "Iran war live: US carries out strikes, IRGC claims damage on US Gulf bases",
       "link": "https://www.aljazeera.com/news/liveblog/2026/7/15/live-trump-says-strikes-on-iran-will-continue-until-i-say?traffic_source=rss",
       "desc": "",
       "pubDate": "Wed, 15 Jul 2026 00:00:15 +0000"
@@ -36,20 +36,6 @@
       "link": "https://www.aljazeera.com/news/2026/7/14/us-strikes-new-targets-in-iran-as-tehran-hits-gulf-states-hormuz?traffic_source=rss",
       "desc": "",
       "pubDate": "Tue, 14 Jul 2026 19:47:33 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "US risks falling into \u2018escalation trap\u2019 if it deploys troops in Iran",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/14/us-risks-falling-into-escalation-trap-if-it-deploys-troops-in-iran?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Tue, 14 Jul 2026 18:32:40 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Trump pivots from 20 percent Strait of Hormuz fee amid Iran war escalation",
-      "link": "https://www.aljazeera.com/news/2026/7/14/trump-pivots-from-20-percent-strait-of-hormuz-fee-amid-iran-war-escalation?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Tue, 14 Jul 2026 18:26:10 +0000"
     },
     {
       "source": "BBC",
@@ -141,6 +127,20 @@
       "link": "https://www.bbc.co.uk/news/articles/cr5j1qn6deno?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Fri, 03 Jul 2026 11:02:55 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[What Iran and US get from deal and why both could struggle to keep it]]>",
+      "link": "https://www.bbc.co.uk/news/articles/c932yqz8lggo?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Thu, 18 Jun 2026 20:04:40 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[Bowen: US-Iran deal raises inescapable question of what the war was for]]>",
+      "link": "https://www.bbc.co.uk/news/articles/clyegr2mp8jo?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Thu, 18 Jun 2026 15:53:55 GMT"
     }
   ]
 }
