@@ -1,20 +1,48 @@
 {
-  "lastUpdated": "2026-07-16T18:53:57.410667Z",
-  "count": 29,
+  "lastUpdated": "2026-07-16T21:54:26.882762Z",
+  "count": 33,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "US mounts sixth straight night of attacks as Iran warns of wider war",
+      "link": "https://www.aljazeera.com/news/2026/7/16/us-mounts-sixth-straight-night-of-attacks-as-iran-warns-of-wider-war?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Thu, 16 Jul 2026 21:02:11 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "The hardest party to manage in the Iran talks isn\u2019t Iran",
+      "link": "https://www.aljazeera.com/opinions/2026/7/16/the-hardest-party-to-manage-in-the-iran-talks-isnt-iran?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Thu, 16 Jul 2026 20:40:53 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "How serious is Iran\u2019s threat to disrupt shipping in the Red Sea?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/7/16/how-serious-is-irans-threat-to-disrupt-shipping-in-the-red-sea?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Thu, 16 Jul 2026 19:44:16 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "What could a US ground invasion of Iran look like?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/16/what-could-a-us-ground-invasion-of-iran-look-like?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Thu, 16 Jul 2026 18:45:30 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Iran condemns \u2018barbaric\u2019 US attack near children\u2019s cancer hospital",
+      "link": "https://www.aljazeera.com/news/2026/7/16/iran-condemns-barbaric-us-attack-near-childrens-cancer-hospital?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Thu, 16 Jul 2026 18:37:55 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "Vance says Israeli campaign tried to sway US opinion against Iran diplomacy",
       "link": "https://www.aljazeera.com/news/2026/7/16/vance-says-israeli-campaign-tried-to-sway-us-opinion-against-iran-diplomacy?traffic_source=rss",
       "desc": "",
       "pubDate": "Thu, 16 Jul 2026 16:13:25 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "US or Iran \u2014 Who needs a new truce deal more?",
-      "link": "https://www.aljazeera.com/news/2026/7/16/us-or-iran-who-needs-a-new-truce-deal?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Thu, 16 Jul 2026 14:13:10 +0000"
     },
     {
       "source": "BBC",
@@ -113,34 +141,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cy8we3j14ndo?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Wed, 08 Jul 2026 15:30:00 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[Resistance and revenge - Iran wanted to send a message with its farewell to Khamenei]]>",
-      "link": "https://www.bbc.co.uk/news/articles/c07yy3j3nljo?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Tue, 07 Jul 2026 00:46:03 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[How Iran's new regime is very different to what came before]]>",
-      "link": "https://www.bbc.co.uk/news/articles/cg534ryp660o?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Sun, 05 Jul 2026 05:40:07 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[Iran nuclear and military damage revealed after restricted satellite images released ]]>",
-      "link": "https://www.bbc.co.uk/news/articles/cr5j1qn6deno?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Fri, 03 Jul 2026 11:02:55 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[What Iran and US get from deal and why both could struggle to keep it]]>",
-      "link": "https://www.bbc.co.uk/news/articles/c932yqz8lggo?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Thu, 18 Jun 2026 20:04:40 GMT"
     }
   ]
 }
