@@ -1,10 +1,31 @@
 {
-  "lastUpdated": "2026-07-16T01:27:26.867668Z",
-  "count": 31,
+  "lastUpdated": "2026-07-16T05:30:14.046300Z",
+  "count": 33,
   "articles": [
     {
       "source": "Al Jazeera",
-      "title": "Iran war live: Sirens in Bahrain, Kuwait; US \u2018disables\u2019 Iranian oil tanker",
+      "title": "Former US Ambassador says Iran miscalculated Trump\u2019s resolve",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/16/former-us-ambassador-says-iran-miscalculated-trumps-resolve?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Thu, 16 Jul 2026 04:18:22 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Iran launches strikes on Gulf, even as FM visits Qatar",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/16/aje-onl-nf_iran-strikes-gulf-nations-even-as-fm-visits-qatar-150726?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Thu, 16 Jul 2026 02:10:58 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Iranian doctor says US strike damaged children\u2019s cancer hospital",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/16/aje-onl-nf_irandamage-160726?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Thu, 16 Jul 2026 01:36:58 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Iran war live: US hits Iranian oil tanker; Tehran attacks Kuwait, Jordan",
       "link": "https://www.aljazeera.com/news/liveblog/2026/7/16/iran-war-live-sirens-in-bahrain-kuwait-us-disables-iranian-oil-tanker?traffic_source=rss",
       "desc": "",
       "pubDate": "Thu, 16 Jul 2026 00:00:48 +0000"
@@ -17,18 +38,11 @@
       "pubDate": "Wed, 15 Jul 2026 21:46:57 +0000"
     },
     {
-      "source": "Al Jazeera",
-      "title": "Pezeshkian vows Iran will defend \u2018every inch\u2019 of its territory",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/15/pezeshkian-vows-iran-will-defend-every-inch-of-its-territory?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Wed, 15 Jul 2026 20:34:39 +0000"
-    },
-    {
       "source": "BBC",
       "title": "<![CDATA[US launches fresh strikes on Iran as Trump warns Tehran it 'better behave']]>",
       "link": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&at_campaign=rss",
       "desc": "",
-      "pubDate": "Wed, 15 Jul 2026 21:55:04 GMT"
+      "pubDate": "Thu, 16 Jul 2026 04:06:11 GMT"
     },
     {
       "source": "BBC",
@@ -127,20 +141,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cr5j1qn6deno?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Fri, 03 Jul 2026 11:02:55 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[What Iran and US get from deal and why both could struggle to keep it]]>",
-      "link": "https://www.bbc.co.uk/news/articles/c932yqz8lggo?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Thu, 18 Jun 2026 20:04:40 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[Bowen: US-Iran deal raises inescapable question of what the war was for]]>",
-      "link": "https://www.bbc.co.uk/news/articles/clyegr2mp8jo?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Thu, 18 Jun 2026 15:53:55 GMT"
     }
   ]
 }
