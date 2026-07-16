@@ -1,7 +1,28 @@
 {
-  "lastUpdated": "2026-07-16T07:53:20.955387Z",
+  "lastUpdated": "2026-07-16T10:48:27.825814Z",
   "count": 32,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "US releases video of strikes on Iran",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/16/us-releases-video-of-strikes-on-iran?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Thu, 16 Jul 2026 08:26:24 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "US strikes Iran, tanker, as Tehran hits Kuwait, Jordan: What\u2019s the latest",
+      "link": "https://www.aljazeera.com/news/2026/7/16/us-strikes-iran-tanker-as-tehran-hits-kuwait-jordan-whats-the-latest?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Thu, 16 Jul 2026 08:23:40 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "US launches new attacks on Iran as Tehran targets Gulf sites",
+      "link": "https://www.aljazeera.com/news/2026/7/16/us-launches-new-attacks-on-iran-as-tehran-targets-gulf-sites?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Thu, 16 Jul 2026 08:18:23 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "Former US Ambassador says Iran miscalculated Trump\u2019s resolve",
@@ -17,25 +38,11 @@
       "pubDate": "Thu, 16 Jul 2026 02:10:58 +0000"
     },
     {
-      "source": "Al Jazeera",
-      "title": "Iranian doctor says US strike damaged children\u2019s cancer hospital",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/16/aje-onl-nf_irandamage-160726?traffic_source=rss",
+      "source": "BBC",
+      "title": "<![CDATA[Iran targets military bases as US launches wave of strikes]]>",
+      "link": "https://www.bbc.co.uk/news/articles/c2lq1ed28jxo?at_medium=RSS&at_campaign=rss",
       "desc": "",
-      "pubDate": "Thu, 16 Jul 2026 01:36:58 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Iran war live: Tehran threatens to \u2018crush\u2019 infrastructure if US attacks",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/7/16/iran-war-live-sirens-in-bahrain-kuwait-us-disables-iranian-oil-tanker?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Thu, 16 Jul 2026 00:00:48 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Iran says peace deal voided, fighting \u2018existential war\u2019 after US attacks",
-      "link": "https://www.aljazeera.com/news/2026/7/15/iran-says-peace-deal-voided-fighting-existential-war-after-us-attacks?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Wed, 15 Jul 2026 21:46:57 +0000"
+      "pubDate": "Thu, 16 Jul 2026 10:26:05 GMT"
     },
     {
       "source": "BBC",
@@ -134,13 +141,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cg534ryp660o?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Sun, 05 Jul 2026 05:40:07 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[Iran nuclear and military damage revealed after restricted satellite images released ]]>",
-      "link": "https://www.bbc.co.uk/news/articles/cr5j1qn6deno?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Fri, 03 Jul 2026 11:02:55 GMT"
     }
   ]
 }
