@@ -1,7 +1,28 @@
 {
-  "lastUpdated": "2026-07-17T07:50:41.748334Z",
-  "count": 31,
+  "lastUpdated": "2026-07-17T10:29:01.650828Z",
+  "count": 32,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "US strikes destroy key bridges, tower in southern Iran",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/17/us-strikes-destroy-key-bridges-tower-in-southern-iran?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Fri, 17 Jul 2026 08:57:56 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Gulf states come under Iranian fire as US strikes intensify",
+      "link": "https://www.aljazeera.com/news/2026/7/17/gulf-states-come-under-iranian-fire-as-us-strikes-intensify?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Fri, 17 Jul 2026 08:18:13 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "US attacks southern Iran, as Tehran hits Gulf countries: What\u2019s the latest?",
+      "link": "https://www.aljazeera.com/news/2026/7/17/us-attacks-southern-iran-as-tehran-hits-gulf-countries-whats-the-latest?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Fri, 17 Jul 2026 07:56:06 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "US bombards Iran in sixth-straight night of attacks",
@@ -22,20 +43,6 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/7/17/falling-debris-from-intercepted-iranian-strikes-sparks-fires-in-kuwait?traffic_source=rss",
       "desc": "",
       "pubDate": "Fri, 17 Jul 2026 00:50:09 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Iran war live: US kills 8 people in sixth consecutive night of strikes",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/7/16/iran-war-live-us-carries-out-strikes-on-civilian-infrastructure-in-south?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Thu, 16 Jul 2026 23:58:15 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Qatar rejects Israeli reports of military action against Iran",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/16/qatar-rejects-israeli-reports-of-military-action-against-iran?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Thu, 16 Jul 2026 23:07:53 +0000"
     },
     {
       "source": "BBC",
@@ -134,13 +141,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cy8we3j14ndo?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Wed, 08 Jul 2026 15:30:00 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[Resistance and revenge - Iran wanted to send a message with its farewell to Khamenei]]>",
-      "link": "https://www.bbc.co.uk/news/articles/c07yy3j3nljo?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Tue, 07 Jul 2026 00:46:03 GMT"
     }
   ]
 }
