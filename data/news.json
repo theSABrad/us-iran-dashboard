@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-17T05:31:42.491393Z",
-  "count": 33,
+  "lastUpdated": "2026-07-17T07:50:41.748334Z",
+  "count": 31,
   "articles": [
     {
       "source": "Al Jazeera",
@@ -25,7 +25,7 @@
     },
     {
       "source": "Al Jazeera",
-      "title": "Iran war live: US carries out strikes on civilian infrastructure in south",
+      "title": "Iran war live: US kills 8 people in sixth consecutive night of strikes",
       "link": "https://www.aljazeera.com/news/liveblog/2026/7/16/iran-war-live-us-carries-out-strikes-on-civilian-infrastructure-in-south?traffic_source=rss",
       "desc": "",
       "pubDate": "Thu, 16 Jul 2026 23:58:15 +0000"
@@ -36,13 +36,6 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/7/16/qatar-rejects-israeli-reports-of-military-action-against-iran?traffic_source=rss",
       "desc": "",
       "pubDate": "Thu, 16 Jul 2026 23:07:53 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Iran says seven killed in latest US strikes, warns war \u2018will spread\u2019",
-      "link": "https://www.aljazeera.com/news/2026/7/16/us-mounts-sixth-straight-night-of-attacks-as-iran-warns-of-wider-war?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Thu, 16 Jul 2026 21:02:11 +0000"
     },
     {
       "source": "BBC",
@@ -141,6 +134,13 @@
       "link": "https://www.bbc.co.uk/news/articles/cy8we3j14ndo?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Wed, 08 Jul 2026 15:30:00 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[Resistance and revenge - Iran wanted to send a message with its farewell to Khamenei]]>",
+      "link": "https://www.bbc.co.uk/news/articles/c07yy3j3nljo?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Tue, 07 Jul 2026 00:46:03 GMT"
     }
   ]
 }
