@@ -1,10 +1,31 @@
 {
-  "lastUpdated": "2026-07-16T21:54:26.882762Z",
-  "count": 33,
+  "lastUpdated": "2026-07-17T01:29:59.441372Z",
+  "count": 35,
   "articles": [
     {
       "source": "Al Jazeera",
-      "title": "US mounts sixth straight night of attacks as Iran warns of wider war",
+      "title": "Falling debris from intercepted Iranian strikes sparks fires in Kuwait",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/17/falling-debris-from-intercepted-iranian-strikes-sparks-fires-in-kuwait?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Fri, 17 Jul 2026 00:50:09 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Iran war live: US carries out strikes on civilian infrastructure in south",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/7/16/iran-war-live-us-carries-out-strikes-on-civilian-infrastructure-in-south?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Thu, 16 Jul 2026 23:58:15 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Qatar rejects Israeli reports of military action against Iran",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/16/qatar-rejects-israeli-reports-of-military-action-against-iran?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Thu, 16 Jul 2026 23:07:53 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Iran says seven killed in latest US strikes, warns war \u2018will spread\u2019",
       "link": "https://www.aljazeera.com/news/2026/7/16/us-mounts-sixth-straight-night-of-attacks-as-iran-warns-of-wider-war?traffic_source=rss",
       "desc": "",
       "pubDate": "Thu, 16 Jul 2026 21:02:11 +0000"
@@ -36,13 +57,6 @@
       "link": "https://www.aljazeera.com/news/2026/7/16/iran-condemns-barbaric-us-attack-near-childrens-cancer-hospital?traffic_source=rss",
       "desc": "",
       "pubDate": "Thu, 16 Jul 2026 18:37:55 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Vance says Israeli campaign tried to sway US opinion against Iran diplomacy",
-      "link": "https://www.aljazeera.com/news/2026/7/16/vance-says-israeli-campaign-tried-to-sway-us-opinion-against-iran-diplomacy?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Thu, 16 Jul 2026 16:13:25 +0000"
     },
     {
       "source": "BBC",
@@ -127,20 +141,6 @@
       "link": "https://www.bbc.co.uk/news/articles/crelyq79x71o?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Sat, 11 Jul 2026 16:55:57 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[US and Iran trade attacks as Khamenei is buried]]>",
-      "link": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Fri, 10 Jul 2026 04:18:14 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[Bowen: For all his bluster, Trump has no better option than talks with Iran]]>",
-      "link": "https://www.bbc.co.uk/news/articles/cy8we3j14ndo?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Wed, 08 Jul 2026 15:30:00 GMT"
     }
   ]
 }
