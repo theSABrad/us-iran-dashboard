@@ -1,20 +1,27 @@
 {
-  "lastUpdated": "2026-07-17T16:06:57.775428Z",
+  "lastUpdated": "2026-07-17T18:51:03.862869Z",
   "count": 31,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Can the US and Iran reach a lasting deal to end the conflict?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/7/17/can-the-us-and-iran-reach-a-lasting-deal-to-end-the-conflict?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Fri, 17 Jul 2026 18:12:00 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Iranian forces: missiles and drones fired at US targets in Gulf States",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/17/iranian-forces-missiles-and-drones-fired-at-us-targets-in-gulf-states?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Fri, 17 Jul 2026 16:54:27 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "Satellite images show damage inside Iran\u2019s Bushehr nuclear power plant",
       "link": "https://www.aljazeera.com/news/2026/7/17/satellite-images-show-damage-inside-irans-bushehr-nuclear-power-plant?traffic_source=rss",
       "desc": "",
       "pubDate": "Fri, 17 Jul 2026 13:10:50 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Why is the US attacking southern Iran\u2019s civilian infrastructure?",
-      "link": "https://www.aljazeera.com/news/2026/7/17/why-is-the-us-attacking-southern-irans-civilian-infrastructure?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Fri, 17 Jul 2026 11:26:39 +0000"
     },
     {
       "source": "BBC",
@@ -134,13 +141,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cr5j1qn6deno?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Fri, 03 Jul 2026 11:02:55 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[What Iran and US get from deal and why both could struggle to keep it]]>",
-      "link": "https://www.bbc.co.uk/news/articles/c932yqz8lggo?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Thu, 18 Jun 2026 20:04:40 GMT"
     }
   ]
 }
