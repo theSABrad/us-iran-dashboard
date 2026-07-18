@@ -1,27 +1,48 @@
 {
-  "lastUpdated": "2026-07-18T15:43:46.076459Z",
-  "count": 34,
+  "lastUpdated": "2026-07-18T18:44:10.565503Z",
+  "count": 38,
   "articles": [
     {
       "source": "Al Jazeera",
-      "title": "Iran accuses US of striking critical infrastructure as war intensifies",
+      "title": "Damage visible at Iran bridges and water plant after US attacks",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/18/damage-visible-at-iran-bridges-and-water-plant-after-us-attacks?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sat, 18 Jul 2026 18:09:15 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "US military says two service members killed in Iranian strike in Jordan",
+      "link": "https://www.aljazeera.com/news/2026/7/18/us-military-says-two-service-members-killed-in-iranian-strike-in-jordan?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sat, 18 Jul 2026 18:04:47 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "What to expect after the US reimposes naval blockade on Iran\u2019s ports?",
+      "link": "https://www.aljazeera.com/economy/2026/7/18/what-to-expect-after-the-us-reimposes-naval-blockade-on-irans-ports?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sat, 18 Jul 2026 16:47:14 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Plumes of smoke rise over Kuwait after repeated Iranian attacks",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/18/plumes-of-smoke-rise-over-kuwait-after-repeated-iranian-attacks?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sat, 18 Jul 2026 15:35:23 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Iran suggests MoU \u2018suspended\u2019 amid reports 50 killed in US strikes in July",
       "link": "https://www.aljazeera.com/news/2026/7/18/iran-accuses-us-of-striking-critical-infrastructure-as-war-intensifies?traffic_source=rss",
       "desc": "",
       "pubDate": "Sat, 18 Jul 2026 12:59:26 +0000"
     },
     {
-      "source": "Al Jazeera",
-      "title": "A seventh night of US strikes cuts water to villages in Iran\u2019s south",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/18/a-seventh-night-of-us-strikes-cuts-water-to-villages-in-irans-south?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Sat, 18 Jul 2026 04:47:44 +0000"
-    },
-    {
       "source": "BBC",
-      "title": "<![CDATA[US strikes hit Iran for seventh consecutive night]]>",
-      "link": "https://www.bbc.co.uk/news/articles/cy748n8zx8ro?at_medium=RSS&at_campaign=rss",
+      "title": "<![CDATA[Two US troops killed and one missing after Iranian attack in Jordan]]>",
+      "link": "https://www.bbc.co.uk/news/articles/cn8nynv8ze8o?at_medium=RSS&at_campaign=rss",
       "desc": "",
-      "pubDate": "Sat, 18 Jul 2026 15:04:25 GMT"
+      "pubDate": "Sat, 18 Jul 2026 18:41:36 GMT"
     },
     {
       "source": "BBC",
@@ -57,6 +78,13 @@
       "link": "https://www.bbc.co.uk/news/articles/c4gygp4pk31o?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Wed, 15 Jul 2026 08:33:27 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[US strikes hit Iran for seventh consecutive night]]>",
+      "link": "https://www.bbc.co.uk/news/articles/cy748n8zx8ro?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Sat, 18 Jul 2026 17:44:56 GMT"
     },
     {
       "source": "BBC",
@@ -113,34 +141,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cy8we3j14ndo?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Wed, 08 Jul 2026 15:30:00 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[Resistance and revenge - Iran wanted to send a message with its farewell to Khamenei]]>",
-      "link": "https://www.bbc.co.uk/news/articles/c07yy3j3nljo?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Tue, 07 Jul 2026 00:46:03 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[How Iran's new regime is very different to what came before]]>",
-      "link": "https://www.bbc.co.uk/news/articles/cg534ryp660o?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Sun, 05 Jul 2026 05:40:07 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[Iran nuclear and military damage revealed after restricted satellite images released ]]>",
-      "link": "https://www.bbc.co.uk/news/articles/cr5j1qn6deno?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Fri, 03 Jul 2026 11:02:55 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[What Iran and US get from deal and why both could struggle to keep it]]>",
-      "link": "https://www.bbc.co.uk/news/articles/c932yqz8lggo?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Thu, 18 Jun 2026 20:04:40 GMT"
     }
   ]
 }
