@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-07-19T10:18:04.565650Z",
-  "count": 38,
+  "lastUpdated": "2026-07-19T12:51:18.426141Z",
+  "count": 37,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Iranians suffer from power blackouts during war and heatwave",
+      "link": "https://www.aljazeera.com/news/2026/7/19/iranians-suffer-from-power-blackouts-during-war-and-heatwave?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sun, 19 Jul 2026 11:16:20 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "US launches new Iran strikes after two soldiers killed: What\u2019s the latest?",
@@ -25,7 +32,7 @@
     },
     {
       "source": "Al Jazeera",
-      "title": "US hits Iran for eighth consecutive night, Iran returns fire on Gulf bases",
+      "title": "US hits Iran for 8th consecutive night; Tehran returns fire on Gulf bases",
       "link": "https://www.aljazeera.com/news/2026/7/19/us-launches-eighth-consecutive-night-of-attacks-on-iran?traffic_source=rss",
       "desc": "",
       "pubDate": "Sun, 19 Jul 2026 04:16:08 +0000"
@@ -35,7 +42,7 @@
       "title": "<![CDATA[US and Iran exchange strikes after two US soldiers killed in Jordan]]>",
       "link": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
       "desc": "",
-      "pubDate": "Sun, 19 Jul 2026 05:10:57 GMT"
+      "pubDate": "Sun, 19 Jul 2026 11:57:10 GMT"
     },
     {
       "source": "BBC",
@@ -134,13 +141,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cy8we3j14ndo?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Wed, 08 Jul 2026 15:30:00 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[Resistance and revenge - Iran wanted to send a message with its farewell to Khamenei]]>",
-      "link": "https://www.bbc.co.uk/news/articles/c07yy3j3nljo?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Tue, 07 Jul 2026 00:46:03 GMT"
     }
   ]
 }
