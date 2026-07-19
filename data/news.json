@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-07-19T12:51:18.426141Z",
-  "count": 37,
+  "lastUpdated": "2026-07-19T15:44:45.545651Z",
+  "count": 36,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Iran attacks US Gulf allies, causing a fire at Kuwait power plant",
+      "link": "https://www.aljazeera.com/news/2026/7/19/kuwaiti-power-plant-ablaze-as-iran-hits-us-gulf-allies?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sun, 19 Jul 2026 14:27:53 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "Iranians suffer from power blackouts during war and heatwave",
@@ -17,32 +24,11 @@
       "pubDate": "Sun, 19 Jul 2026 08:49:56 +0000"
     },
     {
-      "source": "Al Jazeera",
-      "title": "US bombs Iran for eighth-straight night",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/us-bombs-iran-for-eighth-straight-night?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Sun, 19 Jul 2026 05:08:20 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Moment Iranian missiles hit airbase in Jordan killing US soldiers",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/moment-iranian-missiles-hit-airbase-in-jordan-killing-us-soldiers?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Sun, 19 Jul 2026 04:36:47 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "US hits Iran for 8th consecutive night; Tehran returns fire on Gulf bases",
-      "link": "https://www.aljazeera.com/news/2026/7/19/us-launches-eighth-consecutive-night-of-attacks-on-iran?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Sun, 19 Jul 2026 04:16:08 +0000"
-    },
-    {
       "source": "BBC",
-      "title": "<![CDATA[US and Iran exchange strikes after two US soldiers killed in Jordan]]>",
+      "title": "<![CDATA[US and Iran trade fire after two US soldiers killed in Jordan]]>",
       "link": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
       "desc": "",
-      "pubDate": "Sun, 19 Jul 2026 11:57:10 GMT"
+      "pubDate": "Sun, 19 Jul 2026 15:35:18 GMT"
     },
     {
       "source": "BBC",
@@ -141,6 +127,20 @@
       "link": "https://www.bbc.co.uk/news/articles/cy8we3j14ndo?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Wed, 08 Jul 2026 15:30:00 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[Resistance and revenge - Iran wanted to send a message with its farewell to Khamenei]]>",
+      "link": "https://www.bbc.co.uk/news/articles/c07yy3j3nljo?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Tue, 07 Jul 2026 00:46:03 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[How Iran's new regime is very different to what came before]]>",
+      "link": "https://www.bbc.co.uk/news/articles/cg534ryp660o?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Sun, 05 Jul 2026 05:40:07 GMT"
     }
   ]
 }
