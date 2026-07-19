@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-07-18T21:39:19.928888Z",
-  "count": 38,
+  "lastUpdated": "2026-07-19T01:27:58.560255Z",
+  "count": 40,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Iran war live: US launches new strikes; Trump mourns killed soldiers",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/7/19/iran-war-live-us-launches-new-strikes-trump-mourns-killed-soldiers?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sun, 19 Jul 2026 00:00:00 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "Iran supreme leader warns of \u2018unforgettable lessons\u2019 if US attacks continue",
@@ -31,18 +38,11 @@
       "pubDate": "Sat, 18 Jul 2026 16:47:14 +0000"
     },
     {
-      "source": "Al Jazeera",
-      "title": "Plumes of smoke rise over Kuwait after repeated Iranian attacks",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/18/plumes-of-smoke-rise-over-kuwait-after-repeated-iranian-attacks?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Sat, 18 Jul 2026 15:35:23 +0000"
-    },
-    {
       "source": "BBC",
       "title": "<![CDATA[Two US troops killed and one missing after Iranian attack in Jordan]]>",
       "link": "https://www.bbc.co.uk/news/articles/cn8nynv8ze8o?at_medium=RSS&at_campaign=rss",
       "desc": "",
-      "pubDate": "Sat, 18 Jul 2026 21:12:28 GMT"
+      "pubDate": "Sun, 19 Jul 2026 00:18:47 GMT"
     },
     {
       "source": "BBC",
