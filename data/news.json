@@ -1,10 +1,38 @@
 {
-  "lastUpdated": "2026-07-20T01:53:28.289527Z",
-  "count": 36,
+  "lastUpdated": "2026-07-20T05:58:18.410123Z",
+  "count": 39,
   "articles": [
     {
       "source": "Al Jazeera",
-      "title": "Iran war live: US military carries out another wave of strikes on Iran",
+      "title": "Trump: Latest strikes on Iran \u2018in honour\u2019 of killed US military personnel",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/aje-onl-nf_trump-latest-strikes-on-iran-in-honour-200726?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Mon, 20 Jul 2026 04:52:56 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "US releases footage of ninth consecutive night of strikes on Iran",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/us-releases-footage-of-ninth-consecutive-night-of-strikes-on-iran?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Mon, 20 Jul 2026 04:38:16 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "US service member killed during detonation of Iranian drone in Iraq",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/aje-onl-nf_us-soldier-killed-detonation-of-iranian-drone-iraq-190726?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Mon, 20 Jul 2026 02:11:53 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "US bombs Iran for ninth consecutive night as Hormuz tensions escalate",
+      "link": "https://www.aljazeera.com/news/2026/7/20/us-bombs-iran-for-ninth-consecutive-night-as-hormuz-tensions-escalate?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Mon, 20 Jul 2026 01:48:59 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Iran war live: US military completes ninth night of strikes on Iran",
       "link": "https://www.aljazeera.com/news/liveblog/2026/7/20/iran-war-live-us-military-carries-out-another-wave-of-strikes-on-iran?traffic_source=rss",
       "desc": "",
       "pubDate": "Mon, 20 Jul 2026 00:00:00 +0000"
@@ -15,13 +43,6 @@
       "link": "https://www.aljazeera.com/news/2026/7/19/us-soldier-killed-in-iraq-during-controlled-detonation-of-iranian-drone?traffic_source=rss",
       "desc": "",
       "pubDate": "Sun, 19 Jul 2026 23:49:30 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "\u2018Sacred unity\u2019: Iran\u2019s supreme leader calls for calm amid political divides",
-      "link": "https://www.aljazeera.com/news/2026/7/19/sacred-unity-irans-supreme-leader-calls-for-calm-amid-political-divides?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Sun, 19 Jul 2026 18:29:47 +0000"
     },
     {
       "source": "BBC",
@@ -120,27 +141,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Fri, 10 Jul 2026 04:18:14 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[Bowen: For all his bluster, Trump has no better option than talks with Iran]]>",
-      "link": "https://www.bbc.co.uk/news/articles/cy8we3j14ndo?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Wed, 08 Jul 2026 15:30:00 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[Resistance and revenge - Iran wanted to send a message with its farewell to Khamenei]]>",
-      "link": "https://www.bbc.co.uk/news/articles/c07yy3j3nljo?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Tue, 07 Jul 2026 00:46:03 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[How Iran's new regime is very different to what came before]]>",
-      "link": "https://www.bbc.co.uk/news/articles/cg534ryp660o?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Sun, 05 Jul 2026 05:40:07 GMT"
     }
   ]
 }
