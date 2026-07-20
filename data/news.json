@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-07-20T19:23:00.482561Z",
-  "count": 29,
+  "lastUpdated": "2026-07-20T21:54:15.599495Z",
+  "count": 31,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Iran condemns US attacks on civilian infrastructure",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/iran-condemns-us-attacks-on-civilian-infrastructure?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Mon, 20 Jul 2026 20:02:20 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "Trump vows Iran will \u2018pay\u2019 for killing US soldiers",
@@ -17,32 +24,11 @@
       "pubDate": "Mon, 20 Jul 2026 17:40:29 +0000"
     },
     {
-      "source": "Al Jazeera",
-      "title": "Iran says diplomatic efforts ongoing via mediators amid fighting with US",
-      "link": "https://www.aljazeera.com/news/2026/7/20/iran-says-diplomatic-efforts-ongoing-via-mediators-amid-fighting-with-us?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Mon, 20 Jul 2026 16:12:07 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "What are \u2018civilian\u2019 sites in international law and where have US, Iran hit?",
-      "link": "https://www.aljazeera.com/news/2026/7/20/what-are-civilian-sites-in-international-law-and-where-have-us-iran-hit?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Mon, 20 Jul 2026 14:37:16 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "What we know about US soldiers killed in Iran war, and Iranian casualties",
-      "link": "https://www.aljazeera.com/news/2026/7/20/what-we-know-about-us-soldiers-killed-in-iran-war-and-iranian-casualties?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Mon, 20 Jul 2026 14:34:42 +0000"
-    },
-    {
       "source": "BBC",
-      "title": "<![CDATA[Trump says US strikes hit Iran in 'honour' of American soldiers killed]]>",
+      "title": "<![CDATA[Trump warns Iran will pay 'many times over' for deaths of US soldiers]]>",
       "link": "https://www.bbc.co.uk/news/articles/cly52xzjd3qo?at_medium=RSS&at_campaign=rss",
       "desc": "",
-      "pubDate": "Mon, 20 Jul 2026 17:20:37 GMT"
+      "pubDate": "Mon, 20 Jul 2026 20:14:57 GMT"
     },
     {
       "source": "BBC",
@@ -141,6 +127,20 @@
       "link": "https://www.bbc.co.uk/news/articles/cr5j1qn6deno?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Fri, 03 Jul 2026 11:02:55 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[What Iran and US get from deal and why both could struggle to keep it]]>",
+      "link": "https://www.bbc.co.uk/news/articles/c932yqz8lggo?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Thu, 18 Jun 2026 20:04:40 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[Bowen: US-Iran deal raises inescapable question of what the war was for]]>",
+      "link": "https://www.bbc.co.uk/news/articles/clyegr2mp8jo?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Thu, 18 Jun 2026 15:53:55 GMT"
     }
   ]
 }
