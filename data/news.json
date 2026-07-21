@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-07-21T08:05:42.494441Z",
-  "count": 32,
+  "lastUpdated": "2026-07-21T10:55:29.404600Z",
+  "count": 29,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Hormuz tankers on fire, as US, Iran continue attacks: What\u2019s the latest?",
+      "link": "https://www.aljazeera.com/news/2026/7/21/hormuz-tankers-on-fire-as-us-iran-continue-attacks-whats-the-latest?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Tue, 21 Jul 2026 09:04:50 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "US military releases footage of tenth consecutive night of strikes on Iran",
@@ -10,32 +17,11 @@
       "pubDate": "Tue, 21 Jul 2026 03:15:23 +0000"
     },
     {
-      "source": "Al Jazeera",
-      "title": "US attacks Iran for 10th consecutive night",
-      "link": "https://www.aljazeera.com/news/2026/7/21/us-launches-tenth-consecutive-night-of-attacks-on-iran?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Tue, 21 Jul 2026 00:06:33 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Iran war live: Tehran attacks Gulf states, says 2 tankers in Hormuz on fire",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/7/21/iran-war-live-us-launches-10th-night-of-strikes-tehran-attacks-kuwait?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Tue, 21 Jul 2026 00:00:00 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "War on Iran: War resumes 30 days after MoU",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/aje-onl-nf_war-on-iran-back-to-square-one-200726?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Mon, 20 Jul 2026 22:26:49 +0000"
-    },
-    {
       "source": "BBC",
       "title": "<![CDATA[US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers]]>",
       "link": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss",
       "desc": "",
-      "pubDate": "Tue, 21 Jul 2026 06:16:06 GMT"
+      "pubDate": "Tue, 21 Jul 2026 09:48:20 GMT"
     },
     {
       "source": "BBC",
@@ -141,6 +127,20 @@
       "link": "https://www.bbc.co.uk/news/articles/clyegr2mp8jo?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Thu, 18 Jun 2026 15:53:55 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[Watch: The clash between US and Iran for control of the Strait of Hormuz]]>",
+      "link": "https://www.bbc.co.uk/news/videos/cx2425dmpl3o?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Tue, 14 Jul 2026 21:13:12 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[US releases footage of strikes on Iran]]>",
+      "link": "https://www.bbc.co.uk/news/videos/c8628y50508o?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Mon, 13 Jul 2026 07:07:50 GMT"
     }
   ]
 }
