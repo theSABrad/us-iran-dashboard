@@ -1,7 +1,28 @@
 {
-  "lastUpdated": "2026-07-20T21:54:15.599495Z",
-  "count": 31,
+  "lastUpdated": "2026-07-21T01:27:43.465210Z",
+  "count": 33,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "US attacks Iran for 10th consecutive night",
+      "link": "https://www.aljazeera.com/news/2026/7/21/us-launches-tenth-consecutive-night-of-attacks-on-iran?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Tue, 21 Jul 2026 00:06:33 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Iran war live: US launches 10th night of strikes; Tehran attacks Kuwait",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/7/21/iran-war-live-us-launches-10th-night-of-strikes-tehran-attacks-kuwait?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Tue, 21 Jul 2026 00:00:00 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "War on Iran: War resumes 30 days after MoU",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/20/aje-onl-nf_war-on-iran-back-to-square-one-200726?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Mon, 20 Jul 2026 22:26:49 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "Iran condemns US attacks on civilian infrastructure",
@@ -10,25 +31,11 @@
       "pubDate": "Mon, 20 Jul 2026 20:02:20 +0000"
     },
     {
-      "source": "Al Jazeera",
-      "title": "Trump vows Iran will \u2018pay\u2019 for killing US soldiers",
-      "link": "https://www.aljazeera.com/news/2026/7/20/trump-vows-iran-will-pay-for-killing-us-soldiers?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Mon, 20 Jul 2026 18:21:39 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Petrol prices climb as US\u2013Iran tensions disrupt markets",
-      "link": "https://www.aljazeera.com/economy/2026/7/20/petrol-prices-climb-as-us-iran-tensions-disrupt?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Mon, 20 Jul 2026 17:40:29 +0000"
-    },
-    {
       "source": "BBC",
-      "title": "<![CDATA[Trump warns Iran will pay 'many times over' for deaths of US soldiers]]>",
-      "link": "https://www.bbc.co.uk/news/articles/cly52xzjd3qo?at_medium=RSS&at_campaign=rss",
+      "title": "<![CDATA[US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers]]>",
+      "link": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss",
       "desc": "",
-      "pubDate": "Mon, 20 Jul 2026 20:14:57 GMT"
+      "pubDate": "Tue, 21 Jul 2026 00:14:27 GMT"
     },
     {
       "source": "BBC",
@@ -43,13 +50,6 @@
       "link": "https://www.bbc.co.uk/news/articles/clyqwkegqk0o?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Thu, 16 Jul 2026 12:09:26 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[US launches fresh strikes on Iran as Trump warns Tehran it 'better behave']]>",
-      "link": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Thu, 16 Jul 2026 04:06:11 GMT"
     },
     {
       "source": "BBC",
