@@ -1,20 +1,41 @@
 {
-  "lastUpdated": "2026-07-21T19:01:21.288933Z",
-  "count": 29,
+  "lastUpdated": "2026-07-21T21:53:32.312292Z",
+  "count": 30,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "US defence chief Hegseth puts Iran war cost at $37.5bn so far",
+      "link": "https://www.aljazeera.com/news/2026/7/21/hegseth-says-iran-war-has-cost-37-5bn-in-latest-official-us-account?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Tue, 21 Jul 2026 21:17:06 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Iran holds funerals for children killed in Minab school strike",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/iran-holds-funerals-for-children-killed-in-minab-school-strike?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Tue, 21 Jul 2026 21:13:02 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Kuwaitis ration electricity after Iranian strikes hit power grid",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/kuwaitis-ration-electricity-after-iranian-strikes-hit-power-grid?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Tue, 21 Jul 2026 20:06:57 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Can mediators broker a truce between the US and Iran?",
+      "link": "https://www.aljazeera.com/news/2026/7/21/can-mediators-broker-a-truce-between-the-us-and-iran?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Tue, 21 Jul 2026 19:27:26 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "Iranians struggle to get by amid US war and domestic woes",
       "link": "https://www.aljazeera.com/news/2026/7/21/iranians-struggle-to-get-by-amid-us-war-and-domestic-woes?traffic_source=rss",
       "desc": "",
       "pubDate": "Tue, 21 Jul 2026 17:49:33 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Israel has \u2018no interest\u2019 in joining US war on Iran, says Smotrich",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/israel-has-no-interest-in-joining-us-war-on-iran-says-smotrich?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Tue, 21 Jul 2026 14:42:21 +0000"
     },
     {
       "source": "BBC",
@@ -120,27 +141,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cr5j1qn6deno?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Fri, 03 Jul 2026 11:02:55 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[What Iran and US get from deal and why both could struggle to keep it]]>",
-      "link": "https://www.bbc.co.uk/news/articles/c932yqz8lggo?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Thu, 18 Jun 2026 20:04:40 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[Bowen: US-Iran deal raises inescapable question of what the war was for]]>",
-      "link": "https://www.bbc.co.uk/news/articles/clyegr2mp8jo?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Thu, 18 Jun 2026 15:53:55 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[Watch: The clash between US and Iran for control of the Strait of Hormuz]]>",
-      "link": "https://www.bbc.co.uk/news/videos/cx2425dmpl3o?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Tue, 14 Jul 2026 21:13:12 GMT"
     }
   ]
 }
