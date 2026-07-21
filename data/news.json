@@ -1,34 +1,20 @@
 {
-  "lastUpdated": "2026-07-21T16:14:18.864314Z",
-  "count": 30,
+  "lastUpdated": "2026-07-21T19:01:21.288933Z",
+  "count": 29,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Iranians struggle to get by amid US war and domestic woes",
+      "link": "https://www.aljazeera.com/news/2026/7/21/iranians-struggle-to-get-by-amid-us-war-and-domestic-woes?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Tue, 21 Jul 2026 17:49:33 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "Israel has \u2018no interest\u2019 in joining US war on Iran, says Smotrich",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/israel-has-no-interest-in-joining-us-war-on-iran-says-smotrich?traffic_source=rss",
       "desc": "",
       "pubDate": "Tue, 21 Jul 2026 14:42:21 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "ASEAN diplomats voice \u2018serious concern\u2019 over Iran war and energy crisis",
-      "link": "https://www.aljazeera.com/news/2026/7/21/asean-diplomats-voice-serious-concern-over-iran-war-and-energy-crisis?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Tue, 21 Jul 2026 13:43:48 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Iran war: Look beyond stocks to understand state of economy, experts say",
-      "link": "https://www.aljazeera.com/economy/2026/7/21/iran-war-look-beyond-stocks-to-understand-state-of-economy-experts-say?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Tue, 21 Jul 2026 12:34:05 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Hamas\u2019s new leader must bridge a movement divided over Iran",
-      "link": "https://www.aljazeera.com/opinions/2026/7/21/hamass-new-leader-must-bridge-a-movement-divided-over-iran?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Tue, 21 Jul 2026 11:24:05 +0000"
     },
     {
       "source": "BBC",
@@ -141,6 +127,20 @@
       "link": "https://www.bbc.co.uk/news/articles/c932yqz8lggo?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Thu, 18 Jun 2026 20:04:40 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[Bowen: US-Iran deal raises inescapable question of what the war was for]]>",
+      "link": "https://www.bbc.co.uk/news/articles/clyegr2mp8jo?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Thu, 18 Jun 2026 15:53:55 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[Watch: The clash between US and Iran for control of the Strait of Hormuz]]>",
+      "link": "https://www.bbc.co.uk/news/videos/cx2425dmpl3o?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Tue, 14 Jul 2026 21:13:12 GMT"
     }
   ]
 }
