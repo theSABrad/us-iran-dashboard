@@ -1,7 +1,28 @@
 {
-  "lastUpdated": "2026-07-22T05:38:37.938925Z",
-  "count": 30,
+  "lastUpdated": "2026-07-22T08:06:17.715858Z",
+  "count": 32,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "US \u2018open\u2019 to negotiations with Iran but Tehran not \u2018serious\u2019, Rubio says",
+      "link": "https://www.aljazeera.com/news/2026/7/22/us-open-to-negotiations-with-iran-but-tehran-not-serious-rubio-says?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Wed, 22 Jul 2026 07:35:26 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Air defences activate in Iran and flames rise from US attacks",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/air-defences-activate-in-iran-and-flames-rise-from-us-attacks?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Wed, 22 Jul 2026 07:28:29 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Iran toll in Hormuz would set \u2018dangerous precedent\u2019 says Rubio",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/iran-toll-in-hormuz-would-set-dangerous-precedent-says-rubio?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Wed, 22 Jul 2026 07:10:36 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "Hegseth called a \u2018failure\u2019 over Iran as he reveals $37b cost of war",
@@ -11,7 +32,7 @@
     },
     {
       "source": "Al Jazeera",
-      "title": "Iran war live: US launches new attacks; Hegseth says war has cost $37.5bn",
+      "title": "Iran war live: Tehran attacks Bahrain, Kuwait, Jordan after US bombings",
       "link": "https://www.aljazeera.com/news/liveblog/2026/7/22/iran-war-live-us-launches-new-attacks-hegseth-says-war-has-cost-37-5bn?traffic_source=rss",
       "desc": "",
       "pubDate": "Wed, 22 Jul 2026 00:00:15 +0000"
@@ -24,18 +45,18 @@
       "pubDate": "Tue, 21 Jul 2026 23:46:00 +0000"
     },
     {
-      "source": "Al Jazeera",
-      "title": "US defence chief Hegseth puts Iran war cost at $37.5bn so far",
-      "link": "https://www.aljazeera.com/news/2026/7/21/hegseth-says-iran-war-has-cost-37-5bn-in-latest-official-us-account?traffic_source=rss",
+      "source": "BBC",
+      "title": "<![CDATA[US renews strikes on Iran as Trump threatens to attack underground nuclear site]]>",
+      "link": "https://www.bbc.co.uk/news/articles/cdrv0p37k8jo?at_medium=RSS&at_campaign=rss",
       "desc": "",
-      "pubDate": "Tue, 21 Jul 2026 21:17:06 +0000"
+      "pubDate": "Wed, 22 Jul 2026 03:05:08 GMT"
     },
     {
-      "source": "Al Jazeera",
-      "title": "Iran holds funerals for children killed in Minab school strike",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/iran-holds-funerals-for-children-killed-in-minab-school-strike?traffic_source=rss",
+      "source": "BBC",
+      "title": "<![CDATA[Iran war has cost US $37.5bn so far, Hegseth says, as Pentagon seeks billions more]]>",
+      "link": "https://www.bbc.co.uk/news/articles/c70gek2kqyno?at_medium=RSS&at_campaign=rss",
       "desc": "",
-      "pubDate": "Tue, 21 Jul 2026 21:13:02 +0000"
+      "pubDate": "Wed, 22 Jul 2026 02:15:05 GMT"
     },
     {
       "source": "BBC",
@@ -120,27 +141,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cy8we3j14ndo?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Wed, 08 Jul 2026 15:30:00 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[Resistance and revenge - Iran wanted to send a message with its farewell to Khamenei]]>",
-      "link": "https://www.bbc.co.uk/news/articles/c07yy3j3nljo?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Tue, 07 Jul 2026 00:46:03 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[How Iran's new regime is very different to what came before]]>",
-      "link": "https://www.bbc.co.uk/news/articles/cg534ryp660o?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Sun, 05 Jul 2026 05:40:07 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[Iran nuclear and military damage revealed after restricted satellite images released ]]>",
-      "link": "https://www.bbc.co.uk/news/articles/cr5j1qn6deno?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Fri, 03 Jul 2026 11:02:55 GMT"
     }
   ]
 }
