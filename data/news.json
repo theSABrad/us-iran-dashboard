@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-07-22T01:26:28.342581Z",
-  "count": 32,
+  "lastUpdated": "2026-07-22T05:38:37.938925Z",
+  "count": 30,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Hegseth called a \u2018failure\u2019 over Iran as he reveals $37b cost of war",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/hegseth-called-a-failure-over-iran-as-he-reveals-37b-cost-of-war?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Wed, 22 Jul 2026 05:02:51 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "Iran war live: US launches new attacks; Hegseth says war has cost $37.5bn",
@@ -11,7 +18,7 @@
     },
     {
       "source": "Al Jazeera",
-      "title": "US strikes Iran for \u201911th consecutive night\u2019",
+      "title": "US attacks Iran for 11th consecutive night",
       "link": "https://www.aljazeera.com/news/2026/7/21/explosions-in-iran-as-us-launches-new-strikes?traffic_source=rss",
       "desc": "",
       "pubDate": "Tue, 21 Jul 2026 23:46:00 +0000"
@@ -29,20 +36,6 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/iran-holds-funerals-for-children-killed-in-minab-school-strike?traffic_source=rss",
       "desc": "",
       "pubDate": "Tue, 21 Jul 2026 21:13:02 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Kuwaitis ration electricity after Iranian strikes hit power grid",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/21/kuwaitis-ration-electricity-after-iranian-strikes-hit-power-grid?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Tue, 21 Jul 2026 20:06:57 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Can mediators broker a truce between the US and Iran?",
-      "link": "https://www.aljazeera.com/news/2026/7/21/can-mediators-broker-a-truce-between-the-us-and-iran?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Tue, 21 Jul 2026 19:27:26 +0000"
     },
     {
       "source": "BBC",
@@ -141,6 +134,13 @@
       "link": "https://www.bbc.co.uk/news/articles/cg534ryp660o?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Sun, 05 Jul 2026 05:40:07 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[Iran nuclear and military damage revealed after restricted satellite images released ]]>",
+      "link": "https://www.bbc.co.uk/news/articles/cr5j1qn6deno?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Fri, 03 Jul 2026 11:02:55 GMT"
     }
   ]
 }
