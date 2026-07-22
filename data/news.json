@@ -1,7 +1,21 @@
 {
-  "lastUpdated": "2026-07-21T21:53:32.312292Z",
-  "count": 30,
+  "lastUpdated": "2026-07-22T01:26:28.342581Z",
+  "count": 32,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Iran war live: US launches new attacks; Hegseth says war has cost $37.5bn",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/7/22/iran-war-live-us-launches-new-attacks-hegseth-says-war-has-cost-37-5bn?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Wed, 22 Jul 2026 00:00:15 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "US strikes Iran for \u201911th consecutive night\u2019",
+      "link": "https://www.aljazeera.com/news/2026/7/21/explosions-in-iran-as-us-launches-new-strikes?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Tue, 21 Jul 2026 23:46:00 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "US defence chief Hegseth puts Iran war cost at $37.5bn so far",
@@ -29,13 +43,6 @@
       "link": "https://www.aljazeera.com/news/2026/7/21/can-mediators-broker-a-truce-between-the-us-and-iran?traffic_source=rss",
       "desc": "",
       "pubDate": "Tue, 21 Jul 2026 19:27:26 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Iranians struggle to get by amid US war and domestic woes",
-      "link": "https://www.aljazeera.com/news/2026/7/21/iranians-struggle-to-get-by-amid-us-war-and-domestic-woes?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Tue, 21 Jul 2026 17:49:33 +0000"
     },
     {
       "source": "BBC",
@@ -134,13 +141,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cg534ryp660o?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Sun, 05 Jul 2026 05:40:07 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[Iran nuclear and military damage revealed after restricted satellite images released ]]>",
-      "link": "https://www.bbc.co.uk/news/articles/cr5j1qn6deno?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Fri, 03 Jul 2026 11:02:55 GMT"
     }
   ]
 }
