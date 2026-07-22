@@ -1,7 +1,21 @@
 {
-  "lastUpdated": "2026-07-22T18:55:11.089520Z",
+  "lastUpdated": "2026-07-22T21:55:13.316497Z",
   "count": 30,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Griffiths: Diplomacy requires US and Iran to accept they have \u2018lost\u2018",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/griffiths-diplomacy-requires-us-and-iran-to-accept-they-have?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Wed, 22 Jul 2026 20:20:57 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Trump: Iran will \u2018pay a big price\u2019 for US troop deaths",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/trump-iran-will-pay-a-big-price-for-us-troop-deaths?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Wed, 22 Jul 2026 20:06:31 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "Iran\u2019s judiciary warns against \u2018infiltrators\u2019, announces new executions",
@@ -28,7 +42,7 @@
       "title": "<![CDATA[Trump threatens to target Iran's bridges and power plants if Hormuz attacks persist]]>",
       "link": "https://www.bbc.co.uk/news/articles/cdrv0p37k8jo?at_medium=RSS&at_campaign=rss",
       "desc": "",
-      "pubDate": "Wed, 22 Jul 2026 10:15:03 GMT"
+      "pubDate": "Wed, 22 Jul 2026 18:57:46 GMT"
     },
     {
       "source": "BBC",
@@ -127,20 +141,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c07yy3j3nljo?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Tue, 07 Jul 2026 00:46:03 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[How Iran's new regime is very different to what came before]]>",
-      "link": "https://www.bbc.co.uk/news/articles/cg534ryp660o?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Sun, 05 Jul 2026 05:40:07 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[Iran nuclear and military damage revealed after restricted satellite images released ]]>",
-      "link": "https://www.bbc.co.uk/news/articles/cr5j1qn6deno?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Fri, 03 Jul 2026 11:02:55 GMT"
     }
   ]
 }
