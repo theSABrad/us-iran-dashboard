@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-07-23T13:21:31.078168Z",
-  "count": 25,
+  "lastUpdated": "2026-07-23T16:18:12.148170Z",
+  "count": 20,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Has Russia helped Iran target CIA sites in the Gulf?",
+      "link": "https://www.aljazeera.com/news/2026/7/23/has-russia-helped-iran-target-cia-sites-in-the-gulf?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Thu, 23 Jul 2026 14:18:31 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "Can Iran withstand new pressure from the US?",
@@ -24,39 +31,18 @@
       "pubDate": "Thu, 23 Jul 2026 11:12:18 +0000"
     },
     {
-      "source": "Al Jazeera",
-      "title": "Rubio says Iran \u2018begging\u2019 for a deal with US but not ready to make one",
-      "link": "https://www.aljazeera.com/news/2026/7/23/rubio-says-iran-begging-for-a-deal-with-us-but-not-ready-to-make-one?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Thu, 23 Jul 2026 10:19:58 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Iran, Houthis strike tankers as US bombing continues: What\u2019s the latest?",
-      "link": "https://www.aljazeera.com/news/2026/7/23/iran-houthis-strike-tankers-as-us-bombing-continues-whats-the-latest?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Thu, 23 Jul 2026 09:20:46 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Travellers panic as US attacks Iran-Iraq border crossing",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/travellers-panic-as-us-attacks-iran-iraq-border-crossing?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Thu, 23 Jul 2026 07:56:55 +0000"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[Houthis claim attack on oil tankers as US launches more strikes on Iran ]]>",
-      "link": "https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Thu, 23 Jul 2026 03:48:27 GMT"
-    },
-    {
       "source": "BBC",
       "title": "<![CDATA['What was their crime?': BBC visits Iran school where strike killed 120 children]]>",
       "link": "https://www.bbc.co.uk/news/articles/cewrx0ldlkko?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Thu, 23 Jul 2026 04:49:24 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[Yemen's Houthis attack Saudi tanker as US launches more Iran strikes]]>",
+      "link": "https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Thu, 23 Jul 2026 16:04:15 GMT"
     },
     {
       "source": "BBC",
@@ -141,6 +127,20 @@
       "link": "https://www.bbc.co.uk/news/videos/cvg7g2v1j9do?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Thu, 16 Jul 2026 10:17:50 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[Watch: The clash between US and Iran for control of the Strait of Hormuz]]>",
+      "link": "https://www.bbc.co.uk/news/videos/cx2425dmpl3o?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Tue, 14 Jul 2026 21:13:12 GMT"
+    },
+    {
+      "source": "The Hill",
+      "title": "These are the Republicans who voted for the Iran war powers resolution",
+      "link": "https://thehill.com/homenews/house/5986093-republicans-join-democrats-war-resolution/",
+      "desc": "",
+      "pubDate": "Thu, 23 Jul 2026 15:51:11 +0000"
     }
   ]
 }
