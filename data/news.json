@@ -1,10 +1,17 @@
 {
-  "lastUpdated": "2026-07-23T01:45:42.253086Z",
-  "count": 30,
+  "lastUpdated": "2026-07-23T05:43:22.760069Z",
+  "count": 29,
   "articles": [
     {
       "source": "Al Jazeera",
-      "title": "Iran war live: US launches new attacks; Houthis attack 2 Saudi oil tankers",
+      "title": "US attacks Iran for 12th night as the House approves defence spending",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/us-attacks-iran-for-12th-night-as-the-house-approves-defence-spending?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Thu, 23 Jul 2026 05:36:27 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Iran war live: US kills 2, wounds 11; Houthis attack 2 Saudi oil tankers",
       "link": "https://www.aljazeera.com/news/liveblog/2026/7/23/iran-war-live-us-launches-new-attacks-houthis-attack-2-saudi-oil-tankers?traffic_source=rss",
       "desc": "",
       "pubDate": "Thu, 23 Jul 2026 00:00:00 +0000"
@@ -22,20 +29,6 @@
       "link": "https://www.aljazeera.com/news/2026/7/22/iran-warns-of-regional-turmoil-if-us-threats-and-attacks-do-not?traffic_source=rss",
       "desc": "",
       "pubDate": "Wed, 22 Jul 2026 21:41:32 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Griffiths: Diplomacy requires US and Iran to accept they have \u2018lost\u2018",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/griffiths-diplomacy-requires-us-and-iran-to-accept-they-have?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Wed, 22 Jul 2026 20:20:57 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Trump: Iran will \u2018pay a big price\u2019 for US troop deaths",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/22/trump-iran-will-pay-a-big-price-for-us-troop-deaths?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Wed, 22 Jul 2026 20:06:31 +0000"
     },
     {
       "source": "BBC",
@@ -141,6 +134,13 @@
       "link": "https://www.bbc.co.uk/news/articles/c07yy3j3nljo?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Tue, 07 Jul 2026 00:46:03 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[How Iran's new regime is very different to what came before]]>",
+      "link": "https://www.bbc.co.uk/news/articles/cg534ryp660o?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Sun, 05 Jul 2026 05:40:07 GMT"
     }
   ]
 }
