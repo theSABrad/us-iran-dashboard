@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-07-23T05:43:22.760069Z",
-  "count": 29,
+  "lastUpdated": "2026-07-23T08:09:16.199869Z",
+  "count": 23,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Will the war on Iran affect ASEAN\u2019s efforts to tackle regional issues?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/7/23/will-the-war-on-iran-affect-aseans-efforts-to-tackle-regional-issues?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Thu, 23 Jul 2026 05:44:13 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "US attacks Iran for 12th night as the House approves defence spending",
@@ -11,24 +18,24 @@
     },
     {
       "source": "Al Jazeera",
-      "title": "Iran war live: US kills 2, wounds 11; Houthis attack 2 Saudi oil tankers",
+      "title": "Iran war live: US strike kills 2 people; Houthis attack 2 Saudi oil tankers",
       "link": "https://www.aljazeera.com/news/liveblog/2026/7/23/iran-war-live-us-launches-new-attacks-houthis-attack-2-saudi-oil-tankers?traffic_source=rss",
       "desc": "",
       "pubDate": "Thu, 23 Jul 2026 00:00:00 +0000"
     },
     {
-      "source": "Al Jazeera",
-      "title": "Iranian missiles show deadly precision amid US-Iran war escalation",
-      "link": "https://www.aljazeera.com/news/2026/7/22/iranian-missiles-show-deadly-precision-amid-us-iran-war-escalation?traffic_source=rss",
+      "source": "BBC",
+      "title": "<![CDATA[Houthis claim attack on oil tankers as US launches more strikes on Iran ]]>",
+      "link": "https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko?at_medium=RSS&at_campaign=rss",
       "desc": "",
-      "pubDate": "Wed, 22 Jul 2026 22:03:13 +0000"
+      "pubDate": "Thu, 23 Jul 2026 03:48:27 GMT"
     },
     {
-      "source": "Al Jazeera",
-      "title": "US launches new strikes as Iran warns of regional turmoil",
-      "link": "https://www.aljazeera.com/news/2026/7/22/iran-warns-of-regional-turmoil-if-us-threats-and-attacks-do-not?traffic_source=rss",
+      "source": "BBC",
+      "title": "<![CDATA['What was their crime?': BBC visits Iran school where strike killed 120 children]]>",
+      "link": "https://www.bbc.co.uk/news/articles/cewrx0ldlkko?at_medium=RSS&at_campaign=rss",
       "desc": "",
-      "pubDate": "Wed, 22 Jul 2026 21:41:32 +0000"
+      "pubDate": "Thu, 23 Jul 2026 04:49:24 GMT"
     },
     {
       "source": "BBC",
@@ -74,48 +81,6 @@
     },
     {
       "source": "BBC",
-      "title": "<![CDATA[Trump threatens to bomb bridges and power plants unless Iran resumes talks]]>",
-      "link": "https://www.bbc.co.uk/news/articles/cy0608wy8pro?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Wed, 15 Jul 2026 09:06:52 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[Briton's Iran jail sentence extended by two years, family says]]>",
-      "link": "https://www.bbc.co.uk/news/articles/c4gygp4pk31o?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Wed, 15 Jul 2026 08:33:27 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[US strikes hit Iran for seventh consecutive night]]>",
-      "link": "https://www.bbc.co.uk/news/articles/cy748n8zx8ro?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Sat, 18 Jul 2026 17:44:56 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[Strait of Hormuz 'faultline' exposes weakness of the US-Iran deal]]>",
-      "link": "https://www.bbc.co.uk/news/articles/cwy0ydn033yo?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Tue, 14 Jul 2026 19:13:49 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[UAE condemns Iran's 'brazen' attack on tankers as US launches fresh strikes]]>",
-      "link": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Tue, 14 Jul 2026 04:50:48 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[US and Iran trade fire as tensions rise over Strait of Hormuz]]>",
-      "link": "https://www.bbc.co.uk/news/articles/cevlr112pmgo?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Mon, 13 Jul 2026 15:16:09 GMT"
-    },
-    {
-      "source": "BBC",
       "title": "<![CDATA[Trump retreat over Hormuz tolls suggests he is struggling to end Iran war]]>",
       "link": "https://www.bbc.co.uk/news/articles/crele3r8j19o?at_medium=RSS&at_campaign=rss",
       "desc": "",
@@ -141,6 +106,41 @@
       "link": "https://www.bbc.co.uk/news/articles/cg534ryp660o?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Sun, 05 Jul 2026 05:40:07 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[Iran nuclear and military damage revealed after restricted satellite images released ]]>",
+      "link": "https://www.bbc.co.uk/news/articles/cr5j1qn6deno?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Fri, 03 Jul 2026 11:02:55 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[What Iran and US get from deal and why both could struggle to keep it]]>",
+      "link": "https://www.bbc.co.uk/news/articles/c932yqz8lggo?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Thu, 18 Jun 2026 20:04:40 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[Bowen: US-Iran deal raises inescapable question of what the war was for]]>",
+      "link": "https://www.bbc.co.uk/news/articles/clyegr2mp8jo?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Thu, 18 Jun 2026 15:53:55 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[Iranian drone strikes warehouse in Kuwait]]>",
+      "link": "https://www.bbc.co.uk/news/videos/cvg7g2v1j9do?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Thu, 16 Jul 2026 10:17:50 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[Watch: The clash between US and Iran for control of the Strait of Hormuz]]>",
+      "link": "https://www.bbc.co.uk/news/videos/cx2425dmpl3o?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Tue, 14 Jul 2026 21:13:12 GMT"
     }
   ]
 }
