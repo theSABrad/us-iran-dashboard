@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-07-24T01:30:35.417414Z",
-  "count": 20,
+  "lastUpdated": "2026-07-24T05:39:39.491434Z",
+  "count": 21,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "US launches 13th night of strikes as Iran warns of escalation in the Gulf",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/24/us-launches-13th-night-of-strikes-as-iran-warns-of-escalation-in-the-gulf?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Fri, 24 Jul 2026 02:25:41 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "Analyst: voting against Iran war funding a tough sell for Congress",
@@ -11,7 +18,7 @@
     },
     {
       "source": "Al Jazeera",
-      "title": "Iran war live: Trump weighs \u2018massive attack\u2019 on Iran",
+      "title": "Iran war live: US completes 13th night of strikes on Iran",
       "link": "https://www.aljazeera.com/news/liveblog/2026/7/24/iran-war-live-trump-weighs-massive-attack-on-iran?traffic_source=rss",
       "desc": "",
       "pubDate": "Fri, 24 Jul 2026 00:00:00 +0000"
@@ -134,13 +141,6 @@
       "link": "https://www.bbc.co.uk/news/videos/cx2425dmpl3o?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Tue, 14 Jul 2026 21:13:12 GMT"
-    },
-    {
-      "source": "The Hill",
-      "title": "Trump ramps up threats of major operations in Iran",
-      "link": "https://thehill.com/newsletters/defense-national-security/5987571-trump-ramps-up-threats-of-major-operations-in-iran/",
-      "desc": "",
-      "pubDate": "Fri, 24 Jul 2026 00:19:05 +0000"
     }
   ]
 }
