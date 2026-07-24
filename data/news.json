@@ -1,13 +1,34 @@
 {
-  "lastUpdated": "2026-07-23T21:55:21.677595Z",
-  "count": 17,
+  "lastUpdated": "2026-07-24T01:30:35.417414Z",
+  "count": 20,
   "articles": [
     {
       "source": "Al Jazeera",
-      "title": "Iraqi PM makes first official visit to Iran in bid to deepen ties",
-      "link": "https://www.aljazeera.com/news/2026/7/23/iraqi-pm-makes-first-official-visit-to-iran-to-deepen-ties?traffic_source=rss",
+      "title": "Analyst: voting against Iran war funding a tough sell for Congress",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/24/analyst-voting-against-iran-war-funding-a-tough-sell-for-congress?traffic_source=rss",
       "desc": "",
-      "pubDate": "Thu, 23 Jul 2026 18:34:41 +0000"
+      "pubDate": "Fri, 24 Jul 2026 00:30:43 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Iran war live: Trump weighs \u2018massive attack\u2019 on Iran",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/7/24/iran-war-live-trump-weighs-massive-attack-on-iran?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Fri, 24 Jul 2026 00:00:00 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "US war on Iran: The $110 billion price tag",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/23/us-war-on-iran-the-110-billion-price-tag?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Thu, 23 Jul 2026 22:04:23 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "US attacks Iran for 13th night as Trump threatens \u2018bigger\u2019 strikes",
+      "link": "https://www.aljazeera.com/news/2026/7/23/trump-warns-of-biggest-strikes-yet-on-iran-as-tehran-lashes-out-across-gulf?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Thu, 23 Jul 2026 21:43:28 +0000"
     },
     {
       "source": "BBC",
@@ -116,10 +137,10 @@
     },
     {
       "source": "The Hill",
-      "title": "Thune says Iran sanctions to be added to Russia sanctions bill",
-      "link": "https://thehill.com/homenews/senate/5987084-thune-iran-sanctions-russia-bill/",
+      "title": "Trump ramps up threats of major operations in Iran",
+      "link": "https://thehill.com/newsletters/defense-national-security/5987571-trump-ramps-up-threats-of-major-operations-in-iran/",
       "desc": "",
-      "pubDate": "Thu, 23 Jul 2026 20:54:43 +0000"
+      "pubDate": "Fri, 24 Jul 2026 00:19:05 +0000"
     }
   ]
 }
