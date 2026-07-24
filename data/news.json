@@ -1,20 +1,20 @@
 {
-  "lastUpdated": "2026-07-24T19:09:53.846759Z",
-  "count": 19,
+  "lastUpdated": "2026-07-24T21:54:14.813110Z",
+  "count": 18,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Iran\u2019s Abbas Araghchi vows \u2018we fear no one\u2019",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/24/irans-abbas-araghchi-vows-we-fear-no-one?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Fri, 24 Jul 2026 21:24:38 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "Oman talking with Tehran on Hormuz as US and Iran continue strikes",
       "link": "https://www.aljazeera.com/news/2026/7/24/oman-talking-with-tehran-on-hormuz-as-us-and-iran-continue-strikes?traffic_source=rss",
       "desc": "",
       "pubDate": "Fri, 24 Jul 2026 18:15:01 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Netanyahu to meet Trump at White House next week amid Iran war escalation",
-      "link": "https://www.aljazeera.com/news/2026/7/24/netanyahu-to-meet-trump-at-white-house-next-week-amid-iran-war-escalation?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Fri, 24 Jul 2026 16:01:18 +0000"
     },
     {
       "source": "BBC",
@@ -123,17 +123,10 @@
     },
     {
       "source": "NPR",
-      "title": "Trump threatens a major escalation in Iran as the war nears the 5-month mark",
+      "title": "Trump threatens a major escalation in Iran after 13 straight nights of strikes",
       "link": "https://www.npr.org/2026/07/24/g-s1-135417/us-iran-war-updates",
       "desc": "The U.S. continued airstrikes in Iran while Tehran launched retaliatory attacks on U.S. targets in the Gulf, as President Trump said he was close to deciding whether to launch \"a massive attack.\"",
       "pubDate": "Fri, 24 Jul 2026 07:30:08 -0400"
-    },
-    {
-      "source": "The Hill",
-      "title": "Netanyahu to meet with Trump, attend Graham funeral as Iran conflict widens",
-      "link": "https://thehill.com/policy/international/5988476-netanyahu-trump-iran-meeting-lindsey-graham/",
-      "desc": "",
-      "pubDate": "Fri, 24 Jul 2026 17:15:35 +0000"
     }
   ]
 }
