@@ -1,7 +1,21 @@
 {
-  "lastUpdated": "2026-07-24T08:05:09.821148Z",
-  "count": 20,
+  "lastUpdated": "2026-07-24T10:52:22.129887Z",
+  "count": 21,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "US attacks Iran for 13th consecutive night",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/24/us-attacks-iran-for-13th-consecutive-night?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Fri, 24 Jul 2026 08:39:53 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "US attacks Iran as Houthis allow Chinese ships to pass: What\u2019s the latest?",
+      "link": "https://www.aljazeera.com/news/2026/7/24/us-attacks-iran-as-houthis-allow-chinese-ships-to-pass-whats-the-latest?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Fri, 24 Jul 2026 07:59:01 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "Tehran slams Trump\u2019s threat to use frozen Iranian assets as \u2018incendiary\u2019",
@@ -15,20 +29,6 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/7/24/us-launches-13th-night-of-strikes-as-iran-warns-of-escalation-in-the-gulf?traffic_source=rss",
       "desc": "",
       "pubDate": "Fri, 24 Jul 2026 02:25:41 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Analyst: voting against Iran war funding a tough sell for Congress",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/24/analyst-voting-against-iran-war-funding-a-tough-sell-for-congress?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Fri, 24 Jul 2026 00:30:43 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Iran war live: US completes 13th night of strikes on Iran",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/7/24/iran-war-live-trump-weighs-massive-attack-on-iran?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Fri, 24 Jul 2026 00:00:00 +0000"
     },
     {
       "source": "BBC",
@@ -137,10 +137,10 @@
     },
     {
       "source": "The Hill",
-      "title": "Trump ramps up threats of major operations in Iran",
-      "link": "https://thehill.com/newsletters/defense-national-security/5987571-trump-ramps-up-threats-of-major-operations-in-iran/",
+      "title": "GOP hawks urge Trump to go big as he weighs 'massive attack' on Iran",
+      "link": "https://thehill.com/policy/defense/5987536-trump-iran-republican-hawks-combat-operations/",
       "desc": "",
-      "pubDate": "Fri, 24 Jul 2026 00:19:05 +0000"
+      "pubDate": "Fri, 24 Jul 2026 10:00:00 +0000"
     }
   ]
 }
