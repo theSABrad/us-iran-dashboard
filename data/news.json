@@ -1,13 +1,13 @@
 {
-  "lastUpdated": "2026-07-25T10:19:37.901522Z",
-  "count": 19,
+  "lastUpdated": "2026-07-25T12:57:41.004073Z",
+  "count": 21,
   "articles": [
     {
       "source": "Al Jazeera",
-      "title": "Iran war live: Trump says US \u2018locked and loaded\u2019 as it seeks Iran talks",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/7/25/iran-war-live-trump-says-us-locked-and-loaded-as-it-seeks-iran-talks?traffic_source=rss",
+      "title": "Iran blames US for Hormuz dispute as both sides confirm ongoing talks",
+      "link": "https://www.aljazeera.com/news/2026/7/25/iran-blames-us-for-hormuz-dispute-as-both-sides-confirm-ongoing-talks?traffic_source=rss",
       "desc": "",
-      "pubDate": "Sat, 25 Jul 2026 00:00:00 +0000"
+      "pubDate": "Sat, 25 Jul 2026 12:49:06 +0000"
     },
     {
       "source": "BBC",
@@ -123,17 +123,24 @@
     },
     {
       "source": "The Hill",
+      "title": "Iran marks first night without US strikes in two weeks as tensions persist",
+      "link": "https://thehill.com/policy/defense/5989979-iran-us-strikes-quiet-night/",
+      "desc": "",
+      "pubDate": "Sat, 25 Jul 2026 12:52:16 +0000"
+    },
+    {
+      "source": "The Hill",
+      "title": "Live updates: Maine Dems to replace Platner in Senate race; Quiet night in Iran",
+      "link": "https://thehill.com/homenews/campaign/5989977-live-updates-trump-iran-warm-maine-democrats-senate-race-whcd/",
+      "desc": "",
+      "pubDate": "Sat, 25 Jul 2026 12:30:00 +0000"
+    },
+    {
+      "source": "The Hill",
       "title": "As signals of a 'massive' US attack mount, experts skeptical it will break Iran",
       "link": "https://thehill.com/policy/defense/5989841-experts-skeptical-intensified-air-strikes-iran/",
       "desc": "",
       "pubDate": "Sat, 25 Jul 2026 10:00:00 +0000"
-    },
-    {
-      "source": "The Hill",
-      "title": "Panetta on Iran war: US 'in deep trouble'",
-      "link": "https://thehill.com/homenews/5989591-panetta-on-iran-war-us-in-deep-trouble/",
-      "desc": "",
-      "pubDate": "Fri, 24 Jul 2026 21:59:02 +0000"
     }
   ]
 }
