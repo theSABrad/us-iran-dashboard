@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-26T08:05:57.615451Z",
-  "count": 24,
+  "lastUpdated": "2026-07-26T10:27:44.430758Z",
+  "count": 22,
   "articles": [
     {
       "source": "Al Jazeera",
@@ -25,17 +25,10 @@
     },
     {
       "source": "Al Jazeera",
-      "title": "Iran war live: Tehran slams Ukraine attack; West Bank unrest continues",
+      "title": "Iran war live: Baghaei says progress made in Oman talks on Strait of Hormuz",
       "link": "https://www.aljazeera.com/news/liveblog/2026/7/26/iran-war-live-tehran-summons-ukraine-diplomats-over-caspian-sea-attack?traffic_source=rss",
       "desc": "",
       "pubDate": "Sun, 26 Jul 2026 00:00:25 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Iran accuses Ukraine of deadly attack on Caspian commercial vessel",
-      "link": "https://www.aljazeera.com/news/2026/7/25/iran-accuses-ukraine-of-deadly-attack-on-caspian-commercial-vessel?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Sat, 25 Jul 2026 23:16:45 +0000"
     },
     {
       "source": "BBC",
@@ -141,6 +134,13 @@
       "link": "https://www.npr.org/2026/07/24/g-s1-135418/up-first-newsletter-iran-war-oil-prices-tariffs-wisconsin-corey-ruiz",
       "desc": "Oil surged to $100 per barrel after Iran-backed Houthi rebels attacked two Saudi tankers in the Red Sea. And, President Trump overnight replaced expiring tariffs with a slew of new ones.",
       "pubDate": "Fri, 24 Jul 2026 07:37:58 -0400"
+    },
+    {
+      "source": "NPR",
+      "title": "Trump threatens a major escalation in Iran after 13 straight nights of strikes",
+      "link": "https://www.npr.org/2026/07/24/g-s1-135417/us-iran-war-updates",
+      "desc": "The U.S. continued airstrikes in Iran while Tehran launched retaliatory attacks on U.S. targets in the Gulf, as President Trump said he was close to deciding whether to launch \"a massive attack.\"",
+      "pubDate": "Fri, 24 Jul 2026 07:30:08 -0400"
     }
   ]
 }
