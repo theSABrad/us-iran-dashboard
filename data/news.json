@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-07-26T12:55:14.330281Z",
-  "count": 23,
+  "lastUpdated": "2026-07-26T15:53:33.354388Z",
+  "count": 21,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Israel and the cost paradox of the Iran war",
+      "link": "https://www.aljazeera.com/opinions/2026/7/26/israel-and-the-cost-paradox-of-the-iran-war?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sun, 26 Jul 2026 14:04:39 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "Iran\u2019s army issues warning ahead of Netanyahu\u2019s US visit",
@@ -15,27 +22,6 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/anti-war-protesters-demand-end-to-us-use-of-uk-airbase-to-strike-iran?traffic_source=rss",
       "desc": "",
       "pubDate": "Sun, 26 Jul 2026 11:18:00 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "After Strait of Hormuz and Red Sea, has Iran war now reached Caspian Sea?",
-      "link": "https://www.aljazeera.com/news/2026/7/26/after-strait-of-hormuz-and-red-sea-has-iran-war-now-reached-caspian-sea?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Sun, 26 Jul 2026 10:45:23 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "New front in US-Iran war escalates as Houthis fire at Saudi oil facilities",
-      "link": "https://www.aljazeera.com/news/2026/7/26/new-front-in-us-iran-war-escalates-as-houthis-fire-at-saudi-oil-facilities?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Sun, 26 Jul 2026 04:40:17 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "US military disables tanker accused of breaking the Iran blockade",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/us-military-disables-tanker-accused-of-breaking-the-iran-blockade?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Sun, 26 Jul 2026 04:33:16 +0000"
     },
     {
       "source": "BBC",
@@ -141,6 +127,20 @@
       "link": "https://www.npr.org/2026/07/24/g-s1-135418/up-first-newsletter-iran-war-oil-prices-tariffs-wisconsin-corey-ruiz",
       "desc": "Oil surged to $100 per barrel after Iran-backed Houthi rebels attacked two Saudi tankers in the Red Sea. And, President Trump overnight replaced expiring tariffs with a slew of new ones.",
       "pubDate": "Fri, 24 Jul 2026 07:37:58 -0400"
+    },
+    {
+      "source": "The Hill",
+      "title": "Netanyahu vows 'very, very forceful' response if Iran attacks Israel",
+      "link": "https://thehill.com/policy/international/5990966-netanyahu-warns-iran-mistake/",
+      "desc": "",
+      "pubDate": "Sun, 26 Jul 2026 15:47:48 +0000"
+    },
+    {
+      "source": "The Hill",
+      "title": "Cassidy: Trump ending Iran war soon 'seems unlikely'",
+      "link": "https://thehill.com/homenews/senate/5990936-cassidy-trump-iran-war/",
+      "desc": "",
+      "pubDate": "Sun, 26 Jul 2026 15:40:15 +0000"
     }
   ]
 }
