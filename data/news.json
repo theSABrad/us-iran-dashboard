@@ -1,10 +1,31 @@
 {
-  "lastUpdated": "2026-07-26T01:44:19.770145Z",
+  "lastUpdated": "2026-07-26T05:49:52.311784Z",
   "count": 24,
   "articles": [
     {
       "source": "Al Jazeera",
-      "title": "Iran war live: Tehran summons Ukraine diplomats over Caspian Sea attack",
+      "title": "New front in US-Iran war escalates as Houthis fire at Saudi oil facilities",
+      "link": "https://www.aljazeera.com/news/2026/7/26/new-front-in-us-iran-war-escalates-as-houthis-fire-at-saudi-oil-facilities?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sun, 26 Jul 2026 04:40:17 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "US military disables tanker accused of breaking the Iran blockade",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/us-military-disables-tanker-accused-of-breaking-the-iran-blockade?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sun, 26 Jul 2026 04:33:16 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Tehran summons Ukrainian diplomat after Kyiv bombs an Iranian ship",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/tehran-summons-ukrainian-diplomat-after-kyiv-bombs-an-iranian-ship?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sun, 26 Jul 2026 03:49:29 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Iran war live: Tehran slams Ukraine attack; West Bank unrest continues",
       "link": "https://www.aljazeera.com/news/liveblog/2026/7/26/iran-war-live-tehran-summons-ukraine-diplomats-over-caspian-sea-attack?traffic_source=rss",
       "desc": "",
       "pubDate": "Sun, 26 Jul 2026 00:00:25 +0000"
@@ -15,20 +36,6 @@
       "link": "https://www.aljazeera.com/news/2026/7/25/iran-accuses-ukraine-of-deadly-attack-on-caspian-commercial-vessel?traffic_source=rss",
       "desc": "",
       "pubDate": "Sat, 25 Jul 2026 23:16:45 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Iran\u2019s government spars with state TV as mediators push talks with US",
-      "link": "https://www.aljazeera.com/news/2026/7/25/irans-government-spars-with-state-tv-as-mediators-push-talks-with-us?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Sat, 25 Jul 2026 16:39:16 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "War on Iran: Phase II: Day 14",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/war-on-iran-phase-ii-day-14?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Sat, 25 Jul 2026 13:49:12 +0000"
     },
     {
       "source": "BBC",
@@ -134,13 +141,6 @@
       "link": "https://www.npr.org/2026/07/24/g-s1-135418/up-first-newsletter-iran-war-oil-prices-tariffs-wisconsin-corey-ruiz",
       "desc": "Oil surged to $100 per barrel after Iran-backed Houthi rebels attacked two Saudi tankers in the Red Sea. And, President Trump overnight replaced expiring tariffs with a slew of new ones.",
       "pubDate": "Fri, 24 Jul 2026 07:37:58 -0400"
-    },
-    {
-      "source": "NPR",
-      "title": "Trump threatens a major escalation in Iran after 13 straight nights of strikes",
-      "link": "https://www.npr.org/2026/07/24/g-s1-135417/us-iran-war-updates",
-      "desc": "The U.S. continued airstrikes in Iran while Tehran launched retaliatory attacks on U.S. targets in the Gulf, as President Trump said he was close to deciding whether to launch \"a massive attack.\"",
-      "pubDate": "Fri, 24 Jul 2026 07:30:08 -0400"
     }
   ]
 }
