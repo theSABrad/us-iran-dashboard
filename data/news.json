@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-26T15:53:33.354388Z",
-  "count": 21,
+  "lastUpdated": "2026-07-26T18:53:46.160845Z",
+  "count": 19,
   "articles": [
     {
       "source": "Al Jazeera",
@@ -8,20 +8,6 @@
       "link": "https://www.aljazeera.com/opinions/2026/7/26/israel-and-the-cost-paradox-of-the-iran-war?traffic_source=rss",
       "desc": "",
       "pubDate": "Sun, 26 Jul 2026 14:04:39 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Iran\u2019s army issues warning ahead of Netanyahu\u2019s US visit",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/irans-army-issues-warning-ahead-of-netanyahus-us-visit?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Sun, 26 Jul 2026 11:56:50 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Anti-war protesters demand end to US use of UK airbase to strike Iran",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/anti-war-protesters-demand-end-to-us-use-of-uk-airbase-to-strike-iran?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Sun, 26 Jul 2026 11:18:00 +0000"
     },
     {
       "source": "BBC",
@@ -123,10 +109,17 @@
     },
     {
       "source": "NPR",
-      "title": "Oil surges to $100 per barrel. And, Trump imposes a new round of tariffs",
-      "link": "https://www.npr.org/2026/07/24/g-s1-135418/up-first-newsletter-iran-war-oil-prices-tariffs-wisconsin-corey-ruiz",
-      "desc": "Oil surged to $100 per barrel after Iran-backed Houthi rebels attacked two Saudi tankers in the Red Sea. And, President Trump overnight replaced expiring tariffs with a slew of new ones.",
-      "pubDate": "Fri, 24 Jul 2026 07:37:58 -0400"
+      "title": "U.S. pauses attacks on Iran for a second straight day and Tehran does too",
+      "link": "https://www.npr.org/2026/07/26/g-s1-135593/us-pauses-attacks-iran-second-day-tehran",
+      "desc": "The United States paused attacks on Iran for a second straight day Sunday and Tehran said it had done so too, as efforts continued to bring the countries back to negotiations on an interim ceasefire.",
+      "pubDate": "Sun, 26 Jul 2026 13:16:06 -0400"
+    },
+    {
+      "source": "The Hill",
+      "title": "Sen. Kennedy says Trump likes daily strikes on Iran: 'Sometimes you have to kill a few chickens to scare the monkeys'",
+      "link": "https://thehill.com/homenews/administration/5991027-senator-kennedy-supports-iran-strikes/",
+      "desc": "",
+      "pubDate": "Sun, 26 Jul 2026 18:45:24 +0000"
     },
     {
       "source": "The Hill",
