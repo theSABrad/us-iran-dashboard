@@ -1,7 +1,28 @@
 {
-  "lastUpdated": "2026-07-26T10:27:44.430758Z",
-  "count": 22,
+  "lastUpdated": "2026-07-26T12:55:14.330281Z",
+  "count": 23,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Iran\u2019s army issues warning ahead of Netanyahu\u2019s US visit",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/irans-army-issues-warning-ahead-of-netanyahus-us-visit?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sun, 26 Jul 2026 11:56:50 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Anti-war protesters demand end to US use of UK airbase to strike Iran",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/anti-war-protesters-demand-end-to-us-use-of-uk-airbase-to-strike-iran?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sun, 26 Jul 2026 11:18:00 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "After Strait of Hormuz and Red Sea, has Iran war now reached Caspian Sea?",
+      "link": "https://www.aljazeera.com/news/2026/7/26/after-strait-of-hormuz-and-red-sea-has-iran-war-now-reached-caspian-sea?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sun, 26 Jul 2026 10:45:23 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "New front in US-Iran war escalates as Houthis fire at Saudi oil facilities",
@@ -15,20 +36,6 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/us-military-disables-tanker-accused-of-breaking-the-iran-blockade?traffic_source=rss",
       "desc": "",
       "pubDate": "Sun, 26 Jul 2026 04:33:16 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Tehran summons Ukrainian diplomat after Kyiv bombs an Iranian ship",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/26/tehran-summons-ukrainian-diplomat-after-kyiv-bombs-an-iranian-ship?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Sun, 26 Jul 2026 03:49:29 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Iran war live: Baghaei says progress made in Oman talks on Strait of Hormuz",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/7/26/iran-war-live-tehran-summons-ukraine-diplomats-over-caspian-sea-attack?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Sun, 26 Jul 2026 00:00:25 +0000"
     },
     {
       "source": "BBC",
@@ -134,13 +141,6 @@
       "link": "https://www.npr.org/2026/07/24/g-s1-135418/up-first-newsletter-iran-war-oil-prices-tariffs-wisconsin-corey-ruiz",
       "desc": "Oil surged to $100 per barrel after Iran-backed Houthi rebels attacked two Saudi tankers in the Red Sea. And, President Trump overnight replaced expiring tariffs with a slew of new ones.",
       "pubDate": "Fri, 24 Jul 2026 07:37:58 -0400"
-    },
-    {
-      "source": "NPR",
-      "title": "Trump threatens a major escalation in Iran after 13 straight nights of strikes",
-      "link": "https://www.npr.org/2026/07/24/g-s1-135417/us-iran-war-updates",
-      "desc": "The U.S. continued airstrikes in Iran while Tehran launched retaliatory attacks on U.S. targets in the Gulf, as President Trump said he was close to deciding whether to launch \"a massive attack.\"",
-      "pubDate": "Fri, 24 Jul 2026 07:30:08 -0400"
     }
   ]
 }
