@@ -1,7 +1,21 @@
 {
-  "lastUpdated": "2026-07-27T12:09:43.256223Z",
-  "count": 24,
+  "lastUpdated": "2026-07-27T16:51:57.969595Z",
+  "count": 25,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Iran: Currently no negotiations with the US",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/iran-currently-no-negotiations-with-the-us?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Mon, 27 Jul 2026 16:08:27 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Five decades of Israeli covert strategy to push US, Iran into confrontation",
+      "link": "https://www.aljazeera.com/opinions/2026/7/27/five-decades-of-israeli-covert-strategy-to-push-us-iran-into-confrontation?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Mon, 27 Jul 2026 14:04:43 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "Why has the US halted its bombing of Iran?",
@@ -10,18 +24,18 @@
       "pubDate": "Mon, 27 Jul 2026 10:55:52 +0000"
     },
     {
-      "source": "Al Jazeera",
-      "title": "Iran warns Ukraine of retaliation after deadly Caspian Sea strike",
-      "link": "https://www.aljazeera.com/news/2026/7/27/iran-warns-ukraine-of-retaliation-after-deadly-caspian-sea-strike?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Mon, 27 Jul 2026 06:15:01 +0000"
-    },
-    {
       "source": "BBC",
       "title": "<![CDATA[Oil price dives as US and Iran pause attacks]]>",
       "link": "https://www.bbc.co.uk/news/articles/clyj834jn5lo?at_medium=RSS&at_campaign=rss",
       "desc": "",
-      "pubDate": "Mon, 27 Jul 2026 11:50:23 GMT"
+      "pubDate": "Mon, 27 Jul 2026 15:08:37 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[Ukraine dismisses Iranian threats as Caspian Sea strike directly links wars]]>",
+      "link": "https://www.bbc.co.uk/news/articles/cwyj7yl0xndo?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Mon, 27 Jul 2026 16:33:05 GMT"
     },
     {
       "source": "BBC",
@@ -127,20 +141,6 @@
       "link": "https://www.bbc.co.uk/news/videos/cx2425dmpl3o?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Tue, 14 Jul 2026 21:13:12 GMT"
-    },
-    {
-      "source": "NPR",
-      "title": "3 dead in mass shooting in Seattle. And, U.S. and Iran pause fighting",
-      "link": "https://www.npr.org/2026/07/27/g-s1-135621/up-first-newsletter-mass-shooting-seattle-iran-us-war-democrats-senate-midterms",
-      "desc": "A mass shooting at a Seattle festival has left three people dead. And, the U.S. and Iran have been exchanging diplomatic messages after nearly tw weeks of intense fighting.",
-      "pubDate": "Mon, 27 Jul 2026 07:45:56 -0400"
-    },
-    {
-      "source": "NPR",
-      "title": "Can the U.S. and Iran take the off-ramp?",
-      "link": "https://www.npr.org/2026/07/27/g-s1-135611/can-the-u-s-and-iran-take-the-off-ramp",
-      "desc": "The U.S. military has paused its airstrikes on Iran after nearly two weeks of intensifying bombing, while diplomatic efforts have pushed forward to try to avert a return to all-out war.",
-      "pubDate": "Mon, 27 Jul 2026 01:57:59 -0400"
     }
   ]
 }
