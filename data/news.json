@@ -1,7 +1,21 @@
 {
-  "lastUpdated": "2026-07-27T19:09:42.351652Z",
-  "count": 27,
+  "lastUpdated": "2026-07-27T21:55:31.915368Z",
+  "count": 26,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Hopes of return to diplomacy as US-Iran hold fire for third day",
+      "link": "https://www.aljazeera.com/news/2026/7/27/hopes-of-return-to-diplomacy-as-us-iran-hold-fire-for-third-day?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Mon, 27 Jul 2026 21:04:09 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Unreleased footage reveals Lindsey Graham\u2019s push for war on Iran",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/unreleased-footage-reveals-lindsey-grahams-push-for-war-on-iran?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Mon, 27 Jul 2026 20:09:16 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "Are the US and Iran heading towards a forever war?",
@@ -24,18 +38,11 @@
       "pubDate": "Mon, 27 Jul 2026 17:57:43 +0000"
     },
     {
-      "source": "Al Jazeera",
-      "title": "Iran: Currently no negotiations with the US",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/iran-currently-no-negotiations-with-the-us?traffic_source=rss",
+      "source": "BBC",
+      "title": "<![CDATA[Trump says Iran war talks taking place during lull in strikes]]>",
+      "link": "https://www.bbc.co.uk/news/articles/c62xn4vzmnpo?at_medium=RSS&at_campaign=rss",
       "desc": "",
-      "pubDate": "Mon, 27 Jul 2026 16:08:27 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Five decades of Israeli covert strategy to push US, Iran into confrontation",
-      "link": "https://www.aljazeera.com/opinions/2026/7/27/five-decades-of-israeli-covert-strategy-to-push-us-iran-into-confrontation?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Mon, 27 Jul 2026 14:04:43 +0000"
+      "pubDate": "Mon, 27 Jul 2026 21:10:56 GMT"
     },
     {
       "source": "BBC",
@@ -134,13 +141,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cr5j1qn6deno?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Fri, 03 Jul 2026 11:02:55 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[What Iran and US get from deal and why both could struggle to keep it]]>",
-      "link": "https://www.bbc.co.uk/news/articles/c932yqz8lggo?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Thu, 18 Jun 2026 20:04:40 GMT"
     }
   ]
 }
