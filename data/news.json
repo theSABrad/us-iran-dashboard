@@ -1,7 +1,28 @@
 {
-  "lastUpdated": "2026-07-27T16:51:57.969595Z",
-  "count": 25,
+  "lastUpdated": "2026-07-27T19:09:42.351652Z",
+  "count": 27,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Are the US and Iran heading towards a forever war?",
+      "link": "https://www.aljazeera.com/video/upfront/2026/7/27/are-the-us-and-iran-heading-towards-a-forever-war?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Mon, 27 Jul 2026 18:40:34 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Saudi Arabia defends against drone strikes from \u2018Iran-backed\u2019 groups",
+      "link": "https://www.aljazeera.com/news/2026/7/27/saudi-arabia-defends-against-drone-strikes-from-iran-backed-groups?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Mon, 27 Jul 2026 17:58:27 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "War on Iran: Phase II: Day 16",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/war-on-iran-phase-ii-day-16?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Mon, 27 Jul 2026 17:57:43 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "Iran: Currently no negotiations with the US",
@@ -15,13 +36,6 @@
       "link": "https://www.aljazeera.com/opinions/2026/7/27/five-decades-of-israeli-covert-strategy-to-push-us-iran-into-confrontation?traffic_source=rss",
       "desc": "",
       "pubDate": "Mon, 27 Jul 2026 14:04:43 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Why has the US halted its bombing of Iran?",
-      "link": "https://www.aljazeera.com/news/2026/7/27/why-has-the-us-halted-its-bombing-of-iran?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Mon, 27 Jul 2026 10:55:52 +0000"
     },
     {
       "source": "BBC",
@@ -127,20 +141,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c932yqz8lggo?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Thu, 18 Jun 2026 20:04:40 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[Iranian drone strikes warehouse in Kuwait]]>",
-      "link": "https://www.bbc.co.uk/news/videos/cvg7g2v1j9do?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Thu, 16 Jul 2026 10:17:50 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[Watch: The clash between US and Iran for control of the Strait of Hormuz]]>",
-      "link": "https://www.bbc.co.uk/news/videos/cx2425dmpl3o?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Tue, 14 Jul 2026 21:13:12 GMT"
     }
   ]
 }
