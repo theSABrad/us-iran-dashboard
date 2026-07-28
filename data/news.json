@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-28T08:12:22.917554Z",
-  "count": 30,
+  "lastUpdated": "2026-07-28T11:08:19.395797Z",
+  "count": 29,
   "articles": [
     {
       "source": "Al Jazeera",
@@ -22,20 +22,6 @@
       "link": "https://www.aljazeera.com/news/2026/7/28/houthis-want-to-copy-irans-hormuz-control-in-the-red-sea-yemeni-fm?traffic_source=rss",
       "desc": "",
       "pubDate": "Tue, 28 Jul 2026 00:51:50 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Iran war live: Trump says US talking to Tehran, set to meet Netanyahu",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/7/28/iran-war-live-trump-touts-friendly-talks-netanyahu-arrives-in-us?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Tue, 28 Jul 2026 00:00:00 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Hopes of return to diplomacy as US, Iran hold fire for third day",
-      "link": "https://www.aljazeera.com/news/2026/7/27/hopes-of-return-to-diplomacy-as-us-iran-hold-fire-for-third-day?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Mon, 27 Jul 2026 21:04:09 +0000"
     },
     {
       "source": "BBC",
@@ -141,6 +127,20 @@
       "link": "https://www.bbc.co.uk/news/articles/c07yy3j3nljo?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Tue, 07 Jul 2026 00:46:03 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[How Iran's new regime is very different to what came before]]>",
+      "link": "https://www.bbc.co.uk/news/articles/cg534ryp660o?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Sun, 05 Jul 2026 05:40:07 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[Iran nuclear and military damage revealed after restricted satellite images released ]]>",
+      "link": "https://www.bbc.co.uk/news/articles/cr5j1qn6deno?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Fri, 03 Jul 2026 11:02:55 GMT"
     }
   ]
 }
