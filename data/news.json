@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-07-28T13:27:48.684376Z",
-  "count": 26,
+  "lastUpdated": "2026-07-28T16:27:18.724263Z",
+  "count": 27,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Iran rejects Trump frozen funds plan, warns ships of Hormuz transit ban",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/iran-rejects-trump-frozen-funds-plan-warns-ships-of-hormuz-transit-ban?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Tue, 28 Jul 2026 15:28:33 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "Trump says \u2018good chance\u2019 of progress in Iran talks. What we know",
@@ -134,13 +141,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cr5j1qn6deno?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Fri, 03 Jul 2026 11:02:55 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[What Iran and US get from deal and why both could struggle to keep it]]>",
-      "link": "https://www.bbc.co.uk/news/articles/c932yqz8lggo?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Thu, 18 Jun 2026 20:04:40 GMT"
     }
   ]
 }
