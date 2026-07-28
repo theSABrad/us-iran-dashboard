@@ -1,7 +1,21 @@
 {
-  "lastUpdated": "2026-07-28T01:26:00.885475Z",
-  "count": 28,
+  "lastUpdated": "2026-07-28T05:36:56.613534Z",
+  "count": 27,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Ukraine\u2019s Zelenskyy set to meet Trump as Iran and Ukraine wars converge",
+      "link": "https://www.aljazeera.com/news/2026/7/28/ukraines-zelenskyy-set-to-meet-trump-as-iran-and-ukraine-wars-converge?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Tue, 28 Jul 2026 03:16:30 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Trump says Iran talks taking place during pause in US military strikes",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/trump-says-iran-talks-taking-place-during-pause-in-us-military-strikes?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Tue, 28 Jul 2026 02:47:55 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "Houthis want to copy Iran\u2019s Hormuz control in the Red Sea: Yemeni FM",
@@ -11,7 +25,7 @@
     },
     {
       "source": "Al Jazeera",
-      "title": "Iran war live: Trump touts \u2018friendly talks\u2019; Netanyahu arrives in US",
+      "title": "Iran war live: Trump says \u2018friendly\u2019 talks ongoing; Netanyahu arrives in US",
       "link": "https://www.aljazeera.com/news/liveblog/2026/7/28/iran-war-live-trump-touts-friendly-talks-netanyahu-arrives-in-us?traffic_source=rss",
       "desc": "",
       "pubDate": "Tue, 28 Jul 2026 00:00:00 +0000"
@@ -22,27 +36,6 @@
       "link": "https://www.aljazeera.com/news/2026/7/27/hopes-of-return-to-diplomacy-as-us-iran-hold-fire-for-third-day?traffic_source=rss",
       "desc": "",
       "pubDate": "Mon, 27 Jul 2026 21:04:09 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Unreleased footage reveals Lindsey Graham\u2019s push for war on Iran",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/27/unreleased-footage-reveals-lindsey-grahams-push-for-war-on-iran?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Mon, 27 Jul 2026 20:09:16 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Are the US and Iran heading towards a forever war?",
-      "link": "https://www.aljazeera.com/video/upfront/2026/7/27/are-the-us-and-iran-heading-towards-a-forever-war?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Mon, 27 Jul 2026 18:40:34 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Saudi Arabia defends against drone strikes from \u2018Iran-backed\u2019 groups",
-      "link": "https://www.aljazeera.com/news/2026/7/27/saudi-arabia-defends-against-drone-strikes-from-iran-backed-groups?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Mon, 27 Jul 2026 17:58:27 +0000"
     },
     {
       "source": "BBC",
@@ -141,6 +134,13 @@
       "link": "https://www.bbc.co.uk/news/articles/cg534ryp660o?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Sun, 05 Jul 2026 05:40:07 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[Iran nuclear and military damage revealed after restricted satellite images released ]]>",
+      "link": "https://www.bbc.co.uk/news/articles/cr5j1qn6deno?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Fri, 03 Jul 2026 11:02:55 GMT"
     }
   ]
 }
