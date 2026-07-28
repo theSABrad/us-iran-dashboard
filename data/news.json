@@ -1,7 +1,21 @@
 {
-  "lastUpdated": "2026-07-28T16:27:18.724263Z",
-  "count": 27,
+  "lastUpdated": "2026-07-28T19:04:48.111293Z",
+  "count": 28,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Lindsey Graham \u2018almost cried\u2019 tears of joy over war on Iran, footage shows",
+      "link": "https://www.aljazeera.com/news/2026/7/28/lindsey-graham-almost-cried-tears-of-joy-over-war-on-iran-footage-shows?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Tue, 28 Jul 2026 18:01:03 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "War on Iran: Phase II: Day 17",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/war-on-iran-phase-ii-day-17?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Tue, 28 Jul 2026 17:15:20 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "Iran rejects Trump frozen funds plan, warns ships of Hormuz transit ban",
@@ -15,13 +29,6 @@
       "link": "https://www.aljazeera.com/news/2026/7/28/trump-says-good-chance-of-progress-in-iran-talks-what-we-know?traffic_source=rss",
       "desc": "",
       "pubDate": "Tue, 28 Jul 2026 13:06:02 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Why has Iran\u2019s economy not collapsed under US war pressure?",
-      "link": "https://www.aljazeera.com/economy/2026/7/28/why-has-irans-economy-not-collapsed-under-us-war-pressure?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Tue, 28 Jul 2026 12:30:18 +0000"
     },
     {
       "source": "BBC",
@@ -134,13 +141,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cg534ryp660o?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Sun, 05 Jul 2026 05:40:07 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[Iran nuclear and military damage revealed after restricted satellite images released ]]>",
-      "link": "https://www.bbc.co.uk/news/articles/cr5j1qn6deno?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Fri, 03 Jul 2026 11:02:55 GMT"
     }
   ]
 }
