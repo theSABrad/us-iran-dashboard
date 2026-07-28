@@ -1,27 +1,20 @@
 {
-  "lastUpdated": "2026-07-28T11:08:19.395797Z",
-  "count": 29,
+  "lastUpdated": "2026-07-28T13:27:48.684376Z",
+  "count": 26,
   "articles": [
     {
       "source": "Al Jazeera",
-      "title": "Ukraine\u2019s Zelenskyy set to meet Trump as Iran and Ukraine wars converge",
-      "link": "https://www.aljazeera.com/news/2026/7/28/ukraines-zelenskyy-set-to-meet-trump-as-iran-and-ukraine-wars-converge?traffic_source=rss",
+      "title": "Trump says \u2018good chance\u2019 of progress in Iran talks. What we know",
+      "link": "https://www.aljazeera.com/news/2026/7/28/trump-says-good-chance-of-progress-in-iran-talks-what-we-know?traffic_source=rss",
       "desc": "",
-      "pubDate": "Tue, 28 Jul 2026 03:16:30 +0000"
+      "pubDate": "Tue, 28 Jul 2026 13:06:02 +0000"
     },
     {
       "source": "Al Jazeera",
-      "title": "Trump says Iran talks taking place during pause in US military strikes",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/28/trump-says-iran-talks-taking-place-during-pause-in-us-military-strikes?traffic_source=rss",
+      "title": "Why has Iran\u2019s economy not collapsed under US war pressure?",
+      "link": "https://www.aljazeera.com/economy/2026/7/28/why-has-irans-economy-not-collapsed-under-us-war-pressure?traffic_source=rss",
       "desc": "",
-      "pubDate": "Tue, 28 Jul 2026 02:47:55 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Houthis want to copy Iran\u2019s Hormuz control in the Red Sea: Yemeni FM",
-      "link": "https://www.aljazeera.com/news/2026/7/28/houthis-want-to-copy-irans-hormuz-control-in-the-red-sea-yemeni-fm?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Tue, 28 Jul 2026 00:51:50 +0000"
+      "pubDate": "Tue, 28 Jul 2026 12:30:18 +0000"
     },
     {
       "source": "BBC",
@@ -141,6 +134,13 @@
       "link": "https://www.bbc.co.uk/news/articles/cr5j1qn6deno?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Fri, 03 Jul 2026 11:02:55 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[What Iran and US get from deal and why both could struggle to keep it]]>",
+      "link": "https://www.bbc.co.uk/news/articles/c932yqz8lggo?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Thu, 18 Jun 2026 20:04:40 GMT"
     }
   ]
 }
