@@ -1,7 +1,21 @@
 {
-  "lastUpdated": "2026-07-29T08:17:12.098736Z",
-  "count": 24,
+  "lastUpdated": "2026-07-29T11:12:45.873589Z",
+  "count": 26,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "US and Saudi Arabia strike \u2018Iran-aligned\u2019 groups in Iraq",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/us-and-saudi-arabia-strike-iran-aligned-groups-in-iraq?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Wed, 29 Jul 2026 08:33:39 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Iran and Oman swap proposals to manage Strait of Hormuz: What we know",
+      "link": "https://www.aljazeera.com/news/2026/7/29/iran-and-oman-swap-proposals-to-manage-strait-of-hormuz-what-we-know?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Wed, 29 Jul 2026 08:16:06 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "Iran attacks US bases in Middle East as Trump meets Netanyahu",
@@ -17,18 +31,11 @@
       "pubDate": "Wed, 29 Jul 2026 02:54:45 +0000"
     },
     {
-      "source": "Al Jazeera",
-      "title": "Iran war live: 20 killed in US-Saudi attack on Iraq; IRGC targets Jordan",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/7/29/iran-war-live-us-accuses-irgc-of-surprise-ballistic-missile-attacks?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Wed, 29 Jul 2026 00:00:00 +0000"
-    },
-    {
       "source": "BBC",
-      "title": "<![CDATA[Saudi Arabia joins US in strikes on Iran-backed militia]]>",
+      "title": "<![CDATA[Saudi Arabia joins US in strikes on Iran-backed militias in Iraq]]>",
       "link": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
       "desc": "",
-      "pubDate": "Wed, 29 Jul 2026 06:54:12 GMT"
+      "pubDate": "Wed, 29 Jul 2026 09:39:56 GMT"
     },
     {
       "source": "BBC",
@@ -134,13 +141,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cr5j1qn6deno?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Fri, 03 Jul 2026 11:02:55 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[What Iran and US get from deal and why both could struggle to keep it]]>",
-      "link": "https://www.bbc.co.uk/news/articles/c932yqz8lggo?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Thu, 18 Jun 2026 20:04:40 GMT"
     }
   ]
 }
