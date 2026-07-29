@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-07-29T05:41:19.287759Z",
-  "count": 28,
+  "lastUpdated": "2026-07-29T08:17:12.098736Z",
+  "count": 24,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Iran attacks US bases in Middle East as Trump meets Netanyahu",
+      "link": "https://www.aljazeera.com/news/2026/7/29/iran-attacks-us-bases-in-middle-east-as-trump-meets-netanyahu?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Wed, 29 Jul 2026 05:43:03 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "Iran missiles target US forces in Jordan after a five-day pause in war",
@@ -11,31 +18,24 @@
     },
     {
       "source": "Al Jazeera",
-      "title": "Saudi Arabia, US carry out strikes on Iran-backed groups in Iraq",
-      "link": "https://www.aljazeera.com/news/2026/7/29/saudi-arabia-us-carry-out-strikes-on-iran-backed-groups-in-iraq?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Wed, 29 Jul 2026 01:37:23 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Iran war live: US, Saudi forces attack Tehran-aligned groups in Iraq",
+      "title": "Iran war live: 20 killed in US-Saudi attack on Iraq; IRGC targets Jordan",
       "link": "https://www.aljazeera.com/news/liveblog/2026/7/29/iran-war-live-us-accuses-irgc-of-surprise-ballistic-missile-attacks?traffic_source=rss",
       "desc": "",
       "pubDate": "Wed, 29 Jul 2026 00:00:00 +0000"
     },
     {
-      "source": "Al Jazeera",
-      "title": "Iran and Oman exchange proposals to manage Strait of Hormuz",
-      "link": "https://www.aljazeera.com/news/2026/7/28/iran-and-oman-exchange-proposals-to-manage-strait-of-hormuz?traffic_source=rss",
+      "source": "BBC",
+      "title": "<![CDATA[Saudi Arabia joins US in strikes on Iran-backed militia]]>",
+      "link": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
       "desc": "",
-      "pubDate": "Tue, 28 Jul 2026 21:01:19 +0000"
+      "pubDate": "Wed, 29 Jul 2026 06:54:12 GMT"
     },
     {
-      "source": "Al Jazeera",
-      "title": "Kyiv warns Iran against escalation after Ukraine\u2019s Caspian Sea attack",
-      "link": "https://www.aljazeera.com/news/2026/7/28/kyiv-warns-iran-against-escalation-after-ukraines-caspian-sea-attack?traffic_source=rss",
+      "source": "BBC",
+      "title": "<![CDATA[Zelensky and Netanyahu meet Trump as wars in Ukraine and Iran drag on]]>",
+      "link": "https://www.bbc.co.uk/news/articles/cj4k2z8z45ro?at_medium=RSS&at_campaign=rss",
       "desc": "",
-      "pubDate": "Tue, 28 Jul 2026 20:29:42 +0000"
+      "pubDate": "Wed, 29 Jul 2026 02:24:03 GMT"
     },
     {
       "source": "BBC",
@@ -60,17 +60,17 @@
     },
     {
       "source": "BBC",
-      "title": "<![CDATA[Oil price dives as US and Iran pause attacks]]>",
-      "link": "https://www.bbc.co.uk/news/articles/clyj834jn5lo?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Mon, 27 Jul 2026 15:08:37 GMT"
-    },
-    {
-      "source": "BBC",
       "title": "<![CDATA[Ukraine dismisses Iranian threats as Caspian Sea strike directly links wars]]>",
       "link": "https://www.bbc.co.uk/news/articles/cwyj7yl0xndo?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Mon, 27 Jul 2026 16:33:05 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[Oil price dives as US and Iran pause attacks]]>",
+      "link": "https://www.bbc.co.uk/news/articles/clyj834jn5lo?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Mon, 27 Jul 2026 15:08:37 GMT"
     },
     {
       "source": "BBC",
@@ -85,27 +85,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cj9d27v70j1o?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Sat, 25 Jul 2026 06:34:40 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[Trump threatens to target Iran's bridges and power plants if Hormuz attacks persist]]>",
-      "link": "https://www.bbc.co.uk/news/articles/cdrv0p37k8jo?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Wed, 22 Jul 2026 22:17:54 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[Yemen's Houthis attack Saudi tanker as US launches more Iran strikes]]>",
-      "link": "https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Thu, 23 Jul 2026 16:50:59 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[Iran war has cost US $37.5bn so far, Hegseth says, as Pentagon seeks billions more]]>",
-      "link": "https://www.bbc.co.uk/news/articles/c70gek2kqyno?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Wed, 22 Jul 2026 02:15:05 GMT"
     },
     {
       "source": "BBC",
@@ -141,6 +120,27 @@
       "link": "https://www.bbc.co.uk/news/articles/c07yy3j3nljo?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Tue, 07 Jul 2026 00:46:03 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[How Iran's new regime is very different to what came before]]>",
+      "link": "https://www.bbc.co.uk/news/articles/cg534ryp660o?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Sun, 05 Jul 2026 05:40:07 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[Iran nuclear and military damage revealed after restricted satellite images released ]]>",
+      "link": "https://www.bbc.co.uk/news/articles/cr5j1qn6deno?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Fri, 03 Jul 2026 11:02:55 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[What Iran and US get from deal and why both could struggle to keep it]]>",
+      "link": "https://www.bbc.co.uk/news/articles/c932yqz8lggo?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Thu, 18 Jun 2026 20:04:40 GMT"
     }
   ]
 }
