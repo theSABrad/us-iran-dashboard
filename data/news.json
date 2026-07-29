@@ -1,7 +1,21 @@
 {
-  "lastUpdated": "2026-07-29T11:12:45.873589Z",
-  "count": 26,
+  "lastUpdated": "2026-07-29T13:42:49.618986Z",
+  "count": 25,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Iran hits US in Jordan, US-Saudi strikes on Iraq: Is war spreading?",
+      "link": "https://www.aljazeera.com/news/2026/7/29/iran-hits-us-in-jordan-us-saudi-strikes-on-iraq-is-war-spreading?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Wed, 29 Jul 2026 11:34:58 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "\u2018Iran attacks now to send message as US assets build up in Israel\u2019",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/iran-attacks-now-to-send-message-as-us-assets-build-up-in?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Wed, 29 Jul 2026 11:19:46 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "US and Saudi Arabia strike \u2018Iran-aligned\u2019 groups in Iraq",
@@ -24,13 +38,6 @@
       "pubDate": "Wed, 29 Jul 2026 05:43:03 +0000"
     },
     {
-      "source": "Al Jazeera",
-      "title": "Iran missiles target US forces in Jordan after a five-day pause in war",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/iran-missiles-target-us-forces-in-jordan-after-a-five-day-pause-in-war?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Wed, 29 Jul 2026 02:54:45 +0000"
-    },
-    {
       "source": "BBC",
       "title": "<![CDATA[Saudi Arabia joins US in strikes on Iran-backed militias in Iraq]]>",
       "link": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
@@ -42,7 +49,7 @@
       "title": "<![CDATA[Zelensky and Netanyahu meet Trump as wars in Ukraine and Iran drag on]]>",
       "link": "https://www.bbc.co.uk/news/articles/cj4k2z8z45ro?at_medium=RSS&at_campaign=rss",
       "desc": "",
-      "pubDate": "Wed, 29 Jul 2026 02:24:03 GMT"
+      "pubDate": "Wed, 29 Jul 2026 12:17:42 GMT"
     },
     {
       "source": "BBC",
@@ -134,13 +141,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cg534ryp660o?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Sun, 05 Jul 2026 05:40:07 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[Iran nuclear and military damage revealed after restricted satellite images released ]]>",
-      "link": "https://www.bbc.co.uk/news/articles/cr5j1qn6deno?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Fri, 03 Jul 2026 11:02:55 GMT"
     }
   ]
 }
