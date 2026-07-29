@@ -1,7 +1,21 @@
 {
-  "lastUpdated": "2026-07-29T13:42:49.618986Z",
-  "count": 25,
+  "lastUpdated": "2026-07-29T16:14:49.754779Z",
+  "count": 24,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Trump says US to deliver \u2018beating\u2019 to Iran after bases again targeted",
+      "link": "https://www.aljazeera.com/news/2026/7/29/trump-says-us-to-deliver-beating-to-iran-after-bases-again-targeted?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Wed, 29 Jul 2026 15:43:05 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "US and Israeli leaders expected \u2018swift outcome\u2019 in Iran",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/us-and-israeli-leaders-expected-swift-outcome-in-iran?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Wed, 29 Jul 2026 14:27:45 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "Iran hits US in Jordan, US-Saudi strikes on Iraq: Is war spreading?",
@@ -24,25 +38,11 @@
       "pubDate": "Wed, 29 Jul 2026 08:33:39 +0000"
     },
     {
-      "source": "Al Jazeera",
-      "title": "Iran and Oman swap proposals to manage Strait of Hormuz: What we know",
-      "link": "https://www.aljazeera.com/news/2026/7/29/iran-and-oman-swap-proposals-to-manage-strait-of-hormuz-what-we-know?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Wed, 29 Jul 2026 08:16:06 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Iran attacks US bases in Middle East as Trump meets Netanyahu",
-      "link": "https://www.aljazeera.com/news/2026/7/29/iran-attacks-us-bases-in-middle-east-as-trump-meets-netanyahu?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Wed, 29 Jul 2026 05:43:03 +0000"
-    },
-    {
       "source": "BBC",
       "title": "<![CDATA[Saudi Arabia joins US in strikes on Iran-backed militias in Iraq]]>",
       "link": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
       "desc": "",
-      "pubDate": "Wed, 29 Jul 2026 09:39:56 GMT"
+      "pubDate": "Wed, 29 Jul 2026 13:48:41 GMT"
     },
     {
       "source": "BBC",
