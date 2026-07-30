@@ -1,7 +1,21 @@
 {
-  "lastUpdated": "2026-07-30T05:29:51.289317Z",
-  "count": 28,
+  "lastUpdated": "2026-07-30T08:05:18.226490Z",
+  "count": 12,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "US strikes cause extensive damage on Iran\u2019s Qeshm Island",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/us-strikes-cause-extensive-damage-on-irans-qeshm-island?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Thu, 30 Jul 2026 07:24:55 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "In the waters off Malaysia, Iranian oil sales continue despite blockade",
+      "link": "https://www.aljazeera.com/news/2026/7/30/in-the-waters-off-malaysia-iranian-oil-sales-continue-despite-blockade?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Thu, 30 Jul 2026 07:02:42 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "US launches \u2018powerful\u2019 strikes on Iran after Jordan attack",
@@ -11,7 +25,7 @@
     },
     {
       "source": "Al Jazeera",
-      "title": "US launches another round of attacks on Iran",
+      "title": "US launches \u2018heavy wave\u2019 of new strikes on Iran",
       "link": "https://www.aljazeera.com/news/2026/7/30/us-launches-another-round-of-attacks-on-iran?traffic_source=rss",
       "desc": "",
       "pubDate": "Thu, 30 Jul 2026 03:56:07 +0000"
@@ -24,123 +38,53 @@
       "pubDate": "Thu, 30 Jul 2026 00:00:00 +0000"
     },
     {
-      "source": "BBC",
-      "title": "<![CDATA[Saudi Arabia's dilemma as it tries to stay out of US-Iran war]]>",
-      "link": "https://www.bbc.co.uk/news/articles/clyx83l8jv8o?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Wed, 29 Jul 2026 18:41:31 GMT"
+      "source": "NPR",
+      "title": "Latest Mideast strikes between U.S. and Iran draw Saudi Arabia into conflict",
+      "link": "https://www.npr.org/2026/07/29/nx-s1-5911806/latest-mideast-strikes-between-u-s-and-iran-draw-saudi-arabia-into-conflict",
+      "desc": "The U.S. and Saudi Arabia struck Iran-backed militias in Iraq after they launched attacks.",
+      "pubDate": "Wed, 29 Jul 2026 16:22:26 -0400"
     },
     {
-      "source": "BBC",
-      "title": "<![CDATA[Saudi Arabia joins US in strikes on Iran-backed militias in Iraq]]>",
-      "link": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Wed, 29 Jul 2026 13:48:41 GMT"
+      "source": "NPR",
+      "title": "U.S. and Iran resume attacks. And, Fauci to face Senate questions on COVID pandemic",
+      "link": "https://www.npr.org/2026/07/29/g-s1-136076/up-first-newsletter-iran-benjamin-netanyahu-trump-iowa-water-anthony-fauci-fed-rates",
+      "desc": "The U.S. and Iran have resumed fighting after Iran attacked U.S. forces in the Middle East yesterday. And, a Senate committee will question Anthony Fauci about the COVID-19 pandemic.",
+      "pubDate": "Wed, 29 Jul 2026 07:00:47 -0400"
     },
     {
-      "source": "BBC",
-      "title": "<![CDATA[Zelensky and Netanyahu meet Trump as wars in Ukraine and Iran drag on]]>",
-      "link": "https://www.bbc.co.uk/news/articles/cj4k2z8z45ro?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Wed, 29 Jul 2026 12:17:42 GMT"
+      "source": "NPR",
+      "title": "Iran resumes missile attacks as U.S. and Saudis strike Tehran-backed militias in Iraq",
+      "link": "https://www.npr.org/2026/07/29/g-s1-136063/us-saudi-arabia-iran-iraq",
+      "desc": "The flare-up on multiple fronts raised the risk of a return to all-out war, underscoring the difficulty of winding down a five-month conflict that has jolted the world economy.",
+      "pubDate": "Wed, 29 Jul 2026 05:07:03 -0400"
     },
     {
-      "source": "BBC",
-      "title": "<![CDATA[Trump says Iran war talks taking place during lull in strikes]]>",
-      "link": "https://www.bbc.co.uk/news/articles/c62xn4vzmnpo?at_medium=RSS&at_campaign=rss",
+      "source": "The Hill",
+      "title": "US military launches strikes on Iran in retaliation for attacks on US base in Jordan",
+      "link": "https://thehill.com/policy/defense/5998457-us-military-strikes-iran-retaliation-for-attacks-us-base-jordan/",
       "desc": "",
-      "pubDate": "Mon, 27 Jul 2026 21:10:56 GMT"
+      "pubDate": "Thu, 30 Jul 2026 00:44:00 +0000"
     },
     {
-      "source": "BBC",
-      "title": "<![CDATA[As the US pauses the war with Iran, is Trump really running out of weapons?]]>",
-      "link": "https://www.bbc.co.uk/news/articles/c0qvnk2ezp7o?at_medium=RSS&at_campaign=rss",
+      "source": "The Hill",
+      "title": "Iran\u2019s surprise attack in Jordan blows up pause in fighting",
+      "link": "https://thehill.com/policy/defense/5998256-trump-threatens-iran-retaliation/",
       "desc": "",
-      "pubDate": "Mon, 27 Jul 2026 21:06:42 GMT"
+      "pubDate": "Wed, 29 Jul 2026 22:11:00 +0000"
     },
     {
-      "source": "BBC",
-      "title": "<![CDATA[More than 600 US military service members injured since Iran War began in February]]>",
-      "link": "https://www.bbc.co.uk/news/articles/c998pzd1e8xo?at_medium=RSS&at_campaign=rss",
+      "source": "The Hill",
+      "title": "The 'most transparent' Pentagon ever draws curtain tighter around Iran war",
+      "link": "https://thehill.com/newsletters/defense-national-security/5998246-the-most-transparent-pentagon-ever-draws-curtain-tighter-around-iran-war/",
       "desc": "",
-      "pubDate": "Mon, 27 Jul 2026 13:31:57 GMT"
+      "pubDate": "Wed, 29 Jul 2026 22:02:17 +0000"
     },
     {
-      "source": "BBC",
-      "title": "<![CDATA[Ukraine dismisses Iranian threats as Caspian Sea strike directly links wars]]>",
-      "link": "https://www.bbc.co.uk/news/articles/cwyj7yl0xndo?at_medium=RSS&at_campaign=rss",
+      "source": "The Hill",
+      "title": "Escalating US-Iran tensions push oil prices higher",
+      "link": "https://thehill.com/newsletters/energy-environment/5998233-escalating-u-s-iran-tensions-push-oil-prices-higher/",
       "desc": "",
-      "pubDate": "Mon, 27 Jul 2026 16:33:05 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[Oil price dives as US and Iran pause attacks]]>",
-      "link": "https://www.bbc.co.uk/news/articles/clyj834jn5lo?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Mon, 27 Jul 2026 15:08:37 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[US and Iran pause strikes for third night to make space for talks, US ambassador says]]>",
-      "link": "https://www.bbc.co.uk/news/articles/c5y45kdkynpo?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Mon, 27 Jul 2026 08:14:46 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[Iran-backed Houthis claim missile attack on Saudi Arabia]]>",
-      "link": "https://www.bbc.co.uk/news/articles/cj9d27v70j1o?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Sat, 25 Jul 2026 06:34:40 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA['What was their crime?': BBC visits Iran school where strike killed 120 children]]>",
-      "link": "https://www.bbc.co.uk/news/articles/cewrx0ldlkko?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Thu, 23 Jul 2026 04:49:24 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[Why Iran is risking so much over the Strait of Hormuz]]>",
-      "link": "https://www.bbc.co.uk/news/articles/cwymx3eevpjo?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Tue, 21 Jul 2026 14:36:47 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[Trump retreat over Hormuz tolls suggests he is struggling to end Iran war]]>",
-      "link": "https://www.bbc.co.uk/news/articles/crele3r8j19o?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Tue, 14 Jul 2026 23:17:27 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[Bowen: For all his bluster, Trump has no better option than talks with Iran]]>",
-      "link": "https://www.bbc.co.uk/news/articles/cy8we3j14ndo?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Wed, 08 Jul 2026 15:30:00 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[Resistance and revenge - Iran wanted to send a message with its farewell to Khamenei]]>",
-      "link": "https://www.bbc.co.uk/news/articles/c07yy3j3nljo?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Tue, 07 Jul 2026 00:46:03 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[How Iran's new regime is very different to what came before]]>",
-      "link": "https://www.bbc.co.uk/news/articles/cg534ryp660o?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Sun, 05 Jul 2026 05:40:07 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[Iran nuclear and military damage revealed after restricted satellite images released ]]>",
-      "link": "https://www.bbc.co.uk/news/articles/cr5j1qn6deno?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Fri, 03 Jul 2026 11:02:55 GMT"
+      "pubDate": "Wed, 29 Jul 2026 21:56:06 +0000"
     }
   ]
 }
