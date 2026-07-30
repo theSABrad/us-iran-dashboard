@@ -1,20 +1,13 @@
 {
-  "lastUpdated": "2026-07-30T19:07:09.709010Z",
-  "count": 25,
+  "lastUpdated": "2026-07-30T21:57:39.594571Z",
+  "count": 22,
   "articles": [
     {
       "source": "Al Jazeera",
-      "title": "Smoke rises over southern Iran after renewed US attacks",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/smoke-rises-over-southern-iran-after-renewed-us-attacks?traffic_source=rss",
+      "title": "Will Saudi Arabia be dragged further into the war in Iran?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/7/30/will-saudi-arabia-be-dragged-further-into-the-war-in-iran?traffic_source=rss",
       "desc": "",
-      "pubDate": "Thu, 30 Jul 2026 14:58:41 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "War on Iran: Phase II: Day 19",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/war-on-iran-phase-ii-day-19?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Thu, 30 Jul 2026 14:56:59 +0000"
+      "pubDate": "Thu, 30 Jul 2026 21:00:28 +0000"
     },
     {
       "source": "BBC",
@@ -141,6 +134,13 @@
       "link": "https://www.bbc.co.uk/news/articles/c932yqz8lggo?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Thu, 18 Jun 2026 20:04:40 GMT"
+    },
+    {
+      "source": "NPR",
+      "title": "The U.S. retaliates against a 'surprise attack' by Iran in Jordan",
+      "link": "https://www.npr.org/2026/07/30/nx-s1-5913077/us-iran-updates",
+      "desc": "The U.S. attacks were in retaliation for what the U.S. Central Command called \"an attempted surprise attack\" with ballistic missiles on Tuesday against U.S. forces in the Middle East.",
+      "pubDate": "Thu, 30 Jul 2026 04:55:53 -0400"
     }
   ]
 }
