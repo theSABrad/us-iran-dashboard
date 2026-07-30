@@ -1,20 +1,27 @@
 {
-  "lastUpdated": "2026-07-30T01:19:29.272678Z",
+  "lastUpdated": "2026-07-30T05:29:51.289317Z",
   "count": 28,
   "articles": [
     {
       "source": "Al Jazeera",
-      "title": "Iran war live: US launches \u2018powerful\u2019 strikes after IRGC attack on Jordan",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/7/30/iran-war-live-trump-threatens-to-hit-back-hard-over-strikes-on-jordan?traffic_source=rss",
+      "title": "US launches \u2018powerful\u2019 strikes on Iran after Jordan attack",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/30/us-launches-powerful-strikes-on-iran-after-jordan-attack?traffic_source=rss",
       "desc": "",
-      "pubDate": "Thu, 30 Jul 2026 00:00:00 +0000"
+      "pubDate": "Thu, 30 Jul 2026 04:55:36 +0000"
     },
     {
       "source": "Al Jazeera",
-      "title": "Trump threatens Iran strikes after attack on US base in Jordan",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/29/trump-threatens-iran-strikes-after-attack-on-us-base-in-jordan?traffic_source=rss",
+      "title": "US launches another round of attacks on Iran",
+      "link": "https://www.aljazeera.com/news/2026/7/30/us-launches-another-round-of-attacks-on-iran?traffic_source=rss",
       "desc": "",
-      "pubDate": "Wed, 29 Jul 2026 21:18:24 +0000"
+      "pubDate": "Thu, 30 Jul 2026 03:56:07 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Iran war live: US attack kills Iranian couple, toddler on Qeshm Island",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/7/30/iran-war-live-trump-threatens-to-hit-back-hard-over-strikes-on-jordan?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Thu, 30 Jul 2026 00:00:00 +0000"
     },
     {
       "source": "BBC",
@@ -134,13 +141,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cr5j1qn6deno?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Fri, 03 Jul 2026 11:02:55 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[What Iran and US get from deal and why both could struggle to keep it]]>",
-      "link": "https://www.bbc.co.uk/news/articles/c932yqz8lggo?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Thu, 18 Jun 2026 20:04:40 GMT"
     }
   ]
 }
