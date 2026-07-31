@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-31T11:16:46.274996Z",
-  "count": 22,
+  "lastUpdated": "2026-07-31T13:28:18.523061Z",
+  "count": 20,
   "articles": [
     {
       "source": "Al Jazeera",
@@ -8,20 +8,6 @@
       "link": "https://www.aljazeera.com/news/2026/7/31/irgc-strikes-us-targets-in-kuwait-a-day-after-us-hits-iran-latest-events?traffic_source=rss",
       "desc": "",
       "pubDate": "Fri, 31 Jul 2026 09:09:54 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Iran war live: IRGC claims \u2018retaliatory attack\u2019 on Kuwait",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/7/31/iran-war-live-irgc-claims-retaliatory-attack-on-kuwait?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Fri, 31 Jul 2026 06:49:38 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Iran holds funeral for Revolutionary Guard members reportedly killed in US",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/iran-holds-funeral-for-revolutionary-guard-members-reportedly-killed-in-us?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Fri, 31 Jul 2026 04:34:04 +0000"
     },
     {
       "source": "BBC",
@@ -141,6 +127,20 @@
       "link": "https://www.npr.org/2026/07/30/nx-s1-5913077/us-iran-updates",
       "desc": "The U.S. attacks were in retaliation for what the U.S. Central Command called \"an attempted surprise attack\" with ballistic missiles on Tuesday against U.S. forces in the Middle East.",
       "pubDate": "Thu, 30 Jul 2026 04:55:53 -0400"
+    },
+    {
+      "source": "The Hill",
+      "title": "Panetta: US locked into 'unwinnable war' with Iran",
+      "link": "https://thehill.com/policy/defense/6001544-leon-panetta-us-iran-war-unwinnable/",
+      "desc": "",
+      "pubDate": "Fri, 31 Jul 2026 12:53:31 +0000"
+    },
+    {
+      "source": "The Hill",
+      "title": "Trump, fighting the Senate and Iran, takes team to Camp David",
+      "link": "https://thehill.com/newsletters/morning-report/6001443-donald-trump-camp-david-cabinet-meeting-senate-gop-iran-war/",
+      "desc": "",
+      "pubDate": "Fri, 31 Jul 2026 11:17:55 +0000"
     }
   ]
 }
