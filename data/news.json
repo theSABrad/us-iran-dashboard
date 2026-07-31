@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-31T19:05:35.176275Z",
-  "count": 19,
+  "lastUpdated": "2026-07-31T21:55:49.441214Z",
+  "count": 18,
   "articles": [
     {
       "source": "BBC",
@@ -108,11 +108,18 @@
       "pubDate": "Thu, 18 Jun 2026 20:04:40 GMT"
     },
     {
-      "source": "NPR",
-      "title": "The U.S. retaliates against a 'surprise attack' by Iran in Jordan",
-      "link": "https://www.npr.org/2026/07/30/nx-s1-5913077/us-iran-updates",
-      "desc": "The U.S. attacks were in retaliation for what the U.S. Central Command called \"an attempted surprise attack\" with ballistic missiles on Tuesday against U.S. forces in the Middle East.",
-      "pubDate": "Thu, 30 Jul 2026 04:55:53 -0400"
+      "source": "The Hill",
+      "title": "Live updates: Trump laments Blanche caught in fight over IRS deal, says Iran didn't cause Minnesota cyberattack",
+      "link": "https://thehill.com/homenews/administration/6001555-live-updates-trump-cabinet-camp-david-iran/",
+      "desc": "",
+      "pubDate": "Fri, 31 Jul 2026 20:21:32 +0000"
+    },
+    {
+      "source": "The Hill",
+      "title": "Trump pooh-poohs Iran\u2019s potential role in Minnesota water facility hacks",
+      "link": "https://thehill.com/homenews/administration/6002858-trump-blames-minnesota-for-cyberattacks-iran/",
+      "desc": "",
+      "pubDate": "Fri, 31 Jul 2026 19:42:30 +0000"
     },
     {
       "source": "The Hill",
@@ -120,20 +127,6 @@
       "link": "https://thehill.com/homenews/state-watch/6002665-iran-targeted-minnesota-water-attacks/",
       "desc": "",
       "pubDate": "Fri, 31 Jul 2026 17:49:36 +0000"
-    },
-    {
-      "source": "The Hill",
-      "title": "Retired vice admiral: Calculus for Iranian government changing",
-      "link": "https://thehill.com/policy/international/6002450-harward-iranian-government-calculus-changing/",
-      "desc": "",
-      "pubDate": "Fri, 31 Jul 2026 16:31:30 +0000"
-    },
-    {
-      "source": "The Hill",
-      "title": "Live updates: Trump calls Blanche a 'pawn' in anti-weaponization fund fight, describes Iran's leaders as 'very dishonest'",
-      "link": "https://thehill.com/homenews/administration/6001555-live-updates-trump-cabinet-camp-david-iran/",
-      "desc": "",
-      "pubDate": "Fri, 31 Jul 2026 16:16:58 +0000"
     }
   ]
 }
