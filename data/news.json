@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-07-31T01:46:06.733347Z",
-  "count": 23,
+  "lastUpdated": "2026-07-31T05:55:14.204298Z",
+  "count": 22,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Iran holds funeral for Revolutionary Guard members reportedly killed in US",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/iran-holds-funeral-for-revolutionary-guard-members-reportedly-killed-in-us?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Fri, 31 Jul 2026 04:34:04 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "US Escalation with Iran is \u2018pointless\u2019, warns former US diplomat",
@@ -11,17 +18,17 @@
     },
     {
       "source": "Al Jazeera",
-      "title": "Iran war live: Trump says Hamas to disarm, Israel to leave Gaza gradually",
+      "title": "Iran war live: Hamas reportedly agrees to \u2018historic\u2019 disarmament agreement",
       "link": "https://www.aljazeera.com/news/liveblog/2026/7/31/iran-war-live-trump-says-hamas-to-disarm-israel-to-leave-gaza-gradually?traffic_source=rss",
       "desc": "",
       "pubDate": "Fri, 31 Jul 2026 00:03:58 +0000"
     },
     {
-      "source": "Al Jazeera",
-      "title": "Will Saudi Arabia be dragged further into the war in Iran?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/7/30/will-saudi-arabia-be-dragged-further-into-the-war-in-iran?traffic_source=rss",
+      "source": "BBC",
+      "title": "<![CDATA[Why limited war with the US may suit Iran better than peace]]>",
+      "link": "https://www.bbc.co.uk/news/articles/c78gnyq3wvdo?at_medium=RSS&at_campaign=rss",
       "desc": "",
-      "pubDate": "Thu, 30 Jul 2026 21:00:28 +0000"
+      "pubDate": "Thu, 30 Jul 2026 17:26:01 GMT"
     },
     {
       "source": "BBC",
@@ -74,27 +81,6 @@
     },
     {
       "source": "BBC",
-      "title": "<![CDATA[Ukraine dismisses Iranian threats as Caspian Sea strike directly links wars]]>",
-      "link": "https://www.bbc.co.uk/news/articles/cwyj7yl0xndo?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Mon, 27 Jul 2026 16:33:05 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[Oil price dives as US and Iran pause attacks]]>",
-      "link": "https://www.bbc.co.uk/news/articles/clyj834jn5lo?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Mon, 27 Jul 2026 15:08:37 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[US and Iran pause strikes for third night to make space for talks, US ambassador says]]>",
-      "link": "https://www.bbc.co.uk/news/articles/c5y45kdkynpo?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Mon, 27 Jul 2026 08:14:46 GMT"
-    },
-    {
-      "source": "BBC",
       "title": "<![CDATA['What was their crime?': BBC visits Iran school where strike killed 120 children]]>",
       "link": "https://www.bbc.co.uk/news/articles/cewrx0ldlkko?at_medium=RSS&at_campaign=rss",
       "desc": "",
@@ -141,6 +127,20 @@
       "link": "https://www.bbc.co.uk/news/articles/cr5j1qn6deno?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Fri, 03 Jul 2026 11:02:55 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[What Iran and US get from deal and why both could struggle to keep it]]>",
+      "link": "https://www.bbc.co.uk/news/articles/c932yqz8lggo?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Thu, 18 Jun 2026 20:04:40 GMT"
+    },
+    {
+      "source": "NPR",
+      "title": "The U.S. retaliates against a 'surprise attack' by Iran in Jordan",
+      "link": "https://www.npr.org/2026/07/30/nx-s1-5913077/us-iran-updates",
+      "desc": "The U.S. attacks were in retaliation for what the U.S. Central Command called \"an attempted surprise attack\" with ballistic missiles on Tuesday against U.S. forces in the Middle East.",
+      "pubDate": "Thu, 30 Jul 2026 04:55:53 -0400"
     }
   ]
 }
