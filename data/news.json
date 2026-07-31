@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-07-31T16:29:10.169619Z",
-  "count": 18,
+  "lastUpdated": "2026-07-31T19:05:35.176275Z",
+  "count": 19,
   "articles": [
     {
       "source": "BBC",
@@ -116,17 +116,24 @@
     },
     {
       "source": "The Hill",
+      "title": "Cybersecurity expert: 'Moderate confidence' Iran attacked Minnesota water facilities",
+      "link": "https://thehill.com/homenews/state-watch/6002665-iran-targeted-minnesota-water-attacks/",
+      "desc": "",
+      "pubDate": "Fri, 31 Jul 2026 17:49:36 +0000"
+    },
+    {
+      "source": "The Hill",
+      "title": "Retired vice admiral: Calculus for Iranian government changing",
+      "link": "https://thehill.com/policy/international/6002450-harward-iranian-government-calculus-changing/",
+      "desc": "",
+      "pubDate": "Fri, 31 Jul 2026 16:31:30 +0000"
+    },
+    {
+      "source": "The Hill",
       "title": "Live updates: Trump calls Blanche a 'pawn' in anti-weaponization fund fight, describes Iran's leaders as 'very dishonest'",
       "link": "https://thehill.com/homenews/administration/6001555-live-updates-trump-cabinet-camp-david-iran/",
       "desc": "",
       "pubDate": "Fri, 31 Jul 2026 16:16:58 +0000"
-    },
-    {
-      "source": "The Hill",
-      "title": "Iran's informal alliances seem stronger than America's formal ones",
-      "link": "https://thehill.com/opinion/national-security/5998667-adversaries-strengthen-middle-east-coalition/",
-      "desc": "",
-      "pubDate": "Fri, 31 Jul 2026 14:30:00 +0000"
     }
   ]
 }
