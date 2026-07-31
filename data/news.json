@@ -1,7 +1,21 @@
 {
-  "lastUpdated": "2026-07-30T21:57:39.594571Z",
-  "count": 22,
+  "lastUpdated": "2026-07-31T01:46:06.733347Z",
+  "count": 23,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "US Escalation with Iran is \u2018pointless\u2019, warns former US diplomat",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/31/us-escalation-with-iran-is-pointless-warns-former-us-diplomat?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Fri, 31 Jul 2026 00:08:12 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Iran war live: Trump says Hamas to disarm, Israel to leave Gaza gradually",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/7/31/iran-war-live-trump-says-hamas-to-disarm-israel-to-leave-gaza-gradually?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Fri, 31 Jul 2026 00:03:58 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "Will Saudi Arabia be dragged further into the war in Iran?",
@@ -127,20 +141,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cr5j1qn6deno?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Fri, 03 Jul 2026 11:02:55 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[What Iran and US get from deal and why both could struggle to keep it]]>",
-      "link": "https://www.bbc.co.uk/news/articles/c932yqz8lggo?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Thu, 18 Jun 2026 20:04:40 GMT"
-    },
-    {
-      "source": "NPR",
-      "title": "The U.S. retaliates against a 'surprise attack' by Iran in Jordan",
-      "link": "https://www.npr.org/2026/07/30/nx-s1-5913077/us-iran-updates",
-      "desc": "The U.S. attacks were in retaliation for what the U.S. Central Command called \"an attempted surprise attack\" with ballistic missiles on Tuesday against U.S. forces in the Middle East.",
-      "pubDate": "Thu, 30 Jul 2026 04:55:53 -0400"
     }
   ]
 }
