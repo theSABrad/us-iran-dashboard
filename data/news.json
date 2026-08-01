@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-08-01T12:53:30.439884Z",
-  "count": 18,
+  "lastUpdated": "2026-08-01T15:50:58.982273Z",
+  "count": 19,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Iran warns against \u2018flames of war\u2019 amid US strike threats on energy sites",
+      "link": "https://www.aljazeera.com/news/2026/8/1/iran-warns-against-fire-of-war-amid-us-strike-threats-on-energy-sites?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sat, 01 Aug 2026 12:44:54 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "Iran: The Making of a War",
@@ -15,13 +22,6 @@
       "link": "https://www.aljazeera.com/news/2026/8/1/iranian-kurdish-parties-in-iraq-face-a-delicate-balance-amid-iran-attacks?traffic_source=rss",
       "desc": "",
       "pubDate": "Sat, 01 Aug 2026 09:47:39 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Iran war live: Tehran attacks Kuwait, threatens region with \u2018flames of war\u2019",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/7/31/iran-war-live-iran-says-it-has-a-plan-to-respond-to-any-us-attacks?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Fri, 31 Jul 2026 23:59:40 +0000"
     },
     {
       "source": "BBC",
@@ -123,10 +123,17 @@
     },
     {
       "source": "The Hill",
-      "title": "US planning renewed strikes on Iran: Reports",
-      "link": "https://thehill.com/policy/defense/6003304-us-plans-renewed-iran-strikes/",
+      "title": "Live updates: US planning renewed Iran strikes; Trump pressures GOP on Blanche",
+      "link": "https://thehill.com/homenews/administration/6003529-live-updates-trump-us-iran-strikes-senate-gop-todd-blanche/",
       "desc": "",
-      "pubDate": "Sat, 01 Aug 2026 00:47:00 +0000"
+      "pubDate": "Sat, 01 Aug 2026 13:59:24 +0000"
+    },
+    {
+      "source": "The Hill",
+      "title": "The Iran War has reopened the world\u2019s most dangerous shipping lane",
+      "link": "https://thehill.com/opinion/international/6002688-tehran-maritime-terror-strategy/",
+      "desc": "",
+      "pubDate": "Sat, 01 Aug 2026 13:00:00 +0000"
     }
   ]
 }
