@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-01T01:47:11.359122Z",
-  "count": 20,
+  "lastUpdated": "2026-08-01T05:44:51.111794Z",
+  "count": 19,
   "articles": [
     {
       "source": "Al Jazeera",
@@ -134,13 +134,6 @@
       "link": "https://thehill.com/homenews/administration/6001555-live-updates-trump-cabinet-camp-david-iran/",
       "desc": "",
       "pubDate": "Fri, 31 Jul 2026 20:21:32 +0000"
-    },
-    {
-      "source": "The Hill",
-      "title": "Trump pooh-poohs Iran\u2019s potential role in Minnesota water facility hacks",
-      "link": "https://thehill.com/homenews/administration/6002858-trump-blames-minnesota-for-cyberattacks-iran/",
-      "desc": "",
-      "pubDate": "Fri, 31 Jul 2026 19:42:30 +0000"
     }
   ]
 }
