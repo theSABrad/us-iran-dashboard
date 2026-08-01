@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-01T15:50:58.982273Z",
-  "count": 19,
+  "lastUpdated": "2026-08-01T18:51:57.891078Z",
+  "count": 15,
   "articles": [
     {
       "source": "Al Jazeera",
@@ -8,20 +8,6 @@
       "link": "https://www.aljazeera.com/news/2026/8/1/iran-warns-against-fire-of-war-amid-us-strike-threats-on-energy-sites?traffic_source=rss",
       "desc": "",
       "pubDate": "Sat, 01 Aug 2026 12:44:54 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Iran: The Making of a War",
-      "link": "https://www.aljazeera.com/video/featured-documentaries/2026/8/1/iran-the-making-of-a-war?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Sat, 01 Aug 2026 10:30:00 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Iranian Kurdish parties in Iraq face a delicate balance amid Iran attacks",
-      "link": "https://www.aljazeera.com/news/2026/8/1/iranian-kurdish-parties-in-iraq-face-a-delicate-balance-amid-iran-attacks?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Sat, 01 Aug 2026 09:47:39 +0000"
     },
     {
       "source": "BBC",
@@ -120,20 +106,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c932yqz8lggo?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Thu, 18 Jun 2026 20:04:40 GMT"
-    },
-    {
-      "source": "The Hill",
-      "title": "Live updates: US planning renewed Iran strikes; Trump pressures GOP on Blanche",
-      "link": "https://thehill.com/homenews/administration/6003529-live-updates-trump-us-iran-strikes-senate-gop-todd-blanche/",
-      "desc": "",
-      "pubDate": "Sat, 01 Aug 2026 13:59:24 +0000"
-    },
-    {
-      "source": "The Hill",
-      "title": "The Iran War has reopened the world\u2019s most dangerous shipping lane",
-      "link": "https://thehill.com/opinion/international/6002688-tehran-maritime-terror-strategy/",
-      "desc": "",
-      "pubDate": "Sat, 01 Aug 2026 13:00:00 +0000"
     }
   ]
 }
