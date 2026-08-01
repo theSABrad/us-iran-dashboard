@@ -1,10 +1,17 @@
 {
-  "lastUpdated": "2026-08-01T08:01:32.579382Z",
+  "lastUpdated": "2026-08-01T10:25:06.576791Z",
   "count": 18,
   "articles": [
     {
       "source": "Al Jazeera",
-      "title": "Iran war live: Trump threatens strikes, Iran says it has a plan to respond",
+      "title": "Iranian Kurdish parties in Iraq face a delicate balance amid Iran attacks",
+      "link": "https://www.aljazeera.com/news/2026/8/1/iranian-kurdish-parties-in-iraq-face-a-delicate-balance-amid-iran-attacks?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sat, 01 Aug 2026 09:47:39 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Iran war live: Tehran attacks Kuwait, threatens region with \u2018flames of war\u2019",
       "link": "https://www.aljazeera.com/news/liveblog/2026/7/31/iran-war-live-iran-says-it-has-a-plan-to-respond-to-any-us-attacks?traffic_source=rss",
       "desc": "",
       "pubDate": "Fri, 31 Jul 2026 23:59:40 +0000"
@@ -120,13 +127,6 @@
       "link": "https://thehill.com/policy/defense/6003304-us-plans-renewed-iran-strikes/",
       "desc": "",
       "pubDate": "Sat, 01 Aug 2026 00:47:00 +0000"
-    },
-    {
-      "source": "The Hill",
-      "title": "Live updates: Trump laments Blanche caught in fight over IRS deal, says Iran didn't cause Minnesota cyberattack",
-      "link": "https://thehill.com/homenews/administration/6001555-live-updates-trump-cabinet-camp-david-iran/",
-      "desc": "",
-      "pubDate": "Fri, 31 Jul 2026 20:21:32 +0000"
     }
   ]
 }
