@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-08-02T18:52:34.624496Z",
-  "count": 20,
+  "lastUpdated": "2026-08-02T21:43:30.756959Z",
+  "count": 17,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Iran says negotiations with Oman over Strait of Hormuz in final stages",
+      "link": "https://www.aljazeera.com/news/2026/8/2/iran-says-negotiations-with-oman-over-strait-of-hormuz-in-final-stages?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sun, 02 Aug 2026 19:08:06 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "\u2018Iron fist\u2019 doesn\u2019t work with Iran: Former US hostage in Tehran",
@@ -22,13 +29,6 @@
       "link": "https://www.aljazeera.com/news/2026/8/2/saudi-crown-prince-mbs-urges-trump-to-prioritise-dialogue-in-us-iran-war?traffic_source=rss",
       "desc": "",
       "pubDate": "Sun, 02 Aug 2026 16:10:32 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "No breakthrough on Strait of Hormuz as Trump halts attack on Iran",
-      "link": "https://www.aljazeera.com/news/2026/8/2/no-breakthrough-on-strait-of-hormuz-as-trump-halts-attack-on-iran?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Sun, 02 Aug 2026 14:11:54 +0000"
     },
     {
       "source": "BBC",
@@ -120,27 +120,6 @@
       "link": "https://www.npr.org/2026/08/02/nx-s1-5917113/trump-says-hes-cancelling-iran-strikes-deal-pending",
       "desc": "Trump said Iran and other Middle Eastern countries had asked the U.S. \"to hold off any attack\" on Iran because \"the perimeters of a deal has been agreed to.\"",
       "pubDate": "Sun, 02 Aug 2026 03:34:27 -0400"
-    },
-    {
-      "source": "The Hill",
-      "title": "Live updates: Trump holds off on Iran strikes; RFK Jr. clashes with CNN's Bash",
-      "link": "https://thehill.com/homenews/administration/6003957-live-updates-trump-cancels-iran-strike/",
-      "desc": "",
-      "pubDate": "Sun, 02 Aug 2026 15:18:00 +0000"
-    },
-    {
-      "source": "The Hill",
-      "title": "Lowering the bar for victory in the Iran war",
-      "link": "https://thehill.com/opinion/national-security/6003403-trump-iran-victory-pattern/",
-      "desc": "",
-      "pubDate": "Sun, 02 Aug 2026 15:00:00 +0000"
-    },
-    {
-      "source": "The Hill",
-      "title": "Lankford says Trump 'has no desire' to bomb Iran",
-      "link": "https://thehill.com/homenews/senate/6004234-lankford-trump-iran-deal/",
-      "desc": "",
-      "pubDate": "Sun, 02 Aug 2026 14:13:21 +0000"
     }
   ]
 }
