@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-02T05:45:59.402380Z",
-  "count": 18,
+  "lastUpdated": "2026-08-02T08:02:48.613379Z",
+  "count": 19,
   "articles": [
     {
       "source": "Al Jazeera",
@@ -25,10 +25,10 @@
     },
     {
       "source": "BBC",
-      "title": "<![CDATA[Trump says he is cancelling strikes on Iran subject to 'rapidly' making deal]]>",
+      "title": "<![CDATA[Trump says he is cancelling strikes on Iran subject to deal being made 'rapidly']]>",
       "link": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
       "desc": "",
-      "pubDate": "Sun, 02 Aug 2026 03:05:16 GMT"
+      "pubDate": "Sun, 02 Aug 2026 06:24:01 GMT"
     },
     {
       "source": "BBC",
@@ -120,6 +120,13 @@
       "link": "https://www.bbc.co.uk/news/articles/c932yqz8lggo?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Thu, 18 Jun 2026 20:04:40 GMT"
+    },
+    {
+      "source": "NPR",
+      "title": "Trump says he's cancelling Iran strikes, deal pending",
+      "link": "https://www.npr.org/2026/08/02/nx-s1-5917113/trump-says-hes-cancelling-iran-strikes-deal-pending",
+      "desc": "Trump said that Iran and other Middle Eastern countries had asked the U.S. \"to hold off any attack\" on Iran because \"the perimeters of a deal has been agreed to.\"",
+      "pubDate": "Sun, 02 Aug 2026 03:34:27 -0400"
     },
     {
       "source": "The Hill",
