@@ -1,7 +1,21 @@
 {
-  "lastUpdated": "2026-08-02T08:02:48.613379Z",
-  "count": 19,
+  "lastUpdated": "2026-08-02T10:24:03.393983Z",
+  "count": 21,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Why has Trump halted Iran attacks, and what is the deal he is hinting at?",
+      "link": "https://www.aljazeera.com/news/2026/8/2/why-has-trump-halted-iran-attacks-and-what-is-the-deal-he-is-hinting-at?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sun, 02 Aug 2026 09:43:10 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Trump \u2018cancels attack on Iran\u2019 saying deal is near",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/trump-cancels-attack-on-iran-saying-deal-is-near?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sun, 02 Aug 2026 08:43:15 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "Trump cancels Iran strike, says \u2018deal perimeters\u2019 reached",
@@ -25,10 +39,10 @@
     },
     {
       "source": "BBC",
-      "title": "<![CDATA[Trump says he is cancelling strikes on Iran subject to deal being made 'rapidly']]>",
+      "title": "<![CDATA[Trump cancels Iran strikes subject to deal being made 'rapidly']]>",
       "link": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
       "desc": "",
-      "pubDate": "Sun, 02 Aug 2026 06:24:01 GMT"
+      "pubDate": "Sun, 02 Aug 2026 09:10:51 GMT"
     },
     {
       "source": "BBC",
@@ -127,13 +141,6 @@
       "link": "https://www.npr.org/2026/08/02/nx-s1-5917113/trump-says-hes-cancelling-iran-strikes-deal-pending",
       "desc": "Trump said that Iran and other Middle Eastern countries had asked the U.S. \"to hold off any attack\" on Iran because \"the perimeters of a deal has been agreed to.\"",
       "pubDate": "Sun, 02 Aug 2026 03:34:27 -0400"
-    },
-    {
-      "source": "The Hill",
-      "title": "Sunday shows preview: Hamas deal, Iran tensions test Trump administration",
-      "link": "https://thehill.com/homenews/sunday-talk-shows/6003978-blanche-attorney-general-nomination-hurdles-sunday-preview/",
-      "desc": "",
-      "pubDate": "Sat, 01 Aug 2026 22:01:22 +0000"
     }
   ]
 }
