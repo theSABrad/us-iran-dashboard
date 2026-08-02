@@ -1,7 +1,28 @@
 {
-  "lastUpdated": "2026-08-02T15:51:30.312251Z",
-  "count": 19,
+  "lastUpdated": "2026-08-02T18:52:34.624496Z",
+  "count": 20,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "\u2018Iron fist\u2019 doesn\u2019t work with Iran: Former US hostage in Tehran",
+      "link": "https://www.aljazeera.com/video/the-bottom-line/2026/8/2/iron-fist-doesnt-work-with-iran-former-us-hostage-in-tehran?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sun, 02 Aug 2026 18:28:13 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "\u2018Iran war participation trophy\u2019 mocking Trump appears in New York",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/iran-war-participation-trophy-mocking-trump-appears-in-new-york?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sun, 02 Aug 2026 17:06:30 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Saudi Crown Prince MBS urges Trump to \u2018prioritise dialogue\u2019 in US-Iran war",
+      "link": "https://www.aljazeera.com/news/2026/8/2/saudi-crown-prince-mbs-urges-trump-to-prioritise-dialogue-in-us-iran-war?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sun, 02 Aug 2026 16:10:32 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "No breakthrough on Strait of Hormuz as Trump halts attack on Iran",
@@ -94,13 +115,6 @@
       "pubDate": "Fri, 03 Jul 2026 11:02:55 GMT"
     },
     {
-      "source": "BBC",
-      "title": "<![CDATA[What Iran and US get from deal and why both could struggle to keep it]]>",
-      "link": "https://www.bbc.co.uk/news/articles/c932yqz8lggo?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Thu, 18 Jun 2026 20:04:40 GMT"
-    },
-    {
       "source": "NPR",
       "title": "Trump says he's cancelling Iran strikes, deal pending",
       "link": "https://www.npr.org/2026/08/02/nx-s1-5917113/trump-says-hes-cancelling-iran-strikes-deal-pending",
@@ -127,13 +141,6 @@
       "link": "https://thehill.com/homenews/senate/6004234-lankford-trump-iran-deal/",
       "desc": "",
       "pubDate": "Sun, 02 Aug 2026 14:13:21 +0000"
-    },
-    {
-      "source": "The Hill",
-      "title": "Trump halts Iran attack plan, citing agreed-upon deal outline",
-      "link": "https://thehill.com/homenews/administration/6004176-iran-deal-parameters-trump/",
-      "desc": "",
-      "pubDate": "Sun, 02 Aug 2026 12:05:08 +0000"
     }
   ]
 }
