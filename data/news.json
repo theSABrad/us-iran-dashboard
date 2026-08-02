@@ -1,27 +1,13 @@
 {
-  "lastUpdated": "2026-08-02T12:55:15.224647Z",
-  "count": 21,
+  "lastUpdated": "2026-08-02T15:51:30.312251Z",
+  "count": 19,
   "articles": [
     {
       "source": "Al Jazeera",
-      "title": "Why has Trump halted Iran attacks, and what is the deal he is hinting at?",
-      "link": "https://www.aljazeera.com/news/2026/8/2/why-has-trump-halted-iran-attacks-and-what-is-the-deal-he-is-hinting-at?traffic_source=rss",
+      "title": "No breakthrough on Strait of Hormuz as Trump halts attack on Iran",
+      "link": "https://www.aljazeera.com/news/2026/8/2/no-breakthrough-on-strait-of-hormuz-as-trump-halts-attack-on-iran?traffic_source=rss",
       "desc": "",
-      "pubDate": "Sun, 02 Aug 2026 09:43:10 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Trump \u2018cancels attack on Iran\u2019 saying deal is near",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/trump-cancels-attack-on-iran-saying-deal-is-near?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Sun, 02 Aug 2026 08:43:15 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Trump cancels Iran strike, says \u2018deal perimeters\u2019 reached",
-      "link": "https://www.aljazeera.com/news/2026/8/2/trump-cancels-iran-strike-says-deal-perimeters-reached?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Sun, 02 Aug 2026 03:36:43 +0000"
+      "pubDate": "Sun, 02 Aug 2026 14:11:54 +0000"
     },
     {
       "source": "BBC",
@@ -50,13 +36,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Wed, 29 Jul 2026 13:48:41 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[Zelensky and Netanyahu meet Trump as wars in Ukraine and Iran drag on]]>",
-      "link": "https://www.bbc.co.uk/news/articles/cj4k2z8z45ro?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Wed, 29 Jul 2026 12:17:42 GMT"
     },
     {
       "source": "BBC",
@@ -130,14 +109,28 @@
     },
     {
       "source": "The Hill",
-      "title": "Live updates: Trump holds off on Iran strikes; Medicare subsidy move cuts against midterm message",
+      "title": "Live updates: Trump holds off on Iran strikes; RFK Jr. clashes with CNN's Bash",
       "link": "https://thehill.com/homenews/administration/6003957-live-updates-trump-cancels-iran-strike/",
       "desc": "",
-      "pubDate": "Sun, 02 Aug 2026 12:37:07 +0000"
+      "pubDate": "Sun, 02 Aug 2026 15:18:00 +0000"
     },
     {
       "source": "The Hill",
-      "title": "Trump halts Iran attack plan, citing agreed-upon 'parameters of a deal'",
+      "title": "Lowering the bar for victory in the Iran war",
+      "link": "https://thehill.com/opinion/national-security/6003403-trump-iran-victory-pattern/",
+      "desc": "",
+      "pubDate": "Sun, 02 Aug 2026 15:00:00 +0000"
+    },
+    {
+      "source": "The Hill",
+      "title": "Lankford says Trump 'has no desire' to bomb Iran",
+      "link": "https://thehill.com/homenews/senate/6004234-lankford-trump-iran-deal/",
+      "desc": "",
+      "pubDate": "Sun, 02 Aug 2026 14:13:21 +0000"
+    },
+    {
+      "source": "The Hill",
+      "title": "Trump halts Iran attack plan, citing agreed-upon deal outline",
       "link": "https://thehill.com/homenews/administration/6004176-iran-deal-parameters-trump/",
       "desc": "",
       "pubDate": "Sun, 02 Aug 2026 12:05:08 +0000"
