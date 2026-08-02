@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-08-01T21:42:53.535481Z",
-  "count": 14,
+  "lastUpdated": "2026-08-02T01:43:44.112103Z",
+  "count": 16,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Iran war live: Tehran warns of \u2018decisive\u2019 response to any US \u2018aggression\u2019",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/8/2/iran-war-live-tehran-warns-of-decisive-response-to-any-us-aggression?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sun, 02 Aug 2026 00:00:00 +0000"
+    },
     {
       "source": "BBC",
       "title": "<![CDATA[Why limited war with the US may suit Iran better than peace]]>",
@@ -99,6 +106,13 @@
       "link": "https://www.bbc.co.uk/news/articles/c932yqz8lggo?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Thu, 18 Jun 2026 20:04:40 GMT"
+    },
+    {
+      "source": "The Hill",
+      "title": "Sunday shows preview: Hamas deal, Iran tensions test Trump administration",
+      "link": "https://thehill.com/homenews/sunday-talk-shows/6003978-blanche-attorney-general-nomination-hurdles-sunday-preview/",
+      "desc": "",
+      "pubDate": "Sat, 01 Aug 2026 22:01:22 +0000"
     }
   ]
 }
