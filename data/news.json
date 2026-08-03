@@ -1,10 +1,17 @@
 {
-  "lastUpdated": "2026-08-03T19:16:35.928204Z",
+  "lastUpdated": "2026-08-03T21:57:06.044314Z",
   "count": 16,
   "articles": [
     {
       "source": "Al Jazeera",
-      "title": "Trump blasts \u2018duplicitous\u2019 Iran after Tehran denies it is in talks with the US",
+      "title": "Trump says talks with Iran are \u2018last chance\u2019 to forge a deal",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/trump-says-talks-with-iran-are-last-chance-to-forge-a-deal?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Mon, 03 Aug 2026 19:45:30 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Trump says ongoing talks are Iran\u2019s \u2018last chance\u2019",
       "link": "https://www.aljazeera.com/news/2026/8/3/trump-blasts-duplicitous-iran-after-tehran-denies-it-is-in-talks-with-the-us?traffic_source=rss",
       "desc": "",
       "pubDate": "Mon, 03 Aug 2026 17:38:01 +0000"
@@ -21,7 +28,7 @@
       "title": "<![CDATA[Iran says it is in talks with Oman but not the US after Trump says negotiations to resume]]>",
       "link": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
       "desc": "",
-      "pubDate": "Mon, 03 Aug 2026 17:41:27 GMT"
+      "pubDate": "Mon, 03 Aug 2026 19:42:55 GMT"
     },
     {
       "source": "BBC",
@@ -102,17 +109,10 @@
     },
     {
       "source": "The Hill",
-      "title": "If regime change isn't the goal, then why fight Iran again?",
-      "link": "https://thehill.com/opinion/national-security/6004708-us-iran-strategy-failure/",
+      "title": "Trump says Iran facing 'last chance' before 'decapitation'",
+      "link": "https://thehill.com/homenews/6006445-trump-warns-iran-last-chance/",
       "desc": "",
-      "pubDate": "Mon, 03 Aug 2026 17:00:00 +0000"
-    },
-    {
-      "source": "The Hill",
-      "title": "How Trump can avoid a bloody, costly ground war in Iran",
-      "link": "https://thehill.com/opinion/national-security/6003826-us-war-iran-options/",
-      "desc": "",
-      "pubDate": "Mon, 03 Aug 2026 16:30:00 +0000"
+      "pubDate": "Mon, 03 Aug 2026 19:31:38 +0000"
     }
   ]
 }
