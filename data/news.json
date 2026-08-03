@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-08-03T17:03:33.150071Z",
-  "count": 15,
+  "lastUpdated": "2026-08-03T19:16:35.928204Z",
+  "count": 16,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Trump blasts \u2018duplicitous\u2019 Iran after Tehran denies it is in talks with the US",
+      "link": "https://www.aljazeera.com/news/2026/8/3/trump-blasts-duplicitous-iran-after-tehran-denies-it-is-in-talks-with-the-us?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Mon, 03 Aug 2026 17:38:01 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "Uncertainty on Iranians\u2019 minds as Trump fluctuates on war and talk",
@@ -10,18 +17,11 @@
       "pubDate": "Mon, 03 Aug 2026 16:33:08 +0000"
     },
     {
-      "source": "Al Jazeera",
-      "title": "Who will shape post-war Iran?",
-      "link": "https://www.aljazeera.com/opinions/2026/8/3/who-will-shape-post-war-iran?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Mon, 03 Aug 2026 12:11:03 +0000"
-    },
-    {
       "source": "BBC",
       "title": "<![CDATA[Iran says it is in talks with Oman but not the US after Trump says negotiations to resume]]>",
       "link": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
       "desc": "",
-      "pubDate": "Mon, 03 Aug 2026 15:59:48 GMT"
+      "pubDate": "Mon, 03 Aug 2026 17:41:27 GMT"
     },
     {
       "source": "BBC",
@@ -99,6 +99,13 @@
       "link": "https://www.npr.org/2026/08/03/g-s1-136892/up-first-newsletter-iran-war-todd-blanche-capital-one-bank-accounts-trump-conspiracy",
       "desc": "Acting Attorney General Todd Blanche rescinds President Trump's anti-weaponization fund ahead of his confirmation hearing. And, the president calls off strikes on Iran over a potential deal.",
       "pubDate": "Mon, 03 Aug 2026 07:57:06 -0400"
+    },
+    {
+      "source": "The Hill",
+      "title": "If regime change isn't the goal, then why fight Iran again?",
+      "link": "https://thehill.com/opinion/national-security/6004708-us-iran-strategy-failure/",
+      "desc": "",
+      "pubDate": "Mon, 03 Aug 2026 17:00:00 +0000"
     },
     {
       "source": "The Hill",
