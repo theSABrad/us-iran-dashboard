@@ -1,27 +1,27 @@
 {
-  "lastUpdated": "2026-08-04T19:17:02.768297Z",
-  "count": 16,
+  "lastUpdated": "2026-08-04T22:02:09.683525Z",
+  "count": 17,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Funeral for family killed in US strike on Iran\u2019s Qeshm Island",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/funeral-for-family-killed-in-us-strike-on-irans-qeshm-island?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Tue, 04 Aug 2026 21:11:50 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "US says deal on reopening Hormuz close as Iran, Oman hold \u2018positive\u2019 talks",
+      "link": "https://www.aljazeera.com/news/2026/8/4/us-says-deal-on-reopening-hormuz-close-as-iran-oman-hold-positive-talks?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Tue, 04 Aug 2026 20:59:32 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "\u2018Maximum use\u2019: Iran boosts military strength during ceasefire with US",
       "link": "https://www.aljazeera.com/news/2026/8/4/maximum-use-iran-boosts-military-strength-during-ceasefire-with-us?traffic_source=rss",
       "desc": "",
       "pubDate": "Tue, 04 Aug 2026 18:34:48 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "War on Iran: Trump says Iran has one \u2018last chance\u2019",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/4/war-on-iran-trump-says-iran-has-one-last-chance?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Tue, 04 Aug 2026 16:13:49 +0000"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[Qatar says US-Iran mediation efforts continuing but no direct talks planned]]>",
-      "link": "https://www.bbc.co.uk/news/articles/c1l1q9n3v15o?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Tue, 04 Aug 2026 15:11:51 GMT"
     },
     {
       "source": "BBC",
@@ -43,6 +43,13 @@
       "link": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Sun, 02 Aug 2026 11:12:00 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[Qatar says US-Iran mediation efforts continuing but no direct talks planned]]>",
+      "link": "https://www.bbc.co.uk/news/articles/c1l1q9n3v15o?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Tue, 04 Aug 2026 15:11:51 GMT"
     },
     {
       "source": "BBC",
