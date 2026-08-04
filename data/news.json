@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-08-03T21:57:06.044314Z",
-  "count": 16,
+  "lastUpdated": "2026-08-04T01:22:09.879299Z",
+  "count": 17,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Iran war live: Tehran denies US talks as Trump warns of \u2018last chance\u2019",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/8/4/iran-war-live-tehran-denies-us-talks-as-trump-warns-of-last-chance?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Tue, 04 Aug 2026 00:00:00 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "Trump says talks with Iran are \u2018last chance\u2019 to forge a deal",
@@ -109,10 +116,10 @@
     },
     {
       "source": "The Hill",
-      "title": "Trump says Iran facing 'last chance' before 'decapitation'",
-      "link": "https://thehill.com/homenews/6006445-trump-warns-iran-last-chance/",
+      "title": "Iran's \u2018last chance\u2019 in peace talks?",
+      "link": "https://thehill.com/newsletters/defense-national-security/6006807-irans-last-chance-in-peace-talks/",
       "desc": "",
-      "pubDate": "Mon, 03 Aug 2026 19:31:38 +0000"
+      "pubDate": "Mon, 03 Aug 2026 22:29:10 +0000"
     }
   ]
 }
