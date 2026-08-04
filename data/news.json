@@ -1,27 +1,20 @@
 {
-  "lastUpdated": "2026-08-04T11:14:04.069778Z",
-  "count": 16,
+  "lastUpdated": "2026-08-04T13:44:10.927451Z",
+  "count": 14,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Can Pakistan keep US-Iran diplomacy alive as mistrust deepens?",
+      "link": "https://www.aljazeera.com/news/2026/8/4/can-pakistan-keep-us-iran-diplomacy-alive-as-mistrust-deepens?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Tue, 04 Aug 2026 12:21:41 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "\u2018One last chance\u2019: The times Trump threatened Iran, said deal imminent",
       "link": "https://www.aljazeera.com/features/2026/8/4/one-last-chance-the-times-trump-threatened-iran-said-deal-imminent?traffic_source=rss",
       "desc": "",
       "pubDate": "Tue, 04 Aug 2026 10:53:33 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "US stocks near record high, oil falls as Trump claims Iran talks under way",
-      "link": "https://www.aljazeera.com/economy/2026/8/4/us-stocks-near-record-high-oil-falls-as-trump-claims-iran-talks-underway?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Tue, 04 Aug 2026 02:56:26 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Iran war live: Qatar says diplomatic efforts ongoing; vessel hit in Hormuz",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/8/4/iran-war-live-tehran-denies-us-talks-as-trump-warns-of-last-chance?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Tue, 04 Aug 2026 00:00:00 +0000"
     },
     {
       "source": "BBC",
@@ -106,13 +99,6 @@
       "link": "https://www.npr.org/2026/08/03/g-s1-136892/up-first-newsletter-iran-war-todd-blanche-capital-one-bank-accounts-trump-conspiracy",
       "desc": "Acting Attorney General Todd Blanche rescinds President Trump's anti-weaponization fund ahead of his confirmation hearing. And, the president calls off strikes on Iran over a potential deal.",
       "pubDate": "Mon, 03 Aug 2026 07:57:06 -0400"
-    },
-    {
-      "source": "The Hill",
-      "title": "Trump snaps back to diplomacy, but Iran has other ideas",
-      "link": "https://thehill.com/policy/defense/6006709-trump-iran-diplomacy-strait-hormuz/",
-      "desc": "",
-      "pubDate": "Tue, 04 Aug 2026 10:00:00 +0000"
     }
   ]
 }
