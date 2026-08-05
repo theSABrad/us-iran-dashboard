@@ -1,20 +1,20 @@
 {
-  "lastUpdated": "2026-08-05T19:11:58.268851Z",
+  "lastUpdated": "2026-08-05T22:04:33.722727Z",
   "count": 17,
   "articles": [
     {
       "source": "Al Jazeera",
-      "title": "War on Iran: US-Iran deal edges closer",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/war-on-iran-us-iran-deal-edges-closer?traffic_source=rss",
+      "title": "Iran says Hormuz talks with Oman in \u2018final\u2019 stages as route approved",
+      "link": "https://www.aljazeera.com/news/2026/8/5/iran-says-hormuz-talks-with-oman-in-final-stages-as-route-approved?traffic_source=rss",
       "desc": "",
-      "pubDate": "Wed, 05 Aug 2026 15:12:34 +0000"
+      "pubDate": "Wed, 05 Aug 2026 20:55:52 +0000"
     },
     {
-      "source": "Al Jazeera",
-      "title": "UN rights chief says Iran executed at least 56 people since March",
-      "link": "https://www.aljazeera.com/news/2026/8/5/un-rights-chief-says-iran-executed-at-least-56-people-since-march?traffic_source=rss",
+      "source": "BBC",
+      "title": "<![CDATA[Iran says it has agreed Strait of Hormuz shipping route with Oman]]>",
+      "link": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
       "desc": "",
-      "pubDate": "Wed, 05 Aug 2026 12:58:22 +0000"
+      "pubDate": "Wed, 05 Aug 2026 21:21:51 GMT"
     },
     {
       "source": "BBC",
@@ -22,20 +22,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c75gvzxrz49o?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Wed, 05 Aug 2026 14:04:09 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[Trump says Iran will be 'hit very hard' if Hormuz Strait not open soon as oil prices fall]]>",
-      "link": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Wed, 05 Aug 2026 03:44:30 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[Iran says it is in talks with Oman but not the US after Trump says negotiations to resume]]>",
-      "link": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Mon, 03 Aug 2026 19:42:55 GMT"
     },
     {
       "source": "BBC",
@@ -120,6 +106,20 @@
       "link": "https://www.npr.org/2026/08/04/g-s1-137287/us-patriot-missiles-ukraine-middle-east-iran-war",
       "desc": "The U.S. and its partners depend on Patriot interceptors to shoot down incoming ballistic missiles. But Russia and Iran are firing their weapons at rates far higher than Patriots can be produced.",
       "pubDate": "Tue, 04 Aug 2026 14:01:04 -0400"
+    },
+    {
+      "source": "The Hill",
+      "title": "Americans more concerned about cost of living, inflation than Iran war: Poll",
+      "link": "https://thehill.com/business/6012178-inflation-cost-living-marquette-poll/",
+      "desc": "",
+      "pubDate": "Wed, 05 Aug 2026 20:26:44 +0000"
+    },
+    {
+      "source": "The Hill",
+      "title": "Most Americans say Iran conflict not worth the cost, falls short of goals: Poll",
+      "link": "https://thehill.com/policy/defense/6012145-marquette-poll-iran-war-cost-goals/",
+      "desc": "",
+      "pubDate": "Wed, 05 Aug 2026 20:03:54 +0000"
     }
   ]
 }
