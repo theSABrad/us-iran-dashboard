@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-08-05T13:39:43.274818Z",
-  "count": 17,
+  "lastUpdated": "2026-08-05T16:25:23.471643Z",
+  "count": 18,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "War on Iran: US-Iran deal edges closer",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/war-on-iran-us-iran-deal-edges-closer?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Wed, 05 Aug 2026 15:12:34 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "UN rights chief says Iran executed at least 56 people since March",
@@ -15,6 +22,13 @@
       "link": "https://www.aljazeera.com/news/2026/8/5/iran-oman-us-close-to-hormuz-deal-what-do-they-all-want?traffic_source=rss",
       "desc": "",
       "pubDate": "Wed, 05 Aug 2026 12:07:56 +0000"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[UN rights chief alarmed by rise in Iran executions since March]]>",
+      "link": "https://www.bbc.co.uk/news/articles/c75gvzxrz49o?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Wed, 05 Aug 2026 14:04:09 GMT"
     },
     {
       "source": "BBC",
@@ -113,13 +127,6 @@
       "link": "https://www.npr.org/2026/08/04/g-s1-137287/us-patriot-missiles-ukraine-middle-east-iran-war",
       "desc": "The U.S. and its partners depend on Patriot interceptors to shoot down incoming ballistic missiles. But Russia and Iran are firing their weapons at rates far higher than Patriots can be produced.",
       "pubDate": "Tue, 04 Aug 2026 14:01:04 -0400"
-    },
-    {
-      "source": "NPR",
-      "title": "Todd Blanche rescinds 'anti-weaponization fund'. And, Trump calls off striking Iran",
-      "link": "https://www.npr.org/2026/08/03/g-s1-136892/up-first-newsletter-iran-war-todd-blanche-capital-one-bank-accounts-trump-conspiracy",
-      "desc": "Acting Attorney General Todd Blanche rescinds President Trump's anti-weaponization fund ahead of his confirmation hearing. And, the president calls off strikes on Iran over a potential deal.",
-      "pubDate": "Mon, 03 Aug 2026 07:57:06 -0400"
     }
   ]
 }
