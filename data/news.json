@@ -1,13 +1,13 @@
 {
-  "lastUpdated": "2026-08-05T08:14:13.528998Z",
-  "count": 16,
+  "lastUpdated": "2026-08-05T11:10:48.392496Z",
+  "count": 17,
   "articles": [
     {
       "source": "Al Jazeera",
-      "title": "Iran war live: Tehran-Oman talks on Hormuz \u2018positive\u2019; ship hit in Red Sea",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/8/5/iran-war-live-tehran-oman-talks-on-hormuz-positive-ship-hit-in-red-sea?traffic_source=rss",
+      "title": "Trump hails progress but warned Iran of \u2018hard hit\u2019 if no deal reached",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/5/08-05-2026-clip-trump-iran-talks-sot?traffic_source=rss",
       "desc": "",
-      "pubDate": "Wed, 05 Aug 2026 00:00:00 +0000"
+      "pubDate": "Wed, 05 Aug 2026 09:05:46 +0000"
     },
     {
       "source": "BBC",
@@ -113,6 +113,13 @@
       "link": "https://www.npr.org/2026/08/03/g-s1-136892/up-first-newsletter-iran-war-todd-blanche-capital-one-bank-accounts-trump-conspiracy",
       "desc": "Acting Attorney General Todd Blanche rescinds President Trump's anti-weaponization fund ahead of his confirmation hearing. And, the president calls off strikes on Iran over a potential deal.",
       "pubDate": "Mon, 03 Aug 2026 07:57:06 -0400"
+    },
+    {
+      "source": "The Hill",
+      "title": "Republicans stand behind Trump on Iran even as unpopularity of conflict grows",
+      "link": "https://thehill.com/homenews/house/6009196-trump-iran-conflict-midterms-republicans/",
+      "desc": "",
+      "pubDate": "Wed, 05 Aug 2026 10:00:00 +0000"
     }
   ]
 }
