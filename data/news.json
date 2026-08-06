@@ -1,27 +1,13 @@
 {
-  "lastUpdated": "2026-08-06T13:38:16.426165Z",
-  "count": 16,
+  "lastUpdated": "2026-08-06T23:47:48.862671Z",
+  "count": 14,
   "articles": [
     {
       "source": "Al Jazeera",
-      "title": "US-Israel war on Iran upends Europe\u2019s summer holiday travel patterns",
-      "link": "https://www.aljazeera.com/news/2026/8/6/how-the-middle-east-conflict-is-upending-european-travel?traffic_source=rss",
+      "title": "Is Israel\u2019s Netanyahu preparing to fight Iran alone?",
+      "link": "https://www.aljazeera.com/news/2026/8/6/is-israels-netanyahu-preparing-to-fight-iran-alone?traffic_source=rss",
       "desc": "",
-      "pubDate": "Thu, 06 Aug 2026 09:17:56 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Iran anthem protest: Female footballers \u2018proud\u2019 to become Australian",
-      "link": "https://www.aljazeera.com/sports/2026/8/6/former-iranian-women-footballers-proud-to-become-australian-afc-cup-anthem-protest?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Thu, 06 Aug 2026 08:15:37 +0000"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[Iran says deal with Oman on Strait of Hormuz is in final stages]]>",
-      "link": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Thu, 06 Aug 2026 01:19:59 GMT"
+      "pubDate": "Thu, 06 Aug 2026 17:11:20 +0000"
     },
     {
       "source": "BBC",
@@ -29,6 +15,13 @@
       "link": "https://www.bbc.co.uk/news/articles/cn5nlgxv6vdo?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Thu, 06 Aug 2026 09:04:17 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[Iran says deal with Oman on Strait of Hormuz is in final stages]]>",
+      "link": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Thu, 06 Aug 2026 01:19:59 GMT"
     },
     {
       "source": "BBC",
@@ -57,20 +50,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c1l1q9n3v15o?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Tue, 04 Aug 2026 15:11:51 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[Why limited war with the US may suit Iran better than peace]]>",
-      "link": "https://www.bbc.co.uk/news/articles/c78gnyq3wvdo?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Thu, 30 Jul 2026 17:26:01 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[Saudi Arabia joins US in strikes on Iran-backed militias in Iraq]]>",
-      "link": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Wed, 29 Jul 2026 13:48:41 GMT"
     },
     {
       "source": "BBC",
@@ -113,6 +92,13 @@
       "link": "https://www.bbc.co.uk/news/articles/crele3r8j19o?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Tue, 14 Jul 2026 23:17:27 GMT"
+    },
+    {
+      "source": "NPR",
+      "title": "Iran aims to ban U.S. and Israeli ships from Strait of Hormuz and charge others a toll",
+      "link": "https://www.npr.org/2026/08/06/nx-s1-5923623/iran-strait-hormuz-us-israel-ban",
+      "desc": "Iran's parliament is reviewing a plan to ban ships linked to the U.S., Israel and other \"hostile countries\" from transiting the Strait of Hormuz. The Trump administration has rejected the plan.",
+      "pubDate": "Thu, 06 Aug 2026 16:58:56 -0400"
     }
   ]
 }
