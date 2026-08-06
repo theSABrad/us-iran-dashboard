@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-08-05T22:04:33.722727Z",
-  "count": 17,
+  "lastUpdated": "2026-08-06T01:24:05.386373Z",
+  "count": 18,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Iran war live: Tehran, Oman close in on Hormuz deal; Houthis attack tankers",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/8/6/iran-war-live-tehran-oman-close-in-on-hormuz-deal-houthis-attack-tankers?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Thu, 06 Aug 2026 00:00:00 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "Iran says Hormuz talks with Oman in \u2018final\u2019 stages as route approved",
@@ -11,10 +18,10 @@
     },
     {
       "source": "BBC",
-      "title": "<![CDATA[Iran says it has agreed Strait of Hormuz shipping route with Oman]]>",
+      "title": "<![CDATA[Iran says deal with Oman on Strait of Hormuz is in final stages]]>",
       "link": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
       "desc": "",
-      "pubDate": "Wed, 05 Aug 2026 21:21:51 GMT"
+      "pubDate": "Thu, 06 Aug 2026 01:19:59 GMT"
     },
     {
       "source": "BBC",
@@ -109,17 +116,17 @@
     },
     {
       "source": "The Hill",
-      "title": "Americans more concerned about cost of living, inflation than Iran war: Poll",
-      "link": "https://thehill.com/business/6012178-inflation-cost-living-marquette-poll/",
+      "title": "Strait of Hormuz \u200bfight continues to evolve with Iran-Oman talks",
+      "link": "https://thehill.com/newsletters/defense-national-security/6012682-strait-of-hormuz-fight-continues-to-evolve-with-iran-oman-talks/",
       "desc": "",
-      "pubDate": "Wed, 05 Aug 2026 20:26:44 +0000"
+      "pubDate": "Wed, 05 Aug 2026 23:53:47 +0000"
     },
     {
       "source": "The Hill",
-      "title": "Most Americans say Iran conflict not worth the cost, falls short of goals: Poll",
-      "link": "https://thehill.com/policy/defense/6012145-marquette-poll-iran-war-cost-goals/",
+      "title": "America\u2019s water systems are under attack. Iran may be to blame",
+      "link": "https://thehill.com/policy/defense/6012602-iran-linked-water-utility-hacks/",
       "desc": "",
-      "pubDate": "Wed, 05 Aug 2026 20:03:54 +0000"
+      "pubDate": "Wed, 05 Aug 2026 22:54:11 +0000"
     }
   ]
 }
