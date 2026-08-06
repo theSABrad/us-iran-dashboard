@@ -1,7 +1,21 @@
 {
-  "lastUpdated": "2026-08-06T08:12:37.479493Z",
-  "count": 17,
+  "lastUpdated": "2026-08-06T11:11:07.186684Z",
+  "count": 20,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "US-Israel war on Iran upends Europe\u2019s summer holiday travel patterns",
+      "link": "https://www.aljazeera.com/news/2026/8/6/how-the-middle-east-conflict-is-upending-european-travel?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Thu, 06 Aug 2026 09:17:56 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Iran anthem protest: Female footballers \u2018proud\u2019 to become Australian",
+      "link": "https://www.aljazeera.com/sports/2026/8/6/former-iranian-women-footballers-proud-to-become-australian-afc-cup-anthem-protest?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Thu, 06 Aug 2026 08:15:37 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "Could the Iran war derail Donald Trump\u2019s legacy?",
@@ -10,18 +24,18 @@
       "pubDate": "Thu, 06 Aug 2026 03:43:14 +0000"
     },
     {
-      "source": "Al Jazeera",
-      "title": "Iran war live: Tehran, Muscat near deal; Trump denies munitions shortages",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/8/6/iran-war-live-tehran-oman-close-in-on-hormuz-deal-houthis-attack-tankers?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Thu, 06 Aug 2026 00:00:00 +0000"
-    },
-    {
       "source": "BBC",
       "title": "<![CDATA[Iran says deal with Oman on Strait of Hormuz is in final stages]]>",
       "link": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Thu, 06 Aug 2026 01:19:59 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[Iranian footballers who defied Tehran become Australian citizens]]>",
+      "link": "https://www.bbc.co.uk/news/articles/cn5nlgxv6vdo?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Thu, 06 Aug 2026 09:04:17 GMT"
     },
     {
       "source": "BBC",
@@ -53,13 +67,6 @@
     },
     {
       "source": "BBC",
-      "title": "<![CDATA[What is Iran's Pickaxe Mountain and why does Trump say he wants to bomb it?]]>",
-      "link": "https://www.bbc.co.uk/news/articles/c9w0ygrwrn5o?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Sat, 01 Aug 2026 05:01:19 GMT"
-    },
-    {
-      "source": "BBC",
       "title": "<![CDATA[Why limited war with the US may suit Iran better than peace]]>",
       "link": "https://www.bbc.co.uk/news/articles/c78gnyq3wvdo?at_medium=RSS&at_campaign=rss",
       "desc": "",
@@ -71,6 +78,13 @@
       "link": "https://www.bbc.co.uk/news/articles/c70g6y24d76o?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Wed, 29 Jul 2026 13:48:41 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[What is Iran's Pickaxe Mountain and why does Trump say he wants to bomb it?]]>",
+      "link": "https://www.bbc.co.uk/news/articles/c9w0ygrwrn5o?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Sat, 01 Aug 2026 05:01:19 GMT"
     },
     {
       "source": "BBC",
@@ -106,6 +120,13 @@
       "link": "https://www.bbc.co.uk/news/articles/crele3r8j19o?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Tue, 14 Jul 2026 23:17:27 GMT"
+    },
+    {
+      "source": "The Hill",
+      "title": "What the Iran-Oman deal could mean for Strait of Hormuz fight",
+      "link": "https://thehill.com/policy/defense/6012636-iran-oman-deal-strait-of-hormuz/",
+      "desc": "",
+      "pubDate": "Thu, 06 Aug 2026 10:00:00 +0000"
     },
     {
       "source": "The Hill",
