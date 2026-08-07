@@ -1,20 +1,20 @@
 {
-  "lastUpdated": "2026-08-07T15:42:36.697609Z",
-  "count": 18,
+  "lastUpdated": "2026-08-07T18:37:49.677756Z",
+  "count": 16,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "War on Iran: Saudi Arabia, Turkiye and Pakistan sign defence pact",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/war-on-iran-saudi-arabia-turkiye-and-pakistan-sign-defence-pact?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Fri, 07 Aug 2026 16:42:35 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "Iran\u2019s grip on trade is a potent weapon, but it has an expiry date",
       "link": "https://www.aljazeera.com/opinions/2026/8/7/irans-grip-on-trade-is-a-potent-weapon-but-it-has-an-expiry-date?traffic_source=rss",
       "desc": "",
       "pubDate": "Fri, 07 Aug 2026 12:28:52 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Why Trump is caught in an \u2018escalation trap\u2019 with Iran",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/7/why-trump-is-caught-in-an-escalation-trap-with-iran?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Fri, 07 Aug 2026 11:03:01 +0000"
     },
     {
       "source": "BBC",
@@ -113,20 +113,6 @@
       "link": "https://www.npr.org/2026/08/06/nx-s1-5923623/iran-strait-hormuz-us-israel-ban",
       "desc": "Iran's parliament is reviewing a plan to ban ships linked to the U.S., Israel and other \"hostile countries\" from transiting the Strait of Hormuz. The Trump administration has rejected the plan.",
       "pubDate": "Thu, 06 Aug 2026 16:58:56 -0400"
-    },
-    {
-      "source": "The Hill",
-      "title": "With no definite end in sight on Iran, the president has to either fish or cut bait",
-      "link": "https://thehill.com/opinion/6015657-trump-iran-war-polling-slump/",
-      "desc": "",
-      "pubDate": "Fri, 07 Aug 2026 15:30:00 +0000"
-    },
-    {
-      "source": "The Hill",
-      "title": "Will the Pentagon prioritize munitions when the Iran conflict ends?",
-      "link": "https://thehill.com/opinion/national-security/6012232-will-the-pentagon-prioritize-munitions-when-the-iran-conflict-ends/",
-      "desc": "",
-      "pubDate": "Fri, 07 Aug 2026 14:30:00 +0000"
     }
   ]
 }
