@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-08T18:20:21.708107Z",
-  "count": 18,
+  "lastUpdated": "2026-08-08T21:18:57.934343Z",
+  "count": 19,
   "articles": [
     {
       "source": "Al Jazeera",
@@ -123,10 +123,17 @@
     },
     {
       "source": "The Hill",
-      "title": "Iran signals Strait of Hormuz deal close, but ceasefire dispute lingers",
-      "link": "https://thehill.com/policy/international/6018567-iran-oman-strait-hormuz-deal-close/",
+      "title": "Live updates: Senate hits recess button; Iran signals Hormuz deal close but demands remain",
+      "link": "https://thehill.com/homenews/administration/6018352-live-updates-senate-august-recess-blanche-spending-bill-iran-war/",
       "desc": "",
-      "pubDate": "Sat, 08 Aug 2026 15:31:17 +0000"
+      "pubDate": "Sat, 08 Aug 2026 19:07:56 +0000"
+    },
+    {
+      "source": "The Hill",
+      "title": "Vance warns US still \u2018in the middle of the game\u2019 with Iran despite talks",
+      "link": "https://thehill.com/homenews/administration/6018727-vance-iran-negotiation-progress/",
+      "desc": "",
+      "pubDate": "Sat, 08 Aug 2026 18:51:37 +0000"
     }
   ]
 }
