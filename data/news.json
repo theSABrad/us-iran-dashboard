@@ -1,7 +1,21 @@
 {
-  "lastUpdated": "2026-08-09T04:08:53.237443Z",
-  "count": 22,
+  "lastUpdated": "2026-08-09T06:35:58.600403Z",
+  "count": 24,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Iran issues new demands as Pezeshkian seeks deal",
+      "link": "https://www.aljazeera.com/news/2026/8/9/iran-issues-new-demands-as-pezeshkian-seeks-deal?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sun, 09 Aug 2026 05:06:02 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Iran seeks way out of \u2018neither war nor peace\u2019 stalemate with US",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/9/08-08-clip-pezeshkian-iran-ir?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sun, 09 Aug 2026 04:12:39 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "Iran war live: Pezeshkian seeks end to \u2018no war, no peace\u2019 amid Hormuz talks",
@@ -127,20 +141,6 @@
       "link": "https://thehill.com/policy/international/6018858-iran-demands-us-hormuz-negotiations/",
       "desc": "",
       "pubDate": "Sat, 08 Aug 2026 22:31:48 +0000"
-    },
-    {
-      "source": "The Hill",
-      "title": "Turkey says Iran not target of pact with Saudi Arabia, Pakistan",
-      "link": "https://thehill.com/policy/international/6018834-turkey-says-iran-not-target-of-pact-with-saudi-arabia-pakistan/",
-      "desc": "",
-      "pubDate": "Sat, 08 Aug 2026 22:25:45 +0000"
-    },
-    {
-      "source": "The Hill",
-      "title": "Sunday shows preview: Iran-Hormuz deal hangs in balance; Trump, Dems look to midterms",
-      "link": "https://thehill.com/homenews/sunday-talk-shows/6018823-sunday-preview-vance-iran-negotiations-progress/",
-      "desc": "",
-      "pubDate": "Sat, 08 Aug 2026 21:47:48 +0000"
     }
   ]
 }
