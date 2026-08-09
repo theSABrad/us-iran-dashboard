@@ -1,27 +1,34 @@
 {
-  "lastUpdated": "2026-08-08T21:18:57.934343Z",
-  "count": 19,
+  "lastUpdated": "2026-08-09T00:51:15.464238Z",
+  "count": 23,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Iran war live: Tehran demands end to US blockade to reopen Strait of Hormuz",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/8/9/iran-war-live-tehran-demands-end-to-us-blockade-to-reopen-strait-of-hormuz?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sun, 09 Aug 2026 00:00:00 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Turkiye says Mecca defence pact not aimed at Iran",
+      "link": "https://www.aljazeera.com/news/2026/8/8/turkiye-says-mecca-defence-pact-not-aimed-at-iran?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sat, 08 Aug 2026 23:59:15 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Vance says US \u2018destroyed\u2019 Iran\u2019s nuclear programme",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/vance-says-us-destroyed-irans-nuclear-programme?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sat, 08 Aug 2026 23:27:55 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "UAE says Iran targeted ADNOC tanker in Strait of Hormuz, no casualties",
       "link": "https://www.aljazeera.com/news/2026/8/8/uae-says-iran-targeted-adnoc-tanker-in-hormuz-no-casualties-2?traffic_source=rss",
       "desc": "",
       "pubDate": "Sat, 08 Aug 2026 15:01:29 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "War on Iran: Phase II: Day 28",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/war-on-iran-phase-ii-day-28?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Sat, 08 Aug 2026 14:09:02 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Iran deliberates Hormuz arrangement amid uncertain prospects with US",
-      "link": "https://www.aljazeera.com/news/2026/8/8/iran-deliberates-hormuz-arrangement-amid-uncertain-prospects-with-us?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Sat, 08 Aug 2026 13:52:40 +0000"
     },
     {
       "source": "BBC",
@@ -123,17 +130,17 @@
     },
     {
       "source": "The Hill",
-      "title": "Live updates: Senate hits recess button; Iran signals Hormuz deal close but demands remain",
-      "link": "https://thehill.com/homenews/administration/6018352-live-updates-senate-august-recess-blanche-spending-bill-iran-war/",
+      "title": "Amid Strait of Hormuz talks, Iran publishes list of demands for US",
+      "link": "https://thehill.com/policy/international/6018858-iran-demands-us-hormuz-negotiations/",
       "desc": "",
-      "pubDate": "Sat, 08 Aug 2026 19:07:56 +0000"
+      "pubDate": "Sat, 08 Aug 2026 22:31:48 +0000"
     },
     {
       "source": "The Hill",
-      "title": "Vance warns US still \u2018in the middle of the game\u2019 with Iran despite talks",
-      "link": "https://thehill.com/homenews/administration/6018727-vance-iran-negotiation-progress/",
+      "title": "Turkey says Iran not target of pact with Saudi Arabia, Pakistan",
+      "link": "https://thehill.com/policy/international/6018834-turkey-says-iran-not-target-of-pact-with-saudi-arabia-pakistan/",
       "desc": "",
-      "pubDate": "Sat, 08 Aug 2026 18:51:37 +0000"
+      "pubDate": "Sat, 08 Aug 2026 22:25:45 +0000"
     }
   ]
 }
