@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-08-09T00:51:15.464238Z",
-  "count": 23,
+  "lastUpdated": "2026-08-09T04:08:53.237443Z",
+  "count": 22,
   "articles": [
     {
       "source": "Al Jazeera",
-      "title": "Iran war live: Tehran demands end to US blockade to reopen Strait of Hormuz",
+      "title": "Iran war live: Pezeshkian seeks end to \u2018no war, no peace\u2019 amid Hormuz talks",
       "link": "https://www.aljazeera.com/news/liveblog/2026/8/9/iran-war-live-tehran-demands-end-to-us-blockade-to-reopen-strait-of-hormuz?traffic_source=rss",
       "desc": "",
       "pubDate": "Sun, 09 Aug 2026 00:00:00 +0000"
@@ -22,13 +22,6 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/vance-says-us-destroyed-irans-nuclear-programme?traffic_source=rss",
       "desc": "",
       "pubDate": "Sat, 08 Aug 2026 23:27:55 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "UAE says Iran targeted ADNOC tanker in Strait of Hormuz, no casualties",
-      "link": "https://www.aljazeera.com/news/2026/8/8/uae-says-iran-targeted-adnoc-tanker-in-hormuz-no-casualties-2?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Sat, 08 Aug 2026 15:01:29 +0000"
     },
     {
       "source": "BBC",
@@ -141,6 +134,13 @@
       "link": "https://thehill.com/policy/international/6018834-turkey-says-iran-not-target-of-pact-with-saudi-arabia-pakistan/",
       "desc": "",
       "pubDate": "Sat, 08 Aug 2026 22:25:45 +0000"
+    },
+    {
+      "source": "The Hill",
+      "title": "Sunday shows preview: Iran-Hormuz deal hangs in balance; Trump, Dems look to midterms",
+      "link": "https://thehill.com/homenews/sunday-talk-shows/6018823-sunday-preview-vance-iran-negotiations-progress/",
+      "desc": "",
+      "pubDate": "Sat, 08 Aug 2026 21:47:48 +0000"
     }
   ]
 }
