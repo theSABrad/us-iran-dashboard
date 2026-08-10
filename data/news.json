@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-08-09T21:20:42.099357Z",
-  "count": 16,
+  "lastUpdated": "2026-08-10T00:52:59.247774Z",
+  "count": 18,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Iran war live: US \u2018semi-negotiating\u2019 with Tehran; Israel rejects Gaza plan",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/8/10/iran-war-live-us-semi-negotiating-with-tehran-israel-rejects-gaza-plan?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Mon, 10 Aug 2026 00:00:00 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "Where does Iran stand on Saudi-Pakistan-Turkiye pact?",
@@ -99,6 +106,13 @@
       "link": "https://www.bbc.co.uk/news/articles/crele3r8j19o?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Tue, 14 Jul 2026 23:17:27 GMT"
+    },
+    {
+      "source": "NPR",
+      "title": "How Iran's 'Axis of Resistance' has shaped the war",
+      "link": "https://www.npr.org/2026/08/09/nx-s1-5923613/how-irans-axis-of-resistance-has-shaped-the-war",
+      "desc": "NPR's Rob Schmitz speaks with Peter Salisbury, professor at Columbia University's School of International and Public Affairs, about how Iran and its allies have reshaped the war in the Middle East.",
+      "pubDate": "Sun, 09 Aug 2026 17:27:11 -0400"
     },
     {
       "source": "NPR",
