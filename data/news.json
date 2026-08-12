@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-08-12T09:52:19.608536Z",
-  "count": 15,
+  "lastUpdated": "2026-08-12T12:41:10.089094Z",
+  "count": 16,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Iran refutes Trump\u2019s claim to \u2018control\u2019 Hormuz: What\u2019s the latest in talks?",
+      "link": "https://www.aljazeera.com/news/2026/8/12/iran-refutes-trumps-claim-to-control-hormuz-whats-the-latest-in-talks?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Wed, 12 Aug 2026 10:27:22 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "Did Trump flee an Iranian assassination plot on a catering truck?",
@@ -102,10 +109,10 @@
     },
     {
       "source": "NPR",
-      "title": "Trump pivots back to sanctions for Iran as other strategies to end his war fizzle",
-      "link": "https://www.npr.org/2026/08/11/g-s1-138160/us-iran-war",
-      "desc": "The shift comes as U.S. stockpiles of key weapons have dwindled and as stop-start talks seem again to have stalled. But Trump insists the pressure can lead to a breakthrough.",
-      "pubDate": "Tue, 11 Aug 2026 01:48:27 -0400"
+      "title": "Takeaways from Tuesday primaries. And, Iran threat prompted Trump's secret plane swap",
+      "link": "https://www.npr.org/2026/08/12/g-s1-138337/up-first-newsletter-primaries-wisconsin-minnesota-south-carolina-trump-air-force-one-iraq-iran-militias",
+      "desc": "Yesterday's primaries provided more insight into what voters in both parties want from their new leaders. And, Trump secretly switched planes in Turkey last month amid a foreign threat",
+      "pubDate": "Wed, 12 Aug 2026 07:25:11 -0400"
     }
   ]
 }
