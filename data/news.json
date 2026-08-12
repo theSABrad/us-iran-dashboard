@@ -1,42 +1,7 @@
 {
-  "lastUpdated": "2026-08-12T18:45:03.400962Z",
-  "count": 22,
+  "lastUpdated": "2026-08-12T21:33:32.459779Z",
+  "count": 16,
   "articles": [
-    {
-      "source": "Al Jazeera",
-      "title": "Is Russia\u2019s economy cracking despite the Iran war windfall?",
-      "link": "https://www.aljazeera.com/video/counting-the-cost/2026/8/12/is-russias-economy-cracking-despite-the-iran-war-windfall?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Wed, 12 Aug 2026 15:36:33 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Iran remains defiant as it vows to fight US until demands met",
-      "link": "https://www.aljazeera.com/news/2026/8/12/iran-remains-defiant-as-it-vows-to-fight-us-until-demands-met?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Wed, 12 Aug 2026 15:29:20 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Iran is not anti-imperialist. It is a state calculating survival",
-      "link": "https://www.aljazeera.com/opinions/2026/8/12/iran-is-not-anti-imperialist-it-is-a-state-calculating-survival?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Wed, 12 Aug 2026 14:23:13 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Top Iranian commander visited Iraq to discuss disarmament plan: Source",
-      "link": "https://www.aljazeera.com/news/2026/8/12/top-iranian-commander-visited-iraq-to-discuss-disarmament-plan-source?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Wed, 12 Aug 2026 12:34:50 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Iran rejects Trump\u2019s claim to \u2018control\u2019 Hormuz: What\u2019s the latest in talks?",
-      "link": "https://www.aljazeera.com/news/2026/8/12/iran-refutes-trumps-claim-to-control-hormuz-whats-the-latest-in-talks?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Wed, 12 Aug 2026 10:27:22 +0000"
-    },
     {
       "source": "BBC",
       "title": "<![CDATA[Houthis reportedly kill six in first deadly attack since start of Iran war]]>",
@@ -141,6 +106,13 @@
       "link": "https://www.npr.org/2026/08/12/g-s1-138337/up-first-newsletter-primaries-wisconsin-minnesota-south-carolina-trump-air-force-one-iraq-iran-militias",
       "desc": "Yesterday's primaries provided more insight into what voters in both parties want from their new leaders. And, Trump secretly switched planes in Turkey last month amid a foreign threat",
       "pubDate": "Wed, 12 Aug 2026 07:25:11 -0400"
+    },
+    {
+      "source": "The Hill",
+      "title": "European nations condemn executions in Iran",
+      "link": "https://thehill.com/policy/international/6025783-countries-condemn-iran-protester-executions/",
+      "desc": "",
+      "pubDate": "Wed, 12 Aug 2026 19:17:26 +0000"
     }
   ]
 }
