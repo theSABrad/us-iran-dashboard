@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-08-13T15:47:32.771128Z",
+  "lastUpdated": "2026-08-13T18:45:54.669147Z",
   "count": 17,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Is Russia\u2019s economy cracking despite the Iran war windfall?",
+      "link": "https://www.aljazeera.com/video/counting-the-cost/2026/8/13/is-russias-economy-cracking-despite-the-iran-war-windfall?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Thu, 13 Aug 2026 16:40:42 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "Iran says Strait of Hormuz under its control, rejects Trump claims",
@@ -113,13 +120,6 @@
       "link": "https://www.npr.org/2026/08/12/nx-s1-5928224/has-the-u-s-lost-its-dominance-to-china",
       "desc": "Beijing may be benefiting from the war in Iran and Trump's tariffs and has an edge in the competition for tech supremacy. The New Yorker's Evan Osnos discusses his story \"The Future, Made in China.\"",
       "pubDate": "Wed, 12 Aug 2026 14:24:48 -0400"
-    },
-    {
-      "source": "NPR",
-      "title": "Takeaways from Tuesday primaries. And, Iran threat prompted Trump's secret plane swap",
-      "link": "https://www.npr.org/2026/08/12/g-s1-138337/up-first-newsletter-primaries-wisconsin-minnesota-south-carolina-trump-air-force-one-iraq-iran-militias",
-      "desc": "Yesterday's primaries provided more insight into what voters in both parties want from their new leaders. And, Trump secretly switched planes in Turkey last month amid a foreign threat",
-      "pubDate": "Wed, 12 Aug 2026 07:25:11 -0400"
     }
   ]
 }
