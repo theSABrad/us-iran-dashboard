@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-08-13T12:42:04.554338Z",
-  "count": 18,
+  "lastUpdated": "2026-08-13T15:47:32.771128Z",
+  "count": 17,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Iran says Strait of Hormuz under its control, rejects Trump claims",
+      "link": "https://www.aljazeera.com/news/2026/8/13/iran-says-strait-of-hormuz-under-its-control-rejects-trump-claims?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Thu, 13 Aug 2026 14:59:42 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "US-Iran talks in deadlock \u2013 what\u2019s the latest?",
@@ -113,20 +120,6 @@
       "link": "https://www.npr.org/2026/08/12/g-s1-138337/up-first-newsletter-primaries-wisconsin-minnesota-south-carolina-trump-air-force-one-iraq-iran-militias",
       "desc": "Yesterday's primaries provided more insight into what voters in both parties want from their new leaders. And, Trump secretly switched planes in Turkey last month amid a foreign threat",
       "pubDate": "Wed, 12 Aug 2026 07:25:11 -0400"
-    },
-    {
-      "source": "The Hill",
-      "title": "There is no negotiating with Iran \u2014 Trump must stop trying",
-      "link": "https://thehill.com/opinion/national-security/6026419-regime-change-middle-east-conflict/",
-      "desc": "",
-      "pubDate": "Thu, 13 Aug 2026 11:00:00 +0000"
-    },
-    {
-      "source": "The Hill",
-      "title": "GOP senators not happy with Trump administration\u2019s handling of Iran funding request",
-      "link": "https://thehill.com/homenews/senate/6026290-gop-senators-iran-funding/",
-      "desc": "",
-      "pubDate": "Thu, 13 Aug 2026 10:00:00 +0000"
     }
   ]
 }
