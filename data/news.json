@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-08-13T09:52:16.695807Z",
-  "count": 17,
+  "lastUpdated": "2026-08-13T12:42:04.554338Z",
+  "count": 18,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "US-Iran talks in deadlock \u2013 what\u2019s the latest?",
+      "link": "https://www.aljazeera.com/news/2026/8/13/us-iran-talks-in-deadlock-whats-the-latest?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Thu, 13 Aug 2026 11:56:40 +0000"
+    },
     {
       "source": "BBC",
       "title": "<![CDATA[Houthis reportedly kill six in first deadly attack since start of Iran war]]>",
@@ -109,17 +116,17 @@
     },
     {
       "source": "The Hill",
-      "title": "Trump looks to inflict economic pain on Iran",
-      "link": "https://thehill.com/newsletters/defense-national-security/6026431-trump-looks-to-inflict-economic-pain-on-iran/",
+      "title": "There is no negotiating with Iran \u2014 Trump must stop trying",
+      "link": "https://thehill.com/opinion/national-security/6026419-regime-change-middle-east-conflict/",
       "desc": "",
-      "pubDate": "Wed, 12 Aug 2026 23:16:32 +0000"
+      "pubDate": "Thu, 13 Aug 2026 11:00:00 +0000"
     },
     {
       "source": "The Hill",
-      "title": "Trump snaps back to economic warfare in struggle to make Iran tap out",
-      "link": "https://thehill.com/policy/defense/6026324-trump-iran-economic-warfare-blockade-sanctions/",
+      "title": "GOP senators not happy with Trump administration\u2019s handling of Iran funding request",
+      "link": "https://thehill.com/homenews/senate/6026290-gop-senators-iran-funding/",
       "desc": "",
-      "pubDate": "Wed, 12 Aug 2026 22:31:04 +0000"
+      "pubDate": "Thu, 13 Aug 2026 10:00:00 +0000"
     }
   ]
 }
