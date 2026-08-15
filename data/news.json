@@ -1,7 +1,21 @@
 {
-  "lastUpdated": "2026-08-14T21:14:29.516459Z",
-  "count": 13,
+  "lastUpdated": "2026-08-15T00:35:26.475863Z",
+  "count": 16,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Iran war live: Trump vows to make Hormuz US territory \u2018pretty soon\u2019",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/8/15/iran-war-live-trump-vows-to-make-hormuz-us-territory-pretty-soon?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sat, 15 Aug 2026 00:00:00 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Trump says he will declare Strait of Hormuz a US \u2018territory\u2019 amid Iran war",
+      "link": "https://www.aljazeera.com/news/2026/8/14/trump-says-he-will-declare-strait-of-hormuz-a-us-territory?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Fri, 14 Aug 2026 21:50:46 +0000"
+    },
     {
       "source": "BBC",
       "title": "<![CDATA[Houthis reportedly kill six in first deadly attack since start of Iran war]]>",
@@ -92,6 +106,13 @@
       "link": "https://www.bbc.co.uk/news/articles/crele3r8j19o?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Tue, 14 Jul 2026 23:17:27 GMT"
+    },
+    {
+      "source": "NPR",
+      "title": "Many Iranians are heading to Turkey to escape the ongoing war's heavy toll",
+      "link": "https://www.npr.org/2026/08/14/nx-s1-5931244/many-iranians-are-heading-to-turkey-to-escape-the-ongoing-wars-heavy-toll",
+      "desc": "Iranians visiting the city of Van, Turkey, near the Iranian border say how expensive and difficult life back home is.",
+      "pubDate": "Fri, 14 Aug 2026 18:03:08 -0400"
     }
   ]
 }
