@@ -1,20 +1,20 @@
 {
-  "lastUpdated": "2026-08-15T09:14:58.691147Z",
-  "count": 16,
+  "lastUpdated": "2026-08-15T12:15:10.545420Z",
+  "count": 17,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Is China seeking to copy Iran\u2019s Strait of Hormuz blockade around Taiwan?",
+      "link": "https://www.aljazeera.com/video/101-east/2026/8/15/is-china-seeking-to-copy-irans-strait-of-hormuz-blockade-around-taiwan?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sat, 15 Aug 2026 11:30:00 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "Iran says no decision yet on a return to talks with the US",
       "link": "https://www.aljazeera.com/news/2026/8/15/iran-says-no-decision-yet-on-a-return-to-talks-with-the-us?traffic_source=rss",
       "desc": "",
       "pubDate": "Sat, 15 Aug 2026 04:24:02 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Did the US really destroy Iran\u2019s ballistic missile capability?",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/08-11-2026-tia-us-iran-munitions-quotable?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Sat, 15 Aug 2026 03:52:08 +0000"
     },
     {
       "source": "BBC",
@@ -113,6 +113,13 @@
       "link": "https://www.npr.org/2026/08/14/nx-s1-5931244/many-iranians-are-heading-to-turkey-to-escape-the-ongoing-wars-heavy-toll",
       "desc": "Iranians visiting the city of Van, Turkey, near the Iranian border say how expensive and difficult life back home is.",
       "pubDate": "Fri, 14 Aug 2026 18:03:08 -0400"
+    },
+    {
+      "source": "The Hill",
+      "title": "Iran rejects Trump's 'delusions' on making Strait of Hormuz a US territory",
+      "link": "https://thehill.com/policy/international/6031248-iran-rejects-trump-hormuz-claim/",
+      "desc": "",
+      "pubDate": "Sat, 15 Aug 2026 11:55:27 +0000"
     }
   ]
 }
