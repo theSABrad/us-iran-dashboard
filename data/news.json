@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-16T12:16:17.066453Z",
-  "count": 17,
+  "lastUpdated": "2026-08-16T15:09:57.068471Z",
+  "count": 18,
   "articles": [
     {
       "source": "Al Jazeera",
@@ -120,6 +120,13 @@
       "link": "https://www.npr.org/2026/08/14/nx-s1-5931244/many-iranians-are-heading-to-turkey-to-escape-the-ongoing-wars-heavy-toll",
       "desc": "Iranians visiting the city of Van, Turkey, near the Iranian border say how expensive and difficult life back home is.",
       "pubDate": "Fri, 14 Aug 2026 18:03:08 -0400"
+    },
+    {
+      "source": "The Hill",
+      "title": "Iran's other nuclear weapons option \u2014 plutonium bombs",
+      "link": "https://thehill.com/opinion/national-security/6030922-iaea-real-time-monitoring/",
+      "desc": "",
+      "pubDate": "Sun, 16 Aug 2026 13:00:00 +0000"
     }
   ]
 }
