@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-17T06:30:44.317160Z",
-  "count": 20,
+  "lastUpdated": "2026-08-17T09:28:43.943498Z",
+  "count": 18,
   "articles": [
     {
       "source": "Al Jazeera",
@@ -18,17 +18,10 @@
     },
     {
       "source": "Al Jazeera",
-      "title": "Iran war live: Tehran-US MoU set to expire; Hamas\u2019s al-Khayya meets Kushner",
+      "title": "Iran war live: Tehran warns of shift to offensive posture as US MoU expires",
       "link": "https://www.aljazeera.com/news/liveblog/2026/8/17/iran-war-live-tehran-us-mou-set-to-expire-hamass-al-khayya-meets-kushner?traffic_source=rss",
       "desc": "",
       "pubDate": "Mon, 17 Aug 2026 00:00:35 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "US-Iran MoU is set to expire: What to know",
-      "link": "https://www.aljazeera.com/news/2026/8/16/us-iran-mou-is-set-to-expire-what-to-know?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Sun, 16 Aug 2026 20:28:21 +0000"
     },
     {
       "source": "BBC",
@@ -134,13 +127,6 @@
       "link": "https://www.npr.org/2026/08/17/g-s1-138969/trump-exercises-south-korea",
       "desc": "President Trump explained the decision by saying South Korea had declined to help with the \"denuclearization\" of Iran and he cited his good relationship with North Korea's leader.",
       "pubDate": "Mon, 17 Aug 2026 01:21:39 -0400"
-    },
-    {
-      "source": "NPR",
-      "title": "Many Iranians are heading to Turkey to escape the ongoing war's heavy toll",
-      "link": "https://www.npr.org/2026/08/14/nx-s1-5931244/many-iranians-are-heading-to-turkey-to-escape-the-ongoing-wars-heavy-toll",
-      "desc": "Iranians visiting the city of Van, Turkey, near the Iranian border say how expensive and difficult life back home is.",
-      "pubDate": "Fri, 14 Aug 2026 18:03:08 -0400"
     }
   ]
 }
