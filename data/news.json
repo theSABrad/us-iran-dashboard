@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-08-17T03:39:24.229954Z",
-  "count": 18,
+  "lastUpdated": "2026-08-17T06:30:44.317160Z",
+  "count": 20,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Iran\u2019s top negotiator declares victory in war against the US and Israel",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/irans-top-negotiator-declares-victory-in-war-against-the-us-and-israel?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Mon, 17 Aug 2026 05:16:18 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "Rare Pallas\u2019s cat captured on camera in northern Iran mountains",
@@ -120,6 +127,13 @@
       "link": "https://www.bbc.co.uk/news/articles/crele3r8j19o?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Tue, 14 Jul 2026 23:17:27 GMT"
+    },
+    {
+      "source": "NPR",
+      "title": "Trump orders Pentagon to scale back joint exercises with South Korea",
+      "link": "https://www.npr.org/2026/08/17/g-s1-138969/trump-exercises-south-korea",
+      "desc": "President Trump explained the decision by saying South Korea had declined to help with the \"denuclearization\" of Iran and he cited his good relationship with North Korea's leader.",
+      "pubDate": "Mon, 17 Aug 2026 01:21:39 -0400"
     },
     {
       "source": "NPR",
