@@ -1,7 +1,21 @@
 {
-  "lastUpdated": "2026-08-18T15:20:09.914006Z",
-  "count": 19,
+  "lastUpdated": "2026-08-18T18:20:00.530137Z",
+  "count": 22,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Iran prepares to keep economy alive as US threatens further sanctions",
+      "link": "https://www.aljazeera.com/news/2026/8/18/iran-prepares-to-keep-economy-alive-as-us-threatens-further-sanctions?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Tue, 18 Aug 2026 16:21:49 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Iran clubs face Qatar and UAE sides at neutral venues in Champions League",
+      "link": "https://www.aljazeera.com/sports/2026/8/18/iran-clubs-to-play-qatar-and-uae-champions-league-games-at-neutral-venues?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Tue, 18 Aug 2026 15:14:17 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "Qatar: Iran\u2019s claim that Doha is holding missing pilots is a \u2018media ploy\u2019",
@@ -127,13 +141,6 @@
       "link": "https://www.npr.org/2026/08/18/nx-s1-5935425/war-between-u-s-and-iran-shifts-key-resources-away-from-asia",
       "desc": "The U.S. focus on Iran has pivoted key resources away from another key geopolitical region -- Asia.",
       "pubDate": "Tue, 18 Aug 2026 04:40:36 -0400"
-    },
-    {
-      "source": "NPR",
-      "title": "Trump orders Pentagon to scale back joint exercises with South Korea",
-      "link": "https://www.npr.org/2026/08/17/g-s1-138969/trump-exercises-south-korea",
-      "desc": "President Trump explained the decision by saying South Korea had declined to help with the \"denuclearization\" of Iran and he cited his good relationship with North Korea's leader.",
-      "pubDate": "Mon, 17 Aug 2026 01:21:39 -0400"
     }
   ]
 }
