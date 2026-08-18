@@ -1,14 +1,7 @@
 {
-  "lastUpdated": "2026-08-18T09:20:55.503952Z",
-  "count": 18,
+  "lastUpdated": "2026-08-18T12:21:17.910875Z",
+  "count": 17,
   "articles": [
-    {
-      "source": "Al Jazeera",
-      "title": "Iran war live: Vessel struck in Strait of Hormuz, crew member injured",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/8/18/iran-war-live-trump-rejects-mou-extension-as-us-claims-control-of-hormuz?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Tue, 18 Aug 2026 00:00:00 +0000"
-    },
     {
       "source": "BBC",
       "title": "<![CDATA[Qatar denies capturing three Iranian pilots after downing fighter jets]]>",
@@ -109,6 +102,13 @@
     },
     {
       "source": "NPR",
+      "title": "U.S. and Iran miss peace talks deadline. And, Alaska, Florida and Wyoming primaries",
+      "link": "https://www.npr.org/2026/08/18/g-s1-139072/up-first-newsletter-iran-south-korea-jared-kushner-florida-wyoming-alaska-primaries-luigi-mangione",
+      "desc": "The U.S. and Iran missed a deadline to begin peace talks this week. The monthslong war has depleted U.S. resources. And, what to know about Alaska's U.S. Senate seat primary.",
+      "pubDate": "Tue, 18 Aug 2026 07:40:35 -0400"
+    },
+    {
+      "source": "NPR",
       "title": "War between U.S. and Iran shifts key resources away from Asia",
       "link": "https://www.npr.org/2026/08/18/nx-s1-5935425/war-between-u-s-and-iran-shifts-key-resources-away-from-asia",
       "desc": "The U.S. focus on Iran has pivoted key resources away from another key geopolitical region -- Asia.",
@@ -120,13 +120,6 @@
       "link": "https://www.npr.org/2026/08/17/g-s1-138969/trump-exercises-south-korea",
       "desc": "President Trump explained the decision by saying South Korea had declined to help with the \"denuclearization\" of Iran and he cited his good relationship with North Korea's leader.",
       "pubDate": "Mon, 17 Aug 2026 01:21:39 -0400"
-    },
-    {
-      "source": "The Hill",
-      "title": "Trump rips allies Oman, South Korea amid escalating tensions with Iran",
-      "link": "https://thehill.com/homenews/administration/6034221-us-economic-pressure-iran-blockade/",
-      "desc": "",
-      "pubDate": "Mon, 17 Aug 2026 22:00:39 +0000"
     }
   ]
 }
