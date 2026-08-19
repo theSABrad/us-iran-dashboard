@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-19T15:19:49.004142Z",
-  "count": 17,
+  "lastUpdated": "2026-08-19T18:17:18.135693Z",
+  "count": 18,
   "articles": [
     {
       "source": "Al Jazeera",
@@ -116,10 +116,17 @@
     },
     {
       "source": "NPR",
-      "title": "U.S. and Iran miss peace talks deadline. And, Alaska, Florida and Wyoming primaries",
-      "link": "https://www.npr.org/2026/08/18/g-s1-139072/up-first-newsletter-iran-south-korea-jared-kushner-florida-wyoming-alaska-primaries-luigi-mangione",
-      "desc": "The U.S. and Iran missed a deadline to begin peace talks this week. The monthslong war has depleted U.S. resources. And, what to know about Alaska's U.S. Senate seat primary.",
-      "pubDate": "Tue, 18 Aug 2026 07:40:35 -0400"
+      "title": "Why does the U.S. military seem stymied in the war with Iran?",
+      "link": "https://www.npr.org/2026/08/19/nx-s1-5937516/why-does-the-u-s-military-seem-stymied-in-the-war-with-iran",
+      "desc": "Defense analyst Stacie Pettyjohn says while the U.S. military is facing long-range missile shortages, prolonged deployments and vacated regional bases, Iran is building cheaper weapons quickly.",
+      "pubDate": "Wed, 19 Aug 2026 12:18:35 -0400"
+    },
+    {
+      "source": "The Hill",
+      "title": "Bacon urges Trump to 'say less' after 'contradictory' Iran messages",
+      "link": "https://thehill.com/homenews/house/6038812-trump-hormuz-strait-blockade-iran/",
+      "desc": "",
+      "pubDate": "Wed, 19 Aug 2026 16:47:27 +0000"
     }
   ]
 }
