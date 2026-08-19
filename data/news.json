@@ -1,20 +1,20 @@
 {
-  "lastUpdated": "2026-08-18T21:12:23.662304Z",
-  "count": 18,
+  "lastUpdated": "2026-08-19T00:34:59.275463Z",
+  "count": 19,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Iran war live: Trump denies Iran talks, Tehran claims US \u2018begging\u2019",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/8/19/iran-war-live-trump-denies-iran-talks-tehran-claims-us-begging?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Wed, 19 Aug 2026 00:00:00 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "Trump says no talks planned with Iran amid anger over Iran-Oman Hormuz deal",
       "link": "https://www.aljazeera.com/news/2026/8/18/no-talks-with-iran-says-trump-as-us-president-stews-over-hormuz-deal?traffic_source=rss",
       "desc": "",
       "pubDate": "Tue, 18 Aug 2026 21:03:59 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Iran prepares to keep economy alive as US threatens further sanctions",
-      "link": "https://www.aljazeera.com/news/2026/8/18/iran-prepares-to-keep-economy-alive-as-us-threatens-further-sanctions?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Tue, 18 Aug 2026 16:21:49 +0000"
     },
     {
       "source": "BBC",
@@ -127,6 +127,13 @@
       "link": "https://www.npr.org/2026/08/18/nx-s1-5935425/war-between-u-s-and-iran-shifts-key-resources-away-from-asia",
       "desc": "The U.S. focus on Iran has pivoted key resources away from another key geopolitical region -- Asia.",
       "pubDate": "Tue, 18 Aug 2026 04:40:36 -0400"
+    },
+    {
+      "source": "The Hill",
+      "title": "DOJ secures indictment of 17 Iranians accused of 'massive' cyber theft campaign",
+      "link": "https://thehill.com/regulation/court-battles/6036708-doj-indicts-iranian-cyber-hackers/",
+      "desc": "",
+      "pubDate": "Tue, 18 Aug 2026 22:49:13 +0000"
     }
   ]
 }
