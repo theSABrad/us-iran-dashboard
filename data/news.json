@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-08-19T09:21:35.820166Z",
-  "count": 19,
+  "lastUpdated": "2026-08-19T12:21:26.821665Z",
+  "count": 17,
   "articles": [
     {
       "source": "Al Jazeera",
@@ -8,20 +8,6 @@
       "link": "https://www.aljazeera.com/news/2026/8/19/south-africa-to-australia-why-coal-profits-are-surging-during-iran-war?traffic_source=rss",
       "desc": "",
       "pubDate": "Wed, 19 Aug 2026 06:27:30 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "UAE imposes indefinite trade embargo on Iran over alleged missile attacks",
-      "link": "https://www.aljazeera.com/news/2026/8/19/uae-imposes-indefinite-trade-embargo-on-iran-over-alleged-missile-attacks?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Wed, 19 Aug 2026 03:34:40 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Iran war live: Rubio discusses Hormuz security with UAE official",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/8/19/iran-war-live-trump-denies-iran-talks-tehran-claims-us-begging?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Wed, 19 Aug 2026 00:00:00 +0000"
     },
     {
       "source": "BBC",
@@ -129,11 +115,11 @@
       "pubDate": "Tue, 18 Aug 2026 07:40:35 -0400"
     },
     {
-      "source": "NPR",
-      "title": "War between U.S. and Iran shifts key resources away from Asia",
-      "link": "https://www.npr.org/2026/08/18/nx-s1-5935425/war-between-u-s-and-iran-shifts-key-resources-away-from-asia",
-      "desc": "The U.S. focus on Iran has pivoted key resources away from another key geopolitical region -- Asia.",
-      "pubDate": "Tue, 18 Aug 2026 04:40:36 -0400"
+      "source": "The Hill",
+      "title": "The Memo: On Iran, Trump\u2019s critics see tough talk as a mask for frustration",
+      "link": "https://thehill.com/homenews/administration/6036749-trump-threatened-oman-naval-blockade/",
+      "desc": "",
+      "pubDate": "Wed, 19 Aug 2026 10:00:00 +0000"
     }
   ]
 }
