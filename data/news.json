@@ -1,27 +1,27 @@
 {
-  "lastUpdated": "2026-08-19T21:15:01.191749Z",
-  "count": 19,
+  "lastUpdated": "2026-08-20T00:35:03.203122Z",
+  "count": 18,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Iran war live: Trump announces \u2018most crushing\u2019 Iran sanctions",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/8/20/iran-war-live-trump-announces-most-crushing-iran-sanctions?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Thu, 20 Aug 2026 00:00:00 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Trump announces \u2018most crushing economic operation ever\u2019 against Iran",
+      "link": "https://www.aljazeera.com/news/2026/8/19/trump-announces-most-crushing-economic-operation-ever-against-iran?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Wed, 19 Aug 2026 23:18:32 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "USS Lincoln woes highlight US Navy limits in prolonged Iran war: Experts",
       "link": "https://www.aljazeera.com/news/2026/8/19/uss-lincoln-woes-highlight-us-navy-limits-in-prolonged-iran-war-experts?traffic_source=rss",
       "desc": "",
       "pubDate": "Wed, 19 Aug 2026 21:01:54 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Iran\u2019s hardline parliament raises concerns with \u2018foreign infiltration\u2019 plan",
-      "link": "https://www.aljazeera.com/news/2026/8/19/irans-hardline-parliament-raises-concerns-with-foreign-infiltration-plan?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Wed, 19 Aug 2026 18:21:37 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "NATO \u2018prepared\u2019 to defend allies amid report of Iranian strike plans",
-      "link": "https://www.aljazeera.com/news/2026/8/19/nato-prepared-to-defend-allies-amid-report-of-iranian-strike-plans?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Wed, 19 Aug 2026 17:50:50 +0000"
     },
     {
       "source": "BBC",
@@ -127,13 +127,6 @@
       "link": "https://www.npr.org/2026/08/19/nx-s1-5937516/why-does-the-u-s-military-seem-stymied-in-the-war-with-iran",
       "desc": "Defense analyst Stacie Pettyjohn says while the U.S. military is facing long-range missile shortages, prolonged deployments and vacated regional bases, Iran is building cheaper weapons quickly.",
       "pubDate": "Wed, 19 Aug 2026 12:18:35 -0400"
-    },
-    {
-      "source": "The Hill",
-      "title": "UAE cuts off trade with Iran after missiles land in water",
-      "link": "https://thehill.com/policy/defense/6039738-uae-halts-iran-trade/",
-      "desc": "",
-      "pubDate": "Wed, 19 Aug 2026 20:38:57 +0000"
     }
   ]
 }
