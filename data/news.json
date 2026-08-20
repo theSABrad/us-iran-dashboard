@@ -1,10 +1,17 @@
 {
-  "lastUpdated": "2026-08-20T09:22:19.108024Z",
-  "count": 16,
+  "lastUpdated": "2026-08-20T12:23:23.780379Z",
+  "count": 14,
   "articles": [
     {
       "source": "Al Jazeera",
-      "title": "Are Hormuz ships more willing to defy Iran or the US? What the data shows",
+      "title": "How conflict is making life more expensive for Iranians",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/how-conflict-is-making-life-more-expensive-for-iranians?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Thu, 20 Aug 2026 09:20:17 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Are ships through more willing to defy Iran or the US? What the data shows",
       "link": "https://www.aljazeera.com/news/2026/8/20/are-hormuz-ships-more-willing-to-defy-iran-or-the-us-what-data-shows?traffic_source=rss",
       "desc": "",
       "pubDate": "Thu, 20 Aug 2026 08:43:17 +0000"
@@ -22,20 +29,6 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/trump-vows-economic-warfare-on-countries-helping-iran?traffic_source=rss",
       "desc": "",
       "pubDate": "Thu, 20 Aug 2026 04:31:10 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Alarm in South Korea as Iran dispute with Trump shakes a 72-year alliance",
-      "link": "https://www.aljazeera.com/news/2026/8/20/alarm-in-south-korea-as-iran-dispute-with-trump-shakes-a-72-year-alliance?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Thu, 20 Aug 2026 01:56:41 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Iran war live: Tehran says Trump\u2019s \u2018economic warfare\u2019 will fail",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/8/20/iran-war-live-trump-announces-most-crushing-iran-sanctions?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Thu, 20 Aug 2026 00:00:00 +0000"
     },
     {
       "source": "BBC",
@@ -106,13 +99,6 @@
       "link": "https://www.npr.org/2026/08/19/nx-s1-5937516/why-does-the-u-s-military-seem-stymied-in-the-war-with-iran",
       "desc": "Defense analyst Stacie Pettyjohn says while the U.S. military is facing long-range missile shortages, prolonged deployments and vacated regional bases, Iran is building cheaper weapons quickly.",
       "pubDate": "Wed, 19 Aug 2026 12:18:35 -0400"
-    },
-    {
-      "source": "The Hill",
-      "title": "Trump announces \u2018most crushing economic operation ever\u2019 against Iran",
-      "link": "https://thehill.com/homenews/administration/6040249-trump-announces-economic-warfare-iran/",
-      "desc": "",
-      "pubDate": "Thu, 20 Aug 2026 00:02:05 +0000"
     }
   ]
 }
