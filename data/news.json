@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-08-20T03:36:59.908022Z",
-  "count": 19,
+  "lastUpdated": "2026-08-20T06:24:28.617568Z",
+  "count": 14,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Trump vows \u2018economic warfare\u2019 on countries helping Iran",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/20/trump-vows-economic-warfare-on-countries-helping-iran?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Thu, 20 Aug 2026 04:31:10 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "Alarm in South Korea as Iran dispute with Trump shakes a 72-year alliance",
@@ -24,13 +31,6 @@
       "pubDate": "Wed, 19 Aug 2026 23:18:32 +0000"
     },
     {
-      "source": "Al Jazeera",
-      "title": "USS Lincoln woes highlight US Navy limits in prolonged Iran war: Experts",
-      "link": "https://www.aljazeera.com/news/2026/8/19/uss-lincoln-woes-highlight-us-navy-limits-in-prolonged-iran-war-experts?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Wed, 19 Aug 2026 21:01:54 +0000"
-    },
-    {
       "source": "BBC",
       "title": "<![CDATA[Qatar denies capturing three Iranian pilots after downing fighter jets]]>",
       "link": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
@@ -43,41 +43,6 @@
       "link": "https://www.bbc.co.uk/news/articles/ckg9wpmzmlno?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Tue, 11 Aug 2026 19:27:17 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[Iranian footballers who defied Tehran become Australian citizens]]>",
-      "link": "https://www.bbc.co.uk/news/articles/cn5nlgxv6vdo?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Thu, 06 Aug 2026 09:04:17 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[Iran says deal with Oman on Strait of Hormuz is in final stages]]>",
-      "link": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Thu, 06 Aug 2026 01:19:59 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[UN rights chief alarmed by rise in Iran executions since March]]>",
-      "link": "https://www.bbc.co.uk/news/articles/c75gvzxrz49o?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Wed, 05 Aug 2026 14:04:09 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[Threat to oil tankers in Middle East  worst since start of Iran war, analysts say]]>",
-      "link": "https://www.bbc.co.uk/news/articles/cjrv0dy2e90o?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Mon, 03 Aug 2026 15:57:27 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[Trump cancels Iran strikes subject to deal being made 'rapidly']]>",
-      "link": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Sun, 02 Aug 2026 11:12:00 GMT"
     },
     {
       "source": "BBC",
