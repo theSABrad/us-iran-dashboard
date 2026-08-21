@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-08-20T21:17:13.455510Z",
-  "count": 12,
+  "lastUpdated": "2026-08-21T00:37:26.376289Z",
+  "count": 13,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Iran war live: US vows toughest Iran sanctions, urges China support",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/8/21/iran-war-live-us-vows-toughest-iran-sanctions-urges-china-support?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Fri, 21 Aug 2026 00:00:00 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "US Treasury secretary says new economic measures will \u2018collapse\u2019 Iran",
@@ -67,8 +74,8 @@
     },
     {
       "source": "NPR",
-      "title": "Sources & Methods",
-      "link": "https://www.npr.org/2026/08/20/nx-s1-5937954/sources-methods",
+      "title": "Wars are happening across the world. Many of them are connected",
+      "link": "https://www.npr.org/2026/08/20/nx-s1-5937954/wars-are-happening-across-the-world-many-of-them-are-connected",
       "desc": "All Thing Considered host Mary Louise Kelly speaks with NPR correspondents Tom Bowman and Emily Feng about the ways in which the U.S. war with Iran is connected to other conflicts across the globe.",
       "pubDate": "Thu, 20 Aug 2026 16:05:10 -0400"
     },
