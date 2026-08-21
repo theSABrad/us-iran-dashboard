@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-08-21T15:21:42.534363Z",
-  "count": 15,
+  "lastUpdated": "2026-08-21T18:20:29.702796Z",
+  "count": 14,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Why Iran is threatening Europe\u2019s \u2018strategically important\u2019 southeast",
+      "link": "https://www.aljazeera.com/news/2026/8/21/iran-southeastern-europe-threats?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Fri, 21 Aug 2026 17:29:17 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "War on Iran: The US could focus on economically isolating Iran",
@@ -15,20 +22,6 @@
       "link": "https://www.aljazeera.com/news/2026/8/21/trumps-economic-d-day-claims-first-victim-not-iran-but-us-markets?traffic_source=rss",
       "desc": "",
       "pubDate": "Fri, 21 Aug 2026 13:47:26 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "US allies in Asia wary as Trump moves military assets for Iran war",
-      "link": "https://www.aljazeera.com/news/2026/8/21/us-allies-in-asia-wary-as-trump-moves-military-assets-for-iran-war?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Fri, 21 Aug 2026 12:32:03 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "US designates Hezbollah an Iranian proxy, sanctions funding network",
-      "link": "https://www.aljazeera.com/news/2026/8/21/us-designates-hezbollah-an-iranian-proxy-sanctions-funding-network?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Fri, 21 Aug 2026 12:12:35 +0000"
     },
     {
       "source": "BBC",
@@ -102,10 +95,10 @@
     },
     {
       "source": "The Hill",
-      "title": "Iran labels new US sanctions 'unjust'",
-      "link": "https://thehill.com/policy/international/6043090-iran-reaction-us-sanctions-trump-administration-war/",
+      "title": "Pentagon says more than 750 US service members wounded in Iran war",
+      "link": "https://thehill.com/policy/defense/6043630-trump-economic-warfare-iran/",
       "desc": "",
-      "pubDate": "Fri, 21 Aug 2026 12:38:00 +0000"
+      "pubDate": "Fri, 21 Aug 2026 15:59:04 +0000"
     }
   ]
 }
