@@ -1,7 +1,28 @@
 {
-  "lastUpdated": "2026-08-21T12:22:51.144734Z",
-  "count": 11,
+  "lastUpdated": "2026-08-21T15:21:42.534363Z",
+  "count": 15,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "War on Iran: The US could focus on economically isolating Iran",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/war-on-iran-the-us-could-focus-on-economically-isolating-iran?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Fri, 21 Aug 2026 13:59:28 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Trump\u2019s \u2018economic D-Day\u2019 claims first victim: Not Iran, but US markets",
+      "link": "https://www.aljazeera.com/news/2026/8/21/trumps-economic-d-day-claims-first-victim-not-iran-but-us-markets?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Fri, 21 Aug 2026 13:47:26 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "US allies in Asia wary as Trump moves military assets for Iran war",
+      "link": "https://www.aljazeera.com/news/2026/8/21/us-allies-in-asia-wary-as-trump-moves-military-assets-for-iran-war?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Fri, 21 Aug 2026 12:32:03 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "US designates Hezbollah an Iranian proxy, sanctions funding network",
@@ -78,6 +99,13 @@
       "link": "https://www.npr.org/2026/08/20/nx-s1-5937954/wars-are-happening-across-the-world-many-of-them-are-connected",
       "desc": "All Thing Considered host Mary Louise Kelly speaks with NPR correspondents Tom Bowman and Emily Feng about the ways in which the U.S. war with Iran is connected to other conflicts across the globe.",
       "pubDate": "Thu, 20 Aug 2026 16:05:10 -0400"
+    },
+    {
+      "source": "The Hill",
+      "title": "Iran labels new US sanctions 'unjust'",
+      "link": "https://thehill.com/policy/international/6043090-iran-reaction-us-sanctions-trump-administration-war/",
+      "desc": "",
+      "pubDate": "Fri, 21 Aug 2026 12:38:00 +0000"
     }
   ]
 }
