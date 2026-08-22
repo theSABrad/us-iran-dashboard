@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-08-22T12:16:38.000774Z",
-  "count": 11,
+  "lastUpdated": "2026-08-22T15:09:48.010425Z",
+  "count": 14,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "What did war with the US reveal about Iran\u2019s weapons capabilities?",
+      "link": "https://www.aljazeera.com/news/2026/8/22/what-did-war-with-the-us-reveal-about-irans-weapons-capabilities?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sat, 22 Aug 2026 14:19:06 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "Iran says new US sanctions violate sovereignty of other states",
@@ -78,6 +85,20 @@
       "link": "https://www.npr.org/2026/08/20/nx-s1-5937954/wars-are-happening-across-the-world-many-of-them-are-connected",
       "desc": "All Thing Considered host Mary Louise Kelly speaks with NPR correspondents Tom Bowman and Emily Feng about the ways in which the U.S. war with Iran is connected to other conflicts across the globe.",
       "pubDate": "Thu, 20 Aug 2026 16:05:10 -0400"
+    },
+    {
+      "source": "The Hill",
+      "title": "The US is using the wrong measure of pressure on Iran",
+      "link": "https://thehill.com/opinion/national-security/6033321-us-iran-diplomatic-stalemate/",
+      "desc": "",
+      "pubDate": "Sat, 22 Aug 2026 15:00:00 +0000"
+    },
+    {
+      "source": "The Hill",
+      "title": "Iran says 'world approved our victory' over the US",
+      "link": "https://thehill.com/policy/international/6044991-iran-claims-world-accepted-victory-sanctions/",
+      "desc": "",
+      "pubDate": "Sat, 22 Aug 2026 14:25:09 +0000"
     }
   ]
 }
