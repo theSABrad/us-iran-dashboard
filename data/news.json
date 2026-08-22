@@ -1,13 +1,27 @@
 {
-  "lastUpdated": "2026-08-22T00:34:51.106871Z",
-  "count": 11,
+  "lastUpdated": "2026-08-22T03:32:17.024318Z",
+  "count": 13,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Iranian president says time to end war with US from \u2018position of strength\u2019",
+      "link": "https://www.aljazeera.com/news/2026/8/22/iranian-president-says-time-to-end-war-with-us-from-position-of?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sat, 22 Aug 2026 00:59:37 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "Iran war live: Trump says he views Strait of Hormuz as \u2018American territory\u2019",
       "link": "https://www.aljazeera.com/news/liveblog/2026/8/22/iran-war-live-trump-says-tehran-not-ready-to-make-right-deal-to-end-war?traffic_source=rss",
       "desc": "",
       "pubDate": "Sat, 22 Aug 2026 00:00:00 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Trump: \u2018We\u2019re seeing what happens\u2019 on sanctions for Iran",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/pakistans-imran-khan-back-to-prison-after-evaluation-at-hospital?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Fri, 21 Aug 2026 23:19:37 +0000"
     },
     {
       "source": "BBC",
