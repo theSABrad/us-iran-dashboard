@@ -1,7 +1,28 @@
 {
-  "lastUpdated": "2026-08-22T21:10:47.264048Z",
-  "count": 13,
+  "lastUpdated": "2026-08-23T00:37:54.821826Z",
+  "count": 14,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Iran war live: Tehran warns neighbours against joining US economic war",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/8/23/iran-war-live-tehran-warns-neighbours-against-joining-us-economic-war?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sun, 23 Aug 2026 00:00:00 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Iran threatens countries that join US \u2018economic D-Day\u2019",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/iran-threatens-countries-that-join-us-economic-d?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sat, 22 Aug 2026 23:56:32 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Iran warns nearby nations against joining US \u2018economic war\u2019 efforts",
+      "link": "https://www.aljazeera.com/news/2026/8/22/iran-warns-nearby-nations-against-joining-us-economic-war-efforts?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sat, 22 Aug 2026 23:26:15 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "Iran grants permission for some Iraqi oil tankers to pass through Hormuz",
@@ -78,20 +99,6 @@
       "link": "https://www.npr.org/2026/08/20/nx-s1-5937954/wars-are-happening-across-the-world-many-of-them-are-connected",
       "desc": "All Thing Considered host Mary Louise Kelly speaks with NPR correspondents Tom Bowman and Emily Feng about the ways in which the U.S. war with Iran is connected to other conflicts across the globe.",
       "pubDate": "Thu, 20 Aug 2026 16:05:10 -0400"
-    },
-    {
-      "source": "The Hill",
-      "title": "The US is using the wrong measure of pressure on Iran",
-      "link": "https://thehill.com/opinion/national-security/6033321-us-iran-diplomatic-stalemate/",
-      "desc": "",
-      "pubDate": "Sat, 22 Aug 2026 15:00:00 +0000"
-    },
-    {
-      "source": "The Hill",
-      "title": "Iran says 'world approved our victory' over the US",
-      "link": "https://thehill.com/policy/international/6044991-iran-claims-world-accepted-victory-sanctions/",
-      "desc": "",
-      "pubDate": "Sat, 22 Aug 2026 14:25:09 +0000"
     }
   ]
 }
