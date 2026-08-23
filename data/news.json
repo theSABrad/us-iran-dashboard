@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-08-23T18:13:00.028399Z",
-  "count": 16,
+  "lastUpdated": "2026-08-23T21:10:45.085563Z",
+  "count": 17,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Trump has \u2018run out of options\u2019 in Iran war: Stephen Walt",
+      "link": "https://www.aljazeera.com/video/the-bottom-line/2026/8/23/trump-has-run-out-of-options-in-iran-war-stephen-walt?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sun, 23 Aug 2026 18:15:22 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "Iran war: Top US lawmaker says Republicans can \u2018absolutely\u2019 win midterms",
@@ -29,13 +36,6 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/23-08-clip-pezeshkian-iran-ir-fm?traffic_source=rss",
       "desc": "",
       "pubDate": "Sun, 23 Aug 2026 15:25:47 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Can Iran retaliate against countries that join US \u2018economic war\u2019?",
-      "link": "https://www.aljazeera.com/news/2026/8/23/can-iran-retaliate-against-countries-that-join-us-economic-war?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Sun, 23 Aug 2026 11:50:22 +0000"
     },
     {
       "source": "BBC",
@@ -109,10 +109,17 @@
     },
     {
       "source": "The Hill",
-      "title": "Pence says US must prepare for 'inevitable' action against Iran",
-      "link": "https://thehill.com/homenews/administration/6045637-us-military-preparedness-iran/",
+      "title": "Barrasso: Monday will be 'D-Day for the economy in Iran\u2019",
+      "link": "https://thehill.com/homenews/senate/6045941-barrasso-iran-economic-d-day/",
       "desc": "",
-      "pubDate": "Sun, 23 Aug 2026 15:31:18 +0000"
+      "pubDate": "Sun, 23 Aug 2026 20:23:35 +0000"
+    },
+    {
+      "source": "The Hill",
+      "title": "Pence denies that Iran war hurting Ukraine by depleting US stockpiles",
+      "link": "https://thehill.com/policy/international/6045828-pence-denies-that-iran-war-hurting-ukraine-by-depleting-us-stockpiles/",
+      "desc": "",
+      "pubDate": "Sun, 23 Aug 2026 18:44:19 +0000"
     }
   ]
 }
