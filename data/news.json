@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-08-24T03:43:17.671851Z",
-  "count": 16,
+  "lastUpdated": "2026-08-24T06:34:13.838726Z",
+  "count": 15,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "\u2018We know this movie\u2019: Iran mocks latest US sanctions",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/we-know-this-movie-iran-mocks-latest-us-sanctions?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Mon, 24 Aug 2026 04:02:14 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "Iran war live: US vows \u2018economic D-Day\u2019; Tehran threatens Gulf oil exports",
@@ -15,20 +22,6 @@
       "link": "https://www.aljazeera.com/video/inside-story/2026/8/23/will-donald-trumps-new-sanctions-against-iran-work?traffic_source=rss",
       "desc": "",
       "pubDate": "Sun, 23 Aug 2026 21:34:53 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Trump has \u2018run out of options\u2019 in Iran war: Stephen Walt",
-      "link": "https://www.aljazeera.com/video/the-bottom-line/2026/8/23/trump-has-run-out-of-options-in-iran-war-stephen-walt?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Sun, 23 Aug 2026 18:15:22 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Iran war: Top US lawmaker says Republicans can \u2018absolutely\u2019 win midterms",
-      "link": "https://www.aljazeera.com/news/2026/8/23/iran-war-top-us-lawmaker-says-republicans-can-absolutely-win-midterms?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Sun, 23 Aug 2026 17:53:31 +0000"
     },
     {
       "source": "BBC",
