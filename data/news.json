@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-08-24T12:24:00.394087Z",
-  "count": 16,
+  "lastUpdated": "2026-08-24T15:27:43.421419Z",
+  "count": 17,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "South Korea says US cancelled upcoming joint marine exercises over Iran war",
+      "link": "https://www.aljazeera.com/news/2026/8/24/south-korea-says-us-cancelled-upcoming-joint-marine-exercises-over-iran-war?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Mon, 24 Aug 2026 12:28:26 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "US threatens toughest sanctions yet against Iran: What we know",
@@ -17,11 +24,11 @@
       "pubDate": "Mon, 24 Aug 2026 09:10:12 +0000"
     },
     {
-      "source": "Al Jazeera",
-      "title": "How much more are you spending on petrol since the war on Iran began?",
-      "link": "https://www.aljazeera.com/news/2026/8/24/how-much-more-are-you-spending-on-petrol-since-the-war-in-iran-began?traffic_source=rss",
+      "source": "BBC",
+      "title": "<![CDATA[Iran faces 'greatest financial offensive ever', says US treasury secretary]]>",
+      "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
       "desc": "",
-      "pubDate": "Mon, 24 Aug 2026 07:26:15 +0000"
+      "pubDate": "Mon, 24 Aug 2026 13:35:07 GMT"
     },
     {
       "source": "BBC",
@@ -74,6 +81,13 @@
     },
     {
       "source": "NPR",
+      "title": "Treasury Secretary Scott Bessent to unveil new economic sanctions on Iran",
+      "link": "https://www.npr.org/2026/08/24/g-s1-139743/treasury-secretary-scott-bessent-to-unveil-new-economic-sanctions-on-iran",
+      "desc": "The Trump administration calls this \"economic D-Day\" on Iran. Iran vows to respond to fresh sanctions in a \"seismic manner.\"",
+      "pubDate": "Mon, 24 Aug 2026 08:26:00 -0400"
+    },
+    {
+      "source": "NPR",
       "title": "U.S. to detail new economic pressures on Iran. And, Canada to impose tariffs on U.S.",
       "link": "https://www.npr.org/2026/08/24/g-s1-139736/up-first-newsletter-iran-economic-pressures-canada-tariffs-trump-visa-ban",
       "desc": "Today, Treasury Secretary Scott Bessent is set to announce details on new economic pressures on Iran. And, Canada has vowed to impose retaliatory tariffs against the U.S.",
@@ -102,17 +116,10 @@
     },
     {
       "source": "The Hill",
-      "title": "Bessent doubles down on Trump warnings: 'Entering the endgame' on Iran",
-      "link": "https://thehill.com/homenews/administration/6046363-scott-bessent-donald-trump-warnings-iran-war-endgame/",
+      "title": "Democrats demand Iran war cost details from Trump, Hegseth: Report",
+      "link": "https://thehill.com/homenews/house/6046742-house-democrats-letter-iran-conflict/",
       "desc": "",
-      "pubDate": "Mon, 24 Aug 2026 11:54:40 +0000"
-    },
-    {
-      "source": "The Hill",
-      "title": "Trump's 'economic D-Day' on Iran puts China in the crosshairs",
-      "link": "https://thehill.com/homenews/administration/6044341-trump-iran-economic-warfare-china/",
-      "desc": "",
-      "pubDate": "Mon, 24 Aug 2026 10:00:00 +0000"
+      "pubDate": "Mon, 24 Aug 2026 15:15:30 +0000"
     }
   ]
 }
