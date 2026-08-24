@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-08-24T09:34:52.114669Z",
-  "count": 15,
+  "lastUpdated": "2026-08-24T12:24:00.394087Z",
+  "count": 16,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "US threatens toughest sanctions yet against Iran: What we know",
+      "link": "https://www.aljazeera.com/news/2026/8/24/us-threatens-toughest-sanctions-yet-against-iran-what-we-know?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Mon, 24 Aug 2026 10:23:11 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "US threat of \u2018economic D-Day\u2019 for Iran tests Trump\u2019s China detente",
@@ -15,20 +22,6 @@
       "link": "https://www.aljazeera.com/news/2026/8/24/how-much-more-are-you-spending-on-petrol-since-the-war-in-iran-began?traffic_source=rss",
       "desc": "",
       "pubDate": "Mon, 24 Aug 2026 07:26:15 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Pakistan\u2019s army chief back in Iran: Can he break peace talks deadlock?",
-      "link": "https://www.aljazeera.com/news/2026/8/24/pakistans-army-chief-munir-returns-to-iran-can-he-break-us-war-deadlock?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Mon, 24 Aug 2026 06:30:37 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "\u2018We know this movie\u2019: Iran mocks latest US sanctions",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/we-know-this-movie-iran-mocks-latest-us-sanctions?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Mon, 24 Aug 2026 04:02:14 +0000"
     },
     {
       "source": "BBC",
@@ -81,6 +74,13 @@
     },
     {
       "source": "NPR",
+      "title": "U.S. to detail new economic pressures on Iran. And, Canada to impose tariffs on U.S.",
+      "link": "https://www.npr.org/2026/08/24/g-s1-139736/up-first-newsletter-iran-economic-pressures-canada-tariffs-trump-visa-ban",
+      "desc": "Today, Treasury Secretary Scott Bessent is set to announce details on new economic pressures on Iran. And, Canada has vowed to impose retaliatory tariffs against the U.S.",
+      "pubDate": "Mon, 24 Aug 2026 07:27:44 -0400"
+    },
+    {
+      "source": "NPR",
       "title": "Top Iran official says U.S. focus on economic warfare shows it has failed militarily",
       "link": "https://www.npr.org/2026/08/21/nx-s1-5940610/iran-us-threat-economic-warfare",
       "desc": "The Iranian regime has dismissed President Trump's threats to crush Iran economically, saying that years of U.S. sanctions have failed.",
@@ -102,10 +102,17 @@
     },
     {
       "source": "The Hill",
-      "title": "Barrasso: Monday will be 'D-Day for the economy in Iran\u2019",
-      "link": "https://thehill.com/homenews/senate/6045941-barrasso-iran-economic-d-day/",
+      "title": "Bessent doubles down on Trump warnings: 'Entering the endgame' on Iran",
+      "link": "https://thehill.com/homenews/administration/6046363-scott-bessent-donald-trump-warnings-iran-war-endgame/",
       "desc": "",
-      "pubDate": "Sun, 23 Aug 2026 20:23:35 +0000"
+      "pubDate": "Mon, 24 Aug 2026 11:54:40 +0000"
+    },
+    {
+      "source": "The Hill",
+      "title": "Trump's 'economic D-Day' on Iran puts China in the crosshairs",
+      "link": "https://thehill.com/homenews/administration/6044341-trump-iran-economic-warfare-china/",
+      "desc": "",
+      "pubDate": "Mon, 24 Aug 2026 10:00:00 +0000"
     }
   ]
 }
