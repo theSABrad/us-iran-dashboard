@@ -1,7 +1,28 @@
 {
-  "lastUpdated": "2026-08-24T15:27:43.421419Z",
-  "count": 17,
+  "lastUpdated": "2026-08-24T18:22:41.390796Z",
+  "count": 21,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Trump administration announces global economic war on Iran",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/trump-administration-announces-global-economic-war-on-iran-2?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Mon, 24 Aug 2026 17:53:00 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Trump administration announces \u2018economic D-day\u2019 sanctions on Iran",
+      "link": "https://www.aljazeera.com/news/2026/8/24/trump-administration-announces-global-economic-war-on-iran?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Mon, 24 Aug 2026 17:10:37 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "What to expect as Iran braces for new US economic measures amid war",
+      "link": "https://www.aljazeera.com/economy/2026/8/24/what-to-expect-as-iran-braces-for-new-us-economic-measures-amid-war?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Mon, 24 Aug 2026 16:02:50 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "South Korea says US cancelled upcoming joint marine exercises over Iran war",
@@ -10,25 +31,11 @@
       "pubDate": "Mon, 24 Aug 2026 12:28:26 +0000"
     },
     {
-      "source": "Al Jazeera",
-      "title": "US threatens toughest sanctions yet against Iran: What we know",
-      "link": "https://www.aljazeera.com/news/2026/8/24/us-threatens-toughest-sanctions-yet-against-iran-what-we-know?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Mon, 24 Aug 2026 10:23:11 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "US threat of \u2018economic D-Day\u2019 for Iran tests Trump\u2019s China detente",
-      "link": "https://www.aljazeera.com/economy/2026/8/24/us-threat-of-economic-d-day-for-iran-tests-trumps-china-detente?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Mon, 24 Aug 2026 09:10:12 +0000"
-    },
-    {
       "source": "BBC",
       "title": "<![CDATA[Iran faces 'greatest financial offensive ever', says US treasury secretary]]>",
       "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
       "desc": "",
-      "pubDate": "Mon, 24 Aug 2026 13:35:07 GMT"
+      "pubDate": "Mon, 24 Aug 2026 17:59:14 GMT"
     },
     {
       "source": "BBC",
@@ -81,7 +88,7 @@
     },
     {
       "source": "NPR",
-      "title": "Treasury Secretary Scott Bessent to unveil new economic sanctions on Iran",
+      "title": "Treasury Secretary Scott Bessent unveils new U.S. economic sanctions on Iran",
       "link": "https://www.npr.org/2026/08/24/g-s1-139743/treasury-secretary-scott-bessent-to-unveil-new-economic-sanctions-on-iran",
       "desc": "The Trump administration calls this \"economic D-Day\" on Iran. Iran vows to respond to fresh sanctions in a \"seismic manner.\"",
       "pubDate": "Mon, 24 Aug 2026 08:26:00 -0400"
@@ -116,10 +123,24 @@
     },
     {
       "source": "The Hill",
-      "title": "Democrats demand Iran war cost details from Trump, Hegseth: Report",
-      "link": "https://thehill.com/homenews/house/6046742-house-democrats-letter-iran-conflict/",
+      "title": "Live updates: Bessent teases new Iran sanctions, saying appeasement no longer works",
+      "link": "https://thehill.com/homenews/administration/6046040-live-updates-donald-trump-scott-bessent-iran-war-sanctions-tariffs/",
       "desc": "",
-      "pubDate": "Mon, 24 Aug 2026 15:15:30 +0000"
+      "pubDate": "Mon, 24 Aug 2026 17:20:38 +0000"
+    },
+    {
+      "source": "The Hill",
+      "title": "2 US military refueling aircraft depart Bulgaria amid anger from Iran over deployment",
+      "link": "https://thehill.com/policy/defense/6047077-bulgaria-iran-air-force/",
+      "desc": "",
+      "pubDate": "Mon, 24 Aug 2026 17:00:48 +0000"
+    },
+    {
+      "source": "The Hill",
+      "title": "Watch live: Bessent unveils 'economic D-day' sanctions on Iran",
+      "link": "https://thehill.com/video-clips/6046874-watch-live-scott-bessent-sanctions-iran-war/",
+      "desc": "",
+      "pubDate": "Mon, 24 Aug 2026 16:52:10 +0000"
     }
   ]
 }
