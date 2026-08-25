@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-08-25T15:32:33.327520Z",
+  "lastUpdated": "2026-08-25T18:22:02.954139Z",
   "count": 18,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Sanctions or missiles? How Gulf will view Trump\u2019s new Iran approach",
+      "link": "https://www.aljazeera.com/news/2026/8/25/sanctions-or-missiles-why-gulf-may-not-relish-trumps-new-iran-approach?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Tue, 25 Aug 2026 16:39:24 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "Qatar says US sanctions on Iran are unilateral",
@@ -39,6 +46,20 @@
     },
     {
       "source": "BBC",
+      "title": "<![CDATA[Who does Iran trade with and what could Trump's 'economic D-Day' mean?]]>",
+      "link": "https://www.bbc.co.uk/news/articles/cqxvj1zd4qjo?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Tue, 25 Aug 2026 15:04:52 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[China hits out at 'illegal' new US sanctions on Iran and trading partners]]>",
+      "link": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Tue, 25 Aug 2026 11:53:36 GMT"
+    },
+    {
+      "source": "BBC",
       "title": "<![CDATA[Iran says it is 'fully prepared' to counter widened US economic sanctions]]>",
       "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
       "desc": "",
@@ -60,31 +81,10 @@
     },
     {
       "source": "BBC",
-      "title": "<![CDATA[Saudi Arabia's dilemma as it tries to stay out of US-Iran war]]>",
-      "link": "https://www.bbc.co.uk/news/articles/clyx83l8jv8o?at_medium=RSS&at_campaign=rss",
+      "title": "<![CDATA[Watch: What are the US sanctions on Iran and who else will be affected?]]>",
+      "link": "https://www.bbc.co.uk/news/videos/c07lel35rllo?at_medium=RSS&at_campaign=rss",
       "desc": "",
-      "pubDate": "Wed, 29 Jul 2026 18:41:31 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[As the US pauses the war with Iran, is Trump really running out of weapons?]]>",
-      "link": "https://www.bbc.co.uk/news/articles/c0qvnk2ezp7o?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Mon, 27 Jul 2026 21:06:42 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA['What was their crime?': BBC visits Iran school where strike killed 120 children]]>",
-      "link": "https://www.bbc.co.uk/news/articles/cewrx0ldlkko?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Thu, 23 Jul 2026 04:49:24 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[Why Iran is risking so much over the Strait of Hormuz]]>",
-      "link": "https://www.bbc.co.uk/news/articles/cwymx3eevpjo?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Tue, 21 Jul 2026 14:36:47 GMT"
+      "pubDate": "Tue, 25 Aug 2026 13:46:28 GMT"
     },
     {
       "source": "NPR",
@@ -123,10 +123,10 @@
     },
     {
       "source": "The Hill",
-      "title": "China: New US sanctions on Iran 'will only further intensify tensions'",
-      "link": "https://thehill.com/policy/international/6048518-china-criticizes-us-iran-sanctions/",
+      "title": "Pakistan, Iran made 'significant progress' to end US-Iran war, minister says",
+      "link": "https://thehill.com/policy/international/6049608-pakistan-iran-peace-progress/",
       "desc": "",
-      "pubDate": "Tue, 25 Aug 2026 13:54:38 +0000"
+      "pubDate": "Tue, 25 Aug 2026 18:18:28 +0000"
     }
   ]
 }
