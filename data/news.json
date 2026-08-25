@@ -1,7 +1,28 @@
 {
-  "lastUpdated": "2026-08-25T09:23:36.296316Z",
-  "count": 17,
+  "lastUpdated": "2026-08-25T12:24:27.878545Z",
+  "count": 20,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "How the US sanctions on Iran impact China",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/25/how-the-us-sanctions-on-iran-impact-china?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Tue, 25 Aug 2026 11:30:08 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Can Pakistan\u2019s Asim Munir convince Iran military chiefs to return to talks?",
+      "link": "https://www.aljazeera.com/news/2026/8/25/can-pakistans-asim-munir-convince-iran-military-chiefs-to-return-to-talks?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Tue, 25 Aug 2026 10:22:00 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Who are Iran\u2019s top trading partners US would need to target to isolate it?",
+      "link": "https://www.aljazeera.com/news/2026/8/25/who-are-irans-top-trading-partners-us-would-need-to-target-to-isolate-it?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Tue, 25 Aug 2026 09:23:05 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "Pakistan says significant progress made in talks on Iran-US war",
@@ -15,20 +36,6 @@
       "link": "https://www.aljazeera.com/opinions/2026/8/25/the-iran-war-is-bringing-cyberwarfare-into-critical-infrastructure?traffic_source=rss",
       "desc": "",
       "pubDate": "Tue, 25 Aug 2026 06:37:32 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Israel\u2019s Netanyahu claims Iran tried to kill one of his sons",
-      "link": "https://www.aljazeera.com/news/2026/8/25/israels-netanyahu-claims-iran-tried-to-kill-one-of-his-sons?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Tue, 25 Aug 2026 02:54:40 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Iran war live: US economic campaign \u2018tacit admission\u2019 of military failure",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/8/25/iran-war-live-drat?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Tue, 25 Aug 2026 00:00:00 +0000"
     },
     {
       "source": "BBC",
@@ -81,6 +88,13 @@
     },
     {
       "source": "NPR",
+      "title": "Trump calls leaders to isolate Iran. And, SCOTUS backs Trump for now on mail-in voting",
+      "link": "https://www.npr.org/2026/08/25/g-s1-140004/up-first-newsletter-iran-economic-war-scotus-mail-in-voting-dhs-privacy",
+      "desc": "President Trump is calling on world leaders to join his economic war against Iran. And, the Supreme Court is backing the president for now on his order to restrict mail-in voting.",
+      "pubDate": "Tue, 25 Aug 2026 07:09:01 -0400"
+    },
+    {
+      "source": "NPR",
       "title": "Can Trump's economic war against Iran do what airstrikes and negotiations couldn't?",
       "link": "https://www.npr.org/2026/08/25/nx-s1-5943572/trump-iran-sanctions",
       "desc": "What a new round of U.S. sanctions could mean after nearly six months of war with Iran \u2014 and years of economic pressure on the country.",
@@ -88,7 +102,7 @@
     },
     {
       "source": "NPR",
-      "title": "Six months on, U.S. Navy families who evacuated Bahrain remain in limbo",
+      "title": "6 months on, U.S. Navy families who evacuated Bahrain remain in limbo",
       "link": "https://www.npr.org/2026/08/24/nx-s1-5943188/six-months-on-u-s-navy-families-who-evacauated-bahrain-remain-in-limbo",
       "desc": "When the U.S.-Iran war began, more than 1,000 dependents of U.S. Navy personnel in Bahrain were ordered to evacuate. After six months in temporary conditions, they want to know what the plan is.",
       "pubDate": "Mon, 24 Aug 2026 18:22:13 -0400"
@@ -109,17 +123,24 @@
     },
     {
       "source": "The Hill",
+      "title": "Bessent slow rolls \u2018Economic D-Day\u2019 on Iran",
+      "link": "https://thehill.com/newsletters/morning-report/6048370-scott-bessent-trump-administration-slow-roll-iran-war-sanctions/",
+      "desc": "",
+      "pubDate": "Tue, 25 Aug 2026 11:19:38 +0000"
+    },
+    {
+      "source": "The Hill",
+      "title": "The Memo: Trump and Bessent crank up economic pressure on Iran as other options fall short",
+      "link": "https://thehill.com/homenews/administration/6047974-trump-bessent-iran-economy-sanctions/",
+      "desc": "",
+      "pubDate": "Tue, 25 Aug 2026 10:00:00 +0000"
+    },
+    {
+      "source": "The Hill",
       "title": "El-Sayed spars with Jesse Watters on Fox News on immigration, Iran war: 'Let me just answer the question'",
       "link": "https://thehill.com/homenews/campaign/6048253-el-sayed-watters-immigration-iran/",
       "desc": "",
       "pubDate": "Tue, 25 Aug 2026 02:37:20 +0000"
-    },
-    {
-      "source": "The Hill",
-      "title": "Trump forgoes military strikes, attempts economic chokehold on Iran",
-      "link": "https://thehill.com/newsletters/defense-national-security/6048001-trump-forgoes-military-strikes-attempts-economic-chokehold-iran/",
-      "desc": "",
-      "pubDate": "Mon, 24 Aug 2026 22:05:59 +0000"
     }
   ]
 }
