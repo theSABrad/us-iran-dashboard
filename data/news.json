@@ -1,7 +1,21 @@
 {
-  "lastUpdated": "2026-08-25T06:25:09.312211Z",
+  "lastUpdated": "2026-08-25T09:23:36.296316Z",
   "count": 17,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Pakistan says significant progress made in talks on Iran-US war",
+      "link": "https://www.aljazeera.com/news/2026/8/25/pakistan-says-significant-progress-made-in-talks-on-iran-us-war?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Tue, 25 Aug 2026 08:32:52 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "The Iran war is bringing cyberwarfare into critical infrastructure",
+      "link": "https://www.aljazeera.com/opinions/2026/8/25/the-iran-war-is-bringing-cyberwarfare-into-critical-infrastructure?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Tue, 25 Aug 2026 06:37:32 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "Israel\u2019s Netanyahu claims Iran tried to kill one of his sons",
@@ -11,31 +25,17 @@
     },
     {
       "source": "Al Jazeera",
-      "title": "Iran war live: Pakistan reports progress on restoring US-Iran MoU",
+      "title": "Iran war live: US economic campaign \u2018tacit admission\u2019 of military failure",
       "link": "https://www.aljazeera.com/news/liveblog/2026/8/25/iran-war-live-drat?traffic_source=rss",
       "desc": "",
       "pubDate": "Tue, 25 Aug 2026 00:00:00 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "How US sanctions on Iran ripple through global markets and consumers",
-      "link": "https://www.aljazeera.com/economy/2026/8/24/how-us-sanctions-on-iran-ripple-through-global-markets-and-consumers?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Mon, 24 Aug 2026 22:46:02 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "US public support for Iran war falls as Trump approval at record low: Poll",
-      "link": "https://www.aljazeera.com/news/2026/8/24/us-public-support-for-iran-war-falls-as-trump-approval-at-record-low-poll?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Mon, 24 Aug 2026 21:35:10 +0000"
     },
     {
       "source": "BBC",
       "title": "<![CDATA[Iran says it is 'fully prepared' to counter widened US economic sanctions]]>",
       "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
       "desc": "",
-      "pubDate": "Tue, 25 Aug 2026 06:16:28 GMT"
+      "pubDate": "Tue, 25 Aug 2026 08:08:26 GMT"
     },
     {
       "source": "BBC",
@@ -43,13 +43,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c87n90eg0p2o?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Thu, 20 Aug 2026 19:52:48 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[Qatar denies capturing three Iranian pilots after downing fighter jets]]>",
-      "link": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Sun, 16 Aug 2026 09:27:58 GMT"
     },
     {
       "source": "BBC",
@@ -85,6 +78,13 @@
       "link": "https://www.bbc.co.uk/news/articles/cwymx3eevpjo?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Tue, 21 Jul 2026 14:36:47 GMT"
+    },
+    {
+      "source": "NPR",
+      "title": "Can Trump's economic war against Iran do what airstrikes and negotiations couldn't?",
+      "link": "https://www.npr.org/2026/08/25/nx-s1-5943572/trump-iran-sanctions",
+      "desc": "What a new round of U.S. sanctions could mean after nearly six months of war with Iran \u2014 and years of economic pressure on the country.",
+      "pubDate": "Tue, 25 Aug 2026 05:07:09 -0400"
     },
     {
       "source": "NPR",
