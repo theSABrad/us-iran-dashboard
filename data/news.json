@@ -1,7 +1,28 @@
 {
-  "lastUpdated": "2026-08-24T21:17:59.732359Z",
-  "count": 18,
+  "lastUpdated": "2026-08-25T00:36:05.697213Z",
+  "count": 19,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Iran war live: US slaps new sanctions on Iran, warns Tehran trade partners",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/8/25/iran-war-live-drat?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Tue, 25 Aug 2026 00:00:00 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "How US sanctions on Iran ripple through global markets and consumers",
+      "link": "https://www.aljazeera.com/economy/2026/8/24/how-us-sanctions-on-iran-ripple-through-global-markets-and-consumers?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Mon, 24 Aug 2026 22:46:02 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "US public support for Iran war falls as Trump approval at record low: Poll",
+      "link": "https://www.aljazeera.com/news/2026/8/24/us-public-support-for-iran-war-falls-as-trump-approval-at-record-low-poll?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Mon, 24 Aug 2026 21:35:10 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "Video: Iran reacts to US \u2018economic D-Day\u2019 sanctions",
@@ -10,25 +31,11 @@
       "pubDate": "Mon, 24 Aug 2026 20:48:21 +0000"
     },
     {
-      "source": "Al Jazeera",
-      "title": "Trump administration announces global economic war on Iran",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/24/trump-administration-announces-global-economic-war-on-iran-2?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Mon, 24 Aug 2026 17:53:00 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "US launches \u2018D-day sanctions\u2019 aimed at cutting Iran\u2019s economic lifeline",
-      "link": "https://www.aljazeera.com/news/2026/8/24/trump-administration-announces-global-economic-war-on-iran?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Mon, 24 Aug 2026 17:10:37 +0000"
-    },
-    {
       "source": "BBC",
       "title": "<![CDATA[Iran faces 'greatest financial offensive ever', says US treasury secretary]]>",
       "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
       "desc": "",
-      "pubDate": "Mon, 24 Aug 2026 19:12:35 GMT"
+      "pubDate": "Mon, 24 Aug 2026 23:48:25 GMT"
     },
     {
       "source": "BBC",
@@ -81,6 +88,13 @@
     },
     {
       "source": "NPR",
+      "title": "Six months on, U.S. Navy families who evacuated Bahrain remain in limbo",
+      "link": "https://www.npr.org/2026/08/24/nx-s1-5943188/six-months-on-u-s-navy-families-who-evacauated-bahrain-remain-in-limbo",
+      "desc": "When the U.S.-Iran war began, more than 1,000 dependents of U.S. Navy personnel in Bahrain were ordered to evacuate. After six months in temporary conditions, they want to know what the plan is.",
+      "pubDate": "Mon, 24 Aug 2026 18:22:13 -0400"
+    },
+    {
+      "source": "NPR",
       "title": "Treasury Secretary Scott Bessent unveils new U.S. economic sanctions to isolate Iran",
       "link": "https://www.npr.org/2026/08/24/g-s1-139743/treasury-secretary-scott-bessent-to-unveil-new-economic-sanctions-on-iran",
       "desc": "The Trump administration calls this an \"economic D-Day\" on Iran. Iran vows to respond to fresh sanctions in a \"seismic manner.\"",
@@ -108,25 +122,18 @@
       "pubDate": "Fri, 21 Aug 2026 07:25:10 -0400"
     },
     {
-      "source": "NPR",
-      "title": "Trump says U.S. will impose 'economic D-Day' against Iran",
-      "link": "https://www.npr.org/2026/08/21/nx-s1-5939493/trump-says-u-s-will-impose-economic-d-day-against-iran",
-      "desc": "President Trump announced this week that the U.S. will be imposing the \"most crushing economic operation\" against Iran.",
-      "pubDate": "Fri, 21 Aug 2026 06:48:05 -0400"
+      "source": "The Hill",
+      "title": "Trump forgoes military strikes, attempts economic chokehold on Iran",
+      "link": "https://thehill.com/newsletters/defense-national-security/6048001-trump-forgoes-military-strikes-attempts-economic-chokehold-iran/",
+      "desc": "",
+      "pubDate": "Mon, 24 Aug 2026 22:05:59 +0000"
     },
     {
       "source": "The Hill",
-      "title": "Hegseth says economic pressure hurts Iranian regime 'the most'",
-      "link": "https://thehill.com/policy/defense/6047724-operation-economic-outcast-tehran-pressure/",
+      "title": "Senate Democrats call for hearing on Iran war's strain on troops",
+      "link": "https://thehill.com/policy/defense/6047832-iran-war-troop-hearing-uss-lincoln/",
       "desc": "",
-      "pubDate": "Mon, 24 Aug 2026 20:41:14 +0000"
-    },
-    {
-      "source": "The Hill",
-      "title": "Iran warns vessels of fines, detention for violating Strait of Hormuz rules",
-      "link": "https://thehill.com/policy/international/6047363-pgsa-warns-vessel-fines/",
-      "desc": "",
-      "pubDate": "Mon, 24 Aug 2026 19:15:54 +0000"
+      "pubDate": "Mon, 24 Aug 2026 21:18:21 +0000"
     }
   ]
 }
