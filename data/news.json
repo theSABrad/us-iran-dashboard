@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-08-25T00:36:05.697213Z",
-  "count": 19,
+  "lastUpdated": "2026-08-25T03:38:32.174940Z",
+  "count": 20,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Israel\u2019s Netanyahu claims Iran tried to kill one of his sons",
+      "link": "https://www.aljazeera.com/news/2026/8/25/israels-netanyahu-claims-iran-tried-to-kill-one-of-his-sons?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Tue, 25 Aug 2026 02:54:40 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "Iran war live: US slaps new sanctions on Iran, warns Tehran trade partners",
@@ -123,17 +130,17 @@
     },
     {
       "source": "The Hill",
+      "title": "El-Sayed spars with Jesse Watters on Fox News on immigration, Iran war: 'Let me just answer the question'",
+      "link": "https://thehill.com/homenews/campaign/6048253-el-sayed-watters-immigration-iran/",
+      "desc": "",
+      "pubDate": "Tue, 25 Aug 2026 02:37:20 +0000"
+    },
+    {
+      "source": "The Hill",
       "title": "Trump forgoes military strikes, attempts economic chokehold on Iran",
       "link": "https://thehill.com/newsletters/defense-national-security/6048001-trump-forgoes-military-strikes-attempts-economic-chokehold-iran/",
       "desc": "",
       "pubDate": "Mon, 24 Aug 2026 22:05:59 +0000"
-    },
-    {
-      "source": "The Hill",
-      "title": "Senate Democrats call for hearing on Iran war's strain on troops",
-      "link": "https://thehill.com/policy/defense/6047832-iran-war-troop-hearing-uss-lincoln/",
-      "desc": "",
-      "pubDate": "Mon, 24 Aug 2026 21:18:21 +0000"
     }
   ]
 }
