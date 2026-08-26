@@ -1,27 +1,20 @@
 {
-  "lastUpdated": "2026-08-26T12:26:48.257983Z",
-  "count": 12,
+  "lastUpdated": "2026-08-26T16:08:26.392741Z",
+  "count": 11,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Trump tells Al Jazeera \u2018not in a hurry\u2019 for Iran to return to talks",
+      "link": "https://www.aljazeera.com/economy/2026/8/26/trump-tells-al-jazeera-not-in-a-hurry-for-iran-to-return-to-talks?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Wed, 26 Aug 2026 14:16:29 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "Iran, Oman agree on temporary Hormuz route: What we know",
       "link": "https://www.aljazeera.com/news/2026/8/26/iran-oman-agree-on-temporary-hormuz-route-what-we-know?traffic_source=rss",
       "desc": "",
       "pubDate": "Wed, 26 Aug 2026 12:05:09 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "One US dollar now costs 2 million rials in Iran, and here\u2019s what it can buy",
-      "link": "https://www.aljazeera.com/economy/2026/8/26/one-us-dollar-now-costs-2-million-rials-in-iran-and-heres-what-it-can-buy?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Wed, 26 Aug 2026 10:00:05 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "The Bulgarian village that fears becoming an Iranian target",
-      "link": "https://www.aljazeera.com/news/2026/8/26/the-bulgarian-village-that-fears-becoming-an-iranian-target?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Wed, 26 Aug 2026 09:20:33 +0000"
     },
     {
       "source": "BBC",
@@ -80,11 +73,11 @@
       "pubDate": "Tue, 25 Aug 2026 05:07:09 -0400"
     },
     {
-      "source": "NPR",
-      "title": "6 months on, U.S. Navy families who evacuated Bahrain remain in limbo",
-      "link": "https://www.npr.org/2026/08/24/nx-s1-5943188/six-months-on-u-s-navy-families-who-evacauated-bahrain-remain-in-limbo",
-      "desc": "When the U.S.-Iran war began, more than 1,000 dependents of U.S. Navy personnel in Bahrain were ordered to evacuate. After six months in temporary conditions, they want to know what the plan is.",
-      "pubDate": "Mon, 24 Aug 2026 18:22:13 -0400"
+      "source": "The Hill",
+      "title": "Trump: If Ayatollah is dead, Iran 'putting on a good show'",
+      "link": "https://thehill.com/homenews/administration/6052091-trump-responds-iran-leader-death-report/",
+      "desc": "",
+      "pubDate": "Wed, 26 Aug 2026 14:56:30 +0000"
     }
   ]
 }
