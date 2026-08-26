@@ -1,27 +1,27 @@
 {
-  "lastUpdated": "2026-08-26T03:43:17.555716Z",
-  "count": 15,
+  "lastUpdated": "2026-08-26T06:27:33.711386Z",
+  "count": 14,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Top official says Iran, Oman have agreed new temporary route in Hormuz",
+      "link": "https://www.aljazeera.com/economy/2026/8/26/top-official-says-iran-oman-have-agreed-new-temporary-hormuz-route?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Wed, 26 Aug 2026 06:02:13 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Iran bets economic pain will pressure Trump in game of \u2018chicken\u2019",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/iran-bets-economic-pain-will-pressure-trump-in-game-of?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Wed, 26 Aug 2026 05:20:17 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "Iran war live: Iran says Hormuz remains closed despite Oman route deal",
       "link": "https://www.aljazeera.com/news/liveblog/2026/8/26/iran-war-live-iran-says-hormuz-remains-closed-despite-oman-rout-deal?traffic_source=rss",
       "desc": "",
       "pubDate": "Wed, 26 Aug 2026 00:00:00 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "New US sanctions signal Trump desperation on Iran, experts say",
-      "link": "https://www.aljazeera.com/news/2026/8/25/new-us-sanctions-signal-trump-desperation-on-iran-experts-say?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Tue, 25 Aug 2026 20:34:49 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Iran, Oman discuss temporary shipping lane through Strait of Hormuz",
-      "link": "https://www.aljazeera.com/news/2026/8/25/iran-oman-discuss-temporary-shipping-lane-through-strait-of-hormuz?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Tue, 25 Aug 2026 19:47:51 +0000"
     },
     {
       "source": "BBC",
@@ -99,13 +99,6 @@
       "link": "https://www.npr.org/2026/08/24/g-s1-139743/treasury-secretary-scott-bessent-to-unveil-new-economic-sanctions-on-iran",
       "desc": "The Trump administration calls this an \"economic D-Day\" on Iran. Iran vows to respond to fresh sanctions in a \"seismic manner.\"",
       "pubDate": "Mon, 24 Aug 2026 08:26:00 -0400"
-    },
-    {
-      "source": "NPR",
-      "title": "U.S. to detail new economic pressures on Iran. And, Canada to impose tariffs on U.S.",
-      "link": "https://www.npr.org/2026/08/24/g-s1-139736/up-first-newsletter-iran-economic-pressures-canada-tariffs-trump-visa-ban",
-      "desc": "Today, Treasury Secretary Scott Bessent is set to announce details on new economic pressures on Iran. And, Canada has vowed to impose retaliatory tariffs against the U.S.",
-      "pubDate": "Mon, 24 Aug 2026 07:27:44 -0400"
     }
   ]
 }
