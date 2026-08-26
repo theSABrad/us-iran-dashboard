@@ -1,20 +1,27 @@
 {
-  "lastUpdated": "2026-08-26T16:08:26.392741Z",
-  "count": 11,
+  "lastUpdated": "2026-08-26T19:29:19.144806Z",
+  "count": 13,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Trump says Iran war will continue for as long as necessary",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/trump-says-iran-war-will-continue-for-as-long-as-necessary?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Wed, 26 Aug 2026 18:07:37 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Iran emphasises self-sufficiency in battle against US economic war",
+      "link": "https://www.aljazeera.com/news/2026/8/26/iran-emphasises-self-sufficiency-battle-against-us-economic-war?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Wed, 26 Aug 2026 16:53:20 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "Trump tells Al Jazeera \u2018not in a hurry\u2019 for Iran to return to talks",
       "link": "https://www.aljazeera.com/economy/2026/8/26/trump-tells-al-jazeera-not-in-a-hurry-for-iran-to-return-to-talks?traffic_source=rss",
       "desc": "",
       "pubDate": "Wed, 26 Aug 2026 14:16:29 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Iran, Oman agree on temporary Hormuz route: What we know",
-      "link": "https://www.aljazeera.com/news/2026/8/26/iran-oman-agree-on-temporary-hormuz-route-what-we-know?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Wed, 26 Aug 2026 12:05:09 +0000"
     },
     {
       "source": "BBC",
@@ -60,6 +67,13 @@
     },
     {
       "source": "NPR",
+      "title": "Greetings from Karbala, Iraq, where millions gathered for a Shia pilgrimage",
+      "link": "https://www.npr.org/2026/08/26/g-s1-138982/karbala-iraq-arbaeen-shia-muslims",
+      "desc": "Pilgrims came to Iraq from all over the world in August. Many Iraqi and Iranian pilgrims walked hundreds of miles in extreme heat to mark the event. Outside the shrines, the atmosphere is almost festi",
+      "pubDate": "Wed, 26 Aug 2026 13:36:13 -0400"
+    },
+    {
+      "source": "NPR",
       "title": "Trump calls leaders to isolate Iran. And, SCOTUS backs Trump for now on mail-in voting",
       "link": "https://www.npr.org/2026/08/25/g-s1-140004/up-first-newsletter-iran-economic-war-scotus-mail-in-voting-dhs-privacy",
       "desc": "President Trump is calling on world leaders to join his economic war against Iran. And, the Supreme Court is backing the president for now on his order to restrict mail-in voting.",
@@ -74,10 +88,10 @@
     },
     {
       "source": "The Hill",
-      "title": "Trump: If Ayatollah is dead, Iran 'putting on a good show'",
-      "link": "https://thehill.com/homenews/administration/6052091-trump-responds-iran-leader-death-report/",
+      "title": "Global oil traffic shifts toward the US amid Iran war disruptions",
+      "link": "https://thehill.com/opinion/energy-environment/6050929-iran-war-shifts-oil-traffic/",
       "desc": "",
-      "pubDate": "Wed, 26 Aug 2026 14:56:30 +0000"
+      "pubDate": "Wed, 26 Aug 2026 17:30:00 +0000"
     }
   ]
 }
