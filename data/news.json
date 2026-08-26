@@ -1,10 +1,17 @@
 {
-  "lastUpdated": "2026-08-26T06:27:33.711386Z",
-  "count": 14,
+  "lastUpdated": "2026-08-26T09:29:34.774239Z",
+  "count": 12,
   "articles": [
     {
       "source": "Al Jazeera",
-      "title": "Top official says Iran, Oman have agreed new temporary route in Hormuz",
+      "title": "Trump threatens Iran\u2019s partners: How do secondary sanctions work?",
+      "link": "https://www.aljazeera.com/economy/2026/8/26/trump-threatens-irans-partners-how-do-secondary-sanctions-work?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Wed, 26 Aug 2026 07:18:07 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Iran, Oman agree on new temporary route in Hormuz",
       "link": "https://www.aljazeera.com/economy/2026/8/26/top-official-says-iran-oman-have-agreed-new-temporary-hormuz-route?traffic_source=rss",
       "desc": "",
       "pubDate": "Wed, 26 Aug 2026 06:02:13 +0000"
@@ -15,13 +22,6 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/iran-bets-economic-pain-will-pressure-trump-in-game-of?traffic_source=rss",
       "desc": "",
       "pubDate": "Wed, 26 Aug 2026 05:20:17 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Iran war live: Iran says Hormuz remains closed despite Oman route deal",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/8/26/iran-war-live-iran-says-hormuz-remains-closed-despite-oman-rout-deal?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Wed, 26 Aug 2026 00:00:00 +0000"
     },
     {
       "source": "BBC",
@@ -50,13 +50,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Tue, 25 Aug 2026 08:08:26 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[US says sanctions will 'squash' Iran's economy and 'collapse' its regime]]>",
-      "link": "https://www.bbc.co.uk/news/articles/c87n90eg0p2o?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Thu, 20 Aug 2026 19:52:48 GMT"
     },
     {
       "source": "BBC",
@@ -92,13 +85,6 @@
       "link": "https://www.npr.org/2026/08/24/nx-s1-5943188/six-months-on-u-s-navy-families-who-evacauated-bahrain-remain-in-limbo",
       "desc": "When the U.S.-Iran war began, more than 1,000 dependents of U.S. Navy personnel in Bahrain were ordered to evacuate. After six months in temporary conditions, they want to know what the plan is.",
       "pubDate": "Mon, 24 Aug 2026 18:22:13 -0400"
-    },
-    {
-      "source": "NPR",
-      "title": "Treasury Secretary Scott Bessent unveils new U.S. economic sanctions to isolate Iran",
-      "link": "https://www.npr.org/2026/08/24/g-s1-139743/treasury-secretary-scott-bessent-to-unveil-new-economic-sanctions-on-iran",
-      "desc": "The Trump administration calls this an \"economic D-Day\" on Iran. Iran vows to respond to fresh sanctions in a \"seismic manner.\"",
-      "pubDate": "Mon, 24 Aug 2026 08:26:00 -0400"
     }
   ]
 }
