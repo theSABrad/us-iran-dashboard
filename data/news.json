@@ -1,13 +1,20 @@
 {
-  "lastUpdated": "2026-08-27T00:19:42.654781Z",
-  "count": 11,
+  "lastUpdated": "2026-08-27T13:16:46.120490Z",
+  "count": 10,
   "articles": [
     {
       "source": "Al Jazeera",
-      "title": "Trump says Iran war will continue for as long as necessary",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/26/trump-says-iran-war-will-continue-for-as-long-as-necessary?traffic_source=rss",
+      "title": "Is Iran war diplomacy ramping up, as Qatar, Oman, Pakistan officials visit?",
+      "link": "https://www.aljazeera.com/news/2026/8/27/is-iran-war-diplomacy-ramping-up-as-qatar-oman-pakistan-officials-visit?traffic_source=rss",
       "desc": "",
-      "pubDate": "Wed, 26 Aug 2026 18:07:37 +0000"
+      "pubDate": "Thu, 27 Aug 2026 10:50:39 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Six months of the Iran war \u2013 as told through Trump\u2019s social media posts",
+      "link": "https://www.aljazeera.com/news/2026/8/27/six-months-of-the-iran-war-as-told-through-trumps-social-media-posts?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Thu, 27 Aug 2026 10:37:28 +0000"
     },
     {
       "source": "BBC",
@@ -59,25 +66,11 @@
       "pubDate": "Wed, 26 Aug 2026 13:36:13 -0400"
     },
     {
-      "source": "NPR",
-      "title": "Trump calls leaders to isolate Iran. And, SCOTUS backs Trump for now on mail-in voting",
-      "link": "https://www.npr.org/2026/08/25/g-s1-140004/up-first-newsletter-iran-economic-war-scotus-mail-in-voting-dhs-privacy",
-      "desc": "President Trump is calling on world leaders to join his economic war against Iran. And, the Supreme Court is backing the president for now on his order to restrict mail-in voting.",
-      "pubDate": "Tue, 25 Aug 2026 07:09:01 -0400"
-    },
-    {
-      "source": "NPR",
-      "title": "Can Trump's economic war against Iran do what airstrikes and negotiations couldn't?",
-      "link": "https://www.npr.org/2026/08/25/nx-s1-5943572/trump-iran-sanctions",
-      "desc": "What a new round of U.S. sanctions could mean after nearly six months of war with Iran \u2014 and years of economic pressure on the country.",
-      "pubDate": "Tue, 25 Aug 2026 05:07:09 -0400"
-    },
-    {
       "source": "The Hill",
-      "title": "Do Iran's latest threats to Europe have teeth?",
-      "link": "https://thehill.com/newsletters/defense-national-security/6053851-do-irans-latest-threats-to-europe-have-teeth/",
+      "title": "Trump shifts toward regime change in Iran, but by other means",
+      "link": "https://thehill.com/opinion/national-security/6051419-trump-iran-economic-outcast/",
       "desc": "",
-      "pubDate": "Thu, 27 Aug 2026 00:00:20 +0000"
+      "pubDate": "Thu, 27 Aug 2026 11:00:00 +0000"
     }
   ]
 }
