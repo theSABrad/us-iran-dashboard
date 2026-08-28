@@ -1,7 +1,21 @@
 {
-  "lastUpdated": "2026-08-28T00:08:26.925233Z",
-  "count": 7,
+  "lastUpdated": "2026-08-28T14:40:50.294529Z",
+  "count": 8,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "After six months of war, what have US, Iran gained and lost?",
+      "link": "https://www.aljazeera.com/news/2026/8/28/after-six-months-of-war-what-have-us-iran-gained-and-lost?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Fri, 28 Aug 2026 12:37:10 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "US-Israel war on Iran, six months down the line: In numbers",
+      "link": "https://www.aljazeera.com/news/2026/8/28/us-israel-war-on-iran-six-months-down-the-line-in-numbers?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Fri, 28 Aug 2026 11:45:39 +0000"
+    },
     {
       "source": "BBC",
       "title": "<![CDATA[Trump hopes sanctions will topple Iran's regime - its leaders are betting otherwise]]>",
@@ -43,13 +57,6 @@
       "link": "https://www.bbc.co.uk/news/videos/c07lel35rllo?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Tue, 25 Aug 2026 13:46:28 GMT"
-    },
-    {
-      "source": "NPR",
-      "title": "Greetings from Karbala, Iraq, where millions gathered for a Shia pilgrimage",
-      "link": "https://www.npr.org/2026/08/26/g-s1-138982/karbala-iraq-arbaeen-shia-muslims",
-      "desc": "Pilgrims came to Iraq from all over the world in August. Many Iraqi and Iranian pilgrims walked hundreds of miles in extreme heat to mark the event. Outside the shrines, the atmosphere is almost festi",
-      "pubDate": "Wed, 26 Aug 2026 13:36:13 -0400"
     }
   ]
 }
