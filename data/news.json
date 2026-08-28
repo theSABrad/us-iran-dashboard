@@ -1,21 +1,7 @@
 {
-  "lastUpdated": "2026-08-28T14:40:50.294529Z",
-  "count": 8,
+  "lastUpdated": "2026-08-28T23:45:00.590619Z",
+  "count": 7,
   "articles": [
-    {
-      "source": "Al Jazeera",
-      "title": "After six months of war, what have US, Iran gained and lost?",
-      "link": "https://www.aljazeera.com/news/2026/8/28/after-six-months-of-war-what-have-us-iran-gained-and-lost?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Fri, 28 Aug 2026 12:37:10 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "US-Israel war on Iran, six months down the line: In numbers",
-      "link": "https://www.aljazeera.com/news/2026/8/28/us-israel-war-on-iran-six-months-down-the-line-in-numbers?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Fri, 28 Aug 2026 11:45:39 +0000"
-    },
     {
       "source": "BBC",
       "title": "<![CDATA[Trump hopes sanctions will topple Iran's regime - its leaders are betting otherwise]]>",
@@ -57,6 +43,13 @@
       "link": "https://www.bbc.co.uk/news/videos/c07lel35rllo?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Tue, 25 Aug 2026 13:46:28 GMT"
+    },
+    {
+      "source": "NPR",
+      "title": "After 6 months of war, Iran's battered regime remains entrenched",
+      "link": "https://www.npr.org/2026/08/28/nx-s1-5947854/us-iran-war",
+      "desc": "Instead of collapsing, the Iranian regime has dug in its heels and taken an even harder line.",
+      "pubDate": "Fri, 28 Aug 2026 15:35:24 -0400"
     }
   ]
 }
