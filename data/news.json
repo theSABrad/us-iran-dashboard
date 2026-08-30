@@ -1,35 +1,7 @@
 {
-  "lastUpdated": "2026-08-30T14:03:24.598666Z",
-  "count": 10,
+  "lastUpdated": "2026-08-30T18:13:59.916014Z",
+  "count": 7,
   "articles": [
-    {
-      "source": "Al Jazeera",
-      "title": "How has life changed for Iranians six months into the war?",
-      "link": "https://www.aljazeera.com/economy/2026/8/30/how-has-life-changed-for-iranians-six-months-into-the-war?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Sun, 30 Aug 2026 12:08:12 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Six months on, what did the strikes on Iran achieve?",
-      "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/8/30/six-months-on-what-did-the-strikes-on-iran-achieve?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Sun, 30 Aug 2026 11:24:21 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Iran\u2019s Khamenei calls for Gulf unity as Hormuz tensions persist",
-      "link": "https://www.aljazeera.com/news/2026/8/30/irans-khamenei-calls-for-gulf-unity-as-hormuz-tensions-persist?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Sun, 30 Aug 2026 10:30:57 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "The home front: How Israel, Iran, and US leaders have been hit by the war",
-      "link": "https://www.aljazeera.com/news/2026/8/30/the-home-front-how-israel-iran-and-us-leaders-have-been-hit-by-the-war?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Sun, 30 Aug 2026 09:32:26 +0000"
-    },
     {
       "source": "BBC",
       "title": "<![CDATA[Trump hopes sanctions will topple Iran's regime - its leaders are betting otherwise]]>",
@@ -71,6 +43,13 @@
       "link": "https://www.bbc.co.uk/news/videos/c07lel35rllo?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Tue, 25 Aug 2026 13:46:28 GMT"
+    },
+    {
+      "source": "The Hill",
+      "title": "Ted Cruz defends Trump's 'accomplished' Iran messaging, citing 'multiple missions'",
+      "link": "https://thehill.com/homenews/senate/6059593-cruz-defends-iran-mission/",
+      "desc": "",
+      "pubDate": "Sun, 30 Aug 2026 16:13:54 +0000"
     }
   ]
 }
