@@ -1,20 +1,34 @@
 {
-  "lastUpdated": "2026-08-30T08:38:10.845261Z",
-  "count": 9,
+  "lastUpdated": "2026-08-30T14:03:24.598666Z",
+  "count": 10,
   "articles": [
     {
       "source": "Al Jazeera",
-      "title": "Mapping Iran war\u2019s strikes on Gulf energy \u2013 and what comes next for oil",
-      "link": "https://www.aljazeera.com/news/2026/8/30/mapping-the-iran-wars-strikes-on-gulf-energy-and-what-comes-next-for-oil?traffic_source=rss",
+      "title": "How has life changed for Iranians six months into the war?",
+      "link": "https://www.aljazeera.com/economy/2026/8/30/how-has-life-changed-for-iranians-six-months-into-the-war?traffic_source=rss",
       "desc": "",
-      "pubDate": "Sun, 30 Aug 2026 05:09:11 +0000"
+      "pubDate": "Sun, 30 Aug 2026 12:08:12 +0000"
     },
     {
       "source": "Al Jazeera",
-      "title": "Iran war live: Khamenei calls for Muslim world to confront \u2018real enemy\u2019",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/8/30/iran-war-live-iran-pledges-to-stand-firm-against-unjust-us-sanctions?traffic_source=rss",
+      "title": "Six months on, what did the strikes on Iran achieve?",
+      "link": "https://www.aljazeera.com/video/by-the-numbers-3/2026/8/30/six-months-on-what-did-the-strikes-on-iran-achieve?traffic_source=rss",
       "desc": "",
-      "pubDate": "Sun, 30 Aug 2026 00:00:00 +0000"
+      "pubDate": "Sun, 30 Aug 2026 11:24:21 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Iran\u2019s Khamenei calls for Gulf unity as Hormuz tensions persist",
+      "link": "https://www.aljazeera.com/news/2026/8/30/irans-khamenei-calls-for-gulf-unity-as-hormuz-tensions-persist?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sun, 30 Aug 2026 10:30:57 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "The home front: How Israel, Iran, and US leaders have been hit by the war",
+      "link": "https://www.aljazeera.com/news/2026/8/30/the-home-front-how-israel-iran-and-us-leaders-have-been-hit-by-the-war?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sun, 30 Aug 2026 09:32:26 +0000"
     },
     {
       "source": "BBC",
@@ -57,13 +71,6 @@
       "link": "https://www.bbc.co.uk/news/videos/c07lel35rllo?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Tue, 25 Aug 2026 13:46:28 GMT"
-    },
-    {
-      "source": "NPR",
-      "title": "After 6 months of war, Iran's battered regime remains entrenched",
-      "link": "https://www.npr.org/2026/08/28/nx-s1-5947854/us-iran-war",
-      "desc": "Instead of collapsing, the Iranian regime has dug in its heels and taken an even harder line.",
-      "pubDate": "Fri, 28 Aug 2026 15:35:24 -0400"
     }
   ]
 }
