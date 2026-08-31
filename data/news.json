@@ -1,34 +1,41 @@
 {
-  "lastUpdated": "2026-08-31T09:00:55.837574Z",
-  "count": 9,
+  "lastUpdated": "2026-08-31T18:21:57.835579Z",
+  "count": 13,
   "articles": [
     {
       "source": "Al Jazeera",
-      "title": "Iran targets Jordan after first US attack in a month",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/31/iran-targets-jordan-after-first-us-attack-in-a-month?traffic_source=rss",
+      "title": "War on Iran: US bombs Iran",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/31/war-on-iran-us-bombs-iran?traffic_source=rss",
       "desc": "",
-      "pubDate": "Mon, 31 Aug 2026 03:06:56 +0000"
+      "pubDate": "Mon, 31 Aug 2026 17:22:32 +0000"
     },
     {
       "source": "Al Jazeera",
-      "title": "US plans to sanction another bank to keep economic pressure on Iran",
-      "link": "https://www.aljazeera.com/news/2026/8/31/us-plans-to-sanction-another-bank-to-keep-economic-pressure-on-iran?traffic_source=rss",
+      "title": "Vance says Trump \u2018sending a message\u2019 to Iran with AI-generated video",
+      "link": "https://www.aljazeera.com/economy/2026/8/31/vance-says-trump-sending-a-message-to-iran-with-ai-generated-video?traffic_source=rss",
       "desc": "",
-      "pubDate": "Mon, 31 Aug 2026 02:08:46 +0000"
+      "pubDate": "Mon, 31 Aug 2026 17:11:54 +0000"
     },
     {
       "source": "Al Jazeera",
-      "title": "Iran war live: Tehran says it attacked bases in Jordan, UAE after US strike",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/8/31/iran-war-live-irgc-attacks-us-bases-in-jordan-after-us-bombs-larak-island?traffic_source=rss",
+      "title": "Iran could face economic collapse in months, US Treasury\u2019s Bessent warns",
+      "link": "https://www.aljazeera.com/economy/2026/8/31/iran-could-face-economic-collapse-in-months-us-treasurys-bessent-warns?traffic_source=rss",
       "desc": "",
-      "pubDate": "Mon, 31 Aug 2026 00:00:00 +0000"
+      "pubDate": "Mon, 31 Aug 2026 17:04:24 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Trump says Iran is \u2018dead\u2019, vows to respond after renewed clashes",
+      "link": "https://www.aljazeera.com/news/2026/8/31/trump-says-iran-is-dead-vows-to-respond-after-renewed-clashes?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Mon, 31 Aug 2026 15:11:15 +0000"
     },
     {
       "source": "BBC",
       "title": "<![CDATA[US and Iran trade strikes for first time in weeks]]>",
       "link": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
       "desc": "",
-      "pubDate": "Mon, 31 Aug 2026 08:34:25 GMT"
+      "pubDate": "Mon, 31 Aug 2026 13:47:30 GMT"
     },
     {
       "source": "BBC",
@@ -59,11 +66,32 @@
       "pubDate": "Tue, 25 Aug 2026 13:46:28 GMT"
     },
     {
+      "source": "NPR",
+      "title": "Attacks flare between the U.S. and Iran after a monthlong pause",
+      "link": "https://www.npr.org/2026/08/31/g-s1-141175/attacks-flare-us-iran",
+      "desc": "U.S. threats erupt into attacks in the Strait of Hormuz, and Iran retaliates against U.S. targets in the United Arab Emirates and Jordan in the first exchange of fire since July 29.",
+      "pubDate": "Mon, 31 Aug 2026 06:04:30 -0400"
+    },
+    {
       "source": "The Hill",
-      "title": "US strikes Iranian rocket launchers in first attack since late July",
-      "link": "https://thehill.com/policy/defense/6060116-us-strikes-iranian-rocket-launchers/",
+      "title": "Trump sending message to Iran with AI Kharg Island video, says Vance",
+      "link": "https://thehill.com/homenews/6061484-vance-trump-ai-iran-message/",
       "desc": "",
-      "pubDate": "Sun, 30 Aug 2026 22:47:24 +0000"
+      "pubDate": "Mon, 31 Aug 2026 17:33:36 +0000"
+    },
+    {
+      "source": "The Hill",
+      "title": "Iran war flares up on two fronts as Trump issues fresh threat",
+      "link": "https://thehill.com/newsletters/1230-report/6061321-iran-war-resumes-donald-trump-threats/",
+      "desc": "",
+      "pubDate": "Mon, 31 Aug 2026 16:31:50 +0000"
+    },
+    {
+      "source": "The Hill",
+      "title": "Live updates: Trump says US 'will respond' to Iran strike in Jordan; House returns with shutdown bill on tap",
+      "link": "https://thehill.com/homenews/administration/6060538-live-updates-trump-iran-house-spending-cr/",
+      "desc": "",
+      "pubDate": "Mon, 31 Aug 2026 15:33:40 +0000"
     }
   ]
 }
