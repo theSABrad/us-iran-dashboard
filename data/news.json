@@ -1,10 +1,17 @@
 {
-  "lastUpdated": "2026-08-30T22:59:18.332320Z",
-  "count": 8,
+  "lastUpdated": "2026-08-31T02:08:42.419129Z",
+  "count": 9,
   "articles": [
     {
       "source": "Al Jazeera",
-      "title": "US strikes Iran\u2019s Larak Island in first attack in weeks",
+      "title": "Iran war live: IRGC attacks US bases in Jordan after US bombs Larak Island",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/8/31/iran-war-live-irgc-attacks-us-bases-in-jordan-after-us-bombs-larak-island?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Mon, 31 Aug 2026 00:00:00 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Iran attacks US bases in Jordan after US strikes Larak Island",
       "link": "https://www.aljazeera.com/news/2026/8/30/us-strikes-irans-lark-island-in-first-attack-in-weeks?traffic_source=rss",
       "desc": "",
       "pubDate": "Sun, 30 Aug 2026 20:15:47 +0000"
