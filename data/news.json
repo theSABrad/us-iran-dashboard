@@ -1,27 +1,55 @@
 {
-  "lastUpdated": "2026-09-01T08:04:18.071665Z",
-  "count": 10,
+  "lastUpdated": "2026-09-01T13:46:25.201775Z",
+  "count": 14,
   "articles": [
     {
       "source": "Al Jazeera",
-      "title": "Duolingo D-Day: Iranians question latest US sanctions targeting education",
-      "link": "https://www.aljazeera.com/news/2026/9/1/duolingo-d-day-iranians-question-latest-us-sanctions-targeting-education?traffic_source=rss",
+      "title": "SCO slams attacks, sanctions on Iran: Key takeaways from Bishkek summit",
+      "link": "https://www.aljazeera.com/news/2026/9/1/sco-slams-attacks-sanctions-on-iran-key-takeaways-from-bishkek-summit?traffic_source=rss",
       "desc": "",
-      "pubDate": "Tue, 01 Sep 2026 07:25:54 +0000"
+      "pubDate": "Tue, 01 Sep 2026 13:32:33 +0000"
     },
     {
       "source": "Al Jazeera",
-      "title": "Oil prices climb as US, Iranian attacks stoke fears of escalation",
-      "link": "https://www.aljazeera.com/economy/2026/9/1/oil-prices-climb-as-us-iranian-attacks-stoke-fears-of-escalation?traffic_source=rss",
+      "title": "Video: SCO summit leaders meet in aftermath of US war on Iran",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/video-sco-summit-leaders-meet-in-aftermath-of-us-war-on-iran?traffic_source=rss",
       "desc": "",
-      "pubDate": "Tue, 01 Sep 2026 06:07:39 +0000"
+      "pubDate": "Tue, 01 Sep 2026 13:27:39 +0000"
     },
     {
       "source": "Al Jazeera",
-      "title": "Iran war live: Tehran to \u2018reciprocate\u2019 if US abides by June peace deal",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/9/1/iran-war-live-trump-vows-to-hit-iran-following-first-clash-in-a-month?traffic_source=rss",
+      "title": "Why China will not comply with US sanctions on Iran",
+      "link": "https://www.aljazeera.com/opinions/2026/9/1/why-china-will-not-comply-with-us-sanctions-on-iran?traffic_source=rss",
       "desc": "",
-      "pubDate": "Tue, 01 Sep 2026 00:00:00 +0000"
+      "pubDate": "Tue, 01 Sep 2026 13:08:14 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Iran urges US to honour commitments under MoU",
+      "link": "https://www.aljazeera.com/news/2026/9/1/iran-urges-us-to-honour-commitments-under-mou?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Tue, 01 Sep 2026 13:01:22 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "\u2018Hit them hard\u2019: Does Trump have another \u2018new\u2019 Iran strategy, can it work?",
+      "link": "https://www.aljazeera.com/news/2026/9/1/hit-them-hard-does-trump-have-another-new-iran-strategy-can-it-work?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Tue, 01 Sep 2026 11:38:14 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Abroad and at odds: How the war has divided Iranians in the diaspora",
+      "link": "https://www.aljazeera.com/news/2026/9/1/abroad-and-at-odds-how-the-war-has-divided-iranians-in-the-diaspora?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Tue, 01 Sep 2026 10:27:40 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Britons face \u2018risk premium\u2019 for energy as US-Israel war on Iran intensifies",
+      "link": "https://www.aljazeera.com/news/2026/9/1/uk-energy-price-rise-britons-face-risk-premium-for-supply-amid-iran-war?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Tue, 01 Sep 2026 08:14:07 +0000"
     },
     {
       "source": "BBC",
@@ -60,17 +88,17 @@
     },
     {
       "source": "NPR",
+      "title": "The U.S. wants others to join its economic pressure campaign against Iran. Will they?",
+      "link": "https://www.npr.org/2026/09/01/nx-s1-5950402/the-u-s-wants-others-to-join-its-economic-pressure-campaign-against-iran-will-they",
+      "desc": "NPR's Leila Fadel asks former Deputy National Security Adviser Jon Finer about U.S. efforts to cultivate global support to economically isolate and pressure Iran.",
+      "pubDate": "Tue, 01 Sep 2026 04:46:21 -0400"
+    },
+    {
+      "source": "NPR",
       "title": "Trump's plan for economic D-day for Iran has one big hole: China",
       "link": "https://www.npr.org/2026/08/31/nx-s1-5950325/trumps-plan-for-economic-d-day-for-iran-has-one-big-hole-china",
       "desc": "The Trump administration says it's asking countries to voluntarily cut off business with Iran to squeeze its economy further. But the most critical country \u2014 China \u2014 already says it won't cooperate.",
       "pubDate": "Mon, 31 Aug 2026 16:48:03 -0400"
-    },
-    {
-      "source": "NPR",
-      "title": "Attacks flare between the U.S. and Iran after a monthlong pause",
-      "link": "https://www.npr.org/2026/08/31/g-s1-141175/attacks-flare-us-iran",
-      "desc": "U.S. threats erupt into attacks in the Strait of Hormuz, and Iran retaliates against U.S. targets in the United Arab Emirates and Jordan in the first exchange of fire since July 29.",
-      "pubDate": "Mon, 31 Aug 2026 06:04:30 -0400"
     }
   ]
 }
