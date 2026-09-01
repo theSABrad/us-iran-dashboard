@@ -1,35 +1,7 @@
 {
-  "lastUpdated": "2026-08-31T18:21:57.835579Z",
-  "count": 13,
+  "lastUpdated": "2026-09-01T00:10:28.438776Z",
+  "count": 8,
   "articles": [
-    {
-      "source": "Al Jazeera",
-      "title": "War on Iran: US bombs Iran",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/31/war-on-iran-us-bombs-iran?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Mon, 31 Aug 2026 17:22:32 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Vance says Trump \u2018sending a message\u2019 to Iran with AI-generated video",
-      "link": "https://www.aljazeera.com/economy/2026/8/31/vance-says-trump-sending-a-message-to-iran-with-ai-generated-video?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Mon, 31 Aug 2026 17:11:54 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Iran could face economic collapse in months, US Treasury\u2019s Bessent warns",
-      "link": "https://www.aljazeera.com/economy/2026/8/31/iran-could-face-economic-collapse-in-months-us-treasurys-bessent-warns?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Mon, 31 Aug 2026 17:04:24 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Trump says Iran is \u2018dead\u2019, vows to respond after renewed clashes",
-      "link": "https://www.aljazeera.com/news/2026/8/31/trump-says-iran-is-dead-vows-to-respond-after-renewed-clashes?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Mon, 31 Aug 2026 15:11:15 +0000"
-    },
     {
       "source": "BBC",
       "title": "<![CDATA[US and Iran trade strikes for first time in weeks]]>",
@@ -67,6 +39,13 @@
     },
     {
       "source": "NPR",
+      "title": "Trump's plan for economic D-day for Iran has one big hole: China",
+      "link": "https://www.npr.org/2026/08/31/nx-s1-5950325/trumps-plan-for-economic-d-day-for-iran-has-one-big-hole-china",
+      "desc": "The Trump administration says it's asking countries to voluntarily cut off business with Iran to squeeze its economy further. But the most critical country \u2014 China \u2014 already says it won't cooperate.",
+      "pubDate": "Mon, 31 Aug 2026 16:48:03 -0400"
+    },
+    {
+      "source": "NPR",
       "title": "Attacks flare between the U.S. and Iran after a monthlong pause",
       "link": "https://www.npr.org/2026/08/31/g-s1-141175/attacks-flare-us-iran",
       "desc": "U.S. threats erupt into attacks in the Strait of Hormuz, and Iran retaliates against U.S. targets in the United Arab Emirates and Jordan in the first exchange of fire since July 29.",
@@ -74,24 +53,10 @@
     },
     {
       "source": "The Hill",
-      "title": "Trump sending message to Iran with AI Kharg Island video, says Vance",
-      "link": "https://thehill.com/homenews/6061484-vance-trump-ai-iran-message/",
+      "title": "Trump approval dips to new low as Iran war weighs on support: Poll",
+      "link": "https://thehill.com/homenews/administration/6061903-umass-poll-trump-performance/",
       "desc": "",
-      "pubDate": "Mon, 31 Aug 2026 17:33:36 +0000"
-    },
-    {
-      "source": "The Hill",
-      "title": "Iran war flares up on two fronts as Trump issues fresh threat",
-      "link": "https://thehill.com/newsletters/1230-report/6061321-iran-war-resumes-donald-trump-threats/",
-      "desc": "",
-      "pubDate": "Mon, 31 Aug 2026 16:31:50 +0000"
-    },
-    {
-      "source": "The Hill",
-      "title": "Live updates: Trump says US 'will respond' to Iran strike in Jordan; House returns with shutdown bill on tap",
-      "link": "https://thehill.com/homenews/administration/6060538-live-updates-trump-iran-house-spending-cr/",
-      "desc": "",
-      "pubDate": "Mon, 31 Aug 2026 15:33:40 +0000"
+      "pubDate": "Mon, 31 Aug 2026 20:52:26 +0000"
     }
   ]
 }
