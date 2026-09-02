@@ -1,7 +1,35 @@
 {
-  "lastUpdated": "2026-09-02T18:12:36.473827Z",
-  "count": 10,
+  "lastUpdated": "2026-09-02T22:53:26.682773Z",
+  "count": 14,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Israeli PM says Israel is working to overthrow Iran\u2019s government",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/israeli-pm-says-israel-is-working-to-overthrow-irans-government?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Wed, 02 Sep 2026 21:23:55 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Trump suggests renaming Strait of Hormuz as Trump Strait amid Iran war",
+      "link": "https://www.aljazeera.com/news/2026/9/2/trump-suggests-renaming-strait-of-hormuz-as-trump-strait-amid-iran?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Wed, 02 Sep 2026 20:12:14 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Trump says US sees \u2018everything\u2019 Iran does, threatens further attacks",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/09-02-trump-soundbite-iran-clip?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Wed, 02 Sep 2026 20:04:55 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Saudi Arabia condemns deadly Iranian attack on tanker in Strait of Hormuz",
+      "link": "https://www.aljazeera.com/news/2026/9/2/saudi-arabia-condemns-deadly-iranian-attack-on-tanker-in-strait-of-hormuz?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Wed, 02 Sep 2026 19:16:36 +0000"
+    },
     {
       "source": "BBC",
       "title": "<![CDATA[Iran says US strike killed four at wedding in 'war crime' as US denies targeting civilians]]>",
@@ -21,7 +49,7 @@
       "title": "<![CDATA[What we know about reported strike on Iran wedding celebrations]]>",
       "link": "https://www.bbc.co.uk/news/videos/c0lr1krdxxwo?at_medium=RSS&at_campaign=rss",
       "desc": "",
-      "pubDate": "Wed, 02 Sep 2026 10:33:47 GMT"
+      "pubDate": "Wed, 02 Sep 2026 21:02:35 GMT"
     },
     {
       "source": "BBC",
@@ -66,11 +94,11 @@
       "pubDate": "Wed, 02 Sep 2026 04:41:42 -0400"
     },
     {
-      "source": "NPR",
-      "title": "U.S. military strikes Iran, while Trump vows more for Tehran's retaliation",
-      "link": "https://www.npr.org/2026/09/02/g-s1-141500/us-iran-war",
-      "desc": "The U.S. military hit targets in Iran on Tuesday and Tehran fired missiles and drones at various sites across the region in response as hostilities flare once again in an intermittent war.",
-      "pubDate": "Wed, 02 Sep 2026 02:15:11 -0400"
+      "source": "The Hill",
+      "title": "Trump under pressure to contain Iran fighting as midterms near",
+      "link": "https://thehill.com/policy/defense/6067742-trump-iran-strikes-escalation-midterms/",
+      "desc": "",
+      "pubDate": "Wed, 02 Sep 2026 22:32:32 +0000"
     }
   ]
 }
