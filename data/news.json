@@ -1,7 +1,21 @@
 {
-  "lastUpdated": "2026-09-02T07:23:55.787374Z",
-  "count": 16,
+  "lastUpdated": "2026-09-02T13:02:44.497207Z",
+  "count": 13,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "What do we know about the fatal US bombing of a wedding in Iran\u2019s Sirik?",
+      "link": "https://www.aljazeera.com/news/2026/9/2/what-do-we-know-about-the-fatal-us-bombing-of-a-wedding-in-irans-sirik?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Wed, 02 Sep 2026 10:57:16 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Iran, US exchange new attacks: Who was hit in latest strikes?",
+      "link": "https://www.aljazeera.com/news/2026/9/2/iran-us-exchange-new-attacks-who-was-hit-in-latest-strikes?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Wed, 02 Sep 2026 08:55:20 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "\u2018We had an ordinary life\u2019: Iran fisherwoman navigates uncertainty of war",
@@ -10,53 +24,18 @@
       "pubDate": "Wed, 02 Sep 2026 06:26:18 +0000"
     },
     {
-      "source": "Al Jazeera",
-      "title": "US strikes on Iran kill child at wedding ceremony",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/us-strikes-on-iran-kill-child-at-wedding-ceremony?traffic_source=rss",
+      "source": "BBC",
+      "title": "<![CDATA[Iran attacks US bases in Middle East after reports US strike killed four at wedding party]]>",
+      "link": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
       "desc": "",
-      "pubDate": "Wed, 02 Sep 2026 03:27:26 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Top US lawmaker Mike Johnson says lying is part of some Iranians\u2019 religion",
-      "link": "https://www.aljazeera.com/news/2026/9/2/top-us-lawmaker-mike-johnson-says-lying-is-part-of-some-iranians-religion?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Wed, 02 Sep 2026 02:20:45 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Iran says US bombed a wedding party in Sirik, killing five people",
-      "link": "https://www.aljazeera.com/news/2026/9/2/iran-says-us-strikes-hit-a-wedding-party-in-sirik-killing-five?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Wed, 02 Sep 2026 01:34:55 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "US launches new strikes on Iran, denies its bases hit in Jordan",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/us-launches-new-strikes-on-iran-denies-its-bases-hit-in-jordan?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Wed, 02 Sep 2026 01:06:19 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Moment US strikes on Iranian port city hit wedding party",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/moment-us-strikes-on-iranian-port-city-hit-wedding-party?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Wed, 02 Sep 2026 00:47:41 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Iran war live: Tehran claims attacks on US bases in Bahrain, Jordan, Iraq",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/9/2/iran-war-live-us-bombs-iran-tehran-retaliates-on-gulf-neighbours-jordan?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Wed, 02 Sep 2026 00:00:00 +0000"
+      "pubDate": "Wed, 02 Sep 2026 09:20:33 GMT"
     },
     {
       "source": "BBC",
-      "title": "<![CDATA[Iran attacks US bases in Middle East after reports US strike killed five at wedding party]]>",
-      "link": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
+      "title": "<![CDATA[What we know about reported strike on Iran wedding celebrations]]>",
+      "link": "https://www.bbc.co.uk/news/videos/c0lr1krdxxwo?at_medium=RSS&at_campaign=rss",
       "desc": "",
-      "pubDate": "Wed, 02 Sep 2026 06:26:35 GMT"
+      "pubDate": "Wed, 02 Sep 2026 10:33:47 GMT"
     },
     {
       "source": "BBC",
@@ -88,6 +67,13 @@
     },
     {
       "source": "NPR",
+      "title": "Putin signals support for Iran in ongoing war with the U.S.",
+      "link": "https://www.npr.org/2026/09/02/nx-s1-5953036/putin-signals-support-for-iran-in-ongoing-war-with-the-u-s",
+      "desc": "Russia's Vladimir Putin is signaling unwavering support for Iran, as Tehran thanks Moscow for backing amid the escalating Middle East war.",
+      "pubDate": "Wed, 02 Sep 2026 04:41:42 -0400"
+    },
+    {
+      "source": "NPR",
       "title": "U.S. military strikes Iran, while Trump vows more for Tehran's retaliation",
       "link": "https://www.npr.org/2026/09/02/g-s1-141500/us-iran-war",
       "desc": "The U.S. military hit targets in Iran on Tuesday and Tehran fired missiles and drones at various sites across the region in response as hostilities flare once again in an intermittent war.",
@@ -101,18 +87,11 @@
       "pubDate": "Tue, 01 Sep 2026 04:46:21 -0400"
     },
     {
-      "source": "NPR",
-      "title": "Trump's plan for economic D-day for Iran has one big hole: China",
-      "link": "https://www.npr.org/2026/08/31/nx-s1-5950325/trumps-plan-for-economic-d-day-for-iran-has-one-big-hole-china",
-      "desc": "The Trump administration says it's asking countries to voluntarily cut off business with Iran to squeeze its economy further. But the most critical country \u2014 China \u2014 already says it won't cooperate.",
-      "pubDate": "Mon, 31 Aug 2026 16:48:03 -0400"
-    },
-    {
       "source": "The Hill",
-      "title": "US launches new strikes against Iran as Trump says he's \"not trying to force Iran to the negotiating table\"",
-      "link": "https://thehill.com/policy/defense/6065153-us-military-strikes-iran-targets/",
+      "title": "Iran targets US allies in Gulf after latest strikes",
+      "link": "https://thehill.com/policy/international/6065430-iran-retaliation-middle-east-kuwait-bahrain-jordan-iraq-us-war/",
       "desc": "",
-      "pubDate": "Wed, 02 Sep 2026 02:45:16 +0000"
+      "pubDate": "Wed, 02 Sep 2026 12:03:46 +0000"
     }
   ]
 }
