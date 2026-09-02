@@ -1,7 +1,35 @@
 {
-  "lastUpdated": "2026-09-02T01:49:40.908919Z",
-  "count": 12,
+  "lastUpdated": "2026-09-02T07:23:55.787374Z",
+  "count": 16,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "\u2018We had an ordinary life\u2019: Iran fisherwoman navigates uncertainty of war",
+      "link": "https://www.aljazeera.com/economy/2026/9/2/we-had-an-ordinary-life-iran-fisherwoman-navigates-uncertainty-of-war?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Wed, 02 Sep 2026 06:26:18 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "US strikes on Iran kill child at wedding ceremony",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/us-strikes-on-iran-kill-child-at-wedding-ceremony?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Wed, 02 Sep 2026 03:27:26 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Top US lawmaker Mike Johnson says lying is part of some Iranians\u2019 religion",
+      "link": "https://www.aljazeera.com/news/2026/9/2/top-us-lawmaker-mike-johnson-says-lying-is-part-of-some-iranians-religion?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Wed, 02 Sep 2026 02:20:45 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Iran says US bombed a wedding party in Sirik, killing five people",
+      "link": "https://www.aljazeera.com/news/2026/9/2/iran-says-us-strikes-hit-a-wedding-party-in-sirik-killing-five?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Wed, 02 Sep 2026 01:34:55 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "US launches new strikes on Iran, denies its bases hit in Jordan",
@@ -18,31 +46,17 @@
     },
     {
       "source": "Al Jazeera",
-      "title": "Iran war live: US bombs Iran, Tehran retaliates on Gulf neighbours, Jordan",
+      "title": "Iran war live: Tehran claims attacks on US bases in Bahrain, Jordan, Iraq",
       "link": "https://www.aljazeera.com/news/liveblog/2026/9/2/iran-war-live-us-bombs-iran-tehran-retaliates-on-gulf-neighbours-jordan?traffic_source=rss",
       "desc": "",
       "pubDate": "Wed, 02 Sep 2026 00:00:00 +0000"
     },
     {
-      "source": "Al Jazeera",
-      "title": "IAEA calls for access to Iran nuclear sites over proliferation concerns",
-      "link": "https://www.aljazeera.com/news/2026/9/1/urgent-need-for-access-to-iranian-sites-cautions-un-nuclear-watchdog?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Tue, 01 Sep 2026 21:28:00 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Iranian state media announces numerous US strikes on the country",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/iranian-state-media-announces-numerous-us-strikes-on-the-country?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Tue, 01 Sep 2026 20:38:43 +0000"
-    },
-    {
       "source": "BBC",
-      "title": "<![CDATA[Iran retaliates after US strikes kill four at wedding party, state media reports]]>",
+      "title": "<![CDATA[Iran attacks US bases in Middle East after reports US strike killed five at wedding party]]>",
       "link": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
       "desc": "",
-      "pubDate": "Wed, 02 Sep 2026 00:13:26 GMT"
+      "pubDate": "Wed, 02 Sep 2026 06:26:35 GMT"
     },
     {
       "source": "BBC",
@@ -74,6 +88,13 @@
     },
     {
       "source": "NPR",
+      "title": "U.S. military strikes Iran, while Trump vows more for Tehran's retaliation",
+      "link": "https://www.npr.org/2026/09/02/g-s1-141500/us-iran-war",
+      "desc": "The U.S. military hit targets in Iran on Tuesday and Tehran fired missiles and drones at various sites across the region in response as hostilities flare once again in an intermittent war.",
+      "pubDate": "Wed, 02 Sep 2026 02:15:11 -0400"
+    },
+    {
+      "source": "NPR",
       "title": "The U.S. wants others to join its economic pressure campaign against Iran. Will they?",
       "link": "https://www.npr.org/2026/09/01/nx-s1-5950402/the-u-s-wants-others-to-join-its-economic-pressure-campaign-against-iran-will-they",
       "desc": "NPR's Leila Fadel asks former Deputy National Security Adviser Jon Finer about U.S. efforts to cultivate global support to economically isolate and pressure Iran.",
@@ -85,6 +106,13 @@
       "link": "https://www.npr.org/2026/08/31/nx-s1-5950325/trumps-plan-for-economic-d-day-for-iran-has-one-big-hole-china",
       "desc": "The Trump administration says it's asking countries to voluntarily cut off business with Iran to squeeze its economy further. But the most critical country \u2014 China \u2014 already says it won't cooperate.",
       "pubDate": "Mon, 31 Aug 2026 16:48:03 -0400"
+    },
+    {
+      "source": "The Hill",
+      "title": "US launches new strikes against Iran as Trump says he's \"not trying to force Iran to the negotiating table\"",
+      "link": "https://thehill.com/policy/defense/6065153-us-military-strikes-iran-targets/",
+      "desc": "",
+      "pubDate": "Wed, 02 Sep 2026 02:45:16 +0000"
     }
   ]
 }
