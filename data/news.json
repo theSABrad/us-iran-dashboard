@@ -1,10 +1,31 @@
 {
-  "lastUpdated": "2026-09-01T22:53:29.832283Z",
-  "count": 10,
+  "lastUpdated": "2026-09-02T01:49:40.908919Z",
+  "count": 12,
   "articles": [
     {
       "source": "Al Jazeera",
-      "title": "Urgent need for access to Iranian sites, cautions UN nuclear watchdog",
+      "title": "US launches new strikes on Iran, denies its bases hit in Jordan",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/us-launches-new-strikes-on-iran-denies-its-bases-hit-in-jordan?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Wed, 02 Sep 2026 01:06:19 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Moment US strikes on Iranian port city hit wedding party",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/moment-us-strikes-on-iranian-port-city-hit-wedding-party?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Wed, 02 Sep 2026 00:47:41 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Iran war live: US bombs Iran, Tehran retaliates on Gulf neighbours, Jordan",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/9/2/iran-war-live-us-bombs-iran-tehran-retaliates-on-gulf-neighbours-jordan?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Wed, 02 Sep 2026 00:00:00 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "IAEA calls for access to Iran nuclear sites over proliferation concerns",
       "link": "https://www.aljazeera.com/news/2026/9/1/urgent-need-for-access-to-iranian-sites-cautions-un-nuclear-watchdog?traffic_source=rss",
       "desc": "",
       "pubDate": "Tue, 01 Sep 2026 21:28:00 +0000"
@@ -17,18 +38,11 @@
       "pubDate": "Tue, 01 Sep 2026 20:38:43 +0000"
     },
     {
-      "source": "Al Jazeera",
-      "title": "The US military began striking targets in Iran, CENTCOM says",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/1/the-us-military-began-striking-targets-in-iran-centcom-says?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Tue, 01 Sep 2026 17:39:29 +0000"
-    },
-    {
       "source": "BBC",
-      "title": "<![CDATA[US strikes Iran as state media reports four killed at wedding party]]>",
+      "title": "<![CDATA[Iran retaliates after US strikes kill four at wedding party, state media reports]]>",
       "link": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
       "desc": "",
-      "pubDate": "Tue, 01 Sep 2026 21:48:28 GMT"
+      "pubDate": "Wed, 02 Sep 2026 00:13:26 GMT"
     },
     {
       "source": "BBC",
