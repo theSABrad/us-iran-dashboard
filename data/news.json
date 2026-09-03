@@ -1,13 +1,20 @@
 {
-  "lastUpdated": "2026-09-03T13:05:09.618171Z",
-  "count": 13,
+  "lastUpdated": "2026-09-03T18:11:55.449178Z",
+  "count": 15,
   "articles": [
     {
       "source": "Al Jazeera",
-      "title": "Iran Red Crescent urges ICC probe into deadly US strike on wedding party",
-      "link": "https://www.aljazeera.com/news/2026/9/3/iran-red-crescent-urges-icc-probe-into-deadly-us-strike-on-wedding-party?traffic_source=rss",
+      "title": "Trump calls media \u2018treasonous scum\u2019 over reports of low Iran war munitions",
+      "link": "https://www.aljazeera.com/news/2026/9/3/trump-calls-media-treasonous-scum-over-reports-of-low-iran-war-munitions?traffic_source=rss",
       "desc": "",
-      "pubDate": "Thu, 03 Sep 2026 07:41:45 +0000"
+      "pubDate": "Thu, 03 Sep 2026 17:26:09 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Iranian drone damages residential building in Kuwait City",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/3/03-09-iranian-drone-kuwait-building-clip?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Thu, 03 Sep 2026 14:47:52 +0000"
     },
     {
       "source": "BBC",
@@ -88,10 +95,17 @@
     },
     {
       "source": "The Hill",
-      "title": "Iran is no Vietnam, but Trump is mimicking Lyndon Johnson's failed approach",
-      "link": "https://thehill.com/opinion/national-security/6066434-avoiding-vietnam-mistake-iran-conflict/",
+      "title": "Jennings: Trump should release 'formal declaration of victory' for Iran war",
+      "link": "https://thehill.com/homenews/administration/6069225-scott-jennings-donald-trump-iran-war-victory-declaration/",
       "desc": "",
-      "pubDate": "Thu, 03 Sep 2026 11:00:00 +0000"
+      "pubDate": "Thu, 03 Sep 2026 16:51:54 +0000"
+    },
+    {
+      "source": "The Hill",
+      "title": "Trump defends handling of US munitions amid Iran conflict",
+      "link": "https://thehill.com/homenews/administration/6069276-trump-claims-unlimited-ammunition/",
+      "desc": "",
+      "pubDate": "Thu, 03 Sep 2026 16:31:17 +0000"
     }
   ]
 }
