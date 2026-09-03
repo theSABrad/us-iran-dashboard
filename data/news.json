@@ -1,27 +1,13 @@
 {
-  "lastUpdated": "2026-09-03T07:27:43.717900Z",
+  "lastUpdated": "2026-09-03T13:05:09.618171Z",
   "count": 13,
   "articles": [
     {
       "source": "Al Jazeera",
-      "title": "China\u2019s support for Iran shows its limits as US ramps up pressure on Tehran",
-      "link": "https://www.aljazeera.com/economy/2026/9/3/chinas-support-for-iran-shows-its-limits-as-us-ramps-up-pressure-on-tehran?traffic_source=rss",
+      "title": "Iran Red Crescent urges ICC probe into deadly US strike on wedding party",
+      "link": "https://www.aljazeera.com/news/2026/9/3/iran-red-crescent-urges-icc-probe-into-deadly-us-strike-on-wedding-party?traffic_source=rss",
       "desc": "",
-      "pubDate": "Thu, 03 Sep 2026 06:48:46 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Trump threatens more strikes as death toll in Iran rises to 18",
-      "link": "https://www.aljazeera.com/news/2026/9/3/trump-threatens-more-strikes-as-death-toll-in-iran-rises-to-19?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Thu, 03 Sep 2026 01:45:32 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Iran war live: 105 children and women wounded in latest US attacks",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/9/3/iran-war-live-trump-says-renewed-us-iran-clashes-will-not-last-too?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Thu, 03 Sep 2026 00:00:00 +0000"
+      "pubDate": "Thu, 03 Sep 2026 07:41:45 +0000"
     },
     {
       "source": "BBC",
@@ -74,6 +60,20 @@
     },
     {
       "source": "NPR",
+      "title": "China's Xi visits Egypt for the first time in a decade",
+      "link": "https://www.npr.org/2026/09/03/nx-s1-5954184/chinas-xi-visits-egypt-for-the-first-time-in-a-decade",
+      "desc": "Xi Jinping's visit to Egypt for the first time in a decade, and during the Iran war, comes as U.S. allies broaden their security ties.",
+      "pubDate": "Thu, 03 Sep 2026 04:08:39 -0400"
+    },
+    {
+      "source": "NPR",
+      "title": "U.S.-Israel relations are on the rocks ahead of elections",
+      "link": "https://www.npr.org/2026/09/03/nx-s1-5950045/u-s-israel-relations-are-on-the-rocks-ahead-of-elections",
+      "desc": "Relations between the Trump administration and Israeli Prime Minister Benjamin Netanyahu have turned rocky since Trump called a truce with Iran. Trump seeks progress in Gaza, but Netanyahu is taking a",
+      "pubDate": "Thu, 03 Sep 2026 04:06:18 -0400"
+    },
+    {
+      "source": "NPR",
       "title": "Xi visits Egypt as China seeks deeper influence across the Mideast",
       "link": "https://www.npr.org/2026/09/03/nx-s1-5955295/xi-china-visit-egypt",
       "desc": "China's President Xi Jinping visits Egypt this week for the first time in a decade. The trip illustrates China's growing ambitions at a time when U.S. influence has been weakened by its war in Iran.",
@@ -88,10 +88,10 @@
     },
     {
       "source": "The Hill",
-      "title": "Trump under pressure to contain Iran fighting as midterms near",
-      "link": "https://thehill.com/policy/defense/6067742-trump-iran-strikes-escalation-midterms/",
+      "title": "Iran is no Vietnam, but Trump is mimicking Lyndon Johnson's failed approach",
+      "link": "https://thehill.com/opinion/national-security/6066434-avoiding-vietnam-mistake-iran-conflict/",
       "desc": "",
-      "pubDate": "Wed, 02 Sep 2026 22:32:32 +0000"
+      "pubDate": "Thu, 03 Sep 2026 11:00:00 +0000"
     }
   ]
 }
