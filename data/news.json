@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-09-03T01:55:48.705075Z",
-  "count": 16,
+  "lastUpdated": "2026-09-03T07:27:43.717900Z",
+  "count": 13,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "China\u2019s support for Iran shows its limits as US ramps up pressure on Tehran",
+      "link": "https://www.aljazeera.com/economy/2026/9/3/chinas-support-for-iran-shows-its-limits-as-us-ramps-up-pressure-on-tehran?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Thu, 03 Sep 2026 06:48:46 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "Trump threatens more strikes as death toll in Iran rises to 18",
@@ -11,38 +18,10 @@
     },
     {
       "source": "Al Jazeera",
-      "title": "Iran war live: Trump says renewed US-Iran clashes will not last \u2018too long\u2019",
+      "title": "Iran war live: 105 children and women wounded in latest US attacks",
       "link": "https://www.aljazeera.com/news/liveblog/2026/9/3/iran-war-live-trump-says-renewed-us-iran-clashes-will-not-last-too?traffic_source=rss",
       "desc": "",
       "pubDate": "Thu, 03 Sep 2026 00:00:00 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Israeli PM says Israel is working to overthrow Iran\u2019s government",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/israeli-pm-says-israel-is-working-to-overthrow-irans-government?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Wed, 02 Sep 2026 21:23:55 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Trump suggests renaming Strait of Hormuz as Trump Strait amid Iran war",
-      "link": "https://www.aljazeera.com/news/2026/9/2/trump-suggests-renaming-strait-of-hormuz-as-trump-strait-amid-iran?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Wed, 02 Sep 2026 20:12:14 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Trump says US sees \u2018everything\u2019 Iran does, threatens further attacks",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/2/09-02-trump-soundbite-iran-clip?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Wed, 02 Sep 2026 20:04:55 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Saudi Arabia condemns deadly Iranian attack on tanker in Strait of Hormuz",
-      "link": "https://www.aljazeera.com/news/2026/9/2/saudi-arabia-condemns-deadly-iranian-attack-on-tanker-in-strait-of-hormuz?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Wed, 02 Sep 2026 19:16:36 +0000"
     },
     {
       "source": "BBC",
@@ -95,17 +74,17 @@
     },
     {
       "source": "NPR",
+      "title": "Xi visits Egypt as China seeks deeper influence across the Mideast",
+      "link": "https://www.npr.org/2026/09/03/nx-s1-5955295/xi-china-visit-egypt",
+      "desc": "China's President Xi Jinping visits Egypt this week for the first time in a decade. The trip illustrates China's growing ambitions at a time when U.S. influence has been weakened by its war in Iran.",
+      "pubDate": "Thu, 03 Sep 2026 03:04:25 -0400"
+    },
+    {
+      "source": "NPR",
       "title": "Iran fires on its Gulf neighbors, retaliating for U.S. strikes after a monthlong lull",
       "link": "https://www.npr.org/2026/09/02/nx-s1-5954013/us-iran-war-latest-updates",
       "desc": "The six-month war has led to a spike in oil prices, roiled the global economy and posed increasing political problems for President Trump's Republican Party ahead of November midterm elections.",
       "pubDate": "Wed, 02 Sep 2026 11:18:09 -0400"
-    },
-    {
-      "source": "NPR",
-      "title": "Putin signals support for Iran in ongoing war with the U.S.",
-      "link": "https://www.npr.org/2026/09/02/nx-s1-5953036/putin-signals-support-for-iran-in-ongoing-war-with-the-u-s",
-      "desc": "Russia's Vladimir Putin is signaling unwavering support for Iran, as Tehran thanks Moscow for backing amid the escalating Middle East war.",
-      "pubDate": "Wed, 02 Sep 2026 04:41:42 -0400"
     },
     {
       "source": "The Hill",
