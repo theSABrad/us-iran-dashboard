@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-04T01:50:15.642020Z",
-  "count": 15,
+  "lastUpdated": "2026-09-04T07:29:49.625565Z",
+  "count": 13,
   "articles": [
     {
       "source": "Al Jazeera",
@@ -10,18 +10,11 @@
       "pubDate": "Fri, 04 Sep 2026 00:00:00 +0000"
     },
     {
-      "source": "Al Jazeera",
-      "title": "US Vice President JD Vance declines to offer timeline for end of Iran war",
-      "link": "https://www.aljazeera.com/news/2026/9/3/us-vice-president-jd-vance-declines-to-offer-timeline-for-end-of-iran-war?traffic_source=rss",
+      "source": "BBC",
+      "title": "<![CDATA[US investigating if missile hit Iran wedding, Vance says]]>",
+      "link": "https://www.bbc.co.uk/news/articles/cy4zvk3z2k1o?at_medium=RSS&at_campaign=rss",
       "desc": "",
-      "pubDate": "Thu, 03 Sep 2026 21:07:56 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Funeral held for child killed in US strike on Iranian wedding",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/3/09-03-iran-child-funeral-minisv?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Thu, 03 Sep 2026 20:00:40 +0000"
+      "pubDate": "Thu, 03 Sep 2026 22:19:59 GMT"
     },
     {
       "source": "BBC",
@@ -92,13 +85,6 @@
       "link": "https://www.npr.org/2026/09/03/nx-s1-5955295/xi-china-visit-egypt",
       "desc": "China's President Xi Jinping visits Egypt this week for the first time in a decade. The trip illustrates China's growing ambitions at a time when U.S. influence has been weakened by its war in Iran.",
       "pubDate": "Thu, 03 Sep 2026 03:04:25 -0400"
-    },
-    {
-      "source": "NPR",
-      "title": "Iran fires on its Gulf neighbors, retaliating for U.S. strikes after a monthlong lull",
-      "link": "https://www.npr.org/2026/09/02/nx-s1-5954013/us-iran-war-latest-updates",
-      "desc": "The six-month war has led to a spike in oil prices, roiled the global economy and posed increasing political problems for President Trump's Republican Party ahead of November midterm elections.",
-      "pubDate": "Wed, 02 Sep 2026 11:18:09 -0400"
     },
     {
       "source": "The Hill",
