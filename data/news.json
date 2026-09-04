@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-09-03T22:52:34.159700Z",
-  "count": 13,
+  "lastUpdated": "2026-09-04T01:50:15.642020Z",
+  "count": 15,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Iran war live: US rules out Iran talks until ship attacks stop",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/9/4/iran-war-live-us-rules-out-iran-talks-until-ship-attacks-stop?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Fri, 04 Sep 2026 00:00:00 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "US Vice President JD Vance declines to offer timeline for end of Iran war",
@@ -92,6 +99,13 @@
       "link": "https://www.npr.org/2026/09/02/nx-s1-5954013/us-iran-war-latest-updates",
       "desc": "The six-month war has led to a spike in oil prices, roiled the global economy and posed increasing political problems for President Trump's Republican Party ahead of November midterm elections.",
       "pubDate": "Wed, 02 Sep 2026 11:18:09 -0400"
+    },
+    {
+      "source": "The Hill",
+      "title": "Vance 'extremely skeptical' of Iran wedding attack reports",
+      "link": "https://thehill.com/newsletters/defense-national-security/6070569-vance-extremely-skeptical-of-iran-wedding-attack-reports/",
+      "desc": "",
+      "pubDate": "Thu, 03 Sep 2026 22:52:45 +0000"
     }
   ]
 }
