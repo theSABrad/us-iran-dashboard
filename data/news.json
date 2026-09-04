@@ -1,13 +1,20 @@
 {
-  "lastUpdated": "2026-09-04T12:59:36.456439Z",
-  "count": 11,
+  "lastUpdated": "2026-09-04T17:53:04.879947Z",
+  "count": 13,
   "articles": [
     {
       "source": "Al Jazeera",
-      "title": "Iran war: Why US midterms could be a pivotal moment",
-      "link": "https://www.aljazeera.com/news/2026/9/4/iran-war-why-us-midterms-could-be-a-pivotal-moment?traffic_source=rss",
+      "title": "Diesel price hits all-time high in US amid Iran war woes",
+      "link": "https://www.aljazeera.com/economy/2026/9/4/diesel-price-hits-all-time-high-in-us-amid-iran-war-woes?traffic_source=rss",
       "desc": "",
-      "pubDate": "Fri, 04 Sep 2026 11:12:51 +0000"
+      "pubDate": "Fri, 04 Sep 2026 15:28:28 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "\u2018Things happen\u2019: How Vance\u2019s comment on Iran wedding strike fits US pattern",
+      "link": "https://www.aljazeera.com/news/2026/9/4/things-happen-how-vances-comment-on-iran-wedding-strike-fits-us-pattern?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Fri, 04 Sep 2026 13:15:36 +0000"
     },
     {
       "source": "BBC",
@@ -73,11 +80,18 @@
       "pubDate": "Tue, 25 Aug 2026 13:46:28 GMT"
     },
     {
-      "source": "NPR",
-      "title": "China's Xi visits Egypt for the first time in a decade",
-      "link": "https://www.npr.org/2026/09/03/nx-s1-5954184/chinas-xi-visits-egypt-for-the-first-time-in-a-decade",
-      "desc": "Xi Jinping's visit to Egypt for the first time in a decade, and during the Iran war, comes as U.S. allies broaden their security ties.",
-      "pubDate": "Thu, 03 Sep 2026 04:08:39 -0400"
+      "source": "The Hill",
+      "title": "\u2018Treasonous scum\u2019: Trump attacks media over Iran war coverage",
+      "link": "https://thehill.com/opinion/lindseys-lens/6071924-iran-war-weapons-strain/",
+      "desc": "",
+      "pubDate": "Fri, 04 Sep 2026 17:52:08 +0000"
+    },
+    {
+      "source": "The Hill",
+      "title": "Venezuela is the blueprint for what Washington will demand from Iran",
+      "link": "https://thehill.com/opinion/international/6069947-venezuela-iran-oil-strategy/",
+      "desc": "",
+      "pubDate": "Fri, 04 Sep 2026 16:30:00 +0000"
     }
   ]
 }
