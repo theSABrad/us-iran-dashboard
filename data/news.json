@@ -1,20 +1,13 @@
 {
-  "lastUpdated": "2026-09-05T07:10:57.428547Z",
+  "lastUpdated": "2026-09-05T12:11:49.094615Z",
   "count": 11,
   "articles": [
     {
       "source": "Al Jazeera",
-      "title": "Iran war live: US polygraphs 50 Joint Staff members over Iran war leaks",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/9/5/iran-war-live-trump-says-us-may-target-irans-pickaxe-mountain-very-soon?traffic_source=rss",
+      "title": "Why is Trump threatening to strike Iran\u2019s Pickaxe Mountain again, now?",
+      "link": "https://www.aljazeera.com/news/2026/9/5/why-is-trump-threatening-to-strike-irans-pickaxe-mountain-again-now?traffic_source=rss",
       "desc": "",
-      "pubDate": "Sat, 05 Sep 2026 00:00:00 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "\u2018Small potatoes\u2019: US President Trump downplays war on Iran",
-      "link": "https://www.aljazeera.com/news/2026/9/4/small-potatoes-us-president-trump-downplays-war-on-iran?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Fri, 04 Sep 2026 23:55:50 +0000"
+      "pubDate": "Sat, 05 Sep 2026 09:56:53 +0000"
     },
     {
       "source": "BBC",
@@ -78,6 +71,13 @@
       "link": "https://www.bbc.co.uk/news/videos/c07lel35rllo?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Tue, 25 Aug 2026 13:46:28 GMT"
+    },
+    {
+      "source": "NPR",
+      "title": "How the U.S. focus on Iran is fueling a more aggressive Putin",
+      "link": "https://www.npr.org/2026/09/05/nx-s1-5955705/how-the-u-s-focus-on-iran-is-fueling-a-more-aggressive-putin",
+      "desc": "Trump's top envoys head to Moscow and Kyiv as Putin steps up round the clock bombing of Ukraine. With the U.S. distracted by Iran, is Putin becoming increasingly emboldened?",
+      "pubDate": "Sat, 05 Sep 2026 07:43:20 -0400"
     }
   ]
 }
