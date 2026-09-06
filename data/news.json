@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-06T17:23:42.601353Z",
-  "count": 20,
+  "lastUpdated": "2026-09-06T19:42:38.850208Z",
+  "count": 19,
   "articles": [
     {
       "source": "Al Jazeera",
@@ -109,6 +109,13 @@
     },
     {
       "source": "The Hill",
+      "title": "Lawler disagrees with Trump on Iran war: 'It is certainly not small potatoes'",
+      "link": "https://thehill.com/homenews/house/6073941-lawler-disagrees-trump-iran-war-small-potatoes/",
+      "desc": "",
+      "pubDate": "Sun, 06 Sep 2026 17:39:53 +0000"
+    },
+    {
+      "source": "The Hill",
       "title": "Wright says Iran war worth it to 'reset' Middle East",
       "link": "https://thehill.com/homenews/administration/6073908-wright-says-iran-war-necessary/",
       "desc": "",
@@ -127,20 +134,6 @@
       "link": "https://thehill.com/homenews/administration/6073694-live-updates-wright-us-iran-strikes/",
       "desc": "",
       "pubDate": "Sun, 06 Sep 2026 15:11:00 +0000"
-    },
-    {
-      "source": "The Hill",
-      "title": "Wright: US 'may not' reach nuclear agreement with Iran",
-      "link": "https://thehill.com/homenews/administration/6073768-wright-iran-nuclear-deal/",
-      "desc": "",
-      "pubDate": "Sun, 06 Sep 2026 14:12:42 +0000"
-    },
-    {
-      "source": "The Hill",
-      "title": "Iran attacks US ship in Strait of Hormuz",
-      "link": "https://thehill.com/policy/international/6073695-iran-attacks-us-vessel-strait-hormuz/",
-      "desc": "",
-      "pubDate": "Sun, 06 Sep 2026 12:10:04 +0000"
     }
   ]
 }
