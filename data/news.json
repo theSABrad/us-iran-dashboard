@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-06T19:42:38.850208Z",
-  "count": 19,
+  "lastUpdated": "2026-09-06T22:31:49.411974Z",
+  "count": 17,
   "articles": [
     {
       "source": "Al Jazeera",
@@ -109,31 +109,17 @@
     },
     {
       "source": "The Hill",
+      "title": "Live updates: Airplane overruns Miami runway; Energy secretary downplays rising gas prices as US, Iran trade strikes",
+      "link": "https://thehill.com/homenews/administration/6073694-live-updates-wright-us-iran-strikes/",
+      "desc": "",
+      "pubDate": "Sun, 06 Sep 2026 20:23:28 +0000"
+    },
+    {
+      "source": "The Hill",
       "title": "Lawler disagrees with Trump on Iran war: 'It is certainly not small potatoes'",
       "link": "https://thehill.com/homenews/house/6073941-lawler-disagrees-trump-iran-war-small-potatoes/",
       "desc": "",
       "pubDate": "Sun, 06 Sep 2026 17:39:53 +0000"
-    },
-    {
-      "source": "The Hill",
-      "title": "Wright says Iran war worth it to 'reset' Middle East",
-      "link": "https://thehill.com/homenews/administration/6073908-wright-says-iran-war-necessary/",
-      "desc": "",
-      "pubDate": "Sun, 06 Sep 2026 16:53:37 +0000"
-    },
-    {
-      "source": "The Hill",
-      "title": "Former Air Force secretary questions 'advice' Trump received before starting Iran war",
-      "link": "https://thehill.com/policy/defense/6073796-kendall-questions-trump-iran-war/",
-      "desc": "",
-      "pubDate": "Sun, 06 Sep 2026 15:29:19 +0000"
-    },
-    {
-      "source": "The Hill",
-      "title": "Live updates: Energy secretary downplays rising gas prices as US, Iran trade strikes",
-      "link": "https://thehill.com/homenews/administration/6073694-live-updates-wright-us-iran-strikes/",
-      "desc": "",
-      "pubDate": "Sun, 06 Sep 2026 15:11:00 +0000"
     }
   ]
 }
