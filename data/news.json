@@ -1,13 +1,20 @@
 {
-  "lastUpdated": "2026-09-06T12:26:33.788479Z",
-  "count": 15,
+  "lastUpdated": "2026-09-06T17:23:42.601353Z",
+  "count": 20,
   "articles": [
     {
       "source": "Al Jazeera",
-      "title": "US, Iran engaged in tanker war: Where is the months-long conflict headed?",
-      "link": "https://www.aljazeera.com/news/2026/9/6/us-iran-engaged-in-tanker-war-where-is-the-months-long-conflict-headed?traffic_source=rss",
+      "title": "Trump official says \u2018there may not be a nuclear agreement\u2019 with Iran",
+      "link": "https://www.aljazeera.com/news/2026/9/6/trump-official-says-there-may-not-be-a-nuclear-agreement-with-iran?traffic_source=rss",
       "desc": "",
-      "pubDate": "Sun, 06 Sep 2026 10:49:22 +0000"
+      "pubDate": "Sun, 06 Sep 2026 16:59:04 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Iran touts military response as US maintains blockade, hits tankers",
+      "link": "https://www.aljazeera.com/news/2026/9/6/iran-touts-military-response-as-us-maintains-blockade-hits-tankers?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sun, 06 Sep 2026 16:17:06 +0000"
     },
     {
       "source": "BBC",
@@ -102,10 +109,38 @@
     },
     {
       "source": "The Hill",
-      "title": "Sunday shows preview: Trump travels to Texas for RNC midterm convention; Administration downplays Iran war consequences",
-      "link": "https://thehill.com/homenews/sunday-talk-shows/6073362-sunday-shows-trump-rnc-convention-iran-war/",
+      "title": "Wright says Iran war worth it to 'reset' Middle East",
+      "link": "https://thehill.com/homenews/administration/6073908-wright-says-iran-war-necessary/",
       "desc": "",
-      "pubDate": "Sat, 05 Sep 2026 20:44:16 +0000"
+      "pubDate": "Sun, 06 Sep 2026 16:53:37 +0000"
+    },
+    {
+      "source": "The Hill",
+      "title": "Former Air Force secretary questions 'advice' Trump received before starting Iran war",
+      "link": "https://thehill.com/policy/defense/6073796-kendall-questions-trump-iran-war/",
+      "desc": "",
+      "pubDate": "Sun, 06 Sep 2026 15:29:19 +0000"
+    },
+    {
+      "source": "The Hill",
+      "title": "Live updates: Energy secretary downplays rising gas prices as US, Iran trade strikes",
+      "link": "https://thehill.com/homenews/administration/6073694-live-updates-wright-us-iran-strikes/",
+      "desc": "",
+      "pubDate": "Sun, 06 Sep 2026 15:11:00 +0000"
+    },
+    {
+      "source": "The Hill",
+      "title": "Wright: US 'may not' reach nuclear agreement with Iran",
+      "link": "https://thehill.com/homenews/administration/6073768-wright-iran-nuclear-deal/",
+      "desc": "",
+      "pubDate": "Sun, 06 Sep 2026 14:12:42 +0000"
+    },
+    {
+      "source": "The Hill",
+      "title": "Iran attacks US ship in Strait of Hormuz",
+      "link": "https://thehill.com/policy/international/6073695-iran-attacks-us-vessel-strait-hormuz/",
+      "desc": "",
+      "pubDate": "Sun, 06 Sep 2026 12:10:04 +0000"
     }
   ]
 }
