@@ -1,20 +1,34 @@
 {
-  "lastUpdated": "2026-09-07T07:38:32.724942Z",
-  "count": 17,
+  "lastUpdated": "2026-09-07T14:33:37.955728Z",
+  "count": 16,
   "articles": [
     {
       "source": "Al Jazeera",
-      "title": "Iran to announce restricted zone outside Strait of Hormuz",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/7/aje-onl-nf_iran-to-announce-restricted-zone-around-hormuz-060926?traffic_source=rss",
+      "title": "Could Trump\u2019s Iran trade war threaten Spain\u2019s saffron-infused paella?",
+      "link": "https://www.aljazeera.com/news/2026/9/7/could-trumps-iran-trade-war-threaten-spains-saffron-infused-paella?traffic_source=rss",
       "desc": "",
-      "pubDate": "Mon, 07 Sep 2026 02:41:56 +0000"
+      "pubDate": "Mon, 07 Sep 2026 12:00:07 +0000"
     },
     {
       "source": "Al Jazeera",
-      "title": "Iran war live: Tehran to announce Hormuz route; Israel kills 11 in Lebanon",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/9/7/iran-war-live-tehran-to-announce-new-hormuz-shipping-route-in-coming-days?traffic_source=rss",
+      "title": "Can Iran enforce a restricted zone in the Strait of Hormuz?",
+      "link": "https://www.aljazeera.com/news/2026/9/7/can-iran-enforce-a-restricted-zone-in-the-strait-of-hormuz?traffic_source=rss",
       "desc": "",
-      "pubDate": "Mon, 07 Sep 2026 00:00:00 +0000"
+      "pubDate": "Mon, 07 Sep 2026 11:37:46 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Iran and Ukraine wars: Why ship fuel is running short, and why it matters",
+      "link": "https://www.aljazeera.com/news/2026/9/7/iran-and-ukraine-wars-why-ship-fuel-is-running-short-and-why-it-matters?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Mon, 07 Sep 2026 11:26:27 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Iran war: How US consumers spent an additional $100bn on fuel",
+      "link": "https://www.aljazeera.com/news/2026/9/7/iran-war-how-us-consumers-spent-an-additional-100bn-on-fuel?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Mon, 07 Sep 2026 09:30:44 +0000"
     },
     {
       "source": "BBC",
@@ -94,32 +108,11 @@
       "pubDate": "Tue, 25 Aug 2026 13:46:28 GMT"
     },
     {
-      "source": "NPR",
-      "title": "U.S. strikes three Iranian oil tankers in renewal of hostilities",
-      "link": "https://www.npr.org/2026/09/05/nx-s1-5959181/u-s-strikes-three-iranian-oil-tankers-in-renewal-of-hostilities",
-      "desc": "The U.S. strikes three Iranian oil tankers after Iran targets two American warships, in the latest exchange over shipping and the Strait of Hormuz.",
-      "pubDate": "Sat, 05 Sep 2026 17:01:12 -0400"
-    },
-    {
-      "source": "NPR",
-      "title": "U.S. and Iran trade attacks on ships as fighting flares up again",
-      "link": "https://www.npr.org/2026/09/05/nx-s1-5959159/us-iran-warships-targeted",
-      "desc": "",
-      "pubDate": "Sat, 05 Sep 2026 11:05:08 -0400"
-    },
-    {
-      "source": "NPR",
-      "title": "How the U.S. focus on Iran is fueling a more aggressive Putin",
-      "link": "https://www.npr.org/2026/09/05/nx-s1-5955705/how-the-u-s-focus-on-iran-is-fueling-a-more-aggressive-putin",
-      "desc": "Trump's top envoys head to Moscow and Kyiv as Putin steps up round the clock bombing of Ukraine. With the U.S. distracted by Iran, is Putin becoming increasingly emboldened?",
-      "pubDate": "Sat, 05 Sep 2026 07:43:20 -0400"
-    },
-    {
       "source": "The Hill",
-      "title": "Live updates: Airplane overruns Miami runway; Energy secretary downplays rising gas prices as US, Iran trade strikes",
-      "link": "https://thehill.com/homenews/administration/6073694-live-updates-wright-us-iran-strikes/",
+      "title": "Iran to announce 'restricted zone' near Strait of Hormuz as tensions simmer",
+      "link": "https://thehill.com/policy/international/6074709-iran-declares-hormuz-restricted-zone/",
       "desc": "",
-      "pubDate": "Sun, 06 Sep 2026 20:23:28 +0000"
+      "pubDate": "Mon, 07 Sep 2026 12:19:38 +0000"
     }
   ]
 }
