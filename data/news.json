@@ -1,20 +1,27 @@
 {
-  "lastUpdated": "2026-09-07T01:42:52.271196Z",
-  "count": 16,
+  "lastUpdated": "2026-09-07T07:38:32.724942Z",
+  "count": 17,
   "articles": [
     {
       "source": "Al Jazeera",
-      "title": "Iran war live: Tehran to announce new Hormuz shipping route in coming days",
+      "title": "Iran to announce restricted zone outside Strait of Hormuz",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/7/aje-onl-nf_iran-to-announce-restricted-zone-around-hormuz-060926?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Mon, 07 Sep 2026 02:41:56 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Iran war live: Tehran to announce Hormuz route; Israel kills 11 in Lebanon",
       "link": "https://www.aljazeera.com/news/liveblog/2026/9/7/iran-war-live-tehran-to-announce-new-hormuz-shipping-route-in-coming-days?traffic_source=rss",
       "desc": "",
       "pubDate": "Mon, 07 Sep 2026 00:00:00 +0000"
     },
     {
-      "source": "Al Jazeera",
-      "title": "Trump official says \u2018there may not be a nuclear agreement\u2019 with Iran",
-      "link": "https://www.aljazeera.com/news/2026/9/6/trump-official-says-there-may-not-be-a-nuclear-agreement-with-iran?traffic_source=rss",
+      "source": "BBC",
+      "title": "<![CDATA[Iran warns of 'faster, heavier, more painful response' to US attacks]]>",
+      "link": "https://www.bbc.co.uk/news/articles/cp8d56w7d9po?at_medium=RSS&at_campaign=rss",
       "desc": "",
-      "pubDate": "Sun, 06 Sep 2026 16:59:04 +0000"
+      "pubDate": "Sun, 06 Sep 2026 17:00:56 GMT"
     },
     {
       "source": "BBC",
@@ -53,13 +60,6 @@
     },
     {
       "source": "BBC",
-      "title": "<![CDATA[US and Iran trade strikes for first time in weeks]]>",
-      "link": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Mon, 31 Aug 2026 13:47:30 GMT"
-    },
-    {
-      "source": "BBC",
       "title": "<![CDATA[How could US-Iran conflict end? Three experts give their views]]>",
       "link": "https://www.bbc.co.uk/news/articles/cgjql614glvo?at_medium=RSS&at_campaign=rss",
       "desc": "",
@@ -78,6 +78,13 @@
       "link": "https://www.bbc.co.uk/news/articles/c9w0ygrwrn5o?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Sat, 01 Aug 2026 05:01:19 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[US and Iran trade strikes for first time in weeks]]>",
+      "link": "https://www.bbc.co.uk/news/videos/cwyzw0el1lpo?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Mon, 31 Aug 2026 15:50:00 GMT"
     },
     {
       "source": "BBC",
