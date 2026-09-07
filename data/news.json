@@ -1,20 +1,20 @@
 {
-  "lastUpdated": "2026-09-06T22:31:49.411974Z",
-  "count": 17,
+  "lastUpdated": "2026-09-07T01:42:52.271196Z",
+  "count": 16,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Iran war live: Tehran to announce new Hormuz shipping route in coming days",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/9/7/iran-war-live-tehran-to-announce-new-hormuz-shipping-route-in-coming-days?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Mon, 07 Sep 2026 00:00:00 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "Trump official says \u2018there may not be a nuclear agreement\u2019 with Iran",
       "link": "https://www.aljazeera.com/news/2026/9/6/trump-official-says-there-may-not-be-a-nuclear-agreement-with-iran?traffic_source=rss",
       "desc": "",
       "pubDate": "Sun, 06 Sep 2026 16:59:04 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Iran touts military response as US maintains blockade, hits tankers",
-      "link": "https://www.aljazeera.com/news/2026/9/6/iran-touts-military-response-as-us-maintains-blockade-hits-tankers?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Sun, 06 Sep 2026 16:17:06 +0000"
     },
     {
       "source": "BBC",
@@ -113,13 +113,6 @@
       "link": "https://thehill.com/homenews/administration/6073694-live-updates-wright-us-iran-strikes/",
       "desc": "",
       "pubDate": "Sun, 06 Sep 2026 20:23:28 +0000"
-    },
-    {
-      "source": "The Hill",
-      "title": "Lawler disagrees with Trump on Iran war: 'It is certainly not small potatoes'",
-      "link": "https://thehill.com/homenews/house/6073941-lawler-disagrees-trump-iran-war-small-potatoes/",
-      "desc": "",
-      "pubDate": "Sun, 06 Sep 2026 17:39:53 +0000"
     }
   ]
 }
