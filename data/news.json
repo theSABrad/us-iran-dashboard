@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-09-08T01:54:14.832325Z",
-  "count": 14,
+  "lastUpdated": "2026-09-08T07:30:45.735065Z",
+  "count": 15,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "IAEA warns over Iran nuclear access as Western powers push UN referral",
+      "link": "https://www.aljazeera.com/news/2026/9/8/iaea-warns-over-iran-nuclear-access-as-western-powers-push-un-referral?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Tue, 08 Sep 2026 01:50:37 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "Iran war live: Qatar warns of \u2018industrial catastrophe\u2019 if crisis continues",
@@ -15,13 +22,6 @@
       "link": "https://www.aljazeera.com/economy/2026/9/7/oil-prices-surge-as-us-iran-strikes-intensify-in-strait-of-hormuz?traffic_source=rss",
       "desc": "",
       "pubDate": "Mon, 07 Sep 2026 21:17:12 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "The domestic armed threat facing Iran",
-      "link": "https://www.aljazeera.com/news/2026/9/7/the-domestic-armed-threat-facing-iran?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Mon, 07 Sep 2026 19:06:22 +0000"
     },
     {
       "source": "BBC",
@@ -99,6 +99,13 @@
       "link": "https://www.bbc.co.uk/news/videos/c07lel35rllo?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Tue, 25 Aug 2026 13:46:28 GMT"
+    },
+    {
+      "source": "The Hill",
+      "title": "Gas prices reach Labor Day high amid Iran war",
+      "link": "https://thehill.com/policy/energy-environment/6075479-labor-day-gas-prices-rise/",
+      "desc": "",
+      "pubDate": "Tue, 08 Sep 2026 02:52:36 +0000"
     }
   ]
 }
