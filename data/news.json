@@ -1,28 +1,7 @@
 {
-  "lastUpdated": "2026-09-08T13:09:07.333434Z",
-  "count": 14,
+  "lastUpdated": "2026-09-08T18:10:42.255527Z",
+  "count": 12,
   "articles": [
-    {
-      "source": "Al Jazeera",
-      "title": "BRICS summit may be the only place another Iran ceasefire can be built",
-      "link": "https://www.aljazeera.com/opinions/2026/9/8/brics-summit-may-be-the-only-place-another-iran-ceasefire-can-be-built?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Tue, 08 Sep 2026 12:00:16 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "How South Korea finds itself trapped in the US-Iran war",
-      "link": "https://www.aljazeera.com/news/2026/9/8/how-south-korea-finds-itself-trapped-in-the-us-iran-war?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Tue, 08 Sep 2026 10:00:52 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "As fuel prices rise again, Iran\u2019s government urges citizens to cut back",
-      "link": "https://www.aljazeera.com/news/2026/9/8/as-fuel-prices-rise-again-irans-government-urges-citizens-to-cut-back?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Tue, 08 Sep 2026 08:15:29 +0000"
-    },
     {
       "source": "BBC",
       "title": "<![CDATA[Iran warns of 'faster, heavier, more painful response' to US attacks]]>",
@@ -99,6 +78,13 @@
       "link": "https://www.bbc.co.uk/news/videos/c07lel35rllo?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Tue, 25 Aug 2026 13:46:28 GMT"
+    },
+    {
+      "source": "The Hill",
+      "title": "US issues sweeping sanctions against Iranian airlines, foreign businesses",
+      "link": "https://thehill.com/homenews/administration/6076934-trump-sanctions-iran-airlines/",
+      "desc": "",
+      "pubDate": "Tue, 08 Sep 2026 17:50:07 +0000"
     }
   ]
 }
