@@ -1,41 +1,20 @@
 {
-  "lastUpdated": "2026-09-09T07:38:50.950113Z",
-  "count": 14,
+  "lastUpdated": "2026-09-09T13:13:42.456146Z",
+  "count": 13,
   "articles": [
     {
       "source": "Al Jazeera",
-      "title": "Medicine shortages grow in Iran as US tightens sanctions, blockade",
-      "link": "https://www.aljazeera.com/news/2026/9/9/medicine-shortages-grow-in-iran-as-us-tightens-sanctions-blockade?traffic_source=rss",
+      "title": "Brent crude surpasses $100 a barrel as Iran, US escalate attacks",
+      "link": "https://www.aljazeera.com/news/2026/9/9/global-stocks-slide-as-brent-crude-surpasses-100-a-barrel?traffic_source=rss",
       "desc": "",
-      "pubDate": "Wed, 09 Sep 2026 07:14:12 +0000"
+      "pubDate": "Wed, 09 Sep 2026 12:26:25 +0000"
     },
     {
       "source": "Al Jazeera",
-      "title": "Why US-Iran war over Hormuz is threatening the Gulf\u2019s waters",
-      "link": "https://www.aljazeera.com/news/2026/9/9/why-us-iran-war-over-hormuz-is-threatening-the-gulfs-waters?traffic_source=rss",
+      "title": "Did Iran capture a US submarine? What we know about the underwater drone",
+      "link": "https://www.aljazeera.com/news/2026/9/9/has-iran-captured-an-unmanned-us-submarine-what-we-know?traffic_source=rss",
       "desc": "",
-      "pubDate": "Wed, 09 Sep 2026 05:47:58 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Jordanian air defences intercept Iranian missile barrage",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/9/jordanian-air-defences-intercept-iranian-missile-barrage?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Wed, 09 Sep 2026 01:08:15 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "US strikes 5 Iranian oil tankers; Tehran targets Jordan base, US warships",
-      "link": "https://www.aljazeera.com/news/2026/9/9/us-destroys-five-iranian-tankers-iran-retaliates-with-attacks-on-jordan-base?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Wed, 09 Sep 2026 00:08:37 +0000"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[US strikes Iranian oil tankers as Tehran targets American base in Jordan]]>",
-      "link": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Wed, 09 Sep 2026 04:26:38 GMT"
+      "pubDate": "Wed, 09 Sep 2026 11:06:16 +0000"
     },
     {
       "source": "BBC",
@@ -95,10 +74,24 @@
     },
     {
       "source": "NPR",
+      "title": "U.S. military destroys 5 Iranian oil tankers. And, the Smithsonian head resigns",
+      "link": "https://www.npr.org/2026/09/09/g-s1-142496/up-first-newsletter-iran-us-uk-israel-palestine-lonnie-bunch-smithsonian",
+      "desc": "The U.S. military says it has destroyed five Iranian oil tankers as the conflict continues to escalate. And, Smithsonian head Lonnie G. Bunch III says he plans to step down by the end of the year.",
+      "pubDate": "Wed, 09 Sep 2026 07:12:27 -0400"
+    },
+    {
+      "source": "NPR",
       "title": "U.S. military says it destroyed 5 Iranian oil tankers after attacks on Navy warship",
       "link": "https://www.npr.org/2026/09/09/nx-s1-5962641/us-destroy-iranian-oil-tankers",
       "desc": "The U.S. military said it destroyed five Iranian oil tankers on Tuesday in response to the latest attacks on its warships. Iran hit American targets in Jordan.",
       "pubDate": "Wed, 09 Sep 2026 01:20:45 -0400"
+    },
+    {
+      "source": "The Hill",
+      "title": "Iran attacks vessels, US base in Jordan after tankers sunk",
+      "link": "https://thehill.com/policy/international/6078254-us-iran-war-jordan-retaliation-oil-tankers-sunk/",
+      "desc": "",
+      "pubDate": "Wed, 09 Sep 2026 12:03:07 +0000"
     }
   ]
 }
