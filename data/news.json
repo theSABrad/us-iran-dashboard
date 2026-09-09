@@ -1,7 +1,21 @@
 {
-  "lastUpdated": "2026-09-09T01:59:40.436989Z",
-  "count": 17,
+  "lastUpdated": "2026-09-09T07:38:50.950113Z",
+  "count": 14,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Medicine shortages grow in Iran as US tightens sanctions, blockade",
+      "link": "https://www.aljazeera.com/news/2026/9/9/medicine-shortages-grow-in-iran-as-us-tightens-sanctions-blockade?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Wed, 09 Sep 2026 07:14:12 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Why US-Iran war over Hormuz is threatening the Gulf\u2019s waters",
+      "link": "https://www.aljazeera.com/news/2026/9/9/why-us-iran-war-over-hormuz-is-threatening-the-gulfs-waters?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Wed, 09 Sep 2026 05:47:58 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "Jordanian air defences intercept Iranian missile barrage",
@@ -11,31 +25,17 @@
     },
     {
       "source": "Al Jazeera",
-      "title": "US attacks 5 Iranian oil tankers, Tehran retaliates with strikes on Jordan",
+      "title": "US strikes 5 Iranian oil tankers; Tehran targets Jordan base, US warships",
       "link": "https://www.aljazeera.com/news/2026/9/9/us-destroys-five-iranian-tankers-iran-retaliates-with-attacks-on-jordan-base?traffic_source=rss",
       "desc": "",
       "pubDate": "Wed, 09 Sep 2026 00:08:37 +0000"
     },
     {
-      "source": "Al Jazeera",
-      "title": "Iran war live: US hits Iranian tankers, IRGC attacks US forces in Jordan",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/9/9/iran-war-live-us-hits-iranian-tankers-irgc-attacks-us-base-in-jordan?traffic_source=rss",
+      "source": "BBC",
+      "title": "<![CDATA[US strikes Iranian oil tankers as Tehran targets American base in Jordan]]>",
+      "link": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss",
       "desc": "",
-      "pubDate": "Wed, 09 Sep 2026 00:00:00 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "US increases pressure on Iran with sanctions targeting aviation sector",
-      "link": "https://www.aljazeera.com/news/2026/9/8/us-increases-pressure-on-iran-with-sanctions-targeting-aviation-sector?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Tue, 08 Sep 2026 23:51:29 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "US bombs five Iranian oil tankers after its navy is attacked",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/us-bombs-five-iranian-oil-tankers-after-its-navy-is-attacked?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Tue, 08 Sep 2026 23:49:25 +0000"
+      "pubDate": "Wed, 09 Sep 2026 04:26:38 GMT"
     },
     {
       "source": "BBC",
@@ -67,10 +67,10 @@
     },
     {
       "source": "BBC",
-      "title": "<![CDATA[Iranian attack on Saudi tanker killed two Filipino sailors, Saudi Arabia says]]>",
-      "link": "https://www.bbc.co.uk/news/articles/cx2zxgg4mx9o?at_medium=RSS&at_campaign=rss",
+      "title": "<![CDATA[How could US-Iran conflict end? Three experts give their views]]>",
+      "link": "https://www.bbc.co.uk/news/articles/cgjql614glvo?at_medium=RSS&at_campaign=rss",
       "desc": "",
-      "pubDate": "Wed, 02 Sep 2026 17:33:45 GMT"
+      "pubDate": "Fri, 04 Sep 2026 09:14:57 GMT"
     },
     {
       "source": "BBC",
@@ -78,13 +78,6 @@
       "link": "https://www.bbc.co.uk/news/videos/c0lr1krdxxwo?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Wed, 02 Sep 2026 21:02:35 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[How could US-Iran conflict end? Three experts give their views]]>",
-      "link": "https://www.bbc.co.uk/news/articles/cgjql614glvo?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Fri, 04 Sep 2026 09:14:57 GMT"
     },
     {
       "source": "BBC",
@@ -101,25 +94,11 @@
       "pubDate": "Sat, 01 Aug 2026 05:01:19 GMT"
     },
     {
-      "source": "BBC",
-      "title": "<![CDATA[US and Iran trade strikes for first time in weeks]]>",
-      "link": "https://www.bbc.co.uk/news/videos/cwyzw0el1lpo?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Mon, 31 Aug 2026 15:50:00 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[Watch: What are the US sanctions on Iran and who else will be affected?]]>",
-      "link": "https://www.bbc.co.uk/news/videos/c07lel35rllo?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Tue, 25 Aug 2026 13:46:28 GMT"
-    },
-    {
-      "source": "The Hill",
-      "title": "US military destroys 5 Iranian oil tankers",
-      "link": "https://thehill.com/policy/defense/6077471-us-strikes-irgc-oil-tankers/",
-      "desc": "",
-      "pubDate": "Tue, 08 Sep 2026 21:48:09 +0000"
+      "source": "NPR",
+      "title": "U.S. military says it destroyed 5 Iranian oil tankers after attacks on Navy warship",
+      "link": "https://www.npr.org/2026/09/09/nx-s1-5962641/us-destroy-iranian-oil-tankers",
+      "desc": "The U.S. military said it destroyed five Iranian oil tankers on Tuesday in response to the latest attacks on its warships. Iran hit American targets in Jordan.",
+      "pubDate": "Wed, 09 Sep 2026 01:20:45 -0400"
     }
   ]
 }
