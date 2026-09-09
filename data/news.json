@@ -1,7 +1,42 @@
 {
-  "lastUpdated": "2026-09-08T23:02:21.081380Z",
-  "count": 12,
+  "lastUpdated": "2026-09-09T01:59:40.436989Z",
+  "count": 17,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Jordanian air defences intercept Iranian missile barrage",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/9/jordanian-air-defences-intercept-iranian-missile-barrage?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Wed, 09 Sep 2026 01:08:15 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "US attacks 5 Iranian oil tankers, Tehran retaliates with strikes on Jordan",
+      "link": "https://www.aljazeera.com/news/2026/9/9/us-destroys-five-iranian-tankers-iran-retaliates-with-attacks-on-jordan-base?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Wed, 09 Sep 2026 00:08:37 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Iran war live: US hits Iranian tankers, IRGC attacks US forces in Jordan",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/9/9/iran-war-live-us-hits-iranian-tankers-irgc-attacks-us-base-in-jordan?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Wed, 09 Sep 2026 00:00:00 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "US increases pressure on Iran with sanctions targeting aviation sector",
+      "link": "https://www.aljazeera.com/news/2026/9/8/us-increases-pressure-on-iran-with-sanctions-targeting-aviation-sector?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Tue, 08 Sep 2026 23:51:29 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "US bombs five Iranian oil tankers after its navy is attacked",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/8/us-bombs-five-iranian-oil-tankers-after-its-navy-is-attacked?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Tue, 08 Sep 2026 23:49:25 +0000"
+    },
     {
       "source": "BBC",
       "title": "<![CDATA[Iran warns of 'faster, heavier, more painful response' to US attacks]]>",
