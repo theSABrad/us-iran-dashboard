@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-09-10T01:56:29.404583Z",
-  "count": 17,
+  "lastUpdated": "2026-09-10T07:35:20.002058Z",
+  "count": 13,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Why is Iran bombing Jordan\u2019s Al-Azraq base?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/10/why-is-iran-bombing-jordans-al-azraq-base?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Thu, 10 Sep 2026 03:02:18 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "Iran war live: Iran media say \u2018enemy\u2019 projectiles hit Sirik areas",
@@ -24,18 +31,11 @@
       "pubDate": "Wed, 09 Sep 2026 23:15:38 +0000"
     },
     {
-      "source": "Al Jazeera",
-      "title": "Trump says Iran war \u2018will end immediately\u2019 after US midterm elections",
-      "link": "https://www.aljazeera.com/news/2026/9/9/trump-says-iran-war-will-end-immediately-after-us-midterm-elections?traffic_source=rss",
+      "source": "BBC",
+      "title": "<![CDATA[Iran war won't end until after crucial November elections, says Trump ]]>",
+      "link": "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss",
       "desc": "",
-      "pubDate": "Wed, 09 Sep 2026 21:09:45 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "IAEA board refers Iran to UN Security Council over nuclear \u2018non-compliance\u2019",
-      "link": "https://www.aljazeera.com/news/2026/9/9/iaea-board-resolves-to-report-iran-to-security-council-over-nuclear-program?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Wed, 09 Sep 2026 20:23:34 +0000"
+      "pubDate": "Thu, 10 Sep 2026 05:56:38 GMT"
     },
     {
       "source": "BBC",
@@ -50,27 +50,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cp8d56w7d9po?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Sun, 06 Sep 2026 17:00:56 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[US and Iran trade retaliatory attacks on ships as conflict flares]]>",
-      "link": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Sat, 05 Sep 2026 22:44:07 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[US investigating if missile hit Iran wedding, Vance says]]>",
-      "link": "https://www.bbc.co.uk/news/articles/cy4zvk3z2k1o?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Thu, 03 Sep 2026 22:19:59 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[Iran says US strike killed four at wedding in 'war crime' as US denies targeting civilians]]>",
-      "link": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Wed, 02 Sep 2026 15:33:19 GMT"
     },
     {
       "source": "BBC",
@@ -113,13 +92,6 @@
       "link": "https://www.npr.org/2026/09/09/nx-s1-5962641/us-destroy-iranian-oil-tankers",
       "desc": "The U.S. military said it destroyed five Iranian oil tankers on Tuesday in response to the latest attacks on its warships. Iran hit American targets in Jordan.",
       "pubDate": "Wed, 09 Sep 2026 01:20:45 -0400"
-    },
-    {
-      "source": "The Hill",
-      "title": "Trump admits Iran war will not end before midterms",
-      "link": "https://thehill.com/newsletters/defense-national-security/6080270-trump-admits-iran-war-will-not-end-before-midterms/",
-      "desc": "",
-      "pubDate": "Wed, 09 Sep 2026 22:01:08 +0000"
     }
   ]
 }
