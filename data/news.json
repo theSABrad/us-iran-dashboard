@@ -1,7 +1,28 @@
 {
-  "lastUpdated": "2026-09-09T22:49:18.819905Z",
-  "count": 15,
+  "lastUpdated": "2026-09-10T01:56:29.404583Z",
+  "count": 17,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Iran war live: Iran media say \u2018enemy\u2019 projectiles hit Sirik areas",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/9/10/iran-war-live-iran-media-says-sirik-areas-hit-with-hostile-projectiles?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Thu, 10 Sep 2026 00:00:00 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Trump says the US-Iran war will end right after midterms",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/9/trump-says-the-us-iran-war-will-end-right-after-midterms?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Wed, 09 Sep 2026 23:22:46 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Iran war looms over Trump at Republican midterm convention in Dallas",
+      "link": "https://www.aljazeera.com/news/2026/9/9/iran-war-looms-over-trump-at-republican-midterm-convention-in-dallas?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Wed, 09 Sep 2026 23:15:38 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "Trump says Iran war \u2018will end immediately\u2019 after US midterm elections",
@@ -99,13 +120,6 @@
       "link": "https://thehill.com/newsletters/defense-national-security/6080270-trump-admits-iran-war-will-not-end-before-midterms/",
       "desc": "",
       "pubDate": "Wed, 09 Sep 2026 22:01:08 +0000"
-    },
-    {
-      "source": "The Hill",
-      "title": "Iran reignites Strait of Hormuz fight as US tightens squeeze",
-      "link": "https://thehill.com/policy/defense/6080200-trump-threatens-more-iranian-attacks/",
-      "desc": "",
-      "pubDate": "Wed, 09 Sep 2026 21:25:33 +0000"
     }
   ]
 }
