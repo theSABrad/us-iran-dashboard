@@ -1,13 +1,13 @@
 {
-  "lastUpdated": "2026-09-11T17:58:15.509877Z",
-  "count": 11,
+  "lastUpdated": "2026-09-11T20:25:31.146948Z",
+  "count": 12,
   "articles": [
     {
       "source": "Al Jazeera",
-      "title": "Why Pakistan is talking to Iran as the Houthi-Saudi fight escalates",
-      "link": "https://www.aljazeera.com/news-analysis/2026/9/11/why-pakistan-is-talking-to-iran-as-the-houthi-saudi-fight-escalates?traffic_source=rss",
+      "title": "Iran says will discuss Strait of Hormuz with Gulf states on Monday",
+      "link": "https://www.aljazeera.com/news/2026/9/11/iran-says-will-discuss-strait-of-hormuz-with-gulf-states-on-monday?traffic_source=rss",
       "desc": "",
-      "pubDate": "Fri, 11 Sep 2026 14:07:00 +0000"
+      "pubDate": "Fri, 11 Sep 2026 18:33:36 +0000"
     },
     {
       "source": "BBC",
@@ -22,6 +22,13 @@
       "link": "https://www.bbc.co.uk/news/articles/ckgwj4kl5lno?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Wed, 09 Sep 2026 20:22:51 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war]]>",
+      "link": "https://www.bbc.co.uk/news/articles/c3v4zgzr1kxo?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Fri, 11 Sep 2026 19:44:58 GMT"
     },
     {
       "source": "BBC",
@@ -53,6 +60,13 @@
     },
     {
       "source": "NPR",
+      "title": "Amid war and sanctions, many Iranians are losing their jobs and struggling to get by",
+      "link": "https://www.npr.org/2026/09/11/g-s1-142935/iran-us-war-jobs-economy",
+      "desc": "Many Iranians lost their jobs because of the war and the US blockade. Now some are even losing their back-up jobs as sanctions tighten",
+      "pubDate": "Fri, 11 Sep 2026 15:39:35 -0400"
+    },
+    {
+      "source": "NPR",
       "title": "Why gains by Iran-backed Houthis in Yemen could push gas prices even higher",
       "link": "https://www.npr.org/2026/09/11/nx-s1-5966379/houthi-gains-gas-prices",
       "desc": "A Houthi advance along Yemen's Red Sea coast could help push gas prices up even more as the Iran-backed group also launches attacks on Saudi Arabia's oil facilities.",
@@ -60,7 +74,7 @@
     },
     {
       "source": "NPR",
-      "title": "Iran-backed Houthi rebels seize strategic Red Sea port in Yemen",
+      "title": "Iran-backed Houthi rebels seize a strategic port and island, opening a new battlefront",
       "link": "https://www.npr.org/2026/09/11/g-s1-142822/houthis-red-sea-port",
       "desc": "The rebel group took over Yemen's port of Mokha, an area vital to controlling shipping through the Red Sea, Houthi and Yemeni officials said. Mokha is about 50 miles from the Bab el-Mandeb Strait.",
       "pubDate": "Fri, 11 Sep 2026 01:40:21 -0400"
@@ -71,13 +85,6 @@
       "link": "https://www.npr.org/2026/09/10/nx-s1-5949211/amid-war-and-sanctions-unemployment-worsens-in-iran",
       "desc": "As the U.S. war with Iran drags on, Iranians face increasing layoffs and a rising unemployment rate.",
       "pubDate": "Thu, 10 Sep 2026 17:03:38 -0400"
-    },
-    {
-      "source": "The Hill",
-      "title": "Trump, Hegseth tie Iran war to 9/11 in speeches at Pentagon",
-      "link": "https://thehill.com/policy/defense/6084687-trump-hegseth-iran-war-september-11/",
-      "desc": "",
-      "pubDate": "Fri, 11 Sep 2026 15:46:24 +0000"
     }
   ]
 }
