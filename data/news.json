@@ -1,7 +1,21 @@
 {
-  "lastUpdated": "2026-09-11T01:54:52.719861Z",
-  "count": 11,
+  "lastUpdated": "2026-09-11T07:33:41.753533Z",
+  "count": 13,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Young republicans break with Trump over Iran war",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/11/young-republicans-break-with-trump-over-iran-war?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Fri, 11 Sep 2026 02:45:52 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Putin lands in India for BRICs summit, shadowed by Iran and Ukraine wars",
+      "link": "https://www.aljazeera.com/news/2026/9/11/putin-lands-in-india-for-brics-summit-shadowed-by-iran-and-ukraine-wars?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Fri, 11 Sep 2026 02:40:19 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "Iran claims to have captured a US \u2018sail drone\u2019 near Hormuz Strait",
@@ -60,17 +74,17 @@
     },
     {
       "source": "NPR",
+      "title": "Iran-backed Houthi rebels seize strategic Red Sea port in Yemen",
+      "link": "https://www.npr.org/2026/09/11/g-s1-142822/houthis-red-sea-port",
+      "desc": "The rebel group took over Yemen's port of Mokha, an area vital to controlling shipping through the Red Sea, Houthi and Yemeni officials said. Mokha is about 50 miles from the Bab el-Mandeb Strait.",
+      "pubDate": "Fri, 11 Sep 2026 01:40:21 -0400"
+    },
+    {
+      "source": "NPR",
       "title": "U.S. military destroys 5 Iranian oil tankers. And, the Smithsonian head resigns",
       "link": "https://www.npr.org/2026/09/09/g-s1-142496/up-first-newsletter-iran-us-uk-israel-palestine-lonnie-bunch-smithsonian",
       "desc": "The U.S. military says it has destroyed five Iranian oil tankers as the conflict continues to escalate. And, Smithsonian head Lonnie G. Bunch III says he plans to step down by the end of the year.",
       "pubDate": "Wed, 09 Sep 2026 07:12:27 -0400"
-    },
-    {
-      "source": "NPR",
-      "title": "U.S. military says it destroyed 5 Iranian oil tankers after attacks on Navy warship",
-      "link": "https://www.npr.org/2026/09/09/nx-s1-5962641/us-destroy-iranian-oil-tankers",
-      "desc": "The U.S. military said it destroyed five Iranian oil tankers on Tuesday in response to the latest attacks on its warships. Iran hit American targets in Jordan.",
-      "pubDate": "Wed, 09 Sep 2026 01:20:45 -0400"
     },
     {
       "source": "The Hill",
