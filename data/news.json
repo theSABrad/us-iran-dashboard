@@ -1,7 +1,21 @@
 {
-  "lastUpdated": "2026-09-10T22:50:10.529851Z",
-  "count": 9,
+  "lastUpdated": "2026-09-11T01:54:52.719861Z",
+  "count": 11,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Iran claims to have captured a US \u2018sail drone\u2019 near Hormuz Strait",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/11/iran-claims-to-have-captured-a-us-sail-drone-near-hormuz-strait?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Fri, 11 Sep 2026 00:24:24 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Iran war live: IRGC attacks US unmanned vessel in Hormuz; two ships hit",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/9/11/iran-war-live-irgc-attacks-us-unmanned-vessel-in-hormuz-two-ships-hit?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Fri, 11 Sep 2026 00:00:00 +0000"
+    },
     {
       "source": "BBC",
       "title": "<![CDATA[Iran war won't end until after crucial November elections, says Trump ]]>",
@@ -60,7 +74,7 @@
     },
     {
       "source": "The Hill",
-      "title": "Acting Navy secretary says Iran 'blew the hell out of' US base in Bahrain",
+      "title": "Acting Navy secretary says Iran 'blew the hell out of' US base in Bahrain: Report",
       "link": "https://thehill.com/newsletters/defense-national-security/6083326-acting-navy-secretary-says-iran-blew-the-hell-out-of-us-base-in-bahrain/",
       "desc": "",
       "pubDate": "Thu, 10 Sep 2026 22:43:21 +0000"
