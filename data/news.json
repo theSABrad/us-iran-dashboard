@@ -1,34 +1,13 @@
 {
-  "lastUpdated": "2026-09-11T07:33:41.753533Z",
-  "count": 13,
+  "lastUpdated": "2026-09-11T13:05:10.683545Z",
+  "count": 11,
   "articles": [
     {
       "source": "Al Jazeera",
-      "title": "Young republicans break with Trump over Iran war",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/11/young-republicans-break-with-trump-over-iran-war?traffic_source=rss",
+      "title": "\u2018Blew the hell out of it\u2019: How Iran damaged US bases in Bahrain, Jordan",
+      "link": "https://www.aljazeera.com/news/2026/9/11/blew-the-hell-out-of-it-how-iran-damaged-us-bases-in-bahrain-jordan?traffic_source=rss",
       "desc": "",
-      "pubDate": "Fri, 11 Sep 2026 02:45:52 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Putin lands in India for BRICs summit, shadowed by Iran and Ukraine wars",
-      "link": "https://www.aljazeera.com/news/2026/9/11/putin-lands-in-india-for-brics-summit-shadowed-by-iran-and-ukraine-wars?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Fri, 11 Sep 2026 02:40:19 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Iran claims to have captured a US \u2018sail drone\u2019 near Hormuz Strait",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/11/iran-claims-to-have-captured-a-us-sail-drone-near-hormuz-strait?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Fri, 11 Sep 2026 00:24:24 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Iran war live: IRGC attacks US unmanned vessel in Hormuz; two ships hit",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/9/11/iran-war-live-irgc-attacks-us-unmanned-vessel-in-hormuz-two-ships-hit?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Fri, 11 Sep 2026 00:00:00 +0000"
+      "pubDate": "Fri, 11 Sep 2026 10:41:35 +0000"
     },
     {
       "source": "BBC",
@@ -74,6 +53,13 @@
     },
     {
       "source": "NPR",
+      "title": "Why gains by Iran-backed Houthis in Yemen could push gas prices even higher",
+      "link": "https://www.npr.org/2026/09/11/nx-s1-5966379/houthi-gains-gas-prices",
+      "desc": "A Houthi advance along Yemen's Red Sea coast could help push gas prices up even more as the Iran-backed group also launches attacks on Saudi Arabia's oil facilities.",
+      "pubDate": "Fri, 11 Sep 2026 03:32:27 -0400"
+    },
+    {
+      "source": "NPR",
       "title": "Iran-backed Houthi rebels seize strategic Red Sea port in Yemen",
       "link": "https://www.npr.org/2026/09/11/g-s1-142822/houthis-red-sea-port",
       "desc": "The rebel group took over Yemen's port of Mokha, an area vital to controlling shipping through the Red Sea, Houthi and Yemeni officials said. Mokha is about 50 miles from the Bab el-Mandeb Strait.",
@@ -88,10 +74,10 @@
     },
     {
       "source": "The Hill",
-      "title": "Acting Navy secretary says Iran 'blew the hell out of' US base in Bahrain: Report",
-      "link": "https://thehill.com/newsletters/defense-national-security/6083326-acting-navy-secretary-says-iran-blew-the-hell-out-of-us-base-in-bahrain/",
+      "title": "Inflation held steady in August as Iran war surges oil prices",
+      "link": "https://thehill.com/business/6083146-inflation-rate-cpi-august/",
       "desc": "",
-      "pubDate": "Thu, 10 Sep 2026 22:43:21 +0000"
+      "pubDate": "Fri, 11 Sep 2026 12:42:00 +0000"
     }
   ]
 }
