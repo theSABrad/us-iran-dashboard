@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-11T20:25:31.146948Z",
-  "count": 12,
+  "lastUpdated": "2026-09-11T22:51:27.617098Z",
+  "count": 13,
   "articles": [
     {
       "source": "Al Jazeera",
@@ -62,7 +62,7 @@
       "source": "NPR",
       "title": "Amid war and sanctions, many Iranians are losing their jobs and struggling to get by",
       "link": "https://www.npr.org/2026/09/11/g-s1-142935/iran-us-war-jobs-economy",
-      "desc": "Many Iranians lost their jobs because of the war and the US blockade. Now some are even losing their back-up jobs as sanctions tighten",
+      "desc": "Many Iranians lost their jobs because of the war and the U.S. blockade. Now some are even losing their backup jobs as sanctions tighten.",
       "pubDate": "Fri, 11 Sep 2026 15:39:35 -0400"
     },
     {
@@ -85,6 +85,13 @@
       "link": "https://www.npr.org/2026/09/10/nx-s1-5949211/amid-war-and-sanctions-unemployment-worsens-in-iran",
       "desc": "As the U.S. war with Iran drags on, Iranians face increasing layoffs and a rising unemployment rate.",
       "pubDate": "Thu, 10 Sep 2026 17:03:38 -0400"
+    },
+    {
+      "source": "The Hill",
+      "title": "Proxy fight in Yemen heats up, risking new front in US-Iran war",
+      "link": "https://thehill.com/policy/defense/6085660-houthis-takeover-port-saudi-gas-pipeline/",
+      "desc": "",
+      "pubDate": "Fri, 11 Sep 2026 22:45:35 +0000"
     }
   ]
 }
