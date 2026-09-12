@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-09-11T22:51:27.617098Z",
-  "count": 13,
+  "lastUpdated": "2026-09-12T01:59:20.481221Z",
+  "count": 15,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Iran war live: Houthis control Red Sea coast, Saudi pipeline shut down",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/9/12/iran-war-live-houthis-control-red-sea-coast-saudi-pipeline-shut-down?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sat, 12 Sep 2026 00:00:00 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "Iran says will discuss Strait of Hormuz with Gulf states on Monday",
@@ -85,6 +92,13 @@
       "link": "https://www.npr.org/2026/09/10/nx-s1-5949211/amid-war-and-sanctions-unemployment-worsens-in-iran",
       "desc": "As the U.S. war with Iran drags on, Iranians face increasing layoffs and a rising unemployment rate.",
       "pubDate": "Thu, 10 Sep 2026 17:03:38 -0400"
+    },
+    {
+      "source": "The Hill",
+      "title": "Trump, Hegseth tie Iran war into 9/11 speeches",
+      "link": "https://thehill.com/newsletters/defense-national-security/6085685-trump-hegseth-tie-iran-war-into-9-11-speeches/",
+      "desc": "",
+      "pubDate": "Fri, 11 Sep 2026 23:07:09 +0000"
     },
     {
       "source": "The Hill",
