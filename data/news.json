@@ -1,7 +1,28 @@
 {
-  "lastUpdated": "2026-09-12T17:30:47.518554Z",
-  "count": 15,
+  "lastUpdated": "2026-09-12T19:49:30.186286Z",
+  "count": 19,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Will Houthi advances in Yemen give Iran leverage in its war with the US?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/9/12/will-houthi-advances-in-yemen-give-iran-leverage-in-its-war-with-the-us?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sat, 12 Sep 2026 19:17:37 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Iraq probes drone strikes on Saudi Arabia, shuts three crossings to Iran",
+      "link": "https://www.aljazeera.com/news/2026/9/12/iraq-probes-drone-strikes-on-saudi-arabia-shuts-three-crossings-to-iran?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sat, 12 Sep 2026 18:53:31 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Iran, UAE hold first talks at BRICS summit since conflict began",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/12/09-12-clip-uae-iran-brics-talks-mp4?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sat, 12 Sep 2026 18:36:17 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "Iranian official tells Al Jazeera IAEA ruling was imposed by US and Israel",
@@ -106,6 +127,13 @@
       "link": "https://www.npr.org/2026/09/11/nx-s1-5966379/houthi-gains-gas-prices",
       "desc": "A Houthi advance along Yemen's Red Sea coast could help push gas prices up even more as the Iran-backed group also launches attacks on Saudi Arabia's oil facilities.",
       "pubDate": "Fri, 11 Sep 2026 03:32:27 -0400"
+    },
+    {
+      "source": "The Hill",
+      "title": "Iran's war didn't end. It changed units.",
+      "link": "https://thehill.com/opinion/international/6085199-us-iran-escalation-rhetoric-threshold/",
+      "desc": "",
+      "pubDate": "Sat, 12 Sep 2026 19:00:00 +0000"
     }
   ]
 }
