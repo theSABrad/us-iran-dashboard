@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-12T01:59:20.481221Z",
+  "lastUpdated": "2026-09-12T07:25:07.528079Z",
   "count": 15,
   "articles": [
     {
@@ -8,13 +8,6 @@
       "link": "https://www.aljazeera.com/news/liveblog/2026/9/12/iran-war-live-houthis-control-red-sea-coast-saudi-pipeline-shut-down?traffic_source=rss",
       "desc": "",
       "pubDate": "Sat, 12 Sep 2026 00:00:00 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Iran says will discuss Strait of Hormuz with Gulf states on Monday",
-      "link": "https://www.aljazeera.com/news/2026/9/11/iran-says-will-discuss-strait-of-hormuz-with-gulf-states-on-monday?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Fri, 11 Sep 2026 18:33:36 +0000"
     },
     {
       "source": "BBC",
@@ -64,6 +57,13 @@
       "link": "https://www.bbc.co.uk/news/articles/c9w0ygrwrn5o?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Sat, 01 Aug 2026 05:01:19 GMT"
+    },
+    {
+      "source": "NPR",
+      "title": "Yemen's Houthis capture a Red Sea island in threat to shipping",
+      "link": "https://www.npr.org/2026/09/12/g-s1-143044/yemens-houthis-capture-red-sea-island",
+      "desc": "Iranian-backed Houthi rebels in Yemen have captured a strategic island in the Bab el-Mandeb Strait. The move threatens Saudi oil exports through a key commercial lane. And Saudi Arabia said it shut do",
+      "pubDate": "Sat, 12 Sep 2026 01:57:08 -0400"
     },
     {
       "source": "NPR",
