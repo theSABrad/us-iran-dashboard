@@ -1,20 +1,27 @@
 {
-  "lastUpdated": "2026-09-13T07:43:47.727179Z",
-  "count": 15,
+  "lastUpdated": "2026-09-13T13:30:46.441739Z",
+  "count": 14,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "The Iran war reveals the limits of BRICS",
+      "link": "https://www.aljazeera.com/opinions/2026/9/13/the-iran-war-reveals-the-limits-of?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sun, 13 Sep 2026 12:46:58 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "A dignified life is a \u2018distant dream\u2019 for many Iranian families amid US war",
+      "link": "https://www.aljazeera.com/economy/2026/9/13/a-dignified-life-is-a-distant-dream-for-many-iranian-families-amid-us-war?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sun, 13 Sep 2026 11:45:24 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "Iran\u2019s Pezeshkian: \u2018We are not at war with Saudi Arabia\u2019",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/9/13/13-09-clip-pezeshkian-iran-not-at-war-with-saudis-ir?traffic_source=rss",
       "desc": "",
       "pubDate": "Sun, 13 Sep 2026 01:32:56 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Iran war live: Commercial ship attacked in Hormuz, killing 1, wounding 3",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/9/13/iran-war-live-saudi-arabia-and-houthis-trade-strikes-over-bab-al-mandeb?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Sun, 13 Sep 2026 00:00:40 +0000"
     },
     {
       "source": "BBC",
@@ -87,25 +94,11 @@
       "pubDate": "Fri, 11 Sep 2026 15:39:35 -0400"
     },
     {
-      "source": "NPR",
-      "title": "Why gains by Iran-backed Houthis in Yemen could push gas prices even higher",
-      "link": "https://www.npr.org/2026/09/11/nx-s1-5966379/houthi-gains-gas-prices",
-      "desc": "A Houthi advance along Yemen's Red Sea coast could help push gas prices up even more as the Iran-backed group also launches attacks on Saudi Arabia's oil facilities.",
-      "pubDate": "Fri, 11 Sep 2026 03:32:27 -0400"
-    },
-    {
       "source": "The Hill",
-      "title": "Sunday shows preview: Republicans talk strategy as midterms approach; Iran conflict, Canada trade war leave economy in flux",
-      "link": "https://thehill.com/homenews/sunday-talk-shows/6086297-sunday-shows-republicans-strategy-economy-struggles/",
+      "title": "Iranian ship attacked near Strait of Hormuz: Iranian state media",
+      "link": "https://thehill.com/policy/international/6086615-iranian-cargo-ship-struck-hormuz/",
       "desc": "",
-      "pubDate": "Sat, 12 Sep 2026 20:35:42 +0000"
-    },
-    {
-      "source": "The Hill",
-      "title": "Iran's war didn't end. It changed units.",
-      "link": "https://thehill.com/opinion/international/6085199-us-iran-escalation-rhetoric-threshold/",
-      "desc": "",
-      "pubDate": "Sat, 12 Sep 2026 19:00:00 +0000"
+      "pubDate": "Sun, 13 Sep 2026 12:09:28 +0000"
     }
   ]
 }
