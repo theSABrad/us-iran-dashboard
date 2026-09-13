@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-13T17:46:11.640390Z",
+  "lastUpdated": "2026-09-13T19:58:04.197391Z",
   "count": 13,
   "articles": [
     {
@@ -15,13 +15,6 @@
       "link": "https://www.aljazeera.com/opinions/2026/9/13/the-iran-war-reveals-the-limits-of?traffic_source=rss",
       "desc": "",
       "pubDate": "Sun, 13 Sep 2026 12:46:58 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "A dignified life is a \u2018distant dream\u2019 for many Iranian families amid US war",
-      "link": "https://www.aljazeera.com/economy/2026/9/13/a-dignified-life-is-a-distant-dream-for-many-iranian-families-amid-us-war?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Sun, 13 Sep 2026 11:45:24 +0000"
     },
     {
       "source": "BBC",
@@ -92,6 +85,13 @@
       "link": "https://www.npr.org/2026/09/11/g-s1-142935/iran-us-war-jobs-economy",
       "desc": "Many Iranians lost their jobs because of the war and the U.S. blockade. Now some are even losing their backup jobs as sanctions tighten.",
       "pubDate": "Fri, 11 Sep 2026 15:39:35 -0400"
+    },
+    {
+      "source": "The Hill",
+      "title": "Trump floats idea to 'stay and keep the oil' in Iran, noting Venezuela deal",
+      "link": "https://thehill.com/policy/energy-environment/6086928-trump-compares-iran-venezuela-oil/",
+      "desc": "",
+      "pubDate": "Sun, 13 Sep 2026 19:05:43 +0000"
     }
   ]
 }
