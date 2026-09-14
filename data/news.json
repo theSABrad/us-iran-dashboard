@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-14T02:11:21.252548Z",
-  "count": 13,
+  "lastUpdated": "2026-09-14T08:13:54.889116Z",
+  "count": 14,
   "articles": [
     {
       "source": "Al Jazeera",
@@ -8,6 +8,13 @@
       "link": "https://www.aljazeera.com/news/liveblog/2026/9/14/iran-war-live-oman-says-hormuz-talks-with-iran-gulf-states-postponed?traffic_source=rss",
       "desc": "",
       "pubDate": "Mon, 14 Sep 2026 00:00:00 +0000"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[US pilot shot down over Iran recalls 'free-falling' in first interview since rescue]]>",
+      "link": "https://www.bbc.co.uk/news/articles/cy7zvxe1jm7o?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Mon, 14 Sep 2026 01:00:30 GMT"
     },
     {
       "source": "BBC",
@@ -53,10 +60,10 @@
     },
     {
       "source": "BBC",
-      "title": "<![CDATA[What is Iran's Pickaxe Mountain and why does Trump say he wants to bomb it?]]>",
-      "link": "https://www.bbc.co.uk/news/articles/c9w0ygrwrn5o?at_medium=RSS&at_campaign=rss",
+      "title": "<![CDATA[Watch: Trump says Iran war will end 'immediately' after US midterm elections]]>",
+      "link": "https://www.bbc.co.uk/news/videos/c3d7p3jmk7ko?at_medium=RSS&at_campaign=rss",
       "desc": "",
-      "pubDate": "Sat, 01 Aug 2026 05:01:19 GMT"
+      "pubDate": "Wed, 09 Sep 2026 21:12:12 GMT"
     },
     {
       "source": "NPR",
@@ -80,11 +87,11 @@
       "pubDate": "Sat, 12 Sep 2026 08:19:22 -0400"
     },
     {
-      "source": "NPR",
-      "title": "Yemen's Houthis capture a Red Sea island in threat to shipping",
-      "link": "https://www.npr.org/2026/09/12/g-s1-143044/yemens-houthis-capture-red-sea-island",
-      "desc": "Iranian-backed Houthi rebels in Yemen have captured a strategic island in the Bab el-Mandeb Strait. The move threatens Saudi oil exports through a key commercial lane. And Saudi Arabia said it shut do",
-      "pubDate": "Sat, 12 Sep 2026 01:57:08 -0400"
+      "source": "The Hill",
+      "title": "Air Force colonel recounts how he survived after F-15E jet was shot down over Iran",
+      "link": "https://thehill.com/policy/defense/6087347-usaf-colonel-survives-iran-crash/",
+      "desc": "",
+      "pubDate": "Mon, 14 Sep 2026 01:43:48 +0000"
     },
     {
       "source": "The Hill",
