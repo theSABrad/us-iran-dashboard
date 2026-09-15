@@ -1,13 +1,20 @@
 {
-  "lastUpdated": "2026-09-15T13:56:38.018130Z",
-  "count": 12,
+  "lastUpdated": "2026-09-15T18:33:55.975011Z",
+  "count": 11,
   "articles": [
     {
       "source": "Al Jazeera",
-      "title": "Dozens of aircraft, hundreds of buildings: US loss to Iran attacks revealed",
-      "link": "https://www.aljazeera.com/features/2026/9/15/dozens-of-aircraft-hundreds-of-buildings-us-loss-to-iran-attacks-revealed?traffic_source=rss",
+      "title": "Can China play peacemaker as Iran\u2019s foreign minister heads to Beijing?",
+      "link": "https://www.aljazeera.com/news/2026/9/15/can-china-play-peacemaker-as-irans-foreign-minister-heads-to-beijing?traffic_source=rss",
       "desc": "",
-      "pubDate": "Tue, 15 Sep 2026 11:17:03 +0000"
+      "pubDate": "Tue, 15 Sep 2026 16:15:13 +0000"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[Iran war has led to US munitions shortfalls, Pentagon inspector confirms]]>",
+      "link": "https://www.bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Tue, 15 Sep 2026 15:31:34 GMT"
     },
     {
       "source": "BBC",
@@ -29,13 +36,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Thu, 10 Sep 2026 10:43:53 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[Iran referred to UN Security Council for nuclear non-compliance]]>",
-      "link": "https://www.bbc.co.uk/news/articles/ckgwj4kl5lno?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Wed, 09 Sep 2026 20:22:51 GMT"
     },
     {
       "source": "BBC",
@@ -78,13 +78,6 @@
       "link": "https://www.npr.org/2026/09/14/nx-s1-5965810/morning-news-brief",
       "desc": "Industry leaders call for AI development to slow down to ensure safety, Trump to campaign for GOP candidates ahead of midterms, Iranian officials say a meeting with the Gulf States has been postponed.",
       "pubDate": "Mon, 14 Sep 2026 04:44:20 -0400"
-    },
-    {
-      "source": "NPR",
-      "title": "Talks between Iran and Gulf states to discuss Strait of Hormuz postponed",
-      "link": "https://www.npr.org/2026/09/14/nx-s1-5968072/talks-between-iran-and-gulf-states-to-discuss-strait-of-hormuz-postponed",
-      "desc": "Iranian officials say a meeting with Gulf states to discuss the Strait of Hormuz has been postponed, dealing a blow to efforts to reopen the strait.",
-      "pubDate": "Mon, 14 Sep 2026 04:43:00 -0400"
     }
   ]
 }
