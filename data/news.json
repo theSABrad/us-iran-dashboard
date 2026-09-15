@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-09-15T18:33:55.975011Z",
+  "lastUpdated": "2026-09-15T23:16:41.932416Z",
   "count": 11,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Western intelligence warns of Iranian cyber threats targeting dissidents",
+      "link": "https://www.aljazeera.com/news/2026/9/15/western-intelligence-warns-of-iranian-cyber-threats-targeting-dissidents?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Tue, 15 Sep 2026 20:16:35 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "Can China play peacemaker as Iran\u2019s foreign minister heads to Beijing?",
@@ -14,7 +21,7 @@
       "title": "<![CDATA[Iran war has led to US munitions shortfalls, Pentagon inspector confirms]]>",
       "link": "https://www.bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&at_campaign=rss",
       "desc": "",
-      "pubDate": "Tue, 15 Sep 2026 15:31:34 GMT"
+      "pubDate": "Tue, 15 Sep 2026 20:34:12 GMT"
     },
     {
       "source": "BBC",
@@ -71,13 +78,6 @@
       "link": "https://www.npr.org/2026/09/14/g-s1-143148/up-first-newsletter-ai-anthropic-openai-midterms-trump-oman-iran-talks",
       "desc": "Some key leaders at artificial intelligence companies call for a slowdown in AI development. And, Iran-Gulf diplomacy hits a setback as talks in Oman are delayed.",
       "pubDate": "Mon, 14 Sep 2026 07:39:06 -0400"
-    },
-    {
-      "source": "NPR",
-      "title": "Morning news brief",
-      "link": "https://www.npr.org/2026/09/14/nx-s1-5965810/morning-news-brief",
-      "desc": "Industry leaders call for AI development to slow down to ensure safety, Trump to campaign for GOP candidates ahead of midterms, Iranian officials say a meeting with the Gulf States has been postponed.",
-      "pubDate": "Mon, 14 Sep 2026 04:44:20 -0400"
     }
   ]
 }
