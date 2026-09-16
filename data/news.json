@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-09-16T02:10:49.036642Z",
-  "count": 12,
+  "lastUpdated": "2026-09-16T08:00:16.088576Z",
+  "count": 13,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "US House votes to end Iran war, 7 Republicans join in favour",
+      "link": "https://www.aljazeera.com/news/2026/9/16/us-house-votes-to-end-iran-war-7-republicans-join-in-favour?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Wed, 16 Sep 2026 05:36:53 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "Iran war increasing inflation, straining US munitions: congressional report",
@@ -11,7 +18,7 @@
     },
     {
       "source": "Al Jazeera",
-      "title": "Iran war live: Saudi-led coalition intercepts drone headed for Mecca",
+      "title": "Iran war live: Saudi coalition intercepts, destroys drone headed for Mecca",
       "link": "https://www.aljazeera.com/news/liveblog/2026/9/16/iran-war-live-irans-top-diplomat-heads-to-china-as-war-drags-on?traffic_source=rss",
       "desc": "",
       "pubDate": "Wed, 16 Sep 2026 00:00:00 +0000"
@@ -22,13 +29,6 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/9/15/aje-onl-nf_iranian-plane-violent-shaking-rips-cabin-apart-150926?traffic_source=rss",
       "desc": "",
       "pubDate": "Tue, 15 Sep 2026 23:47:56 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Western intelligence warns of Iranian cyber threats targeting dissidents",
-      "link": "https://www.aljazeera.com/news/2026/9/15/western-intelligence-warns-of-iranian-cyber-threats-targeting-dissidents?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Tue, 15 Sep 2026 20:16:35 +0000"
     },
     {
       "source": "BBC",
@@ -85,6 +85,13 @@
       "link": "https://www.bbc.co.uk/news/videos/c3d7p3jmk7ko?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Wed, 09 Sep 2026 21:12:12 GMT"
+    },
+    {
+      "source": "The Hill",
+      "title": "House passes Iran war powers resolution",
+      "link": "https://thehill.com/homenews/house/6091940-house-iran-war-powers-resolution/",
+      "desc": "",
+      "pubDate": "Wed, 16 Sep 2026 02:37:09 +0000"
     }
   ]
 }
