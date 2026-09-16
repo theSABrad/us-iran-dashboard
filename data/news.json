@@ -1,34 +1,13 @@
 {
-  "lastUpdated": "2026-09-16T08:00:16.088576Z",
-  "count": 13,
+  "lastUpdated": "2026-09-16T13:49:14.450954Z",
+  "count": 10,
   "articles": [
     {
       "source": "Al Jazeera",
-      "title": "US House votes to end Iran war, 7 Republicans join in favour",
-      "link": "https://www.aljazeera.com/news/2026/9/16/us-house-votes-to-end-iran-war-7-republicans-join-in-favour?traffic_source=rss",
+      "title": "China willing to \u2018safeguard Iran\u2019s legitimate rights\u2019, official says",
+      "link": "https://www.aljazeera.com/news/2026/9/16/china-willing-to-safeguard-irans-legitimate-rights-official-says?traffic_source=rss",
       "desc": "",
-      "pubDate": "Wed, 16 Sep 2026 05:36:53 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Iran war increasing inflation, straining US munitions: congressional report",
-      "link": "https://www.aljazeera.com/news/2026/9/16/iran-war-increasing-inflation-straining-us-munitions-congressional-report?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Wed, 16 Sep 2026 00:38:12 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Iran war live: Saudi coalition intercepts, destroys drone headed for Mecca",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/9/16/iran-war-live-irans-top-diplomat-heads-to-china-as-war-drags-on?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Wed, 16 Sep 2026 00:00:00 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Panic on board Iranian plane as violent shaking rips cabin apart",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/15/aje-onl-nf_iranian-plane-violent-shaking-rips-cabin-apart-150926?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Tue, 15 Sep 2026 23:47:56 +0000"
+      "pubDate": "Wed, 16 Sep 2026 13:09:51 +0000"
     },
     {
       "source": "BBC",
@@ -87,11 +66,11 @@
       "pubDate": "Wed, 09 Sep 2026 21:12:12 GMT"
     },
     {
-      "source": "The Hill",
-      "title": "House passes Iran war powers resolution",
-      "link": "https://thehill.com/homenews/house/6091940-house-iran-war-powers-resolution/",
-      "desc": "",
-      "pubDate": "Wed, 16 Sep 2026 02:37:09 +0000"
+      "source": "NPR",
+      "title": "Saudi Arabia calls an attempted Mecca attack a 'red line' as Houthis deny they did it",
+      "link": "https://www.npr.org/2026/09/16/g-s1-143554/saudi-arabia-attempted-mecca-attack",
+      "desc": "Saudi Arabia accused Yemen's Iran-backed Houthi rebels overnight of trying to attack Islam's holiest city, prompting condemnation from countries in the region but no sign of military support.",
+      "pubDate": "Wed, 16 Sep 2026 05:04:27 -0400"
     }
   ]
 }
