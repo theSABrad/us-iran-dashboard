@@ -1,20 +1,34 @@
 {
-  "lastUpdated": "2026-09-15T23:16:41.932416Z",
-  "count": 11,
+  "lastUpdated": "2026-09-16T02:10:49.036642Z",
+  "count": 12,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Iran war increasing inflation, straining US munitions: congressional report",
+      "link": "https://www.aljazeera.com/news/2026/9/16/iran-war-increasing-inflation-straining-us-munitions-congressional-report?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Wed, 16 Sep 2026 00:38:12 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Iran war live: Saudi-led coalition intercepts drone headed for Mecca",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/9/16/iran-war-live-irans-top-diplomat-heads-to-china-as-war-drags-on?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Wed, 16 Sep 2026 00:00:00 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Panic on board Iranian plane as violent shaking rips cabin apart",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/15/aje-onl-nf_iranian-plane-violent-shaking-rips-cabin-apart-150926?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Tue, 15 Sep 2026 23:47:56 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "Western intelligence warns of Iranian cyber threats targeting dissidents",
       "link": "https://www.aljazeera.com/news/2026/9/15/western-intelligence-warns-of-iranian-cyber-threats-targeting-dissidents?traffic_source=rss",
       "desc": "",
       "pubDate": "Tue, 15 Sep 2026 20:16:35 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Can China play peacemaker as Iran\u2019s foreign minister heads to Beijing?",
-      "link": "https://www.aljazeera.com/news/2026/9/15/can-china-play-peacemaker-as-irans-foreign-minister-heads-to-beijing?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Tue, 15 Sep 2026 16:15:13 +0000"
     },
     {
       "source": "BBC",
@@ -71,13 +85,6 @@
       "link": "https://www.bbc.co.uk/news/videos/c3d7p3jmk7ko?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Wed, 09 Sep 2026 21:12:12 GMT"
-    },
-    {
-      "source": "NPR",
-      "title": "Key leaders sound the alarm on AI. And, Iran-Gulf diplomacy hits a setback",
-      "link": "https://www.npr.org/2026/09/14/g-s1-143148/up-first-newsletter-ai-anthropic-openai-midterms-trump-oman-iran-talks",
-      "desc": "Some key leaders at artificial intelligence companies call for a slowdown in AI development. And, Iran-Gulf diplomacy hits a setback as talks in Oman are delayed.",
-      "pubDate": "Mon, 14 Sep 2026 07:39:06 -0400"
     }
   ]
 }
