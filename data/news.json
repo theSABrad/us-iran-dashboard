@@ -1,13 +1,34 @@
 {
-  "lastUpdated": "2026-09-17T13:53:30.185427Z",
-  "count": 11,
+  "lastUpdated": "2026-09-17T18:40:00.909534Z",
+  "count": 16,
   "articles": [
     {
       "source": "Al Jazeera",
-      "title": "Trump claims direct talks with Iran: Is diplomacy picking up again?",
-      "link": "https://www.aljazeera.com/news/2026/9/17/trump-claims-direct-talks-with-iran-is-diplomacy-picking-up-again?traffic_source=rss",
+      "title": "UN fact-finding mission says US committed possible war crimes in Iran",
+      "link": "https://www.aljazeera.com/news/2026/9/17/un-fact-finding-mission-says-us-committed-possible-war-crimes-in-iran?traffic_source=rss",
       "desc": "",
-      "pubDate": "Thu, 17 Sep 2026 10:32:46 +0000"
+      "pubDate": "Thu, 17 Sep 2026 17:02:31 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "What are all the sanctions Iran is under?",
+      "link": "https://www.aljazeera.com/news/2026/9/17/what-are-all-the-sanctions-iran-is-under?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Thu, 17 Sep 2026 15:01:27 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Ghalibaf\u2019s maths missile at Trump decoded: Is Iran fixing US interest rates?",
+      "link": "https://www.aljazeera.com/news/2026/9/17/ghalibafs-maths-missile-at-trump-decoded-is-iran-fixing-us-interest-rates?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Thu, 17 Sep 2026 14:10:41 +0000"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[UN experts say grounds to believe US committed war crimes in Iran strikes]]>",
+      "link": "https://www.bbc.co.uk/news/articles/cm9w4n5nverdo?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Thu, 17 Sep 2026 15:07:47 GMT"
     },
     {
       "source": "BBC",
@@ -78,6 +99,20 @@
       "link": "https://www.npr.org/2026/09/17/nx-s1-5971275/rising-gas-prices-fuel-protests-in-countries-around-the-world",
       "desc": "Protests over rising  fuel protest are happening around the world, a ripple effect as the Us war on Iran is dragging Saudi Arabia in deeper",
       "pubDate": "Thu, 17 Sep 2026 04:44:51 -0400"
+    },
+    {
+      "source": "The Hill",
+      "title": "Trump says he has a \u2018big decision coming up\u2019 on Iran",
+      "link": "https://thehill.com/homenews/administration/6096198-trump-iran-annihilate-decision/",
+      "desc": "",
+      "pubDate": "Thu, 17 Sep 2026 18:11:31 +0000"
+    },
+    {
+      "source": "The Hill",
+      "title": "Human rights experts: 'Reasonable grounds' to believe US committed war crimes with Iran strikes",
+      "link": "https://thehill.com/policy/defense/6096072-un-accuses-us-iranian-war-crimes/",
+      "desc": "",
+      "pubDate": "Thu, 17 Sep 2026 17:36:34 +0000"
     }
   ]
 }
