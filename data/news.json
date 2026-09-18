@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-09-18T02:01:00.609823Z",
-  "count": 18,
+  "lastUpdated": "2026-09-18T07:41:46.058913Z",
+  "count": 15,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "UN mission alleges crimes against humanity in Iranian protest crackdown",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/18/un-mission-alleges-crimes-against-humanity-in-iranian-protest-crackdown?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Fri, 18 Sep 2026 05:26:51 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "Iran expels Swedish diplomat in retaliatory move",
@@ -15,20 +22,6 @@
       "link": "https://www.aljazeera.com/news/liveblog/2026/9/18/iran-war-live-trump-weighs-big-decision-on-iran-tanker-hit-in-hormuz?traffic_source=rss",
       "desc": "",
       "pubDate": "Fri, 18 Sep 2026 00:00:00 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "US approves visas for top Iranian leaders to attend UN General Assembly",
-      "link": "https://www.aljazeera.com/news/2026/9/17/us-approves-visas-for-top-iranian-leaders-to-attend-un-general-assembly?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Thu, 17 Sep 2026 21:20:57 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Russia, China veto UN mandate to monitor Iran sanctions",
-      "link": "https://www.aljazeera.com/news/2026/9/17/russia-china-veto-un-mandate-to-monitor-iran-sanctions?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Thu, 17 Sep 2026 21:01:41 +0000"
     },
     {
       "source": "BBC",
@@ -50,13 +43,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Tue, 15 Sep 2026 20:34:12 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[US pilot shot down over Iran recalls 'free-falling' in first interview since rescue]]>",
-      "link": "https://www.bbc.co.uk/news/articles/cy7zvxe1jm7o?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Mon, 14 Sep 2026 01:00:30 GMT"
     },
     {
       "source": "BBC",
@@ -120,13 +106,6 @@
       "link": "https://thehill.com/homenews/senate/6096879-senate-democrats-demand-iran-war-costs/",
       "desc": "",
       "pubDate": "Thu, 17 Sep 2026 22:03:59 +0000"
-    },
-    {
-      "source": "The Hill",
-      "title": "US will allow 'core' Iranian delegation join United Nations summit in New York",
-      "link": "https://thehill.com/policy/international/6096801-us-allows-iranian-un-delegation/",
-      "desc": "",
-      "pubDate": "Thu, 17 Sep 2026 21:26:24 +0000"
     }
   ]
 }
