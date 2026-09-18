@@ -1,27 +1,27 @@
 {
-  "lastUpdated": "2026-09-18T13:13:48.205025Z",
-  "count": 14,
+  "lastUpdated": "2026-09-18T17:56:36.344572Z",
+  "count": 13,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Iranians rally in biggest show of defiance against US since war began",
+      "link": "https://www.aljazeera.com/news/2026/9/18/iranians-rally-in-biggest-show-of-defiance-against-us-since-war-began?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Fri, 18 Sep 2026 17:23:23 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "The cost of Iran\u2019s regional leverage",
+      "link": "https://www.aljazeera.com/opinions/2026/9/18/the-cost-of-irans-regional-leverage?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Fri, 18 Sep 2026 13:52:49 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "US voter opposition to war on Iran grows to new highs: Poll",
       "link": "https://www.aljazeera.com/news/2026/9/18/us-voter-opposition-to-war-on-iran-grows-to-new-highs-poll?traffic_source=rss",
       "desc": "",
       "pubDate": "Fri, 18 Sep 2026 13:09:27 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "United Nations says US may have committed war crimes in Iran: What it means",
-      "link": "https://www.aljazeera.com/news/2026/9/18/united-nations-says-us-may-have-committed-war-crimes-in-iran-what-it-means?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Fri, 18 Sep 2026 10:43:18 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "\u2018My children did not attack Iran\u2019: 2bn South Asians suffer from distant war",
-      "link": "https://www.aljazeera.com/news/2026/9/18/my-children-did-not-attack-iran-2bn-south-asians-suffer-from-distant-war?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Fri, 18 Sep 2026 10:33:22 +0000"
     },
     {
       "source": "BBC",
@@ -88,17 +88,10 @@
     },
     {
       "source": "The Hill",
-      "title": "Iran says it struck oil tanker in Strait of Hormuz",
-      "link": "https://thehill.com/policy/international/6097450-us-iran-conflict-straight-of-hormuz-tanker-hit/",
+      "title": "Live updates: Vance stumps in Iowa as races tighten; Iran war's cost exceeds $43B",
+      "link": "https://thehill.com/homenews/administration/6097183-live-updates-trump-iran-vance-iowa-midterms/",
       "desc": "",
-      "pubDate": "Fri, 18 Sep 2026 12:32:36 +0000"
-    },
-    {
-      "source": "The Hill",
-      "title": "Iran's water crisis requires more than just regime change",
-      "link": "https://thehill.com/opinion/international/6096259-iran-water-crisis-leadership/",
-      "desc": "",
-      "pubDate": "Fri, 18 Sep 2026 11:30:00 +0000"
+      "pubDate": "Fri, 18 Sep 2026 16:57:10 +0000"
     }
   ]
 }
