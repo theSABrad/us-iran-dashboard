@@ -1,20 +1,20 @@
 {
-  "lastUpdated": "2026-09-19T12:44:56.836654Z",
-  "count": 11,
+  "lastUpdated": "2026-09-19T17:34:00.095921Z",
+  "count": 10,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "An unaffordable car market highlights Iran\u2019s cost-of-living crisis",
+      "link": "https://www.aljazeera.com/economy/2026/9/19/an-unaffordable-car-market-highlights-irans-cost-of-living-crisis?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sat, 19 Sep 2026 13:21:52 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "Iran stages show of force during mobilisation campaign in Tehran",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/9/19/09-19-progovrally-tehran-sv-mp4?traffic_source=rss",
       "desc": "",
       "pubDate": "Sat, 19 Sep 2026 10:56:00 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Turkiye revokes operating licence of Iran\u2019s Bank Mellat in Istanbul",
-      "link": "https://www.aljazeera.com/economy/2026/9/19/turkiye-revokes-operating-licence-of-irans-bank-mellat?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Sat, 19 Sep 2026 08:18:08 +0000"
     },
     {
       "source": "BBC",
@@ -71,13 +71,6 @@
       "link": "https://www.bbc.co.uk/news/videos/c3d7p3jmk7ko?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Wed, 09 Sep 2026 21:12:12 GMT"
-    },
-    {
-      "source": "The Hill",
-      "title": "Pentagon\u2019s count leaves out some deaths in Middle East during Iran war",
-      "link": "https://thehill.com/policy/defense/6099284-pentagon-omitted-service-member-deaths/",
-      "desc": "",
-      "pubDate": "Fri, 18 Sep 2026 23:31:51 +0000"
     }
   ]
 }
