@@ -1,13 +1,13 @@
 {
-  "lastUpdated": "2026-09-18T22:54:13.067899Z",
-  "count": 9,
+  "lastUpdated": "2026-09-19T02:05:41.228788Z",
+  "count": 10,
   "articles": [
     {
       "source": "Al Jazeera",
-      "title": "Iranians rally in biggest show of defiance against US since war began",
-      "link": "https://www.aljazeera.com/news/2026/9/18/iranians-rally-in-biggest-show-of-defiance-against-us-since-war-began?traffic_source=rss",
+      "title": "Iran war live: Trump extends sanctions on Iran, Houthi supporters in Sanaa",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/9/19/iran-war-live-trump-extends-sanctions-on-iran-houthi-supporters-in-sanaa?traffic_source=rss",
       "desc": "",
-      "pubDate": "Fri, 18 Sep 2026 17:23:23 +0000"
+      "pubDate": "Sat, 19 Sep 2026 00:00:26 +0000"
     },
     {
       "source": "BBC",
@@ -64,6 +64,13 @@
       "link": "https://www.bbc.co.uk/news/videos/c3d7p3jmk7ko?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Wed, 09 Sep 2026 21:12:12 GMT"
+    },
+    {
+      "source": "The Hill",
+      "title": "Pentagon\u2019s count leaves out some deaths in Middle East during Iran war",
+      "link": "https://thehill.com/policy/defense/6099284-pentagon-omitted-service-member-deaths/",
+      "desc": "",
+      "pubDate": "Fri, 18 Sep 2026 23:31:51 +0000"
     }
   ]
 }
