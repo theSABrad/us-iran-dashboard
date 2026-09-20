@@ -1,13 +1,27 @@
 {
-  "lastUpdated": "2026-09-20T13:16:34.897909Z",
-  "count": 10,
+  "lastUpdated": "2026-09-20T17:46:32.445920Z",
+  "count": 14,
   "articles": [
     {
       "source": "Al Jazeera",
-      "title": "What are Iran\u2019s latest conditions to end its war with the US?",
-      "link": "https://www.aljazeera.com/news/2026/9/20/what-are-irans-new-conditions-to-end-its-war-with-the-us?traffic_source=rss",
+      "title": "What\u2019s behind Iranian authorities\u2019 push for a mass mobilisation campaign?",
+      "link": "https://www.aljazeera.com/economy/2026/9/20/whats-behind-iranian-authorities-push-for-a-mass-mobilisation-campaign?traffic_source=rss",
       "desc": "",
-      "pubDate": "Sun, 20 Sep 2026 11:21:06 +0000"
+      "pubDate": "Sun, 20 Sep 2026 13:47:26 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Iran win Asian Games basketball bronze amid emotional scenes",
+      "link": "https://www.aljazeera.com/sports/2026/9/20/iran-win-asian-games-basketball-bronze-amid-emotional-scenes?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sun, 20 Sep 2026 13:13:27 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Postponing the future: War and inflation redraw marriage terms in Iran",
+      "link": "https://www.aljazeera.com/economy/2026/9/20/postponing-the-future-war-and-inflation-redraw-marriage-terms-in-iran?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sun, 20 Sep 2026 13:12:40 +0000"
     },
     {
       "source": "BBC",
@@ -67,10 +81,24 @@
     },
     {
       "source": "NPR",
+      "title": "Saudi Arabia says Houthis tried to attack its capital",
+      "link": "https://www.npr.org/2026/09/19/nx-s1-5974980/saudi-arabia-houthis-attempted-attack-capital",
+      "desc": "Saudi Arabia said Yemen's Houthi rebels tried to attack Riyadh with a ballistic missile, the first time its capital has been targeted since the escalation in fighting with the Iran-backed rebels.",
+      "pubDate": "Sat, 19 Sep 2026 23:57:23 -0400"
+    },
+    {
+      "source": "NPR",
       "title": "The new lines of southern Lebanon",
       "link": "https://www.npr.org/sections/the-picture-show/2026/09/19/g-s1-139752/the-new-lines-of-southern-lebanon",
       "desc": "The U.N. expanded the United Nations Interim Force in Lebanon's mandate 20 years ago to include monitoring adherence to a ceasefire in fighting between Israel and Lebanon's Iran-backed Hezbollah \u2014 the",
       "pubDate": "Sat, 19 Sep 2026 15:00:24 -0400"
+    },
+    {
+      "source": "The Hill",
+      "title": "Trump on Iran: 'My question is, if and when do I blow the entire nation up?'",
+      "link": "https://thehill.com/homenews/administration/6100347-trump-speculates-iran-war/",
+      "desc": "",
+      "pubDate": "Sun, 20 Sep 2026 15:07:56 +0000"
     }
   ]
 }
