@@ -1,10 +1,17 @@
 {
-  "lastUpdated": "2026-09-21T02:11:05.125923Z",
-  "count": 16,
+  "lastUpdated": "2026-09-21T08:19:11.466317Z",
+  "count": 18,
   "articles": [
     {
       "source": "Al Jazeera",
-      "title": "Iran war live: Tehran warns US against new strikes; fighting rages in Yemen",
+      "title": "Iran\u2019s military says US preparing to resume strikes",
+      "link": "https://www.aljazeera.com/news/2026/9/21/irans-military-says-us-preparing-to-resume-strikes?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Mon, 21 Sep 2026 05:21:41 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Iran war live: Tehran says world will be \u2018astonished\u2019 by its new weapons",
       "link": "https://www.aljazeera.com/news/liveblog/2026/9/21/iran-war-live-tehran-warns-us-against-new-strikes-fighting-rages-in-yemen?traffic_source=rss",
       "desc": "",
       "pubDate": "Mon, 21 Sep 2026 00:00:47 +0000"
@@ -43,6 +50,13 @@
       "link": "https://www.bbc.co.uk/news/articles/cm9w4n5nverdo?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Thu, 17 Sep 2026 20:34:30 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[US to allow Iran delegation to attend UN meetings in New York as war passes half-year mark]]>",
+      "link": "https://www.bbc.co.uk/news/articles/c6n8m72r13ngo?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Thu, 17 Sep 2026 21:41:19 GMT"
     },
     {
       "source": "BBC",
