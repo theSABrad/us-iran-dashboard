@@ -1,34 +1,20 @@
 {
-  "lastUpdated": "2026-09-22T13:44:45.195873Z",
-  "count": 16,
+  "lastUpdated": "2026-09-22T18:23:49.349724Z",
+  "count": 15,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Trump to UN: do I \u2018annihilate\u2019 Iran or \u2018make a deal?\u2019",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/trump-to-un-do-i-annihilate-iran-or-make-a?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Tue, 22 Sep 2026 15:19:19 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "Iran delegation to present narrative of resilience, diplomacy at UNGA",
       "link": "https://www.aljazeera.com/news/2026/9/22/iran-delegation-to-present-narrative-of-resilience-diplomacy-at-unga?traffic_source=rss",
       "desc": "",
       "pubDate": "Tue, 22 Sep 2026 13:29:53 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Iran president heads to UNGA, vows to highlight US \u2018oppression\u2019",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/iran-president-heads-to-unga-vows-to-highlight-us-oppression?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Tue, 22 Sep 2026 12:51:53 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "UN General Assembly live: Trump, Qatar emir to speak as Iran war dominates",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/9/22/un-general-assembly-live-trump-qatar-emir-to-speak-as-iran-war-dominates?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Tue, 22 Sep 2026 12:00:00 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Can the US ban Iranian airlines worldwide \u2013 and what would it mean?",
-      "link": "https://www.aljazeera.com/features/2026/9/22/can-the-us-ban-iranian-airlines-worldwide-and-what-would-it-mean?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Tue, 22 Sep 2026 11:19:08 +0000"
     },
     {
       "source": "BBC",
@@ -108,11 +94,18 @@
       "pubDate": "Tue, 22 Sep 2026 06:59:37 -0400"
     },
     {
+      "source": "NPR",
+      "title": "War between U.S. and Iran becomes a test of who will blink first",
+      "link": "https://www.npr.org/2026/09/22/nx-s1-5966364/war-between-u-s-and-iran-becomes-a-test-of-who-will-blink-first",
+      "desc": "More than six months into the conflict between the U.S. and Iran, it's become a high-stakes game of endurance.",
+      "pubDate": "Tue, 22 Sep 2026 04:47:37 -0400"
+    },
+    {
       "source": "The Hill",
-      "title": "Almost 2 in 3 say US not winning Iran war: Survey",
-      "link": "https://thehill.com/policy/defense/6103373-poll-trump-iran-war/",
+      "title": "Live updates: Trump says he's mulling diesel export ban; Iran-US meet on UNGA sidelines",
+      "link": "https://thehill.com/homenews/administration/6103063-live-updates-trump-un-general-assembly-iran-russia-ukraine-conflicts-media-ban/",
       "desc": "",
-      "pubDate": "Tue, 22 Sep 2026 13:18:16 +0000"
+      "pubDate": "Tue, 22 Sep 2026 18:21:58 +0000"
     }
   ]
 }
