@@ -1,20 +1,20 @@
 {
-  "lastUpdated": "2026-09-21T21:20:29.646764Z",
-  "count": 11,
+  "lastUpdated": "2026-09-22T02:16:12.426822Z",
+  "count": 13,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Iran war live: IRGC says US, Israel \u2018must accept withdrawal\u2019 from region",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/9/22/iran-war-live-irgc-says-us-israel-must-accept-withdrawal-from-region?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Tue, 22 Sep 2026 00:00:00 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "Trump approval rating hits career low of 32% amid Iran war, high costs",
       "link": "https://www.aljazeera.com/news/2026/9/21/trumps-approval-rating-hits-record-low-amid-iran-war-economy-fallout?traffic_source=rss",
       "desc": "",
       "pubDate": "Mon, 21 Sep 2026 19:10:52 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "US threatens to ground Iranian airlines worldwide from Wednesday",
-      "link": "https://www.aljazeera.com/economy/2026/9/21/us-threatens-to-ground-iranian-airlines-worldwide-from-wednesday?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Mon, 21 Sep 2026 15:18:12 +0000"
     },
     {
       "source": "BBC",
@@ -78,6 +78,20 @@
       "link": "https://www.bbc.co.uk/news/videos/c3d7p3jmk7ko?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Wed, 09 Sep 2026 21:12:12 GMT"
+    },
+    {
+      "source": "The Hill",
+      "title": "GOP nominees call for end to Iran war while on campaign trail",
+      "link": "https://thehill.com/newsletters/defense-national-security/6102932-gop-nominees-call-end-iran-war-while-campaign-trail/",
+      "desc": "",
+      "pubDate": "Mon, 21 Sep 2026 23:14:43 +0000"
+    },
+    {
+      "source": "The Hill",
+      "title": "Rogers calls for end to war in Iran: 'Michigan families can't afford to wait'",
+      "link": "https://thehill.com/homenews/campaign/6102630-rogers-iran-war-gas-tax/",
+      "desc": "",
+      "pubDate": "Mon, 21 Sep 2026 21:16:34 +0000"
     }
   ]
 }
