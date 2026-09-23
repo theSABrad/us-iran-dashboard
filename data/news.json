@@ -1,34 +1,27 @@
 {
-  "lastUpdated": "2026-09-23T18:43:33.579335Z",
-  "count": 22,
+  "lastUpdated": "2026-09-23T23:17:36.158095Z",
+  "count": 18,
   "articles": [
     {
       "source": "Al Jazeera",
-      "title": "US envoy walks out on Pezeshkian UN speech slamming war on Iran",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/23/us-envoy-walks-out-on-pezeshkian-un-speech-slamming-war-on-iran?traffic_source=rss",
+      "title": "US aviation sanctions disrupt Iran flights, push travellers overland",
+      "link": "https://www.aljazeera.com/news/2026/9/23/us-aviation-sanctions-disrupt-iran-flights-push-travellers-overland?traffic_source=rss",
       "desc": "",
-      "pubDate": "Wed, 23 Sep 2026 16:34:47 +0000"
+      "pubDate": "Wed, 23 Sep 2026 21:05:36 +0000"
     },
     {
       "source": "Al Jazeera",
-      "title": "\u2018They kill, we are punished\u2019: Iran calls out Western hypocrisy",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/23/they-kill-we-are-punished-iran-calls-out-western-hypocrisy?traffic_source=rss",
+      "title": "Iran threatens countries enforcing US airline sanctions",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/23/09-23-mohsin-rezai-airlines-clip-mp4?traffic_source=rss",
       "desc": "",
-      "pubDate": "Wed, 23 Sep 2026 15:49:59 +0000"
+      "pubDate": "Wed, 23 Sep 2026 19:27:50 +0000"
     },
     {
       "source": "Al Jazeera",
-      "title": "Iran: Strait of Hormuz won\u2019t be used to \u2018impose insecurity on us\u2019",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/23/iran-strait-of-hormuz-wont-be-used-to-impose-insecurity-on?traffic_source=rss",
+      "title": "Iran\u2019s Pezeshkian slams \u2018terrorist\u2019 US but extols diplomacy in UN speech",
+      "link": "https://www.aljazeera.com/news/2026/9/23/irans-president-slams-trumps-bullying-in-defiant-unga-speech?traffic_source=rss",
       "desc": "",
-      "pubDate": "Wed, 23 Sep 2026 15:24:13 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "How much is UK supporting Saudi Arabia in its war with Iran-backed Houthis?",
-      "link": "https://www.aljazeera.com/news/2026/9/23/how-much-is-uk-supporting-saudi-arabia-in-its-war-with-iran-backed-houthis?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Wed, 23 Sep 2026 13:57:50 +0000"
+      "pubDate": "Wed, 23 Sep 2026 18:36:39 +0000"
     },
     {
       "source": "BBC",
@@ -109,6 +102,13 @@
     },
     {
       "source": "NPR",
+      "title": "Here's what happened on day 2 of the UN General Assembly",
+      "link": "https://www.npr.org/2026/09/23/nx-s1-5978852/heres-what-happened-on-day-2-of-the-un-general-assembly",
+      "desc": "Iran and Ukraine take center stage at the UN as diplomats push to contain two wars threatening global stability.",
+      "pubDate": "Wed, 23 Sep 2026 18:06:37 -0400"
+    },
+    {
+      "source": "NPR",
       "title": "Iran's president gives a rare wartime speech at the U.N.",
       "link": "https://www.npr.org/2026/09/23/nx-s1-5978863/iran-president-united-nations-general-assembly",
       "desc": "Iranian President Masoud Pezeshkian addressed the U.N. General Assembly a day after President Trump threatened from the same podium to \"annihilate\" Iran.",
@@ -117,30 +117,16 @@
     {
       "source": "NPR",
       "title": "U.N. Ambassador Mike Waltz on Iran, Venezuela and Trump's foreign policy",
-      "link": "https://www.npr.org/2026/09/23/nx-s1-5977753/mike-waltz-iran-venezuela-trump-united-nations",
+      "link": "https://www.npr.org/2026/09/23/nx-s1-5977753/u-s-ambassador-to-the-u-n-discusses-trumps-address-at-unga",
       "desc": "Deals, threats and oil are all on the table as the president's foreign policy takes center stage.",
       "pubDate": "Wed, 23 Sep 2026 06:48:47 -0400"
     },
     {
-      "source": "NPR",
-      "title": "Trump lays out his agenda as middle powers call for more cooperation at UNGA",
-      "link": "https://www.npr.org/2026/09/23/nx-s1-5976960/trump-lays-out-his-agenda-as-middle-powers-call-for-more-cooperation-at-unga",
-      "desc": "Middle powers plead for more cooperation at the United Nations, as President Trump lays out his America First agenda and defends the U.S. war against Iran.",
-      "pubDate": "Wed, 23 Sep 2026 04:41:10 -0400"
-    },
-    {
       "source": "The Hill",
-      "title": "Live updates: US delegation walks out during Iranian president's UN speech; Trump's media ban heads to court",
-      "link": "https://thehill.com/homenews/administration/6105507-live-updates-trump-media-ban-unga-xi-visit/",
+      "title": "Virginia soldier becomes 19th known death since start of Iran war",
+      "link": "https://thehill.com/policy/defense/6107559-pentagon-updates-iran-war-deaths/",
       "desc": "",
-      "pubDate": "Wed, 23 Sep 2026 17:35:56 +0000"
-    },
-    {
-      "source": "The Hill",
-      "title": "Trump threatens to 'annihilate' Iran in UN speech",
-      "link": "https://thehill.com/opinion/lindseys-lens/6106814-trump-iran-war-un-speech/",
-      "desc": "",
-      "pubDate": "Wed, 23 Sep 2026 17:13:20 +0000"
+      "pubDate": "Wed, 23 Sep 2026 21:57:00 +0000"
     }
   ]
 }
