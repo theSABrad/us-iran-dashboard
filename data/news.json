@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-09-23T02:16:12.650517Z",
+  "lastUpdated": "2026-09-23T08:04:09.551377Z",
   "count": 17,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "US, Iran hold mediated UNGA talks on ending war, opening Strait of Hormuz",
+      "link": "https://www.aljazeera.com/news/2026/9/23/us-iran-hold-mediated-unga-talks-on-ending-war-opening-strait-of-hormuz?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Wed, 23 Sep 2026 04:42:15 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "Iranian President Masoud Pezeshkian arrives in New York for UNGA",
@@ -11,14 +18,14 @@
     },
     {
       "source": "Al Jazeera",
-      "title": "Iran war live: Trump confirms \u2018very good\u2019 meeting with Iran at UN",
+      "title": "Iran war live: Trump threat \u2018demonstrates America\u2019s strategic dead end\u2019",
       "link": "https://www.aljazeera.com/news/liveblog/2026/9/23/iran-war-live-trump-confirms-very-good-meeting-with-iran-at-un?traffic_source=rss",
       "desc": "",
       "pubDate": "Wed, 23 Sep 2026 00:00:00 +0000"
     },
     {
       "source": "Al Jazeera",
-      "title": "Iran flights to Baghdad, Muscat cancelled ahead of US aviation sanctions",
+      "title": "Iran cancels Baghdad, Muscat flights as US aviation sanctions take effect",
       "link": "https://www.aljazeera.com/news/2026/9/22/iran-flights-to-baghdad-muscat-cancelled-ahead-of-us-aviation-sanctions?traffic_source=rss",
       "desc": "",
       "pubDate": "Tue, 22 Sep 2026 23:46:06 +0000"
@@ -31,11 +38,11 @@
       "pubDate": "Tue, 22 Sep 2026 22:48:56 +0000"
     },
     {
-      "source": "Al Jazeera",
-      "title": "Trump: US-Iran meeting at UN was \u2018very good\u2019",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/22/trump-us-iran-meeting-at-un-was-very?traffic_source=rss",
+      "source": "BBC",
+      "title": "<![CDATA[US and Iran hold first talks since June after Trump's 'annihilation' threat]]>",
+      "link": "https://www.bbc.co.uk/news/articles/ck62m1631d7po?at_medium=RSS&at_campaign=rss",
       "desc": "",
-      "pubDate": "Tue, 22 Sep 2026 20:23:48 +0000"
+      "pubDate": "Wed, 23 Sep 2026 06:12:56 GMT"
     },
     {
       "source": "BBC",
@@ -57,20 +64,6 @@
       "link": "https://www.bbc.co.uk/news/articles/c6n8m72r13ngo?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Thu, 17 Sep 2026 21:41:19 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[Photos show widespread damage at US sites from Iranian attacks]]>",
-      "link": "https://www.bbc.co.uk/news/articles/c8g49e0gwxeno?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Wed, 16 Sep 2026 18:36:16 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[Iran war has led to US munitions shortfalls, Pentagon inspector confirms]]>",
-      "link": "https://www.bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Tue, 15 Sep 2026 20:34:12 GMT"
     },
     {
       "source": "BBC",
@@ -99,6 +92,13 @@
       "link": "https://www.bbc.co.uk/news/articles/cr50n9gnljgo?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Tue, 25 Aug 2026 12:37:53 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[Watch: Trump threatens to 'annihilate' Iran if no deal reached]]>",
+      "link": "https://www.bbc.co.uk/news/videos/cmvgydqqlyx9o?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Tue, 22 Sep 2026 17:35:36 GMT"
     },
     {
       "source": "BBC",
