@@ -1,20 +1,41 @@
 {
-  "lastUpdated": "2026-09-23T13:56:35.098627Z",
-  "count": 16,
+  "lastUpdated": "2026-09-23T18:43:33.579335Z",
+  "count": 22,
   "articles": [
     {
       "source": "Al Jazeera",
-      "title": "UN General Assembly live: Iran\u2019s Pezeshkian, Ukraine\u2019s Zelenskyy to speak",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/9/23/un-general-assembly-live-irans-pezeshkian-ukraines-zelenskyy-to-speak?traffic_source=rss",
+      "title": "US envoy walks out on Pezeshkian UN speech slamming war on Iran",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/23/us-envoy-walks-out-on-pezeshkian-un-speech-slamming-war-on-iran?traffic_source=rss",
       "desc": "",
-      "pubDate": "Wed, 23 Sep 2026 12:00:00 +0000"
+      "pubDate": "Wed, 23 Sep 2026 16:34:47 +0000"
     },
     {
       "source": "Al Jazeera",
-      "title": "\u2018Annihilate\u2019 vs \u2018crushing\u2019 attacks: Why Iran, US up rhetoric amid talks",
-      "link": "https://www.aljazeera.com/news/2026/9/23/annihilate-vs-crushing-attacks-why-iran-us-up-rhetoric-amid-talks?traffic_source=rss",
+      "title": "\u2018They kill, we are punished\u2019: Iran calls out Western hypocrisy",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/23/they-kill-we-are-punished-iran-calls-out-western-hypocrisy?traffic_source=rss",
       "desc": "",
-      "pubDate": "Wed, 23 Sep 2026 09:40:20 +0000"
+      "pubDate": "Wed, 23 Sep 2026 15:49:59 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Iran: Strait of Hormuz won\u2019t be used to \u2018impose insecurity on us\u2019",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/23/iran-strait-of-hormuz-wont-be-used-to-impose-insecurity-on?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Wed, 23 Sep 2026 15:24:13 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "How much is UK supporting Saudi Arabia in its war with Iran-backed Houthis?",
+      "link": "https://www.aljazeera.com/news/2026/9/23/how-much-is-uk-supporting-saudi-arabia-in-its-war-with-iran-backed-houthis?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Wed, 23 Sep 2026 13:57:50 +0000"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[Iran's president tells Trump it will never 'bend the knee']]>",
+      "link": "https://www.bbc.co.uk/news/articles/cqvgyjy23ggjo?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Wed, 23 Sep 2026 18:15:31 GMT"
     },
     {
       "source": "BBC",
@@ -88,31 +109,38 @@
     },
     {
       "source": "NPR",
+      "title": "Iran's president gives a rare wartime speech at the U.N.",
+      "link": "https://www.npr.org/2026/09/23/nx-s1-5978863/iran-president-united-nations-general-assembly",
+      "desc": "Iranian President Masoud Pezeshkian addressed the U.N. General Assembly a day after President Trump threatened from the same podium to \"annihilate\" Iran.",
+      "pubDate": "Wed, 23 Sep 2026 14:14:40 -0400"
+    },
+    {
+      "source": "NPR",
+      "title": "U.N. Ambassador Mike Waltz on Iran, Venezuela and Trump's foreign policy",
+      "link": "https://www.npr.org/2026/09/23/nx-s1-5977753/mike-waltz-iran-venezuela-trump-united-nations",
+      "desc": "Deals, threats and oil are all on the table as the president's foreign policy takes center stage.",
+      "pubDate": "Wed, 23 Sep 2026 06:48:47 -0400"
+    },
+    {
+      "source": "NPR",
       "title": "Trump lays out his agenda as middle powers call for more cooperation at UNGA",
       "link": "https://www.npr.org/2026/09/23/nx-s1-5976960/trump-lays-out-his-agenda-as-middle-powers-call-for-more-cooperation-at-unga",
       "desc": "Middle powers plead for more cooperation at the United Nations, as President Trump lays out his America First agenda and defends the U.S. war against Iran.",
       "pubDate": "Wed, 23 Sep 2026 04:41:10 -0400"
     },
     {
-      "source": "NPR",
-      "title": "Houthis try to push deeper into western Yemen, upending life, witnesses tell NPR",
-      "link": "https://www.npr.org/2026/09/22/g-s1-144261/yemen-houthis-saudi-iran-humanitarian-crisis",
-      "desc": "As the U.S. conflict with Iran drags, the Iranian-backed Houthis in Yemen have opened a new front, taking new territory and displacing more than 100,000 people.",
-      "pubDate": "Tue, 22 Sep 2026 06:59:37 -0400"
+      "source": "The Hill",
+      "title": "Live updates: US delegation walks out during Iranian president's UN speech; Trump's media ban heads to court",
+      "link": "https://thehill.com/homenews/administration/6105507-live-updates-trump-media-ban-unga-xi-visit/",
+      "desc": "",
+      "pubDate": "Wed, 23 Sep 2026 17:35:56 +0000"
     },
     {
       "source": "The Hill",
-      "title": "Bipartisan senators raised US journalist jailed in Iran ahead of Trump team meeting with Iranian delegation at UN",
-      "link": "https://thehill.com/policy/international/6106050-reza-valizadeh-iran-unga-rubio-witkoff/",
+      "title": "Trump threatens to 'annihilate' Iran in UN speech",
+      "link": "https://thehill.com/opinion/lindseys-lens/6106814-trump-iran-war-un-speech/",
       "desc": "",
-      "pubDate": "Wed, 23 Sep 2026 13:52:01 +0000"
-    },
-    {
-      "source": "The Hill",
-      "title": "Watch live: Iran's Pezeshkian, Zelensky, Rodriguez to address UNGA",
-      "link": "https://thehill.com/video-clips/6105816-watch-live-united-nations-general-assembly-new-york-iran-ukraine-venezuela/",
-      "desc": "",
-      "pubDate": "Wed, 23 Sep 2026 13:07:14 +0000"
+      "pubDate": "Wed, 23 Sep 2026 17:13:20 +0000"
     }
   ]
 }
