@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-24T18:44:08.433293Z",
-  "count": 15,
+  "lastUpdated": "2026-09-24T23:38:28.318148Z",
+  "count": 16,
   "articles": [
     {
       "source": "Al Jazeera",
@@ -8,6 +8,13 @@
       "link": "https://www.aljazeera.com/news/2026/9/24/iranian-american-group-sues-trump-over-war?traffic_source=rss",
       "desc": "",
       "pubDate": "Thu, 24 Sep 2026 17:45:52 +0000"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[Iran must stop arming Houthis in Yemen, G7 says ahead of UN General Assembly]]>",
+      "link": "https://www.bbc.co.uk/news/articles/cwm2qpmepmlzo?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Tue, 22 Sep 2026 13:39:09 GMT"
     },
     {
       "source": "BBC",
@@ -22,13 +29,6 @@
       "link": "https://www.bbc.co.uk/news/articles/ck62m1631d7po?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Wed, 23 Sep 2026 06:12:56 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[Iran must stop arming Houthis in Yemen, G7 says ahead of UN General Assembly]]>",
-      "link": "https://www.bbc.co.uk/news/articles/cwm2qpmepmlzo?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Tue, 22 Sep 2026 13:39:09 GMT"
     },
     {
       "source": "BBC",
@@ -90,7 +90,7 @@
       "source": "NPR",
       "title": "Trump and Xi strike cordial tone at summit amid underlying tensions",
       "link": "https://www.npr.org/2026/09/24/g-s1-144806/trump-xi-summit",
-      "desc": "On Thursday, the two leaders will hold meetings where Trump and Xi are expected to talk about artificial intelligence, rare earths, trade and geopolitics such as Iran and Taiwan.",
+      "desc": "Despite the pageantry and the cordial tone, expectations for any big breakthroughs on issues ranging from AI to Iran to a trade war truce are low.",
       "pubDate": "Thu, 24 Sep 2026 08:43:15 -0400"
     },
     {
@@ -106,6 +106,13 @@
       "link": "https://www.npr.org/2026/09/23/nx-s1-5978852/heres-what-happened-on-day-2-of-the-un-general-assembly",
       "desc": "Iran and Ukraine take center stage at the UN as diplomats push to contain two wars threatening global stability.",
       "pubDate": "Wed, 23 Sep 2026 18:06:37 -0400"
+    },
+    {
+      "source": "The Hill",
+      "title": "Iran's president claims Supreme Leader Khamenei healthy, able to govern",
+      "link": "https://thehill.com/policy/international/6110716-masoud-pezeshkian-claims-khamenei-healthy/",
+      "desc": "",
+      "pubDate": "Thu, 24 Sep 2026 23:16:21 +0000"
     }
   ]
 }
