@@ -1,20 +1,20 @@
 {
-  "lastUpdated": "2026-09-24T07:54:19.584699Z",
-  "count": 15,
+  "lastUpdated": "2026-09-24T13:52:56.197328Z",
+  "count": 17,
   "articles": [
     {
       "source": "Al Jazeera",
-      "title": "Iran\u2019s president brings receipts of US strikes on civilians to the UNGA",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/24/aje-onl-nf_iran-president-pushes-back-against-trump-at-unga-230926?traffic_source=rss",
+      "title": "Trump-Xi summit live: Trade, AI, Iran and Taiwan top US-China talks",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/9/24/trump-xi-summit-live-trade-ai-iran-and-taiwan-top-us-china-talks?traffic_source=rss",
       "desc": "",
-      "pubDate": "Thu, 24 Sep 2026 02:17:36 +0000"
+      "pubDate": "Thu, 24 Sep 2026 12:00:00 +0000"
     },
     {
       "source": "Al Jazeera",
-      "title": "Iran war live: Tehran says it won\u2019t be bullied, remains open for talks",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/9/24/iran-war-live-tehran-says-it-wont-be-bullied-remains-open-for-talks?traffic_source=rss",
+      "title": "Why is Iran threatening regional airports, and what could be the impact?",
+      "link": "https://www.aljazeera.com/news/2026/9/24/why-is-iran-threatening-regional-airports-and-what-could-be-the-impact?traffic_source=rss",
       "desc": "",
-      "pubDate": "Thu, 24 Sep 2026 00:00:00 +0000"
+      "pubDate": "Thu, 24 Sep 2026 11:10:42 +0000"
     },
     {
       "source": "BBC",
@@ -95,17 +95,31 @@
     },
     {
       "source": "NPR",
+      "title": "Trump rolls out red carpet for Xi as high-stakes summit begins",
+      "link": "https://www.npr.org/2026/09/24/g-s1-144806/trump-rolls-out-red-carpet-for-xi-as-high-stakes-summit-begins",
+      "desc": "On Thursday, the two leaders will hold meetings where Trump and Xi are expected to talk about artificial intelligence, rare earths, trade and geopolitics such as Iran and Taiwan.",
+      "pubDate": "Thu, 24 Sep 2026 08:43:15 -0400"
+    },
+    {
+      "source": "NPR",
+      "title": "Israel's prime minister to give an address at the U.N.",
+      "link": "https://www.npr.org/2026/09/24/nx-s1-5978964/israels-prime-minister-to-give-an-address-at-the-u-n",
+      "desc": "Iran, Ukraine and Russia took center stage at the U.N. Wednesday, with Israel's prime minister addressing the U.N. General Assembly Thursday.",
+      "pubDate": "Thu, 24 Sep 2026 04:43:04 -0400"
+    },
+    {
+      "source": "NPR",
       "title": "Here's what happened on day 2 of the UN General Assembly",
       "link": "https://www.npr.org/2026/09/23/nx-s1-5978852/heres-what-happened-on-day-2-of-the-un-general-assembly",
       "desc": "Iran and Ukraine take center stage at the UN as diplomats push to contain two wars threatening global stability.",
       "pubDate": "Wed, 23 Sep 2026 18:06:37 -0400"
     },
     {
-      "source": "NPR",
-      "title": "Iran's president gives a rare wartime speech at the U.N.",
-      "link": "https://www.npr.org/2026/09/23/nx-s1-5978863/iran-president-united-nations-general-assembly",
-      "desc": "Iranian President Masoud Pezeshkian addressed the U.N. General Assembly a day after President Trump threatened from the same podium to \"annihilate\" Iran.",
-      "pubDate": "Wed, 23 Sep 2026 14:14:40 -0400"
+      "source": "The Hill",
+      "title": "Watch live: Netanyahu to address UN amid US-Israel war in Iran",
+      "link": "https://thehill.com/video-clips/6108255-watch-live-benjamin-netanyahu-israel-us-iran-gaza-unga/",
+      "desc": "",
+      "pubDate": "Thu, 24 Sep 2026 13:09:03 +0000"
     }
   ]
 }
