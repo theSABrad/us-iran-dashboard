@@ -1,13 +1,27 @@
 {
-  "lastUpdated": "2026-09-25T08:17:26.703747Z",
-  "count": 16,
+  "lastUpdated": "2026-09-25T14:16:26.460181Z",
+  "count": 17,
   "articles": [
     {
       "source": "Al Jazeera",
-      "title": "UAE bars Iranian airlines as US sanctions squeeze Iran\u2019s aviation sector",
-      "link": "https://www.aljazeera.com/economy/2026/9/25/uae-bars-iranian-airlines-as-us-sanctions-squeeze-irans-aviation-sector?traffic_source=rss",
+      "title": "What\u2019s in Iran\u2019s seven-day plan to reopen the Strait of Hormuz?",
+      "link": "https://www.aljazeera.com/news/2026/9/25/whats-in-irans-seven-day-plan-to-reopen-the-strait-of-hormuz?traffic_source=rss",
       "desc": "",
-      "pubDate": "Fri, 25 Sep 2026 00:24:47 +0000"
+      "pubDate": "Fri, 25 Sep 2026 10:49:48 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Rising malnutrition in Nigeria as US war on Iran raises food costs",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/rising-malnutrition-in-nigeria-as-us-war-on-iran-raises-food-costs?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Fri, 25 Sep 2026 10:10:33 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Iran pitches seven-day roadmap to end conflict with US",
+      "link": "https://www.aljazeera.com/news/2026/9/25/iran-pitches-seven-day-roadmap-to-end-conflict-with-us?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Fri, 25 Sep 2026 09:54:40 +0000"
     },
     {
       "source": "BBC",
@@ -88,31 +102,24 @@
     },
     {
       "source": "NPR",
+      "title": "Iran's president says his country has 'no trust' in U.S. in meeting with journalists",
+      "link": "https://www.npr.org/2026/09/25/nx-s1-5980398/irans-president-says-his-country-has-no-trust-in-u-s-in-meeting-with-journalists",
+      "desc": "NPR's Steve Inskeep was part of a small group of journalists who met with an Iranian official on the sidelines of the U.N. General Assembly in New York. He tells Leila Fadel what he learned.",
+      "pubDate": "Fri, 25 Sep 2026 04:41:46 -0400"
+    },
+    {
+      "source": "NPR",
       "title": "Trump and Xi strike cordial tone at summit amid underlying tensions",
       "link": "https://www.npr.org/2026/09/24/g-s1-144806/trump-xi-summit",
       "desc": "Despite the pageantry and the cordial tone, expectations for any big breakthroughs on issues ranging from AI to Iran to a trade war truce are low.",
       "pubDate": "Thu, 24 Sep 2026 08:43:15 -0400"
     },
     {
-      "source": "NPR",
-      "title": "Israel's prime minister to give an address at the U.N.",
-      "link": "https://www.npr.org/2026/09/24/nx-s1-5978964/israels-prime-minister-to-give-an-address-at-the-u-n",
-      "desc": "Iran, Ukraine and Russia took center stage at the U.N. Wednesday, with Israel's prime minister addressing the U.N. General Assembly Thursday.",
-      "pubDate": "Thu, 24 Sep 2026 04:43:04 -0400"
-    },
-    {
       "source": "The Hill",
-      "title": "Iran's president tells Fox anchor the war was 'imposed on us'",
-      "link": "https://thehill.com/policy/international/6110895-pezeshkian-us-conflict-iran/",
+      "title": "Live updates: Trump-Xi summit winds down; Iran war, economic squeeze weigh on GOP",
+      "link": "https://thehill.com/homenews/6110883-live-updates-trump-xi-summit-dc-iran-war-affordability-gop-midterms/",
       "desc": "",
-      "pubDate": "Fri, 25 Sep 2026 02:46:47 +0000"
-    },
-    {
-      "source": "The Hill",
-      "title": "Iran's president claims Supreme Leader Khamenei healthy, able to govern",
-      "link": "https://thehill.com/policy/international/6110716-masoud-pezeshkian-claims-khamenei-healthy/",
-      "desc": "",
-      "pubDate": "Thu, 24 Sep 2026 23:16:21 +0000"
+      "pubDate": "Fri, 25 Sep 2026 12:47:38 +0000"
     }
   ]
 }
