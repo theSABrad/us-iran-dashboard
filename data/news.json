@@ -1,7 +1,21 @@
 {
-  "lastUpdated": "2026-09-25T23:40:32.933427Z",
-  "count": 18,
+  "lastUpdated": "2026-09-26T02:25:01.509178Z",
+  "count": 19,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Iran war live: Tehran offers US plan to reopen Hormuz within seven days",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/9/26/iran-war-live-tehran-offers-us-plan-to-reopen-hormuz-within-seven-days?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sat, 26 Sep 2026 00:00:00 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Iran says it awaits US response on seven-day roadmap to end war",
+      "link": "https://www.aljazeera.com/news/2026/9/25/iran-says-it-awaits-us-response-on-seven-day-roadmap-to-end-war?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Fri, 25 Sep 2026 23:52:18 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "Iran to reopen Strait of Hormuz within a week if US agrees to plan",
@@ -15,13 +29,6 @@
       "link": "https://www.aljazeera.com/video/newsfeed/2026/9/25/iran-threatens-widespread-disruption-as-iraq-halts-iran-flights?traffic_source=rss",
       "desc": "",
       "pubDate": "Fri, 25 Sep 2026 19:11:03 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Iraqi airports halt Iranian flights after new US aviation sanctions",
-      "link": "https://www.aljazeera.com/news/2026/9/25/iraqi-airports-halt-iranian-flights-after-new-us-aviation-sanctions?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Fri, 25 Sep 2026 18:30:20 +0000"
     },
     {
       "source": "BBC",
