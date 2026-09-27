@@ -1,7 +1,28 @@
 {
-  "lastUpdated": "2026-09-27T14:23:06.896303Z",
-  "count": 15,
+  "lastUpdated": "2026-09-27T18:45:03.371391Z",
+  "count": 19,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "\u2018Iran ready for doomsday war\u2019, FM Araghchi says",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/iran-ready-for-doomsday-war-fm-araghchi-says?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sun, 27 Sep 2026 17:46:04 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Mike Waltz: US offered to sell Iran uranium for civilian programme",
+      "link": "https://www.aljazeera.com/news/2026/9/27/mike-waltz-us-offered-to-sell-iran-uranium-for-civilian-programme?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sun, 27 Sep 2026 17:42:45 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Strait of Hormuz tensions linger as Iran and US move further from a deal",
+      "link": "https://www.aljazeera.com/economy/2026/9/27/strait-of-hormuz-tensions-linger-as-iran-and-us-move-further-from-a-deal?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sun, 27 Sep 2026 14:36:44 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "\u2018Better deal\u2019: What\u2019s behind Trump\u2019s rejection of Iran\u2019s truce offer?",
@@ -10,11 +31,11 @@
       "pubDate": "Sun, 27 Sep 2026 13:17:53 +0000"
     },
     {
-      "source": "Al Jazeera",
-      "title": "Iran shifts trade north to Caspian Sea as war impairs Strait of Hormuz",
-      "link": "https://www.aljazeera.com/economy/2026/9/27/can-iran-shift-trade-north-to-caspian-sea-as-war-impairs-strait-of-hormuz?traffic_source=rss",
+      "source": "BBC",
+      "title": "<![CDATA[Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal]]>",
+      "link": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss",
       "desc": "",
-      "pubDate": "Sun, 27 Sep 2026 08:49:32 +0000"
+      "pubDate": "Sun, 27 Sep 2026 07:44:11 GMT"
     },
     {
       "source": "BBC",
@@ -102,10 +123,17 @@
     },
     {
       "source": "The Hill",
-      "title": "Live updates: Trump attends Presidents Cup final; top Iranian officials set for US interviews",
-      "link": "https://thehill.com/homenews/administration/6113491-live-updates-trump-presidents-cup-chicago-iran/",
+      "title": "Iran 'fully prepared' for war to resume if Trump authorizes strikes after midterms",
+      "link": "https://thehill.com/policy/international/6113728-araghchi-warns-trump-aggression/",
       "desc": "",
-      "pubDate": "Sun, 27 Sep 2026 12:30:00 +0000"
+      "pubDate": "Sun, 27 Sep 2026 18:37:16 +0000"
+    },
+    {
+      "source": "The Hill",
+      "title": "Mark Kelly: Trump 'stuck' with Iran and wants to 'get back to where he was before' war started",
+      "link": "https://thehill.com/homenews/senate/6113679-mark-kelly-criticizes-trump-iran-war/",
+      "desc": "",
+      "pubDate": "Sun, 27 Sep 2026 16:26:42 +0000"
     }
   ]
 }
