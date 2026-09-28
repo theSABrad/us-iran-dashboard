@@ -1,20 +1,27 @@
 {
-  "lastUpdated": "2026-09-28T02:24:54.200906Z",
-  "count": 18,
+  "lastUpdated": "2026-09-28T09:04:10.805919Z",
+  "count": 16,
   "articles": [
     {
       "source": "Al Jazeera",
-      "title": "Iran war live: Tehran says it\u2019s fully prepared for war amid Hormuz tensions",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/9/28/iran-war-live-tehran-warns-its-fully-prepared-for-war-amid-hormuz-tensions?traffic_source=rss",
+      "title": "\u2018Terror\u2019 incident near RAF base used for Iran war: What we know",
+      "link": "https://www.aljazeera.com/news/2026/9/28/terror-incident-near-raf-base-used-for-iran-war-what-we-know?traffic_source=rss",
       "desc": "",
-      "pubDate": "Mon, 28 Sep 2026 00:00:00 +0000"
+      "pubDate": "Mon, 28 Sep 2026 08:44:16 +0000"
     },
     {
       "source": "Al Jazeera",
-      "title": "Why has Trump rejected Iran\u2019s peace proposal?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/9/27/why-has-trump-rejected-irans-peace-proposal?traffic_source=rss",
+      "title": "Iran\u2019s children return to school under the shadow of war",
+      "link": "https://www.aljazeera.com/features/2026/9/28/irans-children-return-to-school-under-the-shadow-of-war?traffic_source=rss",
       "desc": "",
-      "pubDate": "Sun, 27 Sep 2026 20:03:04 +0000"
+      "pubDate": "Mon, 28 Sep 2026 08:25:49 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Iran war live: Tehran open to \u2018real diplomacy\u2019, ready for \u2018apocalyptic war\u2019",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/9/28/iran-war-live-tehran-warns-its-fully-prepared-for-war-amid-hormuz-tensions?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Mon, 28 Sep 2026 00:00:00 +0000"
     },
     {
       "source": "BBC",
@@ -22,6 +29,20 @@
       "link": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Sun, 27 Sep 2026 07:44:11 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[Trump rejects Iran deal to reopen Strait of Hormuz in seven days]]>",
+      "link": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Sat, 26 Sep 2026 22:15:59 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[Miliband tells Iran minister UK will not tolerate 'hostile activity' on British soil]]>",
+      "link": "https://www.bbc.co.uk/news/articles/cwp8476m06pyo?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Fri, 25 Sep 2026 02:51:36 GMT"
     },
     {
       "source": "BBC",
@@ -53,13 +74,6 @@
     },
     {
       "source": "BBC",
-      "title": "<![CDATA[US to allow Iran delegation to attend UN meetings in New York as war passes half-year mark]]>",
-      "link": "https://www.bbc.co.uk/news/articles/c6n8m72r13ngo?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Thu, 17 Sep 2026 21:41:19 GMT"
-    },
-    {
-      "source": "BBC",
       "title": "<![CDATA[Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war]]>",
       "link": "https://www.bbc.co.uk/news/articles/c3v4zgzr1kxo?at_medium=RSS&at_campaign=rss",
       "desc": "",
@@ -74,31 +88,10 @@
     },
     {
       "source": "BBC",
-      "title": "<![CDATA[What we know about reported strike on Iran wedding celebrations]]>",
-      "link": "https://www.bbc.co.uk/news/videos/c0lr1krdxxwo?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Wed, 02 Sep 2026 21:02:35 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[Trump hopes sanctions will topple Iran's regime - its leaders are betting otherwise]]>",
-      "link": "https://www.bbc.co.uk/news/articles/cr50n9gnljgo?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Tue, 25 Aug 2026 12:37:53 GMT"
-    },
-    {
-      "source": "BBC",
       "title": "<![CDATA[Watch: Trump threatens to 'annihilate' Iran if no deal reached]]>",
       "link": "https://www.bbc.co.uk/news/videos/cmvgydqqlyx9o?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Tue, 22 Sep 2026 17:35:36 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[Watch: Trump says Iran war will end 'immediately' after US midterm elections]]>",
-      "link": "https://www.bbc.co.uk/news/videos/c3d7p3jmk7ko?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Wed, 09 Sep 2026 21:12:12 GMT"
     },
     {
       "source": "NPR",
@@ -106,13 +99,6 @@
       "link": "https://www.npr.org/2026/09/27/nx-s1-5982718/five-arrested-near-uk-air-base-used-by-u-s-bombers-in-iran-war",
       "desc": "U.K. police say five men were arrested on suspicion of preparation of a terrorist act after three vehicles were spotted near an air base the U.S. military has been using to launch attacks on Iran.",
       "pubDate": "Sun, 27 Sep 2026 17:14:44 -0400"
-    },
-    {
-      "source": "NPR",
-      "title": "Trump calls Iranian plan to reopen Strait of Hormuz not 'acceptable'",
-      "link": "https://www.npr.org/2026/09/26/nx-s1-5981990/trump-rejects-iranian-deal-strait-of-hormuz",
-      "desc": "President Trump said he was rejecting an Iranian plan to reopen the Strait of Hormuz. The Iranian proposal is similar to a memorandum of understanding agreed upon by the U.S. and Iran back in June.",
-      "pubDate": "Sat, 26 Sep 2026 16:08:28 -0400"
     },
     {
       "source": "The Hill",
