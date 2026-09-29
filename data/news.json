@@ -1,27 +1,27 @@
 {
-  "lastUpdated": "2026-09-28T18:54:00.236877Z",
-  "count": 18,
+  "lastUpdated": "2026-09-29T00:43:01.281693Z",
+  "count": 19,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Iran war live: Trump says he did not offer Tehran sanctions relief",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/9/29/iran-war-live-trump-says-he-did-not-offer-tehran-sanctions-relief?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Tue, 29 Sep 2026 00:00:00 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Flights between Iraq\u2019s Najaf and Iran resumed as Tehran protests US curbs",
+      "link": "https://www.aljazeera.com/news/2026/9/28/flights-between-iraqs-najaf-and-iran-resumed-as-tehran-protests-us-curbs?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Mon, 28 Sep 2026 18:50:24 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "Trump made the right decision to reject Iran\u2019s offer",
       "link": "https://www.aljazeera.com/opinions/2026/9/28/trump-made-the-right-decision-to-reject-irans-offer?traffic_source=rss",
       "desc": "",
       "pubDate": "Mon, 28 Sep 2026 18:16:26 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Iran touts Hormuz attacks as oil flows increase despite tensions",
-      "link": "https://www.aljazeera.com/news/2026/9/28/iran-touts-hormuz-attacks-as-oil-flows-increase-despite-tensions?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Mon, 28 Sep 2026 17:43:10 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Iran denies link to attack on airbase as UK minister warns of \u2018proxies\u2019",
-      "link": "https://www.aljazeera.com/news/2026/9/28/iran-denies-link-to-attack-on-airbase-as-uk-minister-warns-of-proxies?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Mon, 28 Sep 2026 15:29:48 +0000"
     },
     {
       "source": "BBC",
@@ -102,6 +102,13 @@
     },
     {
       "source": "NPR",
+      "title": "British men released on bail after suspected terror plot",
+      "link": "https://www.npr.org/2026/09/28/nx-s1-5983550/british-men-released-on-bail-after-suspected-terror-plot",
+      "desc": "Five British men have been released on bail after being detained near a military base for alleged terror offenses. The British base is used by the U.S. military for strikes on Iran.",
+      "pubDate": "Mon, 28 Sep 2026 18:10:02 -0400"
+    },
+    {
+      "source": "NPR",
       "title": "What we know about the suspected U.K. terror plot. And, why the Gulf remains in limbo",
       "link": "https://www.npr.org/2026/09/28/g-s1-145248/up-first-newsletter-uk-us-air-base-iran-strait-hormuz-media-outlets-cnn-trump",
       "desc": "What we know \u2014 and still don't \u2014 about the suspected terror plot near a U.K. air base. Trump rejects Iran's offer to pause fighting. And CNN prepares for new owners with ties to Trump.",
@@ -123,10 +130,10 @@
     },
     {
       "source": "The Hill",
-      "title": "Thune says Iran war has 'trumped everything else' for voters",
-      "link": "https://thehill.com/homenews/senate/6115660-thune-iran-war-midterm-voters/",
+      "title": "GOP senator says Trump should bring Iran war to an end",
+      "link": "https://thehill.com/homenews/senate/6116123-senator-calls-end-iran-conflict/",
       "desc": "",
-      "pubDate": "Mon, 28 Sep 2026 17:21:23 +0000"
+      "pubDate": "Mon, 28 Sep 2026 21:10:34 +0000"
     }
   ]
 }
