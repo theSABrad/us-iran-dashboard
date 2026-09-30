@@ -1,13 +1,20 @@
 {
-  "lastUpdated": "2026-09-30T09:06:38.733103Z",
+  "lastUpdated": "2026-09-30T17:09:58.193742Z",
   "count": 15,
   "articles": [
     {
       "source": "Al Jazeera",
-      "title": "Iran war live: Trump claims war will end \u2018very soon\u2019, gives no details",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/9/30/iran-war-live-trump-claims-war-will-end-very-soon-provides-no-details?traffic_source=rss",
+      "title": "Is Iran losing its leverage over the Strait of Hormuz?",
+      "link": "https://www.aljazeera.com/news/2026/9/30/economic-war-is-iran-losing-its-leverage-over-the-strait-of-hormuz?traffic_source=rss",
       "desc": "",
-      "pubDate": "Wed, 30 Sep 2026 00:00:00 +0000"
+      "pubDate": "Wed, 30 Sep 2026 12:05:45 +0000"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[UK believes Iran involved in RAF Fairford incident, Burnham says]]>",
+      "link": "https://www.bbc.co.uk/news/articles/cjwyz59k5y75o?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Wed, 30 Sep 2026 15:59:51 GMT"
     },
     {
       "source": "BBC",
@@ -67,10 +74,24 @@
     },
     {
       "source": "NPR",
-      "title": "Negotiator of 2015 Iran nuclear deal discusses Trump rejecting Iran's latest proposal",
-      "link": "https://www.npr.org/2026/09/30/nx-s1-5984947/negotiator-of-2015-iran-nuclear-deal-discusses-trump-rejecting-irans-latest-proposal",
-      "desc": "NPR's Michel Martin speaks with Robert Malley, a negotiator of the 2015 Iran nuclear deal, about where talks stand after President Trump rejected Iran's offer to reopen the Strait of Hormuz.",
-      "pubDate": "Wed, 30 Sep 2026 04:43:39 -0400"
+      "title": "U.S. forces exit Iraq amid Iran war. And, SCOTUS revives Trump deportation policy",
+      "link": "https://www.npr.org/2026/09/30/g-s1-145604/up-first-newsletter-iraq-us-troops-scotus-deportations-trump-ai",
+      "desc": "The U.S. has withdrawn its final troops from Iraq, leaving its defense future uncertain. And, the Supreme Court has sided for now with the Trump administration on third-country deportations.",
+      "pubDate": "Wed, 30 Sep 2026 07:13:17 -0400"
+    },
+    {
+      "source": "NPR",
+      "title": "U.S. military withdraws from Iraq two decades after invasion",
+      "link": "https://www.npr.org/2026/09/30/nx-s1-5983426/u-s-withdraws-final-troops-from-iraq",
+      "desc": "23 years after the United States military invaded Iraq, sparking an insurgency and a civil war, the U.S. has withdrawn its forces, as the country still tries to combat Iranian influence.",
+      "pubDate": "Wed, 30 Sep 2026 04:43:00 -0400"
+    },
+    {
+      "source": "NPR",
+      "title": "Retired general who led troops in Iraq warns U.S. exit may give Iran, ISIS an opening",
+      "link": "https://www.npr.org/2026/09/30/nx-s1-5984953/mcmaster-us-troop-withdrawal-iraq-iran-isis",
+      "desc": "Retired Lt. Gen. H.R. McMaster, who commanded U.S. troops in Iraq, says the withdrawal could strengthen Iran and leave Iraq more vulnerable to ISIS.",
+      "pubDate": "Wed, 30 Sep 2026 04:42:46 -0400"
     },
     {
       "source": "NPR",
@@ -85,27 +106,6 @@
       "link": "https://www.npr.org/2026/09/28/nx-s1-5983550/british-men-released-on-bail-after-suspected-terror-plot",
       "desc": "Five British men have been released on bail after being detained near a military base for alleged terror offenses. The British base is used by the U.S. military for strikes on Iran.",
       "pubDate": "Mon, 28 Sep 2026 18:10:02 -0400"
-    },
-    {
-      "source": "NPR",
-      "title": "What we know about the suspected U.K. terror plot. And, why the Gulf remains in limbo",
-      "link": "https://www.npr.org/2026/09/28/g-s1-145248/up-first-newsletter-uk-us-air-base-iran-strait-hormuz-media-outlets-cnn-trump",
-      "desc": "What we know \u2014 and still don't \u2014 about the suspected terror plot near a U.K. air base. Trump rejects Iran's offer to pause fighting. And CNN prepares for new owners with ties to Trump.",
-      "pubDate": "Mon, 28 Sep 2026 08:15:05 -0400"
-    },
-    {
-      "source": "NPR",
-      "title": "5 men arrested near a U.S.-run base bailed as UK police probe if there's an Iran link",
-      "link": "https://www.npr.org/2026/09/28/g-s1-145245/britain-us-base-suspected-foiled-attack",
-      "desc": "Investigators haven't concluded whether the incident was state-backed. They are investigating a possible link to Iran, Russia or non-state militant groups.",
-      "pubDate": "Mon, 28 Sep 2026 06:51:25 -0400"
-    },
-    {
-      "source": "The Hill",
-      "title": "Was Iran behind a \u2018terror plot\u2019 targeting US forces in Britain?",
-      "link": "https://thehill.com/policy/international/6119157-iran-plot-raf-fairford/",
-      "desc": "",
-      "pubDate": "Tue, 29 Sep 2026 22:09:19 +0000"
     }
   ]
 }
