@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-09-30T02:50:42.172391Z",
-  "count": 16,
+  "lastUpdated": "2026-09-30T09:06:38.733103Z",
+  "count": 15,
   "articles": [
     {
       "source": "Al Jazeera",
@@ -8,13 +8,6 @@
       "link": "https://www.aljazeera.com/news/liveblog/2026/9/30/iran-war-live-trump-claims-war-will-end-very-soon-provides-no-details?traffic_source=rss",
       "desc": "",
       "pubDate": "Wed, 30 Sep 2026 00:00:00 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "US sanctions 10 entities for allegedly supporting Iran\u2019s military",
-      "link": "https://www.aljazeera.com/news/2026/9/29/us-sanctions-10-entities-for-allegedly-supporting-irans-military?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Tue, 29 Sep 2026 20:48:34 +0000"
     },
     {
       "source": "BBC",
@@ -74,6 +67,13 @@
     },
     {
       "source": "NPR",
+      "title": "Negotiator of 2015 Iran nuclear deal discusses Trump rejecting Iran's latest proposal",
+      "link": "https://www.npr.org/2026/09/30/nx-s1-5984947/negotiator-of-2015-iran-nuclear-deal-discusses-trump-rejecting-irans-latest-proposal",
+      "desc": "NPR's Michel Martin speaks with Robert Malley, a negotiator of the 2015 Iran nuclear deal, about where talks stand after President Trump rejected Iran's offer to reopen the Strait of Hormuz.",
+      "pubDate": "Wed, 30 Sep 2026 04:43:39 -0400"
+    },
+    {
+      "source": "NPR",
       "title": "As the U.S. signals a smaller Middle East footprint, Turkey is ready to step in",
       "link": "https://www.npr.org/2026/09/29/nx-s1-5983685/turkey-influence",
       "desc": "Turkey's bid for regional influence comes as the Middle East has been hit by profound shocks that started with the Hamas-led 2023 attack on Israel and continue with the seven-month-old war on Iran.",
@@ -99,13 +99,6 @@
       "link": "https://www.npr.org/2026/09/28/g-s1-145245/britain-us-base-suspected-foiled-attack",
       "desc": "Investigators haven't concluded whether the incident was state-backed. They are investigating a possible link to Iran, Russia or non-state militant groups.",
       "pubDate": "Mon, 28 Sep 2026 06:51:25 -0400"
-    },
-    {
-      "source": "NPR",
-      "title": "Five arrested near UK air base used by U.S. bombers in Iran war",
-      "link": "https://www.npr.org/2026/09/27/nx-s1-5982718/five-arrested-near-uk-air-base-used-by-u-s-bombers-in-iran-war",
-      "desc": "U.K. police say five men were arrested on suspicion of preparation of a terrorist act after three vehicles were spotted near an air base the U.S. military has been using to launch attacks on Iran.",
-      "pubDate": "Sun, 27 Sep 2026 17:14:44 -0400"
     },
     {
       "source": "The Hill",
