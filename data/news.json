@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-10-01T02:56:41.833462Z",
-  "count": 15,
+  "lastUpdated": "2026-10-01T09:39:38.755379Z",
+  "count": 13,
   "articles": [
     {
       "source": "Al Jazeera",
-      "title": "UK says Iran may be linked to alleged airbase plot, drawing angry denial",
+      "title": "UK says Iran may be linked to alleged RAF Fairford plot, drawing denial",
       "link": "https://www.aljazeera.com/news/2026/10/1/uk-says-iran-may-be-linked-to-alleged-airbase-plot-drawing-angry-denial?traffic_source=rss",
       "desc": "",
       "pubDate": "Thu, 01 Oct 2026 02:30:45 +0000"
@@ -18,10 +18,17 @@
     },
     {
       "source": "Al Jazeera",
-      "title": "Iran war live: Trump hints US could strike Iran, warns time coming",
+      "title": "Iran war live: IRGC says 6 \u2018terrorists\u2019 killed after planning bomb attack",
       "link": "https://www.aljazeera.com/news/liveblog/2026/10/1/iran-war-live-trump-hints-us-could-strike-iran-warns-time-coming?traffic_source=rss",
       "desc": "",
       "pubDate": "Thu, 01 Oct 2026 00:00:00 +0000"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[Too early to say if Iran involved in Dubai-Tel Aviv flight attack, Israeli PM says]]>",
+      "link": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Thu, 01 Oct 2026 09:22:35 GMT"
     },
     {
       "source": "BBC",
@@ -53,20 +60,6 @@
     },
     {
       "source": "BBC",
-      "title": "<![CDATA[Miliband tells Iran minister UK will not tolerate 'hostile activity' on British soil]]>",
-      "link": "https://www.bbc.co.uk/news/articles/cwp8476m06pyo?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Fri, 25 Sep 2026 02:51:36 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[Iran must stop arming Houthis in Yemen, G7 says ahead of UN General Assembly]]>",
-      "link": "https://www.bbc.co.uk/news/articles/cwm2qpmepmlzo?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Tue, 22 Sep 2026 13:39:09 GMT"
-    },
-    {
-      "source": "BBC",
       "title": "<![CDATA[Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war]]>",
       "link": "https://www.bbc.co.uk/news/articles/c3v4zgzr1kxo?at_medium=RSS&at_campaign=rss",
       "desc": "",
@@ -78,13 +71,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cgjql614glvo?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Fri, 04 Sep 2026 09:14:57 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[Watch: Trump threatens to 'annihilate' Iran if no deal reached]]>",
-      "link": "https://www.bbc.co.uk/news/videos/cmvgydqqlyx9o?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Tue, 22 Sep 2026 17:35:36 GMT"
     },
     {
       "source": "NPR",
