@@ -1,13 +1,27 @@
 {
-  "lastUpdated": "2026-09-30T21:37:29.214528Z",
-  "count": 14,
+  "lastUpdated": "2026-10-01T02:56:41.833462Z",
+  "count": 15,
   "articles": [
     {
       "source": "Al Jazeera",
-      "title": "\u2018Strong indications\u2019 Iran linked to suspected UK airbase plot",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/30/aje-onl-nf_indications-iran-linked-suspected-uk-airbase-plot-300926?traffic_source=rss",
+      "title": "UK says Iran may be linked to alleged airbase plot, drawing angry denial",
+      "link": "https://www.aljazeera.com/news/2026/10/1/uk-says-iran-may-be-linked-to-alleged-airbase-plot-drawing-angry-denial?traffic_source=rss",
       "desc": "",
-      "pubDate": "Wed, 30 Sep 2026 18:09:51 +0000"
+      "pubDate": "Thu, 01 Oct 2026 02:30:45 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Iran parades Shahed drones through capital",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/1/iran-parades-shahed-drones-through-capital?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Thu, 01 Oct 2026 00:39:04 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Iran war live: Trump hints US could strike Iran, warns time coming",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/10/1/iran-war-live-trump-hints-us-could-strike-iran-warns-time-coming?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Thu, 01 Oct 2026 00:00:00 +0000"
     },
     {
       "source": "BBC",
@@ -92,13 +106,6 @@
       "link": "https://www.npr.org/2026/09/30/nx-s1-5984953/mcmaster-us-troop-withdrawal-iraq-iran-isis",
       "desc": "Retired Lt. Gen. H.R. McMaster, who commanded U.S. troops in Iraq, says the withdrawal could strengthen Iran and leave Iraq more vulnerable to ISIS.",
       "pubDate": "Wed, 30 Sep 2026 04:42:46 -0400"
-    },
-    {
-      "source": "NPR",
-      "title": "As the U.S. signals a smaller Middle East footprint, Turkey is ready to step in",
-      "link": "https://www.npr.org/2026/09/29/nx-s1-5983685/turkey-influence",
-      "desc": "Turkey's bid for regional influence comes as the Middle East has been hit by profound shocks that started with the Hamas-led 2023 attack on Israel and continue with the seven-month-old war on Iran.",
-      "pubDate": "Tue, 29 Sep 2026 05:00:00 -0400"
     }
   ]
 }
