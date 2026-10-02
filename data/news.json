@@ -1,20 +1,27 @@
 {
-  "lastUpdated": "2026-10-02T02:59:15.097175Z",
+  "lastUpdated": "2026-10-02T09:25:16.967478Z",
   "count": 9,
   "articles": [
     {
       "source": "Al Jazeera",
-      "title": "Iran war live: US moves 2,000 Marines to Middle East, tanker hit in Hormuz",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/10/2/iran-war-live-us-moves-2000-marines-to-middle-east-tanker-hit-in-hormuz?traffic_source=rss",
+      "title": "UK arrests British-Iranian suspect over RAF \u2018plot\u2019: What we know",
+      "link": "https://www.aljazeera.com/news/2026/10/2/uk-arrests-british-iranian-suspect-over-raf-plot-what-we-know?traffic_source=rss",
       "desc": "",
-      "pubDate": "Fri, 02 Oct 2026 00:00:00 +0000"
+      "pubDate": "Fri, 02 Oct 2026 09:03:21 +0000"
     },
     {
       "source": "Al Jazeera",
-      "title": "Most Americans say US-Israel war on Iran not worth fighting: Poll",
-      "link": "https://www.aljazeera.com/news/2026/10/1/most-americans-say-us-israel-war-on-iran-not-worth-fighting-poll?traffic_source=rss",
+      "title": "Iran urges Iraq to lift flight ban amid US sanctions",
+      "link": "https://www.aljazeera.com/news/2026/10/2/iran-urges-iraq-to-lift-flight-ban-amid-us-sanctions?traffic_source=rss",
       "desc": "",
-      "pubDate": "Thu, 01 Oct 2026 20:49:45 +0000"
+      "pubDate": "Fri, 02 Oct 2026 04:34:33 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "US to send third aircraft carrier towards Iran: US official to Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/2/us-to-send-third-aircraft-carrier-towards-iran-us-official-to-al-jazeera?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Fri, 02 Oct 2026 03:14:47 +0000"
     },
     {
       "source": "BBC",
@@ -57,13 +64,6 @@
       "link": "https://www.npr.org/2026/09/30/g-s1-145604/up-first-newsletter-iraq-us-troops-scotus-deportations-trump-ai",
       "desc": "The U.S. has withdrawn its final troops from Iraq, leaving its defense future uncertain. And, the Supreme Court has sided for now with the Trump administration on third-country deportations.",
       "pubDate": "Wed, 30 Sep 2026 07:13:17 -0400"
-    },
-    {
-      "source": "NPR",
-      "title": "The U.S. military withdraws from Iraq over 2 decades after its invasion",
-      "link": "https://www.npr.org/2026/09/30/nx-s1-5983426/u-s-withdraws-final-troops-from-iraq",
-      "desc": "23 years after the United States military invaded Iraq, sparking an insurgency and a civil war, the U.S. has withdrawn its forces, as the country still tries to combat Iranian influence.",
-      "pubDate": "Wed, 30 Sep 2026 04:43:00 -0400"
     }
   ]
 }
