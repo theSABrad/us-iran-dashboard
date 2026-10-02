@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-10-02T16:58:50.271507Z",
-  "count": 5,
+  "lastUpdated": "2026-10-02T21:32:41.932155Z",
+  "count": 7,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Iraq grants Iranian airlines 40 daily Najaf flights after US exemption",
+      "link": "https://www.aljazeera.com/news/2026/10/2/iraq-grants-iranian-airlines-40-daily-najaf-flights-after-us-exemption?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Fri, 02 Oct 2026 20:32:02 +0000"
+    },
     {
       "source": "BBC",
       "title": "<![CDATA[Too early to say whether Iran involved in Dubai-Tel Aviv flight attack, Israeli PM says]]>",
@@ -36,6 +43,13 @@
       "link": "https://www.bbc.co.uk/news/articles/cgjql614glvo?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Fri, 04 Sep 2026 09:14:57 GMT"
+    },
+    {
+      "source": "The Hill",
+      "title": "LePage breaks with Trump on Iran, Canada tariffs, immigration in Maine House debate",
+      "link": "https://thehill.com/homenews/campaign/6126725-lepage-dunlap-debate-maine/",
+      "desc": "",
+      "pubDate": "Fri, 02 Oct 2026 19:25:14 +0000"
     }
   ]
 }
