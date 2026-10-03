@@ -1,20 +1,27 @@
 {
-  "lastUpdated": "2026-10-03T02:45:10.367881Z",
-  "count": 7,
+  "lastUpdated": "2026-10-03T08:40:59.426795Z",
+  "count": 8,
   "articles": [
     {
       "source": "Al Jazeera",
-      "title": "Iran war live: Fighting intensifies in Yemen, hundreds killed or injured",
+      "title": "Two Iranians charged over alleged plot targeting Jewish community in UK",
+      "link": "https://www.aljazeera.com/news/2026/10/3/two-iranians-charged-over-alleged-plot-targeting-jewish-community-in-uk?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sat, 03 Oct 2026 03:56:10 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Iran war live: Oil tankers attacked in Hormuz, reports UK maritime agency",
       "link": "https://www.aljazeera.com/news/liveblog/2026/10/3/iran-war-live-fighting-intensifies-in-yemen-hundreds-killed-or-injured?traffic_source=rss",
       "desc": "",
       "pubDate": "Sat, 03 Oct 2026 00:00:00 +0000"
     },
     {
-      "source": "Al Jazeera",
-      "title": "Iraq grants Iranian airlines 40 daily Najaf flights after US exemption",
-      "link": "https://www.aljazeera.com/news/2026/10/2/iraq-grants-iranian-airlines-40-daily-najaf-flights-after-us-exemption?traffic_source=rss",
+      "source": "BBC",
+      "title": "<![CDATA[Three reasons Middle East oil supply is nearly back to pre-Iran war levels]]>",
+      "link": "https://www.bbc.co.uk/news/articles/cwp8gn13lmygo?at_medium=RSS&at_campaign=rss",
       "desc": "",
-      "pubDate": "Fri, 02 Oct 2026 20:32:02 +0000"
+      "pubDate": "Fri, 02 Oct 2026 15:29:28 GMT"
     },
     {
       "source": "BBC",
