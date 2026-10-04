@@ -1,20 +1,20 @@
 {
-  "lastUpdated": "2026-10-04T16:06:38.107729Z",
-  "count": 7,
+  "lastUpdated": "2026-10-04T20:36:37.145226Z",
+  "count": 8,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "War on Iran: Is escalation more likely than a deal?",
+      "link": "https://www.aljazeera.com/video/the-bottom-line/2026/10/4/war-on-iran-is-escalation-more-likely-than-a-deal-2?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sun, 04 Oct 2026 18:47:22 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "Iran tells US: there is \u2018no military solution\u2019 to end the war",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/10/4/iran-tells-us-there-is-no-military-solution-to-end-the-war?traffic_source=rss",
       "desc": "",
       "pubDate": "Sun, 04 Oct 2026 15:06:14 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Iran says Hormuz to remain closed until US meets conditions",
-      "link": "https://www.aljazeera.com/news/2026/10/4/iran-says-strait-of-hormuz-to-remain-closed-until-us-meets-conditions?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Sun, 04 Oct 2026 11:11:30 +0000"
     },
     {
       "source": "BBC",
@@ -50,6 +50,13 @@
       "link": "https://www.bbc.co.uk/news/articles/cgjql614glvo?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Fri, 04 Sep 2026 09:14:57 GMT"
+    },
+    {
+      "source": "The Hill",
+      "title": "Iran did not collapse after Khamenei \u2014 it just became harder to read",
+      "link": "https://thehill.com/opinion/international/6126677-iran-opaque-security-led-rule/",
+      "desc": "",
+      "pubDate": "Sun, 04 Oct 2026 17:00:00 +0000"
     }
   ]
 }
