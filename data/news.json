@@ -1,20 +1,20 @@
 {
-  "lastUpdated": "2026-10-04T20:36:37.145226Z",
-  "count": 8,
+  "lastUpdated": "2026-10-04T23:41:36.026912Z",
+  "count": 9,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "US withdraws B-1 bomber aircraft from UK\u2019s Fairford base amid Iran fears",
+      "link": "https://www.aljazeera.com/news/2026/10/4/us-withdraws-b-1-bomber-aircraft-from-uks-fairford-base-amid-iran-fears?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sun, 04 Oct 2026 22:23:30 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "War on Iran: Is escalation more likely than a deal?",
       "link": "https://www.aljazeera.com/video/the-bottom-line/2026/10/4/war-on-iran-is-escalation-more-likely-than-a-deal-2?traffic_source=rss",
       "desc": "",
       "pubDate": "Sun, 04 Oct 2026 18:47:22 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Iran tells US: there is \u2018no military solution\u2019 to end the war",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/4/iran-tells-us-there-is-no-military-solution-to-end-the-war?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Sun, 04 Oct 2026 15:06:14 +0000"
     },
     {
       "source": "BBC",
@@ -50,6 +50,13 @@
       "link": "https://www.bbc.co.uk/news/articles/cgjql614glvo?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Fri, 04 Sep 2026 09:14:57 GMT"
+    },
+    {
+      "source": "The Hill",
+      "title": "Democratic rep: Administration 'has failed to present a strategy' in Iran war",
+      "link": "https://thehill.com/homenews/house/6128484-schneider-criticizes-trump-iran-strategy/",
+      "desc": "",
+      "pubDate": "Sun, 04 Oct 2026 20:53:23 +0000"
     },
     {
       "source": "The Hill",
