@@ -1,7 +1,21 @@
 {
-  "lastUpdated": "2026-10-04T11:28:20.484198Z",
-  "count": 5,
+  "lastUpdated": "2026-10-04T16:06:38.107729Z",
+  "count": 7,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Iran tells US: there is \u2018no military solution\u2019 to end the war",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/4/iran-tells-us-there-is-no-military-solution-to-end-the-war?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sun, 04 Oct 2026 15:06:14 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Iran says Hormuz to remain closed until US meets conditions",
+      "link": "https://www.aljazeera.com/news/2026/10/4/iran-says-strait-of-hormuz-to-remain-closed-until-us-meets-conditions?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sun, 04 Oct 2026 11:11:30 +0000"
+    },
     {
       "source": "BBC",
       "title": "<![CDATA[Three reasons Middle East oil supply is nearly back to pre-Iran war levels]]>",
