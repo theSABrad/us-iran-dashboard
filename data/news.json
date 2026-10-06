@@ -1,13 +1,20 @@
 {
-  "lastUpdated": "2026-10-05T09:45:50.732184Z",
+  "lastUpdated": "2026-10-06T01:40:11.167655Z",
   "count": 7,
   "articles": [
     {
       "source": "Al Jazeera",
-      "title": "Iran war live: Yemeni army makes gains; Tehran says ready for US attacks",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/10/5/iran-war-live-fighting-in-yemen-intensifies-tehran-says-ready-for-us-war?traffic_source=rss",
+      "title": "Iran war live: Yemen forces reclaim strategic port city Mocha from Houthis",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/10/6/iran-war-live-yemen-forces-reclaim-strategic-port-city-mocha-from-houthis?traffic_source=rss",
       "desc": "",
-      "pubDate": "Mon, 05 Oct 2026 00:00:00 +0000"
+      "pubDate": "Tue, 06 Oct 2026 00:00:00 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Trump blames Democrats and Ukraine for soaring US fuel prices, not Iran war",
+      "link": "https://www.aljazeera.com/economy/2026/10/5/trump-blames-democrats-and-ukraine-for-soaring-us-fuel-prices-not-iran-war?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Mon, 05 Oct 2026 19:01:32 +0000"
     },
     {
       "source": "BBC",
@@ -43,13 +50,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cgjql614glvo?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Fri, 04 Sep 2026 09:14:57 GMT"
-    },
-    {
-      "source": "The Hill",
-      "title": "Democratic rep: Administration 'has failed to present a strategy' in Iran war",
-      "link": "https://thehill.com/homenews/house/6128484-schneider-criticizes-trump-iran-strategy/",
-      "desc": "",
-      "pubDate": "Sun, 04 Oct 2026 20:53:23 +0000"
     }
   ]
 }
