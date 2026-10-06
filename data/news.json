@@ -1,20 +1,13 @@
 {
-  "lastUpdated": "2026-10-06T09:32:58.864814Z",
+  "lastUpdated": "2026-10-06T17:32:54.735444Z",
   "count": 6,
   "articles": [
     {
       "source": "Al Jazeera",
-      "title": "Trump jokes about letting Iran bomb Los Angeles and San Diego",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/6/trump-jokes-about-letting-iran-bomb-los-angeles-and-san-diego?traffic_source=rss",
+      "title": "What new measures is Iran taking to counter US economic pressure?",
+      "link": "https://www.aljazeera.com/news/2026/10/6/what-new-measures-is-iran-taking-to-counter-us-economic-pressure?traffic_source=rss",
       "desc": "",
-      "pubDate": "Tue, 06 Oct 2026 07:12:00 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Southeast Asia\u2019s energy chiefs meet against backdrop of Iran war",
-      "link": "https://www.aljazeera.com/economy/2026/10/6/southeast-asias-energy-chiefs-meet-against-backdrop-of-iran-war?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Tue, 06 Oct 2026 07:07:47 +0000"
+      "pubDate": "Tue, 06 Oct 2026 14:42:33 +0000"
     },
     {
       "source": "BBC",
@@ -43,6 +36,13 @@
       "link": "https://www.bbc.co.uk/news/articles/cgjql614glvo?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Fri, 04 Sep 2026 09:14:57 GMT"
+    },
+    {
+      "source": "The Hill",
+      "title": "Newsom tags in State Threat Assessment Center over Trump's Iran nuclear comments",
+      "link": "https://thehill.com/homenews/state-watch/6131686-newsom-trump-iran-los-angeles-san-diego/",
+      "desc": "",
+      "pubDate": "Tue, 06 Oct 2026 16:48:57 +0000"
     }
   ]
 }
