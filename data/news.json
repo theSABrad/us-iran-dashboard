@@ -1,14 +1,7 @@
 {
-  "lastUpdated": "2026-10-06T17:32:54.735444Z",
+  "lastUpdated": "2026-10-06T21:58:45.987013Z",
   "count": 6,
   "articles": [
-    {
-      "source": "Al Jazeera",
-      "title": "What new measures is Iran taking to counter US economic pressure?",
-      "link": "https://www.aljazeera.com/news/2026/10/6/what-new-measures-is-iran-taking-to-counter-us-economic-pressure?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Tue, 06 Oct 2026 14:42:33 +0000"
-    },
     {
       "source": "BBC",
       "title": "<![CDATA[UK believes Iran involved in RAF Fairford incident, Burnham says]]>",
@@ -38,11 +31,18 @@
       "pubDate": "Fri, 04 Sep 2026 09:14:57 GMT"
     },
     {
+      "source": "NPR",
+      "title": "The questions swirling around a U.K. base and possible Iranian-backed attacks",
+      "link": "https://www.npr.org/2026/10/06/nx-s1-5992853/the-questions-swirling-around-a-u-k-base-and-possible-iranian-backed-attacks",
+      "desc": "British police said they had made a seventh arrest in a murky plot that may have targeted a U.K. airbase.",
+      "pubDate": "Tue, 06 Oct 2026 16:53:46 -0400"
+    },
+    {
       "source": "The Hill",
-      "title": "Newsom tags in State Threat Assessment Center over Trump's Iran nuclear comments",
-      "link": "https://thehill.com/homenews/state-watch/6131686-newsom-trump-iran-los-angeles-san-diego/",
+      "title": "Live updates: Trump unveils sub investment in Baltimore; California officials fume over Iran remark",
+      "link": "https://thehill.com/homenews/administration/6130914-live-updates-donald-trump-iran-war-midterm-elections-healthcare/",
       "desc": "",
-      "pubDate": "Tue, 06 Oct 2026 16:48:57 +0000"
+      "pubDate": "Tue, 06 Oct 2026 19:27:11 +0000"
     }
   ]
 }
