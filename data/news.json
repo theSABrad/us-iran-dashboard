@@ -1,7 +1,21 @@
 {
-  "lastUpdated": "2026-10-06T21:58:45.987013Z",
-  "count": 6,
+  "lastUpdated": "2026-10-07T03:09:27.531578Z",
+  "count": 7,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Politicians slam Trump\u2019s suggestion that Iran \u2018take\u2019 San Diego, Los Angeles",
+      "link": "https://www.aljazeera.com/news/2026/10/7/politicians-slam-trumps-suggestion-that-iran-take-san-diego-los-angeles?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Wed, 07 Oct 2026 01:07:21 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Iran war live: Yemen forces claim control over strategic Taiz mountain peak",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/10/7/iran-war-live-yemen-forces-claim-control-over-strategic-taiz-mountain-peak?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Wed, 07 Oct 2026 00:00:00 +0000"
+    },
     {
       "source": "BBC",
       "title": "<![CDATA[UK believes Iran involved in RAF Fairford incident, Burnham says]]>",
@@ -36,13 +50,6 @@
       "link": "https://www.npr.org/2026/10/06/nx-s1-5992853/the-questions-swirling-around-a-u-k-base-and-possible-iranian-backed-attacks",
       "desc": "British police said they had made a seventh arrest in a murky plot that may have targeted a U.K. airbase.",
       "pubDate": "Tue, 06 Oct 2026 16:53:46 -0400"
-    },
-    {
-      "source": "The Hill",
-      "title": "Live updates: Trump unveils sub investment in Baltimore; California officials fume over Iran remark",
-      "link": "https://thehill.com/homenews/administration/6130914-live-updates-donald-trump-iran-war-midterm-elections-healthcare/",
-      "desc": "",
-      "pubDate": "Tue, 06 Oct 2026 19:27:11 +0000"
     }
   ]
 }
