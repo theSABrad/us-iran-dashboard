@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-08T09:40:23.537563Z",
-  "count": 7,
+  "lastUpdated": "2026-10-08T18:06:56.325671Z",
+  "count": 5,
   "articles": [
     {
       "source": "BBC",
@@ -31,25 +31,11 @@
       "pubDate": "Fri, 04 Sep 2026 09:14:57 GMT"
     },
     {
-      "source": "NPR",
-      "title": "DIY fertilizer is a blessing as farmers face steep prices due to the Iran war",
-      "link": "https://www.npr.org/2026/10/07/g-s1-146541/fertilizer-diy-farmers-iran-war",
-      "desc": "It's hard enough being a small-scale farmer. Then the Iran war drove up fertilizer prices. So farmers are using a traditional Asian recipe to make their own. They call it a \"labor of love.\"",
-      "pubDate": "Wed, 07 Oct 2026 09:32:37 -0400"
-    },
-    {
-      "source": "NPR",
-      "title": "U.S. moves long-range bombers from U.K. And, Israel allegedly warned before Oct. 7",
-      "link": "https://www.npr.org/2026/10/07/g-s1-146853/up-first-newsletter-long-range-bombers-france-high-school-protest-germany-august-hanning-oct-7-memorial-day",
-      "desc": "A possible Iranian threat led the U.S. to remove long-range bombers from a U.K. base. And, Israelis are learning that their prime minister may have been warned before the Oct. 7 attacks.",
-      "pubDate": "Wed, 07 Oct 2026 06:52:58 -0400"
-    },
-    {
-      "source": "NPR",
-      "title": "Investigation continues into whether U.K. air base incident is linked to Iran",
-      "link": "https://www.npr.org/2026/10/07/nx-s1-5992704/investigation-continues-into-whether-u-k-air-base-incident-is-linked-to-iran",
-      "desc": "Questions continue to swirl around a U.K. military base and potential Iran-backed attacks.",
-      "pubDate": "Wed, 07 Oct 2026 06:45:38 -0400"
+      "source": "The Hill",
+      "title": "Trump says US will not strike Iran before midterms",
+      "link": "https://thehill.com/homenews/administration/6136781-trump-vows-no-iran-attack/",
+      "desc": "",
+      "pubDate": "Thu, 08 Oct 2026 16:52:29 +0000"
     }
   ]
 }
