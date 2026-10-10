@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2026-10-10T20:49:45.662538Z",
-  "count": 6,
+  "lastUpdated": "2026-10-10T23:56:49.465183Z",
+  "count": 5,
   "articles": [
     {
       "source": "BBC",
@@ -31,18 +31,11 @@
       "pubDate": "Fri, 04 Sep 2026 09:14:57 GMT"
     },
     {
-      "source": "NPR",
-      "title": "Trump says U.S. won't attack Iran before midterms. And, ICE agent shoots man in NYC",
-      "link": "https://www.npr.org/2026/10/09/g-s1-147455/up-first-newsletter-hurricane-isaias-ukraine-russia-trump-iran-ice-shooting",
-      "desc": "Trump announced that the U.S. will not attack Iran ahead of the midterms. And, a 28-year-old man is receiving treatment at the hospital after an ICE agent shot him in the neck.",
-      "pubDate": "Fri, 09 Oct 2026 07:37:04 -0400"
-    },
-    {
-      "source": "NPR",
-      "title": "The long-deployed USS Lincoln returns home to San Diego Bay",
-      "link": "https://www.npr.org/2026/10/08/nx-s1-5995911/the-long-deployed-uss-lincoln-returns-home-to-san-diego-bay",
-      "desc": "The USS Abraham Lincoln aircraft carrier has returned home after a record-setting uninterrupted time at sea supporting the Iran war. The extended deployment drew attention following reports of crew st",
-      "pubDate": "Thu, 08 Oct 2026 20:05:48 -0400"
+      "source": "The Hill",
+      "title": "Pentagon updates death toll of troops during Iran war to 21",
+      "link": "https://thehill.com/policy/defense/6140821-pentagon-updates-iran-death-tally/",
+      "desc": "",
+      "pubDate": "Sat, 10 Oct 2026 21:59:35 +0000"
     }
   ]
 }
