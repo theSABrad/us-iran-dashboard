@@ -1,14 +1,7 @@
 {
-  "lastUpdated": "2026-10-11T16:56:53.074946Z",
-  "count": 6,
+  "lastUpdated": "2026-10-11T21:10:47.669852Z",
+  "count": 4,
   "articles": [
-    {
-      "source": "Al Jazeera",
-      "title": "Hormuz attacks intensify as efforts to end war on Iran stall",
-      "link": "https://www.aljazeera.com/news/2026/10/11/hormuz-attacks-intensify-as-efforts-to-end-war-on-iran-stall?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Sun, 11 Oct 2026 14:04:32 +0000"
-    },
     {
       "source": "BBC",
       "title": "<![CDATA[White House defends Trump comment to let Iran 'take out' LA and San Diego]]>",
@@ -36,13 +29,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cgjql614glvo?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Fri, 04 Sep 2026 09:14:57 GMT"
-    },
-    {
-      "source": "The Hill",
-      "title": "Murphy takes fight against Iran war to Middle East",
-      "link": "https://thehill.com/policy/defense/6141289-senator-murphy-middle-east-trip/",
-      "desc": "",
-      "pubDate": "Sun, 11 Oct 2026 14:39:44 +0000"
     }
   ]
 }
