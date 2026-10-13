@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-10-12T22:17:47.085150Z",
-  "count": 8,
+  "lastUpdated": "2026-10-13T04:22:45.748972Z",
+  "count": 7,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Iran war live: Trump says Houthis \u2018misbehaving\u2019 as Riyadh flights halted",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/10/13/iran-war-live-trump-says-houthis-misbehaving-as-riyadh-flights-halted?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Tue, 13 Oct 2026 00:00:00 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "Why do Iran\u2019s oil \u2018intermediaries\u2019 owe the government billions?",
@@ -15,13 +22,6 @@
       "link": "https://www.aljazeera.com/news/2026/10/12/uk-blames-iran-for-airbase-plot-sanctions-two-iranian-nationals?traffic_source=rss",
       "desc": "",
       "pubDate": "Mon, 12 Oct 2026 18:51:18 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "UK PM says RAF base incidents \u2018likely coordinated\u2019 by Iran",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/12/uk-pm-says-raf-base-incidents-likely-coordinated-by-iran?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Mon, 12 Oct 2026 18:24:42 +0000"
     },
     {
       "source": "BBC",
@@ -50,13 +50,6 @@
       "link": "https://www.npr.org/2026/10/12/nx-s1-5979836/many-iranians-who-go-to-turkey-to-find-jobs-are-exploited",
       "desc": "Desperate Iranians are finding work in Turkey to make ends meet, but many are being exploited and left with  nothing but more debt.",
       "pubDate": "Mon, 12 Oct 2026 17:37:21 -0400"
-    },
-    {
-      "source": "The Hill",
-      "title": "Bessent on how Iran war ends: 'I don't know'",
-      "link": "https://thehill.com/homenews/administration/6143968-bessent-unsure-iran-war-end/",
-      "desc": "",
-      "pubDate": "Mon, 12 Oct 2026 21:29:46 +0000"
     }
   ]
 }
