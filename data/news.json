@@ -1,28 +1,7 @@
 {
-  "lastUpdated": "2026-10-13T04:22:45.748972Z",
-  "count": 7,
+  "lastUpdated": "2026-10-13T13:06:26.194738Z",
+  "count": 5,
   "articles": [
-    {
-      "source": "Al Jazeera",
-      "title": "Iran war live: Trump says Houthis \u2018misbehaving\u2019 as Riyadh flights halted",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/10/13/iran-war-live-trump-says-houthis-misbehaving-as-riyadh-flights-halted?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Tue, 13 Oct 2026 00:00:00 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Why do Iran\u2019s oil \u2018intermediaries\u2019 owe the government billions?",
-      "link": "https://www.aljazeera.com/news/2026/10/12/why-do-irans-oil-intermediaries-owe-the-government-billions?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Mon, 12 Oct 2026 21:16:58 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "UK blames Iran for airbase plot, sanctions two Iranian nationals",
-      "link": "https://www.aljazeera.com/news/2026/10/12/uk-blames-iran-for-airbase-plot-sanctions-two-iranian-nationals?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Mon, 12 Oct 2026 18:51:18 +0000"
-    },
     {
       "source": "BBC",
       "title": "<![CDATA[Three reasons Middle East oil supply is nearly back to pre-Iran war levels]]>",
@@ -50,6 +29,13 @@
       "link": "https://www.npr.org/2026/10/12/nx-s1-5979836/many-iranians-who-go-to-turkey-to-find-jobs-are-exploited",
       "desc": "Desperate Iranians are finding work in Turkey to make ends meet, but many are being exploited and left with  nothing but more debt.",
       "pubDate": "Mon, 12 Oct 2026 17:37:21 -0400"
+    },
+    {
+      "source": "The Hill",
+      "title": "Regime change in Iran is needed now more than ever",
+      "link": "https://thehill.com/opinion/international/6143654-trump-iran-strategy-history/",
+      "desc": "",
+      "pubDate": "Tue, 13 Oct 2026 12:00:00 +0000"
     }
   ]
 }
