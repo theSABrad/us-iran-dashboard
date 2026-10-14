@@ -1,7 +1,28 @@
 {
-  "lastUpdated": "2026-10-14T08:07:41.307757Z",
-  "count": 4,
+  "lastUpdated": "2026-10-14T14:08:19.114842Z",
+  "count": 6,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Iran targets Starlink as \u2018tool of war\u2019 with hints of more internet curbs",
+      "link": "https://www.aljazeera.com/news/2026/10/14/iran-targets-starlink-as-tool-of-war-with-hints-at-internet-restrictions?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Wed, 14 Oct 2026 13:17:34 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Iran steps up Hormuz surveillance: Attacks soar, oil flows crash again",
+      "link": "https://www.aljazeera.com/news/2026/10/14/iran-steps-up-hormuz-surveillance-attacks-soar-oil-flows-crash-again?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Wed, 14 Oct 2026 11:16:21 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "How do Iranians move money abroad to avoid US sanctions?",
+      "link": "https://www.aljazeera.com/news/2026/10/14/how-do-iranians-move-money-abroad-to-avoid-us-sanctions?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Wed, 14 Oct 2026 08:24:02 +0000"
+    },
     {
       "source": "BBC",
       "title": "<![CDATA[Three reasons Middle East oil supply is nearly back to pre-Iran war levels]]>",
@@ -22,13 +43,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cgjql614glvo?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Fri, 04 Sep 2026 09:14:57 GMT"
-    },
-    {
-      "source": "NPR",
-      "title": "Many Iranians who go to Turkey to find jobs are exploited",
-      "link": "https://www.npr.org/2026/10/12/nx-s1-5979836/many-iranians-who-go-to-turkey-to-find-jobs-are-exploited",
-      "desc": "Desperate Iranians are finding work in Turkey to make ends meet, but many are being exploited and left with  nothing but more debt.",
-      "pubDate": "Mon, 12 Oct 2026 17:37:21 -0400"
     }
   ]
 }
