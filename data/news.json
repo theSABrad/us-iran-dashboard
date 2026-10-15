@@ -1,7 +1,21 @@
 {
-  "lastUpdated": "2026-10-14T23:31:14.738747Z",
-  "count": 3,
+  "lastUpdated": "2026-10-15T02:13:43.813393Z",
+  "count": 5,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Iran war live: Tehran vows to fight until US yields as ships sink in Hormuz",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/10/15/iran-war-live-tehran-vows-to-fight-until-us-yields-as-ships-sink-in-hormuz?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Thu, 15 Oct 2026 00:00:00 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "US destroys dhow suspected of Iranian command and control",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/14/us-destroys-dhow-suspected-of-iranian-command-and-control?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Wed, 14 Oct 2026 23:58:13 +0000"
+    },
     {
       "source": "BBC",
       "title": "<![CDATA[Three reasons Middle East oil supply is nearly back to pre-Iran war levels]]>",
