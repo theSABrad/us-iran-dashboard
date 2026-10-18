@@ -1,20 +1,20 @@
 {
-  "lastUpdated": "2026-10-18T07:30:10.411290Z",
-  "count": 5,
+  "lastUpdated": "2026-10-18T12:51:05.121345Z",
+  "count": 6,
   "articles": [
     {
       "source": "Al Jazeera",
-      "title": "Iran says two tankers catch fire after hitting mines in Strait of Hormuz",
-      "link": "https://www.aljazeera.com/news/2026/10/18/iran-says-two-tankers-catch-fire-after-hitting-mines-in-strait-of-hormuz?traffic_source=rss",
+      "title": "Who is Mehrdad Akhlaghi, Iran\u2019s new tech-focused defence minister?",
+      "link": "https://www.aljazeera.com/news/2026/10/18/who-is-mehrdad-akhlagh-irans-new-tech-focused-defence-minister?traffic_source=rss",
       "desc": "",
-      "pubDate": "Sun, 18 Oct 2026 01:54:18 +0000"
+      "pubDate": "Sun, 18 Oct 2026 12:00:04 +0000"
     },
     {
       "source": "Al Jazeera",
-      "title": "Iran war live: Ships attacked off UAE, Yemen; drones downed near Riyadh",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/10/18/iran-war-live-tankers-hit-in-hormuz-israeli-settlers-attack-eu-diplomats?traffic_source=rss",
+      "title": "Why Iran-US negotiations keep failing",
+      "link": "https://www.aljazeera.com/opinions/2026/10/18/why-iran-us-negotiations-keep-failing?traffic_source=rss",
       "desc": "",
-      "pubDate": "Sun, 18 Oct 2026 00:00:11 +0000"
+      "pubDate": "Sun, 18 Oct 2026 07:32:59 +0000"
     },
     {
       "source": "BBC",
@@ -36,6 +36,13 @@
       "link": "https://www.bbc.co.uk/news/articles/cgjql614glvo?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Fri, 04 Sep 2026 09:14:57 GMT"
+    },
+    {
+      "source": "The Hill",
+      "title": "Vance says in 'some ways' US has 'decisively won' Iran war",
+      "link": "https://thehill.com/homenews/administration/6156378-vance-claims-us-won-iran-war/",
+      "desc": "",
+      "pubDate": "Sun, 18 Oct 2026 12:10:31 +0000"
     }
   ]
 }
