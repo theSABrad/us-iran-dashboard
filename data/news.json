@@ -1,7 +1,21 @@
 {
-  "lastUpdated": "2026-10-22T08:04:02.702721Z",
-  "count": 4,
+  "lastUpdated": "2026-10-22T14:11:44.599511Z",
+  "count": 6,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Iran reveals \u2018offensive\u2019 doctrine, US issues alert: Is war imminent?",
+      "link": "https://www.aljazeera.com/news/2026/10/22/iran-reveals-offensive-doctrine-us-issues-alert-is-war-imminent?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Thu, 22 Oct 2026 12:12:32 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Can Russia broker a new US-Iran deal?",
+      "link": "https://www.aljazeera.com/opinions/2026/10/22/can-russia-broker-a-new-us-iran-deal?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Thu, 22 Oct 2026 08:00:48 +0000"
+    },
     {
       "source": "BBC",
       "title": "<![CDATA[Three reasons Middle East oil supply is nearly back to pre-Iran war levels]]>",
@@ -10,25 +24,25 @@
       "pubDate": "Fri, 02 Oct 2026 15:29:28 GMT"
     },
     {
-      "source": "BBC",
-      "title": "<![CDATA[Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war]]>",
-      "link": "https://www.bbc.co.uk/news/articles/c3v4zgzr1kxo?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Fri, 11 Sep 2026 19:44:58 GMT"
+      "source": "NPR",
+      "title": "U.S., Israel may attack Iran post-elections. And, SpaceX and Tesla consider merging",
+      "link": "https://www.npr.org/2026/10/22/g-s1-149315/up-first-newsletter-midterm-campaign-israel-iran-elon-musk-spacex-tesla",
+      "desc": "The U.S. and Israel are planning for a possible post-elections attack on Iran, an anonymous source tells NPR. And, Elon Musk considers merging his companies SpaceX and Tesla.",
+      "pubDate": "Thu, 22 Oct 2026 07:28:24 -0400"
     },
     {
-      "source": "BBC",
-      "title": "<![CDATA[How could US-Iran conflict end? Three experts give their views]]>",
-      "link": "https://www.bbc.co.uk/news/articles/cgjql614glvo?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Fri, 04 Sep 2026 09:14:57 GMT"
+      "source": "NPR",
+      "title": "U.S. and Israel are planning for a possible attack on Iran, source tells NPR",
+      "link": "https://www.npr.org/2026/10/22/nx-s1-6011514/us-israel-iran-war",
+      "desc": "The U.S. and Israel are preparing plans for a possible attack on Iran in early November, after the U.S. midterm elections, a person briefed on war planning told NPR. Iran said it is prepared.",
+      "pubDate": "Thu, 22 Oct 2026 04:56:58 -0400"
     },
     {
       "source": "The Hill",
-      "title": "Greene says El-Sayed could win Senate seat if Trump attacks Iran again",
-      "link": "https://thehill.com/homenews/campaign/6164392-greene-warns-trump-iran-strikes/",
+      "title": "Russia and Iran are making copycats of China's Great Firewall",
+      "link": "https://thehill.com/opinion/technology/6162153-iran-russia-internet-blackout/",
       "desc": "",
-      "pubDate": "Thu, 22 Oct 2026 00:01:41 +0000"
+      "pubDate": "Thu, 22 Oct 2026 12:30:00 +0000"
     }
   ]
 }
