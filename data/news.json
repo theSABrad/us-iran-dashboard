@@ -1,13 +1,13 @@
 {
-  "lastUpdated": "2026-10-21T23:46:40.313414Z",
-  "count": 4,
+  "lastUpdated": "2026-10-22T02:18:53.514568Z",
+  "count": 5,
   "articles": [
     {
       "source": "Al Jazeera",
-      "title": "Iran determined to keep uranium amid increased war odds, flurry of meetings",
-      "link": "https://www.aljazeera.com/news/2026/10/21/iran-determined-to-keep-uranium-amid-increased-war-odds-flurry-of-meetings?traffic_source=rss",
+      "title": "Iran war live: IRGC vows invasion as defence doctrine turns \u2018offensive\u2019",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/10/22/iran-war-live-irgc-vows-invasion-as-defence-doctrine-turns-offensive?traffic_source=rss",
       "desc": "",
-      "pubDate": "Wed, 21 Oct 2026 18:58:29 +0000"
+      "pubDate": "Thu, 22 Oct 2026 00:00:00 +0000"
     },
     {
       "source": "BBC",
@@ -29,6 +29,13 @@
       "link": "https://www.bbc.co.uk/news/articles/cgjql614glvo?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Fri, 04 Sep 2026 09:14:57 GMT"
+    },
+    {
+      "source": "The Hill",
+      "title": "Greene says El-Sayed could win Senate seat if Trump attacks Iran again",
+      "link": "https://thehill.com/homenews/campaign/6164392-greene-warns-trump-iran-strikes/",
+      "desc": "",
+      "pubDate": "Thu, 22 Oct 2026 00:01:41 +0000"
     }
   ]
 }
