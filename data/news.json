@@ -1,10 +1,10 @@
 {
-  "lastUpdated": "2026-10-25T02:09:15.538217Z",
+  "lastUpdated": "2026-10-25T07:53:29.715385Z",
   "count": 7,
   "articles": [
     {
       "source": "Al Jazeera",
-      "title": "Iran war live: Trump hints at possible Sunday Iran attack or deal reached",
+      "title": "Iran war live: Saudi downs Houthi ballistic missile targeting Riyadh",
       "link": "https://www.aljazeera.com/news/liveblog/2026/10/25/iran-war-live-trump-hints-at-possible-sunday-iran-attack-or-deal-reached?traffic_source=rss",
       "desc": "",
       "pubDate": "Sun, 25 Oct 2026 00:00:00 +0000"
@@ -25,6 +25,13 @@
     },
     {
       "source": "NPR",
+      "title": "Soldiers guard center of Milan as thousands of protesters march in cities across Europe",
+      "link": "https://www.npr.org/2026/10/25/nx-s1-6016126/thousands-of-protesters-across-europe",
+      "desc": "While protests in France have claimed most international attention, large demonstrations also rocked many European cities Saturday from Milan to Rome to Madrid, Lisbon and Tirana.",
+      "pubDate": "Sun, 25 Oct 2026 03:15:00 -0400"
+    },
+    {
+      "source": "NPR",
       "title": "Drinking water supplies dwindle in Yemeni city besieged by Houthi rebels",
       "link": "https://www.npr.org/2026/10/24/g-s1-149729/drinking-water-supplies-dwindle-in-yemeni-city-besieged-by-houthi-rebels",
       "desc": "Taiz, a city in southwestern Yemen, faces a severe water crisis as Houthi rebels backed by Iran tighten their encirclement. The city has struggled with water issues for over a decade, but the situatio",
@@ -36,13 +43,6 @@
       "link": "https://www.npr.org/2026/10/23/g-s1-149514/up-first-newsletter-iran-war-midterm-voting-trump-bbc",
       "desc": "Military reinforcements are heading to the Middle East and some personnel have left the region, pointing to a potential attack on Iran. And, millions of Americans have already voted in the midterms.",
       "pubDate": "Fri, 23 Oct 2026 07:22:25 -0400"
-    },
-    {
-      "source": "NPR",
-      "title": "Retired general discusses the U.S. and Israeli plan for possible attack on Iran",
-      "link": "https://www.npr.org/2026/10/23/nx-s1-6012303/retired-general-discusses-the-u-s-and-israeli-plan-for-possible-attack-on-iran",
-      "desc": "NPR'S Leila Fadel speaks with retired four-star Gen. Joseph Votel about the war in Iran and the U.S. and Israeli objectives for a potential post-election bombing campaign.",
-      "pubDate": "Fri, 23 Oct 2026 06:36:15 -0400"
     },
     {
       "source": "The Hill",
