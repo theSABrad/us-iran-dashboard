@@ -1,20 +1,34 @@
 {
-  "lastUpdated": "2026-10-25T07:53:29.715385Z",
+  "lastUpdated": "2026-10-25T13:25:43.512218Z",
   "count": 7,
   "articles": [
     {
       "source": "Al Jazeera",
-      "title": "Iran war live: Saudi downs Houthi ballistic missile targeting Riyadh",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/10/25/iran-war-live-trump-hints-at-possible-sunday-iran-attack-or-deal-reached?traffic_source=rss",
+      "title": "CENTCOM reportedly has plans for Iran strikes: Will Trump approve them?",
+      "link": "https://www.aljazeera.com/news/2026/10/25/centcom-reportedly-has-plans-for-iran-strikes-will-trump-approve-them?traffic_source=rss",
       "desc": "",
-      "pubDate": "Sun, 25 Oct 2026 00:00:00 +0000"
+      "pubDate": "Sun, 25 Oct 2026 11:39:41 +0000"
     },
     {
       "source": "Al Jazeera",
-      "title": "Iran blames US for deal failure, urges new try amid fear of new attacks",
-      "link": "https://www.aljazeera.com/news/2026/10/24/iran-blames-us-for-deal-failure-urges-new-try-amid-fear-of-new-attacks?traffic_source=rss",
+      "title": "Iran\u2019s authorities take \u2018self-sacrifice\u2019 mobilisation campaign nationwide",
+      "link": "https://www.aljazeera.com/news/2026/10/25/irans-authorities-take-self-sacrifice-mobilisation-campaign-nationwide?traffic_source=rss",
       "desc": "",
-      "pubDate": "Sat, 24 Oct 2026 21:30:11 +0000"
+      "pubDate": "Sun, 25 Oct 2026 10:50:38 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Trump mocks reporter asking about Iran strikes, as Tehran says US derailed",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/25/trump-mocks-reporter-asking-about-iran-strikes-as-tehran-says-us-derailed?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sun, 25 Oct 2026 10:14:43 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Obama\u2019s Ohio, Michigan speeches: Key takeaways on Trump, Iran war, midterms",
+      "link": "https://www.aljazeera.com/news/2026/10/25/obamas-ohio-michigan-speeches-key-takeaways-on-trump-iran-war-midterms?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sun, 25 Oct 2026 08:44:17 +0000"
     },
     {
       "source": "BBC",
@@ -36,20 +50,6 @@
       "link": "https://www.npr.org/2026/10/24/g-s1-149729/drinking-water-supplies-dwindle-in-yemeni-city-besieged-by-houthi-rebels",
       "desc": "Taiz, a city in southwestern Yemen, faces a severe water crisis as Houthi rebels backed by Iran tighten their encirclement. The city has struggled with water issues for over a decade, but the situatio",
       "pubDate": "Sat, 24 Oct 2026 03:04:13 -0400"
-    },
-    {
-      "source": "NPR",
-      "title": "Military reinforcements move to Mideast. And, millions of Americans vote early",
-      "link": "https://www.npr.org/2026/10/23/g-s1-149514/up-first-newsletter-iran-war-midterm-voting-trump-bbc",
-      "desc": "Military reinforcements are heading to the Middle East and some personnel have left the region, pointing to a potential attack on Iran. And, millions of Americans have already voted in the midterms.",
-      "pubDate": "Fri, 23 Oct 2026 07:22:25 -0400"
-    },
-    {
-      "source": "The Hill",
-      "title": "Pentagon drafts Iran attack plans as Tehran threatens aggressive retaliation",
-      "link": "https://thehill.com/policy/defense/6169634-us-military-iran-strikes-infrastructure/",
-      "desc": "",
-      "pubDate": "Sat, 24 Oct 2026 21:00:00 +0000"
     }
   ]
 }
