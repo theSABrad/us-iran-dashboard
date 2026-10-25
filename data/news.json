@@ -1,14 +1,7 @@
 {
-  "lastUpdated": "2026-10-25T20:17:06.667657Z",
-  "count": 4,
+  "lastUpdated": "2026-10-25T22:54:03.631680Z",
+  "count": 2,
   "articles": [
-    {
-      "source": "Al Jazeera",
-      "title": "How is the US-Israeli war on Iran causing havoc in Europe?",
-      "link": "https://www.aljazeera.com/news/2026/10/25/how-is-the-us-israeli-war-on-iran-causing-havoc-in-europe?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Sun, 25 Oct 2026 14:47:55 +0000"
-    },
     {
       "source": "BBC",
       "title": "<![CDATA[Iran trying harder to target US personnel in Middle East, intelligence chief warns]]>",
@@ -22,13 +15,6 @@
       "link": "https://www.npr.org/2026/10/25/nx-s1-6016126/thousands-of-protesters-across-europe",
       "desc": "While protests in France have claimed most international attention, large demonstrations also rocked many European cities Saturday from Milan to Rome to Madrid, Lisbon and Tirana.",
       "pubDate": "Sun, 25 Oct 2026 03:15:00 -0400"
-    },
-    {
-      "source": "NPR",
-      "title": "Drinking water supplies dwindle in Yemeni city besieged by Houthi rebels",
-      "link": "https://www.npr.org/2026/10/24/g-s1-149729/drinking-water-supplies-dwindle-in-yemeni-city-besieged-by-houthi-rebels",
-      "desc": "Taiz, a city in southwestern Yemen, faces a severe water crisis as Houthi rebels backed by Iran tighten their encirclement. The city has struggled with water issues for over a decade, but the situatio",
-      "pubDate": "Sat, 24 Oct 2026 03:04:13 -0400"
     }
   ]
 }
