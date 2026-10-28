@@ -1,7 +1,21 @@
 {
-  "lastUpdated": "2026-10-28T09:06:07.611487Z",
-  "count": 3,
+  "lastUpdated": "2026-10-28T17:34:23.293992Z",
+  "count": 4,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Are GCC countries looking for a regional security pact with Iran?",
+      "link": "https://www.aljazeera.com/news/2026/10/28/are-gcc-countries-looking-for-a-regional-security-pact-with-iran?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Wed, 28 Oct 2026 14:51:14 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Espionage threats blur lines between security and dissent in Iran",
+      "link": "https://www.aljazeera.com/news/2026/10/28/iran-faces-espionage-attempts-but-using-threat-for-crackdown-on-opponents?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Wed, 28 Oct 2026 14:03:08 +0000"
+    },
     {
       "source": "BBC",
       "title": "<![CDATA[Forty Iranian sailors stranded off Sri Lanka coast rescued ]]>",
@@ -15,13 +29,6 @@
       "link": "https://www.bbc.co.uk/news/articles/cmn8w1ddg2x9o?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Sat, 24 Oct 2026 07:36:02 GMT"
-    },
-    {
-      "source": "The Hill",
-      "title": "Iran war cost increases to $47 billion",
-      "link": "https://thehill.com/policy/defense/6176624-us-iran-war-costs-rise/",
-      "desc": "",
-      "pubDate": "Tue, 27 Oct 2026 23:32:42 +0000"
     }
   ]
 }
