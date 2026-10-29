@@ -1,14 +1,7 @@
 {
-  "lastUpdated": "2026-10-29T11:55:14.110175Z",
+  "lastUpdated": "2026-10-29T17:44:36.375176Z",
   "count": 3,
   "articles": [
-    {
-      "source": "Al Jazeera",
-      "title": "Pentagon says Iran war has cost US taxpayers $47bn: What that means",
-      "link": "https://www.aljazeera.com/news/2026/10/29/pentagon-says-iran-war-has-cost-us-taxpayers-47bn-what-that-means?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Thu, 29 Oct 2026 11:12:43 +0000"
-    },
     {
       "source": "BBC",
       "title": "<![CDATA[Forty Iranian sailors stranded off Sri Lanka coast rescued ]]>",
@@ -22,6 +15,13 @@
       "link": "https://www.bbc.co.uk/news/articles/cmn8w1ddg2x9o?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Sat, 24 Oct 2026 07:36:02 GMT"
+    },
+    {
+      "source": "The Hill",
+      "title": "Rove expecting Trump to resume 'kinetic action' against Iran after midterms",
+      "link": "https://thehill.com/homenews/administration/6181016-rove-trump-iran-strikes/",
+      "desc": "",
+      "pubDate": "Thu, 29 Oct 2026 15:31:46 +0000"
     }
   ]
 }
