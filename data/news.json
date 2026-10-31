@@ -1,7 +1,28 @@
 {
-  "lastUpdated": "2026-10-31T11:22:39.822637Z",
-  "count": 2,
+  "lastUpdated": "2026-10-31T16:28:03.766210Z",
+  "count": 5,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Iran FM says US outreach a \u2018positive step\u2019 as delegation in Qatar for talks",
+      "link": "https://www.aljazeera.com/news/2026/10/31/iran-fm-says-us-outreach-a-positive-step-as-delegation-in-qatar-for-talks?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sat, 31 Oct 2026 14:31:37 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Iran lawmakers call for withdrawal from NPT: Will we have war or peace?",
+      "link": "https://www.aljazeera.com/news/2026/10/31/iran-lawmakers-call-for-withdrawal-from-npt-will-we-have-war-or-peace?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sat, 31 Oct 2026 12:22:45 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Iran warns of unfettered retaliation if attacked as mediators try for peace",
+      "link": "https://www.aljazeera.com/news/2026/10/31/iran-warns-of-unfettered-retaliation-if-attacked-as-mediators-try-for-peace?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sat, 31 Oct 2026 12:13:42 +0000"
+    },
     {
       "source": "NPR",
       "title": "Alaska's Senate race faces claims of spoiler candidate. And, Hegseth ousts Army general",
@@ -11,10 +32,10 @@
     },
     {
       "source": "The Hill",
-      "title": "Trump says Iran war will end 'soon'",
-      "link": "https://thehill.com/newsletters/defense-national-security/6185808-trump-iran-war-ending-soon/",
+      "title": "Iran's Supreme Leader threatens US with response if strikes are launched after midterms",
+      "link": "https://thehill.com/policy/international/6186134-khamenei-warns-iran-strikes/",
       "desc": "",
-      "pubDate": "Sat, 31 Oct 2026 00:21:53 +0000"
+      "pubDate": "Sat, 31 Oct 2026 15:51:26 +0000"
     }
   ]
 }
