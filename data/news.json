@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-10-30T21:45:51.652839Z",
-  "count": 2,
+  "lastUpdated": "2026-10-31T03:06:21.685194Z",
+  "count": 5,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Iran war live: 4 tankers hit in Hormuz; Trump says conflict will end soon",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/10/31/iran-war-live-oil-tankers-hit-in-hormuz-trump-says-conflict-will-end-soon?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sat, 31 Oct 2026 00:00:00 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "Pakistan army \u2018cautiously optimistic\u2019 about US-Iran mediation efforts",
@@ -15,6 +22,20 @@
       "link": "https://www.npr.org/2026/10/30/g-s1-150889/up-first-newsletter-midterm-elections-iran-war-veteran-affairs-loans",
       "desc": "Alaska's governor ordered an investigation into claims that Dems recruited a spoiler candidate to confuse voters. And, Hegseth ousted an Army general as the U.S. prepares for potential attacks on Iran",
       "pubDate": "Fri, 30 Oct 2026 07:20:26 -0400"
+    },
+    {
+      "source": "The Hill",
+      "title": "Trump says Iran war will end 'soon'",
+      "link": "https://thehill.com/newsletters/defense-national-security/6185808-trump-iran-war-ending-soon/",
+      "desc": "",
+      "pubDate": "Sat, 31 Oct 2026 00:21:53 +0000"
+    },
+    {
+      "source": "The Hill",
+      "title": "Treasury Department says Iran's economy cratering, inflation at 90 percent",
+      "link": "https://thehill.com/policy/international/6185517-bessent-iran-operation-economic-outcast-impact/",
+      "desc": "",
+      "pubDate": "Fri, 30 Oct 2026 21:53:20 +0000"
     }
   ]
 }
