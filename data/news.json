@@ -1,13 +1,34 @@
 {
-  "lastUpdated": "2026-11-01T19:15:46.804083Z",
-  "count": 1,
+  "lastUpdated": "2026-11-02T00:00:15.019606Z",
+  "count": 4,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "How will the Iran war shape the outcome of the US midterm vote?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/11/1/how-will-the-iran-war-shape-the-outcome-of-the-u-s-midterm-vote?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sun, 01 Nov 2026 19:00:32 +0000"
+    },
+    {
+      "source": "NPR",
+      "title": "Gulf leaders meet in Qatar in effort to stave off new escalation in U.S and Iran war",
+      "link": "https://www.npr.org/2026/11/01/nx-s1-6023237/gulf-leaders-meet-in-qatar-in-effort-to-stave-off-new-escalation-in-u-s-and-iran-war",
+      "desc": "Qatar has been leading intense mediation efforts over the past 72 hours to prevent a new round of possible U.S. attacks on Iran after Tuesday's midterm elections. The uncertainty has the entire Gulf r",
+      "pubDate": "Sun, 01 Nov 2026 17:19:13 -0500"
+    },
     {
       "source": "NPR",
       "title": "Alaska's Senate race faces claims of spoiler candidate. And, Hegseth ousts Army general",
       "link": "https://www.npr.org/2026/10/30/g-s1-150889/up-first-newsletter-midterm-elections-iran-war-veteran-affairs-loans",
       "desc": "Alaska's governor ordered an investigation into claims that Dems recruited a spoiler candidate to confuse voters. And, Hegseth ousted an Army general as the U.S. prepares for potential attacks on Iran",
       "pubDate": "Fri, 30 Oct 2026 07:20:26 -0400"
+    },
+    {
+      "source": "The Hill",
+      "title": "Khanna says he'd stop funding further US military actions in Iran",
+      "link": "https://thehill.com/homenews/house/6187467-khanna-opposes-iran-war-funding/",
+      "desc": "",
+      "pubDate": "Sun, 01 Nov 2026 22:40:15 +0000"
     }
   ]
 }
