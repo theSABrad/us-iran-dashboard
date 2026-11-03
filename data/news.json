@@ -1,13 +1,27 @@
 {
-  "lastUpdated": "2026-11-03T10:14:51.034395Z",
-  "count": 7,
+  "lastUpdated": "2026-11-03T18:45:36.489794Z",
+  "count": 8,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Iran commander sets out five conditions for regional security",
+      "link": "https://www.aljazeera.com/news/2026/11/3/iran-commander-sets-out-five-conditions-for-regional-security?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Tue, 03 Nov 2026 13:21:57 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Qatar remains hopeful the US and Iran can reach a deal",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/3/qatar-remains-hopeful-the-us-and-iran-can-reach-a-deal?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Tue, 03 Nov 2026 13:05:39 +0000"
+    },
     {
       "source": "BBC",
       "title": "<![CDATA[US strikes Iranian island ahead of midterm elections]]>",
       "link": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss",
       "desc": "",
-      "pubDate": "Tue, 03 Nov 2026 03:39:08 GMT"
+      "pubDate": "Tue, 03 Nov 2026 11:33:33 GMT"
     },
     {
       "source": "BBC",
@@ -18,17 +32,17 @@
     },
     {
       "source": "BBC",
-      "title": "<![CDATA[Two in court over alleged Iran-linked plot at RAF Fairford]]>",
-      "link": "https://www.bbc.co.uk/news/articles/cqly3v5vz4kko?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Tue, 27 Oct 2026 18:32:54 GMT"
-    },
-    {
-      "source": "BBC",
       "title": "<![CDATA['I couldn't be silent': Iranian teen's mother seeking justice after daughter shot dead]]>",
       "link": "https://www.bbc.co.uk/news/videos/cwjdmp25mem9o?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Mon, 02 Nov 2026 06:05:34 GMT"
+    },
+    {
+      "source": "NPR",
+      "title": "Indian navy rescues 20 crew from Iranian fishing boat hijacked off Somalia",
+      "link": "https://www.npr.org/2026/11/03/g-s1-151468/indian-navy-rescues-20-crew-from-iranian-fishing-boat-hijacked-off-somalia",
+      "desc": "he operation involved a warship, a maritime surveillance aircraft and marine commandos. The hijacking followed a resurgence of Somali piracy across the Gulf of Aden and western Indian Ocean.",
+      "pubDate": "Tue, 03 Nov 2026 09:13:58 -0500"
     },
     {
       "source": "NPR",
@@ -43,13 +57,6 @@
       "link": "https://www.npr.org/2026/11/01/nx-s1-6023237/gulf-leaders-meet-in-qatar-in-effort-to-stave-off-new-escalation-in-u-s-and-iran-war",
       "desc": "Qatar has been leading intense mediation efforts over the past 72 hours to prevent a new round of possible U.S. attacks on Iran after Tuesday's midterm elections. The uncertainty has the entire Gulf r",
       "pubDate": "Sun, 01 Nov 2026 17:19:13 -0500"
-    },
-    {
-      "source": "The Hill",
-      "title": "US military strikes Iran\u2019s Qeshm Island day before midterms",
-      "link": "https://thehill.com/policy/defense/6190947-us-strikes-iranian-radar-missiles/",
-      "desc": "",
-      "pubDate": "Tue, 03 Nov 2026 02:16:12 +0000"
     }
   ]
 }
