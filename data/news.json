@@ -1,13 +1,48 @@
 {
-  "lastUpdated": "2026-11-04T10:06:18.693608Z",
-  "count": 7,
+  "lastUpdated": "2026-11-04T19:00:00.685851Z",
+  "count": 13,
   "articles": [
     {
       "source": "Al Jazeera",
-      "title": "Who determines Iran\u2019s fighting and negotiating position amid US threats?",
-      "link": "https://www.aljazeera.com/news/2026/11/4/who-determines-irans-fighting-and-negotiating-position-amid-us-threats?traffic_source=rss",
+      "title": "Presidential hopeful Vance appears to question Iran war after polls debacle",
+      "link": "https://www.aljazeera.com/news/2026/11/4/presidential-hopeful-vance-appears-to-question-iran-war-after-polls-debacle?traffic_source=rss",
       "desc": "",
-      "pubDate": "Wed, 04 Nov 2026 09:16:57 +0000"
+      "pubDate": "Wed, 04 Nov 2026 17:18:50 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Photos: Iran marks US embassy takeover with rallies against US, Israel",
+      "link": "https://www.aljazeera.com/gallery/2026/11/4/photos-iran-marks-us-embassy-takeover-with-rallies-against-america-israel?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Wed, 04 Nov 2026 16:37:49 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "No regrets: Trump says Iran war justified despite polls drubbing",
+      "link": "https://www.aljazeera.com/news/2026/11/4/no-regrets-trump-says-iran-war-justified-despite-polls-drubbing?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Wed, 04 Nov 2026 15:28:00 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Iranian leaders welcome US midterm results, but Trump may still attack",
+      "link": "https://www.aljazeera.com/news/2026/11/4/iranian-leaders-welcome-us-midterms-but-trump-may-still-attack?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Wed, 04 Nov 2026 15:13:00 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Iran\u2019s Khamenei warns Trump loss at polls won\u2019t end US hostility",
+      "link": "https://www.aljazeera.com/news/2026/11/4/iran-hails-us-voters-rejecting-war-while-khamenei-warns-hostility-wont-end?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Wed, 04 Nov 2026 13:26:44 +0000"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[Iran's chief negotiator says Americans voted 'no to war']]>",
+      "link": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Wed, 04 Nov 2026 16:59:15 GMT"
     },
     {
       "source": "BBC",
@@ -45,11 +80,18 @@
       "pubDate": "Mon, 02 Nov 2026 07:19:54 -0500"
     },
     {
-      "source": "NPR",
-      "title": "Gulf region on edge as Qatar leads talks with Iran to stave off new U.S. attacks",
-      "link": "https://www.npr.org/2026/11/01/nx-s1-6023237/gulf-leaders-meet-in-qatar-in-effort-to-stave-off-new-escalation-in-u-s-and-iran-war",
-      "desc": "Qatar has been leading intense mediation efforts over the past 72 hours to prevent a new round of possible U.S. attacks on Iran after Tuesday's midterm elections. The uncertainty has the entire Gulf r",
-      "pubDate": "Sun, 01 Nov 2026 17:19:13 -0500"
+      "source": "The Hill",
+      "title": "Schumer says Republicans favor ending Iran war immediately, cites \u2018power of the purse\u2019",
+      "link": "https://thehill.com/homenews/senate/6198699-schumer-republicans-iran-war-end/",
+      "desc": "",
+      "pubDate": "Wed, 04 Nov 2026 18:32:50 +0000"
+    },
+    {
+      "source": "The Hill",
+      "title": "Live updates: Trump blames Iran war for midterm loss while touting ballroom construction",
+      "link": "https://thehill.com/homenews/campaign/6188142-live-updates-trump-democrats-congress-control/",
+      "desc": "",
+      "pubDate": "Wed, 04 Nov 2026 18:20:36 +0000"
     }
   ]
 }
