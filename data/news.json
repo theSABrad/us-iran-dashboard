@@ -1,7 +1,21 @@
 {
-  "lastUpdated": "2026-11-05T10:00:06.962528Z",
-  "count": 7,
+  "lastUpdated": "2026-11-05T19:11:45.112356Z",
+  "count": 6,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Iran says tankers struck in Hormuz amid fears of new US attack",
+      "link": "https://www.aljazeera.com/news/2026/11/5/iran-says-tankers-struck-in-hormuz-amid-fears-of-new-us-attack?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Thu, 05 Nov 2026 18:47:10 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Can Iran\u2019s new supreme leader make peace from behind the scenes?",
+      "link": "https://www.aljazeera.com/opinions/2026/11/5/can-irans-new-supreme-leader-make-peace-from-behind-the-scenes?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Thu, 05 Nov 2026 14:45:46 +0000"
+    },
     {
       "source": "BBC",
       "title": "<![CDATA[Iran's chief negotiator says Americans voted 'no to war']]>",
@@ -29,27 +43,6 @@
       "link": "https://www.bbc.co.uk/news/videos/cwjdmp25mem9o?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Mon, 02 Nov 2026 06:05:34 GMT"
-    },
-    {
-      "source": "NPR",
-      "title": "Indian navy rescues 20 crew from Iranian fishing boat hijacked off Somalia",
-      "link": "https://www.npr.org/2026/11/03/g-s1-151468/indian-navy-rescues-20-crew-from-iranian-fishing-boat-hijacked-off-somalia",
-      "desc": "he operation involved a warship, a maritime surveillance aircraft and marine commandos. The hijacking followed a resurgence of Somali piracy across the Gulf of Aden and western Indian Ocean.",
-      "pubDate": "Tue, 03 Nov 2026 09:13:58 -0500"
-    },
-    {
-      "source": "The Hill",
-      "title": "Live updates: Trump blames Iran war for midterm loss while touting ballroom construction",
-      "link": "https://thehill.com/homenews/campaign/6188142-live-updates-trump-democrats-congress-control/",
-      "desc": "",
-      "pubDate": "Thu, 05 Nov 2026 00:56:00 +0000"
-    },
-    {
-      "source": "The Hill",
-      "title": "The blame game: Administration points finger at Iran after major GOP midterm loss",
-      "link": "https://thehill.com/newsletters/defense-national-security/6199780-the-blame-game-administration-points-finger-at-iran-after-major-gop-midterm-loss/",
-      "desc": "",
-      "pubDate": "Wed, 04 Nov 2026 23:51:21 +0000"
     }
   ]
 }
