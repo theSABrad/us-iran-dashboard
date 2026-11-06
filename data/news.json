@@ -1,20 +1,20 @@
 {
-  "lastUpdated": "2026-11-05T19:11:45.112356Z",
-  "count": 6,
+  "lastUpdated": "2026-11-06T01:14:06.278912Z",
+  "count": 7,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Iran war live: Trump warns US may have to \u2018destroy\u2019 rest of Iran",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/6/iran-war-live-trump-warns-us-may-have-to-destroy-rest-of-iran?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Fri, 06 Nov 2026 00:00:00 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "Iran says tankers struck in Hormuz amid fears of new US attack",
       "link": "https://www.aljazeera.com/news/2026/11/5/iran-says-tankers-struck-in-hormuz-amid-fears-of-new-us-attack?traffic_source=rss",
       "desc": "",
       "pubDate": "Thu, 05 Nov 2026 18:47:10 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Can Iran\u2019s new supreme leader make peace from behind the scenes?",
-      "link": "https://www.aljazeera.com/opinions/2026/11/5/can-irans-new-supreme-leader-make-peace-from-behind-the-scenes?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Thu, 05 Nov 2026 14:45:46 +0000"
     },
     {
       "source": "BBC",
@@ -43,6 +43,13 @@
       "link": "https://www.bbc.co.uk/news/videos/cwjdmp25mem9o?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Mon, 02 Nov 2026 06:05:34 GMT"
+    },
+    {
+      "source": "The Hill",
+      "title": "Hegseth in \u2018trouble\u2019 as Trump faces music on Iran war, midterms",
+      "link": "https://thehill.com/policy/defense/6202854-hegseth-pentagon-future-uncertain/",
+      "desc": "",
+      "pubDate": "Thu, 05 Nov 2026 23:41:23 +0000"
     }
   ]
 }
