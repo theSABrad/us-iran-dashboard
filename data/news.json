@@ -1,21 +1,7 @@
 {
-  "lastUpdated": "2026-11-07T17:07:06.950336Z",
-  "count": 8,
+  "lastUpdated": "2026-11-07T21:11:16.247661Z",
+  "count": 6,
   "articles": [
-    {
-      "source": "Al Jazeera",
-      "title": "Iran\u2019s IRGC says building underground sites for weapons production, storage",
-      "link": "https://www.aljazeera.com/news/2026/11/7/irans-irgc-says-building-underground-sites-for-weapons-production-storage?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Sat, 07 Nov 2026 15:34:58 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Qeshm island and Hormuz hit, as mediators try to prevent US-Iran escalation",
-      "link": "https://www.aljazeera.com/news/2026/11/7/qeshm-island-and-hormuz-hit-as-mediators-try-to-prevent-us-iran-escalation?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Sat, 07 Nov 2026 12:22:18 +0000"
-    },
     {
       "source": "BBC",
       "title": "<![CDATA[Major construction ongoing near Iran missile bases, satellite images suggest]]>",
@@ -53,10 +39,10 @@
     },
     {
       "source": "The Hill",
-      "title": "US military targets Iranian defense system in latest round of limited strikes",
-      "link": "https://thehill.com/policy/defense/6205977-trump-launches-iran-limited-strikes/",
+      "title": "President Trump: Forget the midterms and finish the job in Iran",
+      "link": "https://thehill.com/opinion/international/6204551-trump-finish-iran-job/",
       "desc": "",
-      "pubDate": "Sat, 07 Nov 2026 14:04:44 +0000"
+      "pubDate": "Sat, 07 Nov 2026 18:00:00 +0000"
     }
   ]
 }
