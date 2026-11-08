@@ -1,41 +1,13 @@
 {
-  "lastUpdated": "2026-11-08T03:09:19.451945Z",
-  "count": 8,
+  "lastUpdated": "2026-11-08T12:22:50.557801Z",
+  "count": 4,
   "articles": [
     {
-      "source": "Al Jazeera",
-      "title": "US launches task force to disrupt Iran\u2019s land-based supply routes",
-      "link": "https://www.aljazeera.com/news/2026/11/8/us-launches-task-force-to-disrupt-irans-land-based-supply-routes?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Sun, 08 Nov 2026 02:34:04 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Iran war live: US moves to block land supply routes; UAE rescues 22 sailors",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/11/8/iran-war-live-explosions-hit-qeshm-us-moves-to-block-land-supply-routes?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Sun, 08 Nov 2026 00:00:56 +0000"
-    },
-    {
       "source": "BBC",
-      "title": "<![CDATA[Major construction ongoing near Iran missile bases, satellite images suggest]]>",
-      "link": "https://www.bbc.co.uk/news/articles/ckjrwx1r2d5ro?at_medium=RSS&at_campaign=rss",
+      "title": "<![CDATA[US offers $20m reward for information about Iran's nuclear programme]]>",
+      "link": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
       "desc": "",
-      "pubDate": "Fri, 06 Nov 2026 07:33:41 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[Iran's chief negotiator says Americans voted 'no to war']]>",
-      "link": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Wed, 04 Nov 2026 16:59:15 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[US strikes Iranian island ahead of midterm elections]]>",
-      "link": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Tue, 03 Nov 2026 11:33:33 GMT"
+      "pubDate": "Sat, 07 Nov 2026 18:14:38 GMT"
     },
     {
       "source": "BBC",
@@ -46,17 +18,17 @@
     },
     {
       "source": "BBC",
+      "title": "<![CDATA[Major construction ongoing near Iran missile bases, satellite images suggest]]>",
+      "link": "https://www.bbc.co.uk/news/articles/ckjrwx1r2d5ro?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Fri, 06 Nov 2026 07:33:41 GMT"
+    },
+    {
+      "source": "BBC",
       "title": "<![CDATA['I couldn't be silent': Iranian teen's mother seeking justice after daughter shot dead]]>",
       "link": "https://www.bbc.co.uk/news/videos/cwjdmp25mem9o?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Mon, 02 Nov 2026 06:05:34 GMT"
-    },
-    {
-      "source": "The Hill",
-      "title": "President Trump: Forget the midterms and finish the job in Iran",
-      "link": "https://thehill.com/opinion/international/6204551-trump-finish-iran-job/",
-      "desc": "",
-      "pubDate": "Sat, 07 Nov 2026 18:00:00 +0000"
     }
   ]
 }
