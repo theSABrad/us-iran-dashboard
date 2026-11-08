@@ -1,7 +1,21 @@
 {
-  "lastUpdated": "2026-11-07T21:11:16.247661Z",
-  "count": 6,
+  "lastUpdated": "2026-11-08T03:09:19.451945Z",
+  "count": 8,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "US launches task force to disrupt Iran\u2019s land-based supply routes",
+      "link": "https://www.aljazeera.com/news/2026/11/8/us-launches-task-force-to-disrupt-irans-land-based-supply-routes?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sun, 08 Nov 2026 02:34:04 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Iran war live: US moves to block land supply routes; UAE rescues 22 sailors",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/8/iran-war-live-explosions-hit-qeshm-us-moves-to-block-land-supply-routes?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sun, 08 Nov 2026 00:00:56 +0000"
+    },
     {
       "source": "BBC",
       "title": "<![CDATA[Major construction ongoing near Iran missile bases, satellite images suggest]]>",
