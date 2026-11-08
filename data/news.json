@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-11-08T12:22:50.557801Z",
-  "count": 4,
+  "lastUpdated": "2026-11-08T19:13:20.484543Z",
+  "count": 6,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "US task force to cut off Iran\u2019s transport of advanced weapons: What we know",
+      "link": "https://www.aljazeera.com/news/2026/11/8/us-task-force-to-cut-off-irans-transport-of-advanced-weapons-what-we-know?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sun, 08 Nov 2026 14:06:19 +0000"
+    },
     {
       "source": "BBC",
       "title": "<![CDATA[US offers $20m reward for information about Iran's nuclear programme]]>",
@@ -29,6 +36,13 @@
       "link": "https://www.bbc.co.uk/news/videos/cwjdmp25mem9o?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Mon, 02 Nov 2026 06:05:34 GMT"
+    },
+    {
+      "source": "The Hill",
+      "title": "Democrats plot to choke off Iran war \u2014 with some GOP help",
+      "link": "https://thehill.com/policy/defense/6205731-democrats-end-iran-war-spending-fight/",
+      "desc": "",
+      "pubDate": "Sun, 08 Nov 2026 17:00:00 +0000"
     }
   ]
 }
