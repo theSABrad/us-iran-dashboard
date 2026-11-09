@@ -1,27 +1,41 @@
 {
-  "lastUpdated": "2026-11-09T00:14:49.814537Z",
-  "count": 9,
+  "lastUpdated": "2026-11-09T10:33:15.614536Z",
+  "count": 12,
   "articles": [
     {
       "source": "Al Jazeera",
-      "title": "Iran war live: Trump says land blockade in effect; drone cuts power in Iraq",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/11/9/iran-war-live-trump-says-land-blockade-in-effect-drone-cuts-power-in-iraq?traffic_source=rss",
+      "title": "Iran\u2019s authorities harden domestic security controls amid US strike threats",
+      "link": "https://www.aljazeera.com/news/2026/11/9/irans-authorities-harden-domestic-security-controls-amid-us-strike-threats?traffic_source=rss",
       "desc": "",
-      "pubDate": "Mon, 09 Nov 2026 00:00:34 +0000"
+      "pubDate": "Mon, 09 Nov 2026 09:56:13 +0000"
     },
     {
       "source": "Al Jazeera",
-      "title": "Iran waiting to resume talks after US midterms \u2018shock\u2019",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/iran-waiting-to-resume-talks-after-us-midterms-shockiranian-foreign-minis?traffic_source=rss",
+      "title": "Qatar PM to meet Trump: What\u2019s the latest on US-Iran negotiations?",
+      "link": "https://www.aljazeera.com/news/2026/11/9/qatar-pm-to-meet-trump-whats-the-latest-on-us-iran-negotiations?traffic_source=rss",
       "desc": "",
-      "pubDate": "Sun, 08 Nov 2026 20:51:22 +0000"
+      "pubDate": "Mon, 09 Nov 2026 09:27:35 +0000"
     },
     {
       "source": "Al Jazeera",
-      "title": "Iran threatens to \u2018rain down hell\u2019 if US escalates war",
-      "link": "https://www.aljazeera.com/news/2026/11/8/iran-threatens-to-rain-down-hell-if-us-escalates-war?traffic_source=rss",
+      "title": "Who are the seafarers caught in the US-Israeli war on Iran?",
+      "link": "https://www.aljazeera.com/news/2026/11/9/who-are-the-seafarers-caught-in-the-us-israeli-war-on-iran?traffic_source=rss",
       "desc": "",
-      "pubDate": "Sun, 08 Nov 2026 20:13:39 +0000"
+      "pubDate": "Mon, 09 Nov 2026 07:07:26 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Rubio says war on Iran unpopular but \u2018necessary\u2019 to stop nuclear threat",
+      "link": "https://www.aljazeera.com/news/2026/11/9/rubio-says-war-on-iran-unpopular-but-necessary-to-stop-nuclear-threat?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Mon, 09 Nov 2026 04:02:18 +0000"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[Iran executes three men for 'armed unrest' after January protests]]>",
+      "link": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Sun, 08 Nov 2026 13:37:50 GMT"
     },
     {
       "source": "BBC",
@@ -46,6 +60,13 @@
     },
     {
       "source": "BBC",
+      "title": "<![CDATA[Could Democrats in Congress end the war in Iran?]]>",
+      "link": "https://www.bbc.co.uk/news/videos/cqg7xkv1rze1o?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Wed, 04 Nov 2026 22:14:41 GMT"
+    },
+    {
+      "source": "BBC",
       "title": "<![CDATA['I couldn't be silent': Iranian teen's mother seeking justice after daughter shot dead]]>",
       "link": "https://www.bbc.co.uk/news/videos/cwjdmp25mem9o?at_medium=RSS&at_campaign=rss",
       "desc": "",
@@ -53,7 +74,7 @@
     },
     {
       "source": "The Hill",
-      "title": "Iran gives US two-day diplomacy ultimatum",
+      "title": "Iran gives US 2-day diplomacy ultimatum",
       "link": "https://thehill.com/policy/international/6206904-iran-gives-us-two-day-diplomacy-ultimatum/",
       "desc": "",
       "pubDate": "Sun, 08 Nov 2026 21:06:28 +0000"
