@@ -1,41 +1,55 @@
 {
-  "lastUpdated": "2026-11-10T05:03:46.126134Z",
+  "lastUpdated": "2026-11-10T13:54:36.263243Z",
   "count": 13,
   "articles": [
     {
       "source": "Al Jazeera",
-      "title": "France blames Iran for October supermarket cyberattack",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/france-blames-iran-for-october-supermarket-cyberattack?traffic_source=rss",
+      "title": "Iran lifts 2,000km limit on its ballistic missiles: What that means",
+      "link": "https://www.aljazeera.com/news/2026/11/10/iran-lifts-2000km-limit-on-its-ballistic-missiles-what-that-means?traffic_source=rss",
       "desc": "",
-      "pubDate": "Tue, 10 Nov 2026 01:01:47 +0000"
+      "pubDate": "Tue, 10 Nov 2026 12:56:41 +0000"
     },
     {
       "source": "Al Jazeera",
-      "title": "Trump signals \u2018positive momentum\u2019 with Iran after meeting Qatari PM",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/10/trump-signals-positive-momentum-with-iran-after-meeting-qatari-pm?traffic_source=rss",
+      "title": "Trump says Israel, Gulf allies must repay Iran war cost: What does it mean?",
+      "link": "https://www.aljazeera.com/news/2026/11/10/trump-says-israel-gulf-allies-must-repay-iran-war-cost-what-does-it-mean?traffic_source=rss",
       "desc": "",
-      "pubDate": "Tue, 10 Nov 2026 01:00:00 +0000"
+      "pubDate": "Tue, 10 Nov 2026 11:52:34 +0000"
     },
     {
       "source": "Al Jazeera",
-      "title": "Iran war live: Iran demands US \u2018surrender\u2019 to its conditions",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/11/9/iran-war-live-trump-says-war-effectively-over-iran-demands-surrender?traffic_source=rss",
+      "title": "Who moves first in Iran-US diplomacy?",
+      "link": "https://www.aljazeera.com/opinions/2026/11/10/who-moves-first-in-iran-us-diplomacy?traffic_source=rss",
       "desc": "",
-      "pubDate": "Mon, 09 Nov 2026 23:55:23 +0000"
+      "pubDate": "Tue, 10 Nov 2026 11:14:16 +0000"
     },
     {
       "source": "Al Jazeera",
-      "title": "After meeting Qatar PM, Trump calls Iran war \u2018effectively over\u2019 militarily",
-      "link": "https://www.aljazeera.com/news/2026/11/9/trump-calls-iran-war-effectively-over-after-talks-with-qatar-pm?traffic_source=rss",
+      "title": "France summons Iran\u2019s ambassador over supermarket fridge \u2018sabotage\u2019",
+      "link": "https://www.aljazeera.com/news/2026/11/10/france-summons-irans-ambassador-over-supermarket-fridge-sabotage?traffic_source=rss",
       "desc": "",
-      "pubDate": "Mon, 09 Nov 2026 22:31:19 +0000"
+      "pubDate": "Tue, 10 Nov 2026 10:51:02 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "US moves aircraft from second UK base over \u2018threat from Iran\u2019",
+      "link": "https://www.aljazeera.com/news/2026/11/10/us-moves-aircraft-from-second-uk-base-over-threat-from-iran?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Tue, 10 Nov 2026 08:08:24 +0000"
     },
     {
       "source": "BBC",
-      "title": "<![CDATA[France accuses Iran of supermarket fridge hacking]]>",
+      "title": "<![CDATA[Trump says more US attacks on Iran 'highly unlikely']]>",
+      "link": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Tue, 10 Nov 2026 09:40:31 GMT"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[Iran rejects French claims it was behind supermarket fridge hacking]]>",
       "link": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
       "desc": "",
-      "pubDate": "Mon, 09 Nov 2026 20:20:08 GMT"
+      "pubDate": "Tue, 10 Nov 2026 13:45:13 GMT"
     },
     {
       "source": "BBC",
@@ -43,20 +57,6 @@
       "link": "https://www.bbc.co.uk/news/articles/ckly0ex633ydo?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Sun, 08 Nov 2026 13:37:50 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[US offers $20m reward for information about Iran's nuclear programme]]>",
-      "link": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Sat, 07 Nov 2026 18:14:38 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[Major construction ongoing near Iran missile bases, satellite images suggest]]>",
-      "link": "https://www.bbc.co.uk/news/articles/ckjrwx1r2d5ro?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Fri, 06 Nov 2026 07:33:41 GMT"
     },
     {
       "source": "BBC",
@@ -88,10 +88,10 @@
     },
     {
       "source": "The Hill",
-      "title": "Qatari prime minister says Iran discussions with US were 'positive'",
-      "link": "https://thehill.com/policy/international/6209663-us-middle-east-war-midterms/",
+      "title": "Russia? Iran? Who is behind this rash of bomb threats in Europe?",
+      "link": "https://thehill.com/opinion/national-security/6208594-europe-bomb-threats-hybrid-warfare/",
       "desc": "",
-      "pubDate": "Tue, 10 Nov 2026 02:59:34 +0000"
+      "pubDate": "Tue, 10 Nov 2026 12:00:00 +0000"
     }
   ]
 }
