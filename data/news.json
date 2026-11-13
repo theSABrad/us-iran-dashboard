@@ -1,7 +1,28 @@
 {
-  "lastUpdated": "2026-11-12T21:38:24.339272Z",
-  "count": 9,
+  "lastUpdated": "2026-11-13T03:57:23.490107Z",
+  "count": 13,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Iran says it targeted US radar site in Bahrain",
+      "link": "https://www.aljazeera.com/news/2026/11/13/iran-says-it-struck-us-radar-site-in-bahrain?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Fri, 13 Nov 2026 03:17:27 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Albania\u2019s PM says 2027 NATO summit will not be held in Tirana",
+      "link": "https://www.aljazeera.com/news/2026/11/13/albanias-pm-says-2027-nato-summit-will-not-be-held-in-tirana?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Fri, 13 Nov 2026 01:43:17 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Iran war live: Trump says Gulf allies urged pause in Iran strikes",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/13/iran-war-live-riyadh-china-discuss-houthis-as-group-claims-aramco-attacks?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Fri, 13 Nov 2026 00:00:26 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "Iranian men guilty of spying on British journalists",
@@ -64,6 +85,13 @@
       "link": "https://www.bbc.co.uk/news/videos/cwjdmp25mem9o?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Mon, 02 Nov 2026 06:05:34 GMT"
+    },
+    {
+      "source": "The Hill",
+      "title": "Senate Democrats weigh December funding deadline to force an end to Iran war",
+      "link": "https://thehill.com/homenews/senate/6217635-senate-democrats-threaten-shutdown-iran/",
+      "desc": "",
+      "pubDate": "Thu, 12 Nov 2026 23:00:58 +0000"
     }
   ]
 }
