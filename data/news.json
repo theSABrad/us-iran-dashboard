@@ -1,31 +1,24 @@
 {
-  "lastUpdated": "2026-11-13T13:34:50.779574Z",
+  "lastUpdated": "2026-11-13T21:03:27.887735Z",
   "count": 12,
   "articles": [
     {
       "source": "Al Jazeera",
-      "title": "UN watchdog calls on Iran to reopen nuclear facilities to inspection",
-      "link": "https://www.aljazeera.com/news/2026/11/13/un-watchdog-calls-on-iran-to-reopen-nuclear-facilities-to-inspection?traffic_source=rss",
+      "title": "Iran honours fallen soldiers in Iran-Iraq war with missile display",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/iran-honours-fallen-soldiers-in-iran-iraq-war-with-missile-display?traffic_source=rss",
       "desc": "",
-      "pubDate": "Fri, 13 Nov 2026 11:51:57 +0000"
+      "pubDate": "Fri, 13 Nov 2026 18:09:05 +0000"
     },
     {
       "source": "Al Jazeera",
-      "title": "Iran threatens unlimited response over Strait of Hormuz after US attack",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/13-11-reported-resul-serdar-iran-basij?traffic_source=rss",
+      "title": "US Treasury warns against rate hikes during US-Iran war energy \u2018shock\u2019",
+      "link": "https://www.aljazeera.com/economy/2026/11/13/us-treasury-warns-against-rate-hikes-during-us-iran-war-energy-shock?traffic_source=rss",
       "desc": "",
-      "pubDate": "Fri, 13 Nov 2026 10:54:25 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Why is Trump saying \u2018no deal necessary\u2019 with Iran as he sidelines JD Vance?",
-      "link": "https://www.aljazeera.com/features/2026/11/13/why-is-trump-saying-no-deal-necessary-with-iran-as-he-sidelines-jd-vance?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Fri, 13 Nov 2026 10:26:22 +0000"
+      "pubDate": "Fri, 13 Nov 2026 16:22:33 +0000"
     },
     {
       "source": "BBC",
-      "title": "<![CDATA[UN watchdog 'increasingly concerned' over Iran nuclear site]]>",
+      "title": "<![CDATA[UN watchdog 'increasingly concerned' over uninspected Iran nuclear site]]>",
       "link": "https://www.bbc.co.uk/news/articles/cm75261e3pdko?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Fri, 13 Nov 2026 12:28:28 GMT"
@@ -85,6 +78,13 @@
       "link": "https://www.bbc.co.uk/news/videos/cwjdmp25mem9o?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Mon, 02 Nov 2026 06:05:34 GMT"
+    },
+    {
+      "source": "NPR",
+      "title": "What's Trump's strategy now with Iran? To keep things as they are",
+      "link": "https://www.npr.org/2026/11/13/g-s1-153578/whats-trumps-strategy-now-with-iran-to-keep-things-as-they-are",
+      "desc": "Trump says \"status quo\" is what Gulf Arab allies want as Iran war hits stalemate and midterms force pivot from threats of attacks to economic pressure",
+      "pubDate": "Fri, 13 Nov 2026 14:02:04 -0500"
     }
   ]
 }
