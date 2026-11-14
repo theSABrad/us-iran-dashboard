@@ -1,20 +1,13 @@
 {
-  "lastUpdated": "2026-11-14T03:55:53.367578Z",
+  "lastUpdated": "2026-11-14T12:40:02.094850Z",
   "count": 12,
   "articles": [
     {
       "source": "Al Jazeera",
-      "title": "Iran war live: Fighting grips Yemen as Qatar, Turkiye sign defence deal",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/11/14/iran-war-live-fighting-grips-yemen-as-qatar-turkiye-sign-defence-deal?traffic_source=rss",
+      "title": "UN says 25 seafarers killed in, around Hormuz since US-Israel war on Iran",
+      "link": "https://www.aljazeera.com/news/2026/11/14/un-says-25-seafarers-killed-in-around-hormuz-since-february?traffic_source=rss",
       "desc": "",
-      "pubDate": "Sat, 14 Nov 2026 00:00:25 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Iran honours fallen soldiers in Iran-Iraq war with missile display",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/iran-honours-fallen-soldiers-in-iran-iraq-war-with-missile-display?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Fri, 13 Nov 2026 18:09:05 +0000"
+      "pubDate": "Sat, 14 Nov 2026 07:46:36 +0000"
     },
     {
       "source": "BBC",
@@ -85,6 +78,13 @@
       "link": "https://www.npr.org/2026/11/13/g-s1-153578/whats-trumps-strategy-now-with-iran-to-keep-things-as-they-are",
       "desc": "President Trump says the \"status quo\" is what Gulf Arab allies want as the Iran war hits a stalemate and the U.S. midterms force a pivot from threats of attacks to economic pressure.",
       "pubDate": "Fri, 13 Nov 2026 14:02:04 -0500"
+    },
+    {
+      "source": "The Hill",
+      "title": "Trump says the Iran war 'effectively over.\u2019 It\u2019s still costing the US billions",
+      "link": "https://thehill.com/policy/defense/6214685-us-military-costs-iran-conflict/",
+      "desc": "",
+      "pubDate": "Sat, 14 Nov 2026 11:00:00 +0000"
     }
   ]
 }
