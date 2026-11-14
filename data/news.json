@@ -1,20 +1,20 @@
 {
-  "lastUpdated": "2026-11-13T21:03:27.887735Z",
+  "lastUpdated": "2026-11-14T03:55:53.367578Z",
   "count": 12,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Iran war live: Fighting grips Yemen as Qatar, Turkiye sign defence deal",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/14/iran-war-live-fighting-grips-yemen-as-qatar-turkiye-sign-defence-deal?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sat, 14 Nov 2026 00:00:25 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "Iran honours fallen soldiers in Iran-Iraq war with missile display",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/13/iran-honours-fallen-soldiers-in-iran-iraq-war-with-missile-display?traffic_source=rss",
       "desc": "",
       "pubDate": "Fri, 13 Nov 2026 18:09:05 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "US Treasury warns against rate hikes during US-Iran war energy \u2018shock\u2019",
-      "link": "https://www.aljazeera.com/economy/2026/11/13/us-treasury-warns-against-rate-hikes-during-us-iran-war-energy-shock?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Fri, 13 Nov 2026 16:22:33 +0000"
     },
     {
       "source": "BBC",
@@ -83,7 +83,7 @@
       "source": "NPR",
       "title": "What's Trump's strategy now with Iran? To keep things as they are",
       "link": "https://www.npr.org/2026/11/13/g-s1-153578/whats-trumps-strategy-now-with-iran-to-keep-things-as-they-are",
-      "desc": "Trump says \"status quo\" is what Gulf Arab allies want as Iran war hits stalemate and midterms force pivot from threats of attacks to economic pressure",
+      "desc": "President Trump says the \"status quo\" is what Gulf Arab allies want as the Iran war hits a stalemate and the U.S. midterms force a pivot from threats of attacks to economic pressure.",
       "pubDate": "Fri, 13 Nov 2026 14:02:04 -0500"
     }
   ]
