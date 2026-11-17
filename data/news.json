@@ -1,13 +1,27 @@
 {
-  "lastUpdated": "2026-11-17T05:35:46.121855Z",
-  "count": 11,
+  "lastUpdated": "2026-11-17T15:05:23.564132Z",
+  "count": 9,
   "articles": [
     {
       "source": "Al Jazeera",
-      "title": "Iran war live: Houthis advance in Yemen as Vance rejects \u2018forever war\u2019",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/11/16/live-houthis-advance-in-yemen-as-tankers-hit-sea-mines-in-strait-of-hormuz?traffic_source=rss",
+      "title": "Iranians fear more civilian infrastructure could be targeted in new US war",
+      "link": "https://www.aljazeera.com/news/2026/11/17/iranians-fear-more-civilian-infrastructure-could-be-targeted-in-new-us-war?traffic_source=rss",
       "desc": "",
-      "pubDate": "Mon, 16 Nov 2026 23:57:49 +0000"
+      "pubDate": "Tue, 17 Nov 2026 12:50:12 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Is the US-Israel war on Iran turning into a \u2018frozen conflict\u2019?",
+      "link": "https://www.aljazeera.com/news/2026/11/17/is-the-us-israel-war-on-iran-turning-into-a-frozen-conflict?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Tue, 17 Nov 2026 12:33:51 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Vessels on fire after naval mine hit in Hormuz Strait, Iran says",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/17/vessels-on-fire-after-naval-mine-hit-in-hormuz-strait-iran-says?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Tue, 17 Nov 2026 11:19:04 +0000"
     },
     {
       "source": "BBC",
@@ -32,20 +46,6 @@
     },
     {
       "source": "BBC",
-      "title": "<![CDATA[US Treasury Secretary Scott Bessent relocated after alleged Iranian threats]]>",
-      "link": "https://www.bbc.co.uk/news/articles/cqr7gr0010r2o?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Wed, 11 Nov 2026 16:45:11 GMT"
-    },
-    {
-      "source": "BBC",
-      "title": "<![CDATA[Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says]]>",
-      "link": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
-      "desc": "",
-      "pubDate": "Wed, 11 Nov 2026 16:59:34 GMT"
-    },
-    {
-      "source": "BBC",
       "title": "<![CDATA[Iran killed her teenage daughter - now she is facing up to the regime]]>",
       "link": "https://www.bbc.co.uk/news/articles/c3qjn8117kwjo?at_medium=RSS&at_campaign=rss",
       "desc": "",
@@ -64,20 +64,6 @@
       "link": "https://www.bbc.co.uk/news/videos/cwjdmp25mem9o?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Mon, 02 Nov 2026 06:05:34 GMT"
-    },
-    {
-      "source": "NPR",
-      "title": "What's Trump's strategy now with Iran? To keep things as they are",
-      "link": "https://www.npr.org/2026/11/13/g-s1-153578/whats-trumps-strategy-now-with-iran-to-keep-things-as-they-are",
-      "desc": "President Trump says the \"status quo\" is what Gulf Arab allies want as the Iran war hits a stalemate and the U.S. midterms force a pivot from threats of attacks to economic pressure.",
-      "pubDate": "Fri, 13 Nov 2026 14:02:04 -0500"
-    },
-    {
-      "source": "The Hill",
-      "title": "3rd aircraft carrier arrives in Middle East as Trump weighs Iran options",
-      "link": "https://thehill.com/newsletters/defense-national-security/6223863-3rd-aircraft-carrier-arrives-in-middle-east-as-trump-weighs-iran-options/",
-      "desc": "",
-      "pubDate": "Mon, 16 Nov 2026 23:28:57 +0000"
     }
   ]
 }
