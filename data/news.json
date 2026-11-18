@@ -1,27 +1,20 @@
 {
-  "lastUpdated": "2026-11-17T15:05:23.564132Z",
-  "count": 9,
+  "lastUpdated": "2026-11-18T00:08:52.171309Z",
+  "count": 10,
   "articles": [
     {
       "source": "Al Jazeera",
-      "title": "Iranians fear more civilian infrastructure could be targeted in new US war",
-      "link": "https://www.aljazeera.com/news/2026/11/17/iranians-fear-more-civilian-infrastructure-could-be-targeted-in-new-us-war?traffic_source=rss",
+      "title": "Kuwait reports drone attacks as Iran, US trade attacks on Qeshm and Bahrain",
+      "link": "https://www.aljazeera.com/news/2026/11/17/kuwait-reports-drone-attacks-as-iran-us-trade-attacks-on-qeshm-and-bahrain?traffic_source=rss",
       "desc": "",
-      "pubDate": "Tue, 17 Nov 2026 12:50:12 +0000"
+      "pubDate": "Tue, 17 Nov 2026 23:38:38 +0000"
     },
     {
       "source": "Al Jazeera",
-      "title": "Is the US-Israel war on Iran turning into a \u2018frozen conflict\u2019?",
-      "link": "https://www.aljazeera.com/news/2026/11/17/is-the-us-israel-war-on-iran-turning-into-a-frozen-conflict?traffic_source=rss",
+      "title": "US Navy chief says Iran war has put \u2018strain\u2019 on maritime forces",
+      "link": "https://www.aljazeera.com/news/2026/11/17/us-navy-chief-says-iran-war-has-put-strain-on-maritime-forces?traffic_source=rss",
       "desc": "",
-      "pubDate": "Tue, 17 Nov 2026 12:33:51 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Vessels on fire after naval mine hit in Hormuz Strait, Iran says",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/17/vessels-on-fire-after-naval-mine-hit-in-hormuz-strait-iran-says?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Tue, 17 Nov 2026 11:19:04 +0000"
+      "pubDate": "Tue, 17 Nov 2026 20:57:56 +0000"
     },
     {
       "source": "BBC",
@@ -64,6 +57,20 @@
       "link": "https://www.bbc.co.uk/news/videos/cwjdmp25mem9o?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Mon, 02 Nov 2026 06:05:34 GMT"
+    },
+    {
+      "source": "NPR",
+      "title": "Iran launches a third round of strikes on Bahrain, host of U.S. Navy's 5th Fleet",
+      "link": "https://www.npr.org/2026/11/17/nx-s1-6044255/us-iran-war-latest-bahrain",
+      "desc": "Iran fired drones on Tuesday at a U.S. radar facility in Bahrain, and the U.S. retaliated by firing at Iranian targets along an important shipping route.",
+      "pubDate": "Tue, 17 Nov 2026 13:34:31 -0500"
+    },
+    {
+      "source": "The Hill",
+      "title": "Hung Cao grilled by Senate over suicide attempts, Iran war: 5 takeaways",
+      "link": "https://thehill.com/policy/defense/6226459-navy-secretary-confirmation-clash/",
+      "desc": "",
+      "pubDate": "Tue, 17 Nov 2026 21:44:13 +0000"
     }
   ]
 }
