@@ -1,27 +1,20 @@
 {
-  "lastUpdated": "2026-11-18T19:42:25.352484Z",
-  "count": 11,
+  "lastUpdated": "2026-11-19T02:06:20.528042Z",
+  "count": 12,
   "articles": [
     {
       "source": "Al Jazeera",
-      "title": "Kuwait, Bahrain face new Iran attacks after US strike on Qeshm Island",
-      "link": "https://www.aljazeera.com/news/2026/11/18/kuwait-bahrain-face-new-iran-attacks-after-us-strike-on-qeshm-island?traffic_source=rss",
+      "title": "Iran war live: Saudi-led coalition strikes Yemen; ships on fire in Hormuz",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/19/iran-war-live-saudi-led-coalition-strikes-yemen-ships-on-fire-in-hormuz?traffic_source=rss",
       "desc": "",
-      "pubDate": "Wed, 18 Nov 2026 16:47:26 +0000"
+      "pubDate": "Thu, 19 Nov 2026 00:01:02 +0000"
     },
     {
       "source": "Al Jazeera",
-      "title": "\u2018Status quo\u2019 between US and Iran could break out into war, analysts warn",
-      "link": "https://www.aljazeera.com/news/2026/11/18/status-quo-between-us-and-iran-could-break-out-into-war-analysts-warn?traffic_source=rss",
+      "title": "US steps up pressure on Iran-backed Hezbollah with new sanctions",
+      "link": "https://www.aljazeera.com/news/2026/11/18/us-steps-up-pressure-on-iran-backed-hezbollah-with-new-sanctions?traffic_source=rss",
       "desc": "",
-      "pubDate": "Wed, 18 Nov 2026 14:36:20 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Can the US and Iran sustain a \u2018frozen war\u2019?",
-      "link": "https://www.aljazeera.com/news/2026/11/18/can-the-us-and-iran-sustain-a-frozen?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Wed, 18 Nov 2026 14:13:51 +0000"
+      "pubDate": "Wed, 18 Nov 2026 22:56:19 +0000"
     },
     {
       "source": "BBC",
@@ -78,6 +71,20 @@
       "link": "https://www.npr.org/2026/11/18/nx-s1-6043167/iraq-environmentalist-marshes-iran-backed-militia-kidnapped",
       "desc": "Iran-backed militias kidnapped and tortured him, but Jassim al-Asadi is still on a mission to save Iraq's marshes, and a way of life stretching back to the dawn of history.",
       "pubDate": "Wed, 18 Nov 2026 05:00:00 -0500"
+    },
+    {
+      "source": "The Hill",
+      "title": "Trump says 'we'll wipe them out' if Iran dirty bombs US",
+      "link": "https://thehill.com/homenews/administration/6229265-trump-says-well-wipe-them-out-if-iran-dirty-bombs-us/",
+      "desc": "",
+      "pubDate": "Thu, 19 Nov 2026 01:59:54 +0000"
+    },
+    {
+      "source": "The Hill",
+      "title": "Iran\u2019s \u2018dirty bomb\u2019 threat underscores risks to US homeland",
+      "link": "https://thehill.com/policy/defense/6229088-iran-dirty-bomb-plot-homeland-threats/",
+      "desc": "",
+      "pubDate": "Thu, 19 Nov 2026 00:04:57 +0000"
     }
   ]
 }
