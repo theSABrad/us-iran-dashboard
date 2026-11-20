@@ -1,14 +1,7 @@
 {
-  "lastUpdated": "2026-11-20T10:41:23.803301Z",
-  "count": 9,
+  "lastUpdated": "2026-11-20T19:22:20.170539Z",
+  "count": 11,
   "articles": [
-    {
-      "source": "Al Jazeera",
-      "title": "US maritime agency warned Iran blockade was adding to rising Gulf premiums",
-      "link": "https://www.aljazeera.com/economy/2026/11/20/us-maritime-agency-warned-iran-blockade-was-adding-to-rising-gulf-premiums?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Fri, 20 Nov 2026 06:03:03 +0000"
-    },
     {
       "source": "BBC",
       "title": "<![CDATA[Kuwait says it repelled first Iranian attack in two months after US strikes island]]>",
@@ -53,6 +46,20 @@
     },
     {
       "source": "NPR",
+      "title": "Dems aim to block Iran war funding. And, Army delays lead azide detonation in Iowa",
+      "link": "https://www.npr.org/2026/11/20/g-s1-154582/up-first-newsletter-democrats-iran-war-trump-xi-jinping-iowa-army",
+      "desc": "Congress needs to pass a funding measure to avoid a shutdown next month, providing Dems an opportunity to leverage power. And, the Army says waiting to detonate lead azide could become dangerous.",
+      "pubDate": "Fri, 20 Nov 2026 07:04:57 -0500"
+    },
+    {
+      "source": "NPR",
+      "title": "GOP Sen. Johnson rejects tying government funding to an end to the Iran war",
+      "link": "https://www.npr.org/2026/11/20/nx-s1-6047473/iran-war-funding-congress",
+      "desc": "\"We're not going to shut down the war,\" Sen. Ron Johnson said as Republicans and Democrats struggle to reach a government funding deal.",
+      "pubDate": "Fri, 20 Nov 2026 06:37:35 -0500"
+    },
+    {
+      "source": "NPR",
       "title": "Iran's attacks on ships in the Strait of Hormuz escalate",
       "link": "https://www.npr.org/2026/11/19/nx-s1-6044206/irans-attacks-on-ships-in-the-strait-of-hormuz-escalate",
       "desc": "Iran takes the offensive with attacks on ships in the Strait of Hormuz and airstrikes on several countries around the Persian Gulf.",
@@ -64,6 +71,13 @@
       "link": "https://www.npr.org/2026/11/18/nx-s1-6040432/trump-xi-and-putin-shenzhen-china-russia-usa",
       "desc": "President Trump, China's Xi Jinping and Russia's Vladimir Putin have gathered in Shenzhen, China, for a historic trilateral meeting, with Ukraine, Iran and nuclear disarmament on the agenda.",
       "pubDate": "Thu, 19 Nov 2026 04:44:40 -0500"
+    },
+    {
+      "source": "The Hill",
+      "title": "Live updates: Trump expresses optimism on dealing with Democrats; Vance deflects on Iran war",
+      "link": "https://thehill.com/homenews/administration/6232240-live-updates-trump-asia-trip-putin-xi-summit-gop-reconciliation-defense-spending/",
+      "desc": "",
+      "pubDate": "Fri, 20 Nov 2026 18:27:04 +0000"
     }
   ]
 }
