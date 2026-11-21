@@ -1,13 +1,27 @@
 {
-  "lastUpdated": "2026-11-21T10:24:36.576468Z",
-  "count": 10,
+  "lastUpdated": "2026-11-21T18:24:38.840728Z",
+  "count": 12,
   "articles": [
     {
       "source": "Al Jazeera",
-      "title": "Iran\u2019s IRGC downs US drone over Hormuz as efforts to end war remain stalled",
-      "link": "https://www.aljazeera.com/news/2026/11/21/irans-irgc-downs-us-drone-over-hormuz-as-efforts-to-end-war-remain-stalled?traffic_source=rss",
+      "title": "Trump says he wants \u2018permanent\u2019 deal to stop Iran getting nuclear weapons",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-clip-trump-iran-permanent-nuclear-deal?traffic_source=rss",
       "desc": "",
-      "pubDate": "Sat, 21 Nov 2026 09:30:24 +0000"
+      "pubDate": "Sat, 21 Nov 2026 18:05:51 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Tankers hit in Strait of Hormuz as Iran tightens grip on shipping",
+      "link": "https://www.aljazeera.com/news/2026/11/21/tankers-hit-in-strait-of-hormuz-as-iran-tightens-grip-on-shipping?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sat, 21 Nov 2026 15:01:18 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Could Iran reverse its stated policy of a civil-only nuclear programme?",
+      "link": "https://www.aljazeera.com/news/2026/11/21/could-iran-reverse-its-stated-policy-of-a-civil-only-nuclear-programme?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sat, 21 Nov 2026 14:15:36 +0000"
     },
     {
       "source": "BBC",
@@ -66,11 +80,11 @@
       "pubDate": "Fri, 20 Nov 2026 06:37:35 -0500"
     },
     {
-      "source": "NPR",
-      "title": "Iran's attacks on ships in the Strait of Hormuz escalate",
-      "link": "https://www.npr.org/2026/11/19/nx-s1-6044206/irans-attacks-on-ships-in-the-strait-of-hormuz-escalate",
-      "desc": "Iran takes the offensive with attacks on ships in the Strait of Hormuz and airstrikes on several countries around the Persian Gulf.",
-      "pubDate": "Thu, 19 Nov 2026 04:46:24 -0500"
+      "source": "The Hill",
+      "title": "Why is Mike \u2018Finish the Job in Iran\u2019 Pence attacking \u2018America First\u2019 JP Vance?",
+      "link": "https://thehill.com/opinion/campaign/6233811-mike-pence-iran-war-comments/",
+      "desc": "",
+      "pubDate": "Sat, 21 Nov 2026 17:00:00 +0000"
     }
   ]
 }
