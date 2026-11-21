@@ -1,13 +1,13 @@
 {
-  "lastUpdated": "2026-11-21T01:51:53.959392Z",
-  "count": 11,
+  "lastUpdated": "2026-11-21T10:24:36.576468Z",
+  "count": 10,
   "articles": [
     {
       "source": "Al Jazeera",
-      "title": "Iran war live: Saudi-led coalition downs Houthi missiles",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-saudi-led-coalition-repels-houthi-missiles?traffic_source=rss",
+      "title": "Iran\u2019s IRGC downs US drone over Hormuz as efforts to end war remain stalled",
+      "link": "https://www.aljazeera.com/news/2026/11/21/irans-irgc-downs-us-drone-over-hormuz-as-efforts-to-end-war-remain-stalled?traffic_source=rss",
       "desc": "",
-      "pubDate": "Sat, 21 Nov 2026 00:00:06 +0000"
+      "pubDate": "Sat, 21 Nov 2026 09:30:24 +0000"
     },
     {
       "source": "BBC",
@@ -71,13 +71,6 @@
       "link": "https://www.npr.org/2026/11/19/nx-s1-6044206/irans-attacks-on-ships-in-the-strait-of-hormuz-escalate",
       "desc": "Iran takes the offensive with attacks on ships in the Strait of Hormuz and airstrikes on several countries around the Persian Gulf.",
       "pubDate": "Thu, 19 Nov 2026 04:46:24 -0500"
-    },
-    {
-      "source": "NPR",
-      "title": "Trump, Xi and Putin meet as global alliances hang in the balance",
-      "link": "https://www.npr.org/2026/11/18/nx-s1-6040432/trump-xi-and-putin-shenzhen-china-russia-usa",
-      "desc": "President Trump, China's Xi Jinping and Russia's Vladimir Putin have gathered in Shenzhen, China, for a historic trilateral meeting, with Ukraine, Iran and nuclear disarmament on the agenda.",
-      "pubDate": "Thu, 19 Nov 2026 04:44:40 -0500"
     }
   ]
 }
