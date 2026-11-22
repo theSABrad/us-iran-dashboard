@@ -1,27 +1,55 @@
 {
-  "lastUpdated": "2026-11-21T18:24:38.840728Z",
-  "count": 12,
+  "lastUpdated": "2026-11-22T00:45:47.443314Z",
+  "count": 14,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Iran war live: Iran targets US bases in Bahrain; Houthi strikes continue",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-iran-targets-us-military-in-bahrain-houthi-strikes-continue?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sat, 21 Nov 2026 23:59:03 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Lebanese president demands Israel withdrawal, decries Iran\u2019s interference",
+      "link": "https://www.aljazeera.com/news/2026/11/21/lebanese-president-demands-israel-withdrawal-decries-irans-interference?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sat, 21 Nov 2026 23:44:00 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Iran faces a \u2018silent economic war\u2019, says Iranian president",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/iran-faces-a-silent-economic-war-says-iranian-president?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sat, 21 Nov 2026 23:18:14 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Bahrain says Iranian attack hits industrial facility",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/bahrain-says-iranian-attack-hits-industrial-facility?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sat, 21 Nov 2026 22:02:03 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Bahrain says Iranian attack causes fire at industrial facility",
+      "link": "https://www.aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sat, 21 Nov 2026 21:31:03 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Iran says held talks with Qatari mediators, urges US to accept conditions",
+      "link": "https://www.aljazeera.com/news/2026/11/21/iran-says-held-talks-with-qatari-mediators-urges-us-to-accept-conditions?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sat, 21 Nov 2026 20:56:35 +0000"
+    },
     {
       "source": "Al Jazeera",
       "title": "Trump says he wants \u2018permanent\u2019 deal to stop Iran getting nuclear weapons",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-clip-trump-iran-permanent-nuclear-deal?traffic_source=rss",
       "desc": "",
       "pubDate": "Sat, 21 Nov 2026 18:05:51 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Tankers hit in Strait of Hormuz as Iran tightens grip on shipping",
-      "link": "https://www.aljazeera.com/news/2026/11/21/tankers-hit-in-strait-of-hormuz-as-iran-tightens-grip-on-shipping?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Sat, 21 Nov 2026 15:01:18 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Could Iran reverse its stated policy of a civil-only nuclear programme?",
-      "link": "https://www.aljazeera.com/news/2026/11/21/could-iran-reverse-its-stated-policy-of-a-civil-only-nuclear-programme?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Sat, 21 Nov 2026 14:15:36 +0000"
     },
     {
       "source": "BBC",
@@ -64,20 +92,6 @@
       "link": "https://www.bbc.co.uk/news/videos/cwjdmp25mem9o?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Mon, 02 Nov 2026 06:05:34 GMT"
-    },
-    {
-      "source": "NPR",
-      "title": "Dems aim to block Iran war funding. And, Army delays lead azide detonation in Iowa",
-      "link": "https://www.npr.org/2026/11/20/g-s1-154582/up-first-newsletter-democrats-iran-war-trump-xi-jinping-iowa-army",
-      "desc": "Congress needs to pass a funding measure to avoid a shutdown next month, providing Dems an opportunity to leverage power. And, the Army says waiting to detonate lead azide could become dangerous.",
-      "pubDate": "Fri, 20 Nov 2026 07:04:57 -0500"
-    },
-    {
-      "source": "NPR",
-      "title": "GOP Sen. Johnson rejects tying government funding to an end to the Iran war",
-      "link": "https://www.npr.org/2026/11/20/nx-s1-6047473/iran-war-funding-congress",
-      "desc": "\"We're not going to shut down the war,\" Sen. Ron Johnson said as Republicans and Democrats struggle to reach a government funding deal.",
-      "pubDate": "Fri, 20 Nov 2026 06:37:35 -0500"
     },
     {
       "source": "The Hill",
