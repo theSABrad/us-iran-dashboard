@@ -1,55 +1,27 @@
 {
-  "lastUpdated": "2026-11-22T00:45:47.443314Z",
-  "count": 14,
+  "lastUpdated": "2026-11-22T10:28:15.641699Z",
+  "count": 9,
   "articles": [
     {
       "source": "Al Jazeera",
-      "title": "Iran war live: Iran targets US bases in Bahrain; Houthi strikes continue",
+      "title": "\u2018Trump\u2019s exit strategy may depend on quietly lifting Iran blockade\u2019",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/trumps-exit-strategy-may-depend-on-quietly-lifting-iran?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sun, 22 Nov 2026 09:06:27 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Bessent confirms he\u2019s living on US military base over Iran fears",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/22/bessent-confirms-hes-living-on-us-military-base-over-iran-fears?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Sun, 22 Nov 2026 02:05:50 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Iran war live: US \u2018defeated\u2019 and cannot dictate peace deal terms \u2013 Tehran",
       "link": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-iran-targets-us-military-in-bahrain-houthi-strikes-continue?traffic_source=rss",
       "desc": "",
       "pubDate": "Sat, 21 Nov 2026 23:59:03 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Lebanese president demands Israel withdrawal, decries Iran\u2019s interference",
-      "link": "https://www.aljazeera.com/news/2026/11/21/lebanese-president-demands-israel-withdrawal-decries-irans-interference?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Sat, 21 Nov 2026 23:44:00 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Iran faces a \u2018silent economic war\u2019, says Iranian president",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/iran-faces-a-silent-economic-war-says-iranian-president?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Sat, 21 Nov 2026 23:18:14 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Bahrain says Iranian attack hits industrial facility",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/bahrain-says-iranian-attack-hits-industrial-facility?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Sat, 21 Nov 2026 22:02:03 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Bahrain says Iranian attack causes fire at industrial facility",
-      "link": "https://www.aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Sat, 21 Nov 2026 21:31:03 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Iran says held talks with Qatari mediators, urges US to accept conditions",
-      "link": "https://www.aljazeera.com/news/2026/11/21/iran-says-held-talks-with-qatari-mediators-urges-us-to-accept-conditions?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Sat, 21 Nov 2026 20:56:35 +0000"
-    },
-    {
-      "source": "Al Jazeera",
-      "title": "Trump says he wants \u2018permanent\u2019 deal to stop Iran getting nuclear weapons",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-clip-trump-iran-permanent-nuclear-deal?traffic_source=rss",
-      "desc": "",
-      "pubDate": "Sat, 21 Nov 2026 18:05:51 +0000"
     },
     {
       "source": "BBC",
@@ -92,13 +64,6 @@
       "link": "https://www.bbc.co.uk/news/videos/cwjdmp25mem9o?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Mon, 02 Nov 2026 06:05:34 GMT"
-    },
-    {
-      "source": "The Hill",
-      "title": "Why is Mike \u2018Finish the Job in Iran\u2019 Pence attacking \u2018America First\u2019 JP Vance?",
-      "link": "https://thehill.com/opinion/campaign/6233811-mike-pence-iran-war-comments/",
-      "desc": "",
-      "pubDate": "Sat, 21 Nov 2026 17:00:00 +0000"
     }
   ]
 }
