@@ -1,7 +1,35 @@
 {
-  "lastUpdated": "2026-11-23T11:27:50.712577Z",
-  "count": 5,
+  "lastUpdated": "2026-11-23T23:00:16.756755Z",
+  "count": 9,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "US escalates sanctions on Iran, targets \u2018shadow banking\u2019 networks",
+      "link": "https://www.aljazeera.com/news/2026/11/23/us-escalates-sanctions-on-iran-targets-shadow-banking-networks?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Mon, 23 Nov 2026 21:30:40 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Iran flogs singer Parastoo Ahmadi for performing without headscarf",
+      "link": "https://www.aljazeera.com/news/2026/11/23/iran-flogs-singer-parastoo-ahmadi-for-performing-without-headscarf?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Mon, 23 Nov 2026 20:41:56 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "Iran hits US bases and civilian sites in the Gulf after a lull",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/11/23/iran-hits-us-bases-and-civilian-sites-in-the-gulf-after-a-lull?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Mon, 23 Nov 2026 20:26:40 +0000"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[Iranian authorities flog singer who performed without hijab, lawyers say]]>",
+      "link": "https://www.bbc.co.uk/news/articles/cq1j6585l5g6o?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Mon, 23 Nov 2026 18:04:20 GMT"
+    },
     {
       "source": "BBC",
       "title": "<![CDATA[Kuwait says it repelled first Iranian attack in two months after US strikes island]]>",
