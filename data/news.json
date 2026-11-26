@@ -1,7 +1,14 @@
 {
-  "lastUpdated": "2026-11-25T16:23:11.547841Z",
+  "lastUpdated": "2026-11-26T01:16:25.484303Z",
   "count": 6,
   "articles": [
+    {
+      "source": "Al Jazeera",
+      "title": "Iran war live: Explosion rocks Sanaa; missiles intercepted over Riyadh",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/26/iran-war-live-explosion-rocks-sanaa-missiles-intercepted-over-riyadh?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Thu, 26 Nov 2026 00:00:00 +0000"
+    },
     {
       "source": "BBC",
       "title": "<![CDATA[Iranian authorities flog singer who performed without hijab, lawyers say]]>",
@@ -36,13 +43,6 @@
       "link": "https://www.bbc.co.uk/news/videos/cqg7xkv1rze1o?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Wed, 04 Nov 2026 22:14:41 GMT"
-    },
-    {
-      "source": "The Hill",
-      "title": "Trump is sabotaging his own Iran sanctions strategy",
-      "link": "https://thehill.com/opinion/congress-blog/the-administration/6240523-treasury-whistleblower-rewards-conflict/",
-      "desc": "",
-      "pubDate": "Wed, 25 Nov 2026 15:30:00 +0000"
     }
   ]
 }
