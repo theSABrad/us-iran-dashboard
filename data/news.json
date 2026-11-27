@@ -1,13 +1,20 @@
 {
-  "lastUpdated": "2026-11-27T03:20:48.336060Z",
+  "lastUpdated": "2026-11-27T15:46:07.228762Z",
   "count": 7,
   "articles": [
     {
       "source": "Al Jazeera",
-      "title": "Iran war live: Iran\u2019s Araghchi calls deadly Kuwait attack \u2018suspicious\u2019",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/11/27/iran-war-live-irans-araghchi-calls-deadly-kuwait-attack-suspicious?traffic_source=rss",
+      "title": "Italians killed in Kuwait: Why is Iran denying responsibility?",
+      "link": "https://www.aljazeera.com/news/2026/11/27/italians-killed-in-kuwait-why-is-iran-denying-responsibility?traffic_source=rss",
       "desc": "",
-      "pubDate": "Fri, 27 Nov 2026 00:00:00 +0000"
+      "pubDate": "Fri, 27 Nov 2026 11:51:26 +0000"
+    },
+    {
+      "source": "BBC",
+      "title": "<![CDATA[Two Italians killed in strike in Kuwait, as Iran denies responsibility]]>",
+      "link": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss",
+      "desc": "",
+      "pubDate": "Thu, 26 Nov 2026 21:17:53 GMT"
     },
     {
       "source": "BBC",
@@ -43,13 +50,6 @@
       "link": "https://thehill.com/homenews/administration/6245034-trump-says-iran-war-ends-whenever/",
       "desc": "",
       "pubDate": "Fri, 27 Nov 2026 01:41:40 +0000"
-    },
-    {
-      "source": "The Hill",
-      "title": "Democrats\u2019 plan to end funding for Iran war leaves open what comes next",
-      "link": "https://thehill.com/policy/international/6243997-democrats-seek-end-iran-war-questions/",
-      "desc": "",
-      "pubDate": "Thu, 26 Nov 2026 22:00:00 +0000"
     }
   ]
 }
