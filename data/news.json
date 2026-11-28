@@ -1,13 +1,27 @@
 {
-  "lastUpdated": "2026-11-27T15:46:07.228762Z",
-  "count": 7,
+  "lastUpdated": "2026-11-28T00:47:37.580490Z",
+  "count": 8,
   "articles": [
     {
       "source": "Al Jazeera",
-      "title": "Italians killed in Kuwait: Why is Iran denying responsibility?",
-      "link": "https://www.aljazeera.com/news/2026/11/27/italians-killed-in-kuwait-why-is-iran-denying-responsibility?traffic_source=rss",
+      "title": "Iran war live: Italy says drone in deadly Kuwait attack was made in Iran",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/28/iran-war-live-italy-says-drone-in-deadly-kuwait-attack-was-made-in-iran?traffic_source=rss",
       "desc": "",
-      "pubDate": "Fri, 27 Nov 2026 11:51:26 +0000"
+      "pubDate": "Sat, 28 Nov 2026 00:00:00 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "US disables ship attempting to breach Iran blockade",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/27/us-disables-ship-attempting-to-breach-iran-blockade?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Fri, 27 Nov 2026 23:55:16 +0000"
+    },
+    {
+      "source": "Al Jazeera",
+      "title": "US military says it disabled merchant ship trying to breach Iran blockade",
+      "link": "https://www.aljazeera.com/news/2026/11/27/us-military-says-it-disabled-merchant-ship-trying-to-breach-iran-blockade?traffic_source=rss",
+      "desc": "",
+      "pubDate": "Fri, 27 Nov 2026 22:22:02 +0000"
     },
     {
       "source": "BBC",
@@ -43,13 +57,6 @@
       "link": "https://www.bbc.co.uk/news/videos/cqg7xkv1rze1o?at_medium=RSS&at_campaign=rss",
       "desc": "",
       "pubDate": "Wed, 04 Nov 2026 22:14:41 GMT"
-    },
-    {
-      "source": "The Hill",
-      "title": "Trump: Iran war will be over 'sort of whenever I want it to be'",
-      "link": "https://thehill.com/homenews/administration/6245034-trump-says-iran-war-ends-whenever/",
-      "desc": "",
-      "pubDate": "Fri, 27 Nov 2026 01:41:40 +0000"
     }
   ]
 }
